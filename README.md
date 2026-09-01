@@ -4,6 +4,8 @@
 
 V2 增加進場參考區間、固定與波動停損／目標價、個股風險提示、大盤弱勢降為 Top 3，以及 5 個交易日推薦績效追蹤。
 
+V2B 可由 GitHub Actions 手動執行三年技術面子策略回測，設定 50 萬元本金、Top 5 平均配置，並扣除標準手續費與交易稅。FinMind Token 只透過 GitHub Secret `FINMIND_TOKEN` 傳入。
+
 ## 本機更新
 
 ```powershell
