@@ -5,7 +5,7 @@
     "name": "永擎",
     "entry_price": 575.0,
     "latest_price": 575.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-09-01"
@@ -16,7 +16,7 @@
     "name": "AMAX-KY",
     "entry_price": 314.5,
     "latest_price": 314.5,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-09-01"
@@ -27,7 +27,7 @@
     "name": "大量",
     "entry_price": 800.0,
     "latest_price": 800.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-09-01"
@@ -38,7 +38,7 @@
     "name": "晶豪科",
     "entry_price": 278.5,
     "latest_price": 278.5,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-09-01"
@@ -49,7 +49,7 @@
     "name": "愛普*",
     "entry_price": 958.0,
     "latest_price": 958.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-09-01"

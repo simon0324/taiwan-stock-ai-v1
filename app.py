@@ -6,6 +6,7 @@ import json
 import math
 import re
 import statistics
+import time
 import urllib.parse
 import urllib.request
 from collections import defaultdict
@@ -20,9 +21,17 @@ HEADERS = {"User-Agent": "Mozilla/5.0 Taiwan-stock-v1/1.0"}
 
 
 def get_json(url: str):
-    req = urllib.request.Request(url, headers=HEADERS)
-    with urllib.request.urlopen(req, timeout=30) as response:
-        return json.load(response)
+    last_error = None
+    for attempt in range(3):
+        try:
+            req = urllib.request.Request(url, headers=HEADERS)
+            with urllib.request.urlopen(req, timeout=45) as response:
+                return json.load(response)
+        except Exception as error:
+            last_error = error
+            if attempt < 2:
+                time.sleep(2 ** attempt)
+    raise last_error
 
 
 def number(value, default=0.0):
@@ -69,19 +78,31 @@ def fetch_market_day(day: dt.date):
 
 def trading_history(days=32):
     today = dt.datetime.now(dt.timezone(dt.timedelta(hours=8))).date()
+    cache_path = DOCS / "market_history.json"
+    try:
+        cached = json.loads(cache_path.read_text(encoding="utf-8"))
+    except (FileNotFoundError, json.JSONDecodeError):
+        cached = []
+    by_date = {daily[0]["date"]: daily for daily in cached if daily}
     found = []
     cursor = today
     attempts = 0
-    while len(found) < days and attempts < 65:
+    while len(found) < days and attempts < 70:
         if cursor.weekday() < 5:
-            rows = fetch_market_day(cursor)
+            key = cursor.isoformat()
+            rows = by_date.get(key)
+            if rows is None:
+                rows = fetch_market_day(cursor)
             if rows:
                 found.append(rows)
         cursor -= dt.timedelta(days=1)
         attempts += 1
     if len(found) < 20:
         raise RuntimeError(f"歷史行情不足：只取得 {len(found)} 個交易日")
-    return list(reversed(found))
+    result = list(reversed(found))
+    DOCS.mkdir(exist_ok=True)
+    cache_path.write_text(json.dumps(result, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    return result
 
 
 def fetch_revenue():
