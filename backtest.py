@@ -74,7 +74,17 @@ def collect_finmind(token):
     end = dt.datetime.now(dt.timezone(dt.timedelta(hours=8))).date()
     start = end - dt.timedelta(days=365 * 3 + 70)
 
+    finmind_cache = ROOT / "work" / "finmind"
+    finmind_cache.mkdir(parents=True, exist_ok=True)
+
     def fetch(code):
+        cache_file = finmind_cache / f"{code}.json"
+        try:
+            cached = json.loads(cache_file.read_text(encoding="utf-8"))
+            if cached:
+                return cached
+        except (FileNotFoundError, json.JSONDecodeError):
+            pass
         params = urllib.parse.urlencode({"dataset": "TaiwanStockPrice", "data_id": code,
                                          "start_date": start.isoformat(), "end_date": end.isoformat(),
                                          "token": token})
@@ -88,11 +98,14 @@ def collect_finmind(token):
                 converted.append({"code": code, "name": names[code], "date": row["date"], "close": close,
                                   "high": app.number(row.get("max"), close), "low": app.number(row.get("min"), close),
                                   "value": app.number(row.get("Trading_money")), "volume": app.number(row.get("Trading_Volume"))})
+        cache_file.write_text(json.dumps(converted, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
         return converted
 
     by_date = defaultdict(list)
     completed = 0
-    with ThreadPoolExecutor(max_workers=6) as pool:
+    cached_count = sum((finmind_cache / f"{code}.json").exists() for code in codes)
+    print(f"FinMind 本次起始快取 {cached_count}/{len(codes)}", flush=True)
+    with ThreadPoolExecutor(max_workers=4) as pool:
         futures = {pool.submit(fetch, code): code for code in codes}
         for future in as_completed(futures):
             code = futures[future]

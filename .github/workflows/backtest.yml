@@ -15,6 +15,11 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - name: 還原歷史資料快取
+        uses: actions/cache@v4
+        with:
+          path: work/finmind
+          key: finmind-twse-three-year-v1
       - name: 執行三年回測
         env:
           FINMIND_TOKEN: ${{ secrets.FINMIND_TOKEN }}
