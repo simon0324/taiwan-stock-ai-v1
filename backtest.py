@@ -18,7 +18,6 @@ ROOT = Path(__file__).resolve().parent
 CACHE = ROOT / "work" / "backtest_market.json"
 OUTPUT = ROOT / "docs" / "backtest.json"
 CAPITAL = 500_000
-POSITION_CASH = CAPITAL / 5
 COMMISSION = 0.001425
 TAX = 0.003
 
@@ -151,8 +150,8 @@ def ranks(history, index):
     return candidates
 
 
-def trade(entry, future, horizon):
-    shares = math.floor(POSITION_CASH / entry["close"])
+def trade(entry, future, horizon, position_cash):
+    shares = math.floor(position_cash / entry["close"])
     if shares <= 0:
         return None
     entry_value = shares * entry["close"]
@@ -174,6 +173,28 @@ def trade(entry, future, horizon):
     return {"return_pct": net / entry_value * 100, "net": net, "reason": reason}
 
 
+def summarize(trades, initial_capital):
+    if not trades:
+        return {"trades": 0, "win_rate": 0, "avg_return": 0, "median_return": 0,
+                "total_net": 0, "ending_equity": initial_capital, "max_drawdown": 0,
+                "stop_rate": 0, "target_rate": 0}
+    returns = [t["return_pct"] for t in trades]
+    equity, peak, max_drawdown = initial_capital, initial_capital, 0
+    batches = defaultdict(list)
+    for item in trades:
+        batches[item["batch"]].append(item)
+    for batch in sorted(batches):
+        equity += sum(t["net"] for t in batches[batch])
+        peak = max(peak, equity)
+        max_drawdown = min(max_drawdown, (equity / peak - 1) * 100)
+    return {"trades": len(trades), "win_rate": sum(x > 0 for x in returns) / len(returns) * 100,
+            "avg_return": statistics.mean(returns), "median_return": statistics.median(returns),
+            "total_net": sum(t["net"] for t in trades), "ending_equity": equity,
+            "max_drawdown": max(-100, max_drawdown),
+            "stop_rate": sum(t["reason"] == "停損" for t in trades) / len(trades) * 100,
+            "target_rate": sum(t["reason"] == "停利" for t in trades) / len(trades) * 100}
+
+
 def run_backtest(history):
     maps = [{r["code"]: r for r in day} for day in history]
     results = {}
@@ -181,33 +202,40 @@ def run_backtest(history):
         for strategy in ("stable", "growth", "strong"):
             trades = []
             index = 20
+            equity = CAPITAL
+            batch_no = 0
             while index + horizon + 1 < len(history):
                 signal = ranks(history, index)
+                breadth = sum(r["trend"] >= 2 / 3 for r in signal) / len(signal) * 100 if signal else 0
+                if breadth < 45 or equity <= 0:
+                    index += horizon + 1
+                    continue
                 selected = sorted(signal, key=lambda r: r[strategy], reverse=True)[:5]
                 entry_map = maps[index + 1]
+                batch = []
+                position_cash = equity / 5
                 for pick in selected:
                     code = pick["code"]
                     if code not in entry_map:
                         continue
                     future = [maps[j][code] for j in range(index + 2, index + horizon + 2) if code in maps[j]]
                     if len(future) == horizon:
-                        item = trade(entry_map[code], future, horizon)
+                        item = trade(entry_map[code], future, horizon, position_cash)
                         if item:
-                            trades.append(item)
+                            item["batch"] = batch_no
+                            item["date"] = history[index][0]["date"]
+                            batch.append(item)
+                trades.extend(batch)
+                equity += sum(item["net"] for item in batch)
+                batch_no += 1
                 index += horizon + 1
-            returns = [t["return_pct"] for t in trades]
-            equity, peak, max_drawdown = CAPITAL, CAPITAL, 0
-            for offset in range(0, len(trades), 5):
-                equity += sum(t["net"] for t in trades[offset:offset + 5])
-                peak = max(peak, equity)
-                max_drawdown = min(max_drawdown, (equity / peak - 1) * 100)
-            results[f"{strategy}_{horizon}"] = {
-                "trades": len(trades), "win_rate": sum(x > 0 for x in returns) / len(returns) * 100,
-                "avg_return": statistics.mean(returns), "median_return": statistics.median(returns),
-                "total_net": sum(t["net"] for t in trades), "max_drawdown": max_drawdown,
-                "stop_rate": sum(t["reason"] == "停損" for t in trades) / len(trades) * 100,
-                "target_rate": sum(t["reason"] == "停利" for t in trades) / len(trades) * 100,
-            }
+            split_date = history[int(len(history) * 2 / 3)][0]["date"]
+            development = [t for t in trades if t["date"] < split_date]
+            validation = [t for t in trades if t["date"] >= split_date]
+            results[f"{strategy}_{horizon}"] = summarize(trades, CAPITAL)
+            results[f"{strategy}_{horizon}"]["development"] = summarize(development, CAPITAL)
+            results[f"{strategy}_{horizon}"]["validation"] = summarize(validation, CAPITAL)
+            results[f"{strategy}_{horizon}"]["split_date"] = split_date
     return results
 
 
@@ -228,8 +256,9 @@ def render_report(payload):
     for strategy in ("stable", "growth", "strong"):
         for horizon in (3, 4, 5):
             item = payload["results"][f"{strategy}_{horizon}"]
-            rows.append(f'''<tr><td>{labels[strategy]}</td><td>{horizon} 日</td><td>{item['trades']}</td><td>{item['win_rate']:.1f}%</td><td>{item['avg_return']:.2f}%</td><td>{item['total_net']:,.0f}</td><td>{item['max_drawdown']:.2f}%</td></tr>''')
-    page = f'''<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>V2B 三年回測</title><style>body{{margin:0;background:#f4f6f9;color:#172033;font-family:system-ui,"Noto Sans TC",sans-serif}}main{{max-width:900px;margin:auto;padding:24px 14px}}header{{padding:26px;border-radius:20px;background:linear-gradient(135deg,#312e81,#2563eb);color:white}}.card{{background:white;border-radius:16px;padding:18px;margin-top:18px;overflow:auto}}table{{width:100%;border-collapse:collapse;min-width:650px}}th,td{{padding:12px 9px;text-align:right;border-bottom:1px solid #e5e7eb}}th:first-child,td:first-child{{text-align:left}}.note{{color:#667085;line-height:1.7}}a{{color:#2563eb}}</style></head><body><main><header><h1>V2B 三年回測</h1><p>{payload['start']}～{payload['end']} · 本金 NT$ {payload['capital']:,}</p></header><div class="card"><table><thead><tr><th>策略</th><th>持有</th><th>交易數</th><th>勝率</th><th>平均淨報酬</th><th>累計損益</th><th>最大回撤</th></tr></thead><tbody>{''.join(rows)}</tbody></table></div><div class="card note"><b>回測口徑</b><p>Top 5 平均配置，每檔約 10 萬元；手續費 0.1425%、賣出交易稅 0.3%、最低手續費 20 元；固定停損 -5%、固定停利 +8%。本頁先驗證價格、成交量及均線子策略，不含歷史營收、EPS、外資，且以目前仍在候選池的股票回測，可能有存活者偏差。結果不代表未來績效。</p><a href="index.html">返回每日選股</a></div></main></body></html>'''
+            test = item["validation"]
+            rows.append(f'''<tr><td>{labels[strategy]}</td><td>{horizon} 日</td><td>{item['trades']}</td><td>{item['win_rate']:.1f}%</td><td>{item['avg_return']:.2f}%</td><td>{item['ending_equity']:,.0f}</td><td>{item['max_drawdown']:.2f}%</td><td>{test['win_rate']:.1f}%</td><td>{test['avg_return']:.2f}%</td></tr>''')
+    page = f'''<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>V2C 策略驗證</title><style>body{{margin:0;background:#f4f6f9;color:#172033;font-family:system-ui,"Noto Sans TC",sans-serif}}main{{max-width:1050px;margin:auto;padding:24px 14px}}header{{padding:26px;border-radius:20px;background:linear-gradient(135deg,#312e81,#2563eb);color:white}}.card{{background:white;border-radius:16px;padding:18px;margin-top:18px;overflow:auto}}table{{width:100%;border-collapse:collapse;min-width:850px}}th,td{{padding:12px 9px;text-align:right;border-bottom:1px solid #e5e7eb}}th:first-child,td:first-child{{text-align:left}}.note{{color:#667085;line-height:1.7}}a{{color:#2563eb}}</style></head><body><main><header><h1>V2C 策略驗證</h1><p>{payload['start']}～{payload['end']} · 本金 NT$ {payload['capital']:,} · 大盤弱勢暫停進場</p></header><div class="card"><table><thead><tr><th>策略</th><th>持有</th><th>交易數</th><th>全期勝率</th><th>全期平均</th><th>期末資金</th><th>最大回撤</th><th>驗證期勝率</th><th>驗證期平均</th></tr></thead><tbody>{''.join(rows)}</tbody></table></div><div class="card note"><b>回測口徑</b><p>每批 Top 5 平均配置可用資金；手續費 0.1425%、賣出交易稅 0.3%、最低手續費 20 元；固定停損 -5%、固定停利 +8%。均線廣度低於 45% 時不進場。最後約三分之一期間列為獨立驗證期。現階段仍是價格、成交量及均線子策略，不含歷史營收、EPS、外資，且以目前仍在候選池的股票回測，可能有存活者偏差。結果不代表未來績效。</p><a href="index.html">返回每日選股</a></div></main></body></html>'''
     (ROOT / "docs" / "backtest.html").write_text(page, encoding="utf-8")
 
 
