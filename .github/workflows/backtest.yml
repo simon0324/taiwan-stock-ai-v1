@@ -21,9 +21,9 @@ jobs:
           path: |
             work/finmind
             work/finmind_revenue
-          key: finmind-twse-three-year-v2
+          key: finmind-twse-three-year-${{ github.run_id }}
           restore-keys: |
-            finmind-twse-three-year-v1
+            finmind-twse-three-year-
       - name: 執行三年回測
         env:
           FINMIND_TOKEN: ${{ secrets.FINMIND_TOKEN }}
@@ -33,5 +33,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add docs/backtest.json docs/backtest.html
-          git commit -m "更新三年回測結果"
-          git push
+          git diff --cached --quiet || git commit -m "更新三年回測結果"
+          git diff HEAD origin/main --quiet || git push

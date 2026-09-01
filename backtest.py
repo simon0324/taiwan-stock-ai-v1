@@ -119,7 +119,12 @@ def collect_finmind(token):
     history = [by_date[d] for d in sorted(by_date) if by_date[d]]
     if len(history) < 700:
         raise RuntimeError(f"FinMind 三年行情不完整：只有 {len(history)} 個交易日")
-    collect_revenue(token, codes, start, end)
+    remaining = collect_revenue(token, codes, start, end)
+    pending = ROOT / "work" / "collection_pending"
+    if remaining:
+        pending.write_text(str(remaining), encoding="utf-8")
+    else:
+        pending.unlink(missing_ok=True)
     return history[-780:]
 
 
@@ -154,14 +159,19 @@ def collect_revenue(token, codes, start, end):
 
     missing = [code for code in codes if not (REVENUE_CACHE / f"{code}.json").exists()]
     print(f"歷史營收快取 {len(codes) - len(missing)}/{len(codes)}", flush=True)
+    batch = missing[:200]
     with ThreadPoolExecutor(max_workers=4) as pool:
-        futures = {pool.submit(fetch, code): code for code in missing}
+        futures = {pool.submit(fetch, code): code for code in batch}
         completed = 0
         for future in as_completed(futures):
             future.result()
             completed += 1
             if completed % 25 == 0:
-                print(f"歷史營收下載進度 {completed}/{len(missing)}", flush=True)
+                print(f"本批營收下載進度 {completed}/{len(batch)}", flush=True)
+    remaining = max(0, len(missing) - len(batch))
+    if remaining:
+        print(f"本批完成，尚有 {remaining} 檔；請再次執行工作以接續。", flush=True)
+    return remaining
 
 
 def load_revenue_history():
@@ -318,6 +328,10 @@ def run_backtest(history):
 
 def main():
     history = collect_three_years()
+    pending = ROOT / "work" / "collection_pending"
+    if pending.exists():
+        print(f"資料分批保存成功，尚有 {pending.read_text(encoding='utf-8')} 檔待下載；本次不產生回測。")
+        return
     results = run_backtest(history)
     payload = {"start": history[20][0]["date"], "end": history[-1][0]["date"], "capital": CAPITAL,
                "commission": COMMISSION, "tax": TAX, "method": "成長策略含歷史月營收；尚未加入歷史 EPS 與外資",
