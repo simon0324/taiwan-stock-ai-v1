@@ -18,8 +18,12 @@ jobs:
       - name: 還原歷史資料快取
         uses: actions/cache@v4
         with:
-          path: work/finmind
-          key: finmind-twse-three-year-v1
+          path: |
+            work/finmind
+            work/finmind_revenue
+          key: finmind-twse-three-year-v2
+          restore-keys: |
+            finmind-twse-three-year-v1
       - name: 執行三年回測
         env:
           FINMIND_TOKEN: ${{ secrets.FINMIND_TOKEN }}

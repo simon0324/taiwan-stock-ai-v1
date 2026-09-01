@@ -17,6 +17,7 @@ import app
 ROOT = Path(__file__).resolve().parent
 CACHE = ROOT / "work" / "backtest_market.json"
 OUTPUT = ROOT / "docs" / "backtest.json"
+REVENUE_CACHE = ROOT / "work" / "finmind_revenue"
 CAPITAL = 500_000
 COMMISSION = 0.001425
 TAX = 0.003
@@ -118,7 +119,61 @@ def collect_finmind(token):
     history = [by_date[d] for d in sorted(by_date) if by_date[d]]
     if len(history) < 700:
         raise RuntimeError(f"FinMind 三年行情不完整：只有 {len(history)} 個交易日")
+    collect_revenue(token, codes, start, end)
     return history[-780:]
+
+
+def collect_revenue(token, codes, start, end):
+    REVENUE_CACHE.mkdir(parents=True, exist_ok=True)
+
+    def fetch(code):
+        cache_file = REVENUE_CACHE / f"{code}.json"
+        try:
+            cached = json.loads(cache_file.read_text(encoding="utf-8"))
+            if cached:
+                return cached
+        except (FileNotFoundError, json.JSONDecodeError):
+            pass
+        params = urllib.parse.urlencode({"dataset": "TaiwanStockMonthRevenue", "data_id": code,
+                                         "start_date": (start - dt.timedelta(days=400)).isoformat(),
+                                         "end_date": end.isoformat(), "token": token})
+        payload = app.get_json(f"https://api.finmindtrade.com/api/v4/data?{params}")
+        if payload.get("status") != 200:
+            raise RuntimeError(payload.get("msg", f"FinMind 營收 {code} 讀取失敗"))
+        raw = payload.get("data", [])
+        lookup = {(int(r["revenue_year"]), int(r["revenue_month"])): app.number(r["revenue"]) for r in raw}
+        converted = []
+        for row in raw:
+            revenue = app.number(row.get("revenue"))
+            previous = lookup.get((int(row["revenue_year"]) - 1, int(row["revenue_month"])), 0)
+            if revenue and previous:
+                available = dt.date.fromisoformat(row["date"]) + dt.timedelta(days=10)
+                converted.append({"available": available.isoformat(), "yoy": (revenue / previous - 1) * 100})
+        cache_file.write_text(json.dumps(converted, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+        return converted
+
+    missing = [code for code in codes if not (REVENUE_CACHE / f"{code}.json").exists()]
+    print(f"歷史營收快取 {len(codes) - len(missing)}/{len(codes)}", flush=True)
+    with ThreadPoolExecutor(max_workers=4) as pool:
+        futures = {pool.submit(fetch, code): code for code in missing}
+        completed = 0
+        for future in as_completed(futures):
+            future.result()
+            completed += 1
+            if completed % 25 == 0:
+                print(f"歷史營收下載進度 {completed}/{len(missing)}", flush=True)
+
+
+def load_revenue_history():
+    result = {}
+    if not REVENUE_CACHE.exists():
+        return result
+    for path in REVENUE_CACHE.glob("*.json"):
+        try:
+            result[path.stem] = json.loads(path.read_text(encoding="utf-8"))
+        except json.JSONDecodeError:
+            pass
+    return result
 
 
 def save_cache(by_date):
@@ -127,7 +182,7 @@ def save_cache(by_date):
     CACHE.write_text(json.dumps(ordered, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
 
 
-def ranks(history, index):
+def ranks(history, index, revenue_history=None):
     window = history[index - 20:index + 1]
     series = defaultdict(list)
     for daily in window:
@@ -147,8 +202,15 @@ def ranks(history, index):
         ma5, ma10, ma20 = statistics.mean(close[-5:]), statistics.mean(close[-10:]), statistics.mean(close[-20:])
         trend = (int(close[-1] > ma5) + int(ma5 > ma10) + int(ma10 > ma20)) / 3
         volume_ratio = values[-1] / statistics.mean(values)
+        signal_date = rows[-1]["date"]
+        revenue_yoy = 0
+        if revenue_history and code in revenue_history:
+            available = [r["yoy"] for r in revenue_history[code] if r["available"] <= signal_date]
+            if available:
+                revenue_yoy = available[-1]
         candidates.append({"code": code, "name": rows[-1]["name"], "volatility": volatility,
-                           "momentum": momentum5, "trend": trend, "volume_ratio": volume_ratio})
+                           "momentum": momentum5, "trend": trend, "volume_ratio": volume_ratio,
+                           "revenue_yoy": revenue_yoy})
     def pct(key, value, reverse=False):
         values = [r[key] for r in candidates]
         score = 100 * sum(v <= value for v in values) / len(values)
@@ -157,8 +219,9 @@ def ranks(history, index):
         low_vol = pct("volatility", row["volatility"], True)
         momentum = pct("momentum", row["momentum"])
         volume = pct("volume_ratio", row["volume_ratio"])
+        revenue = pct("revenue_yoy", row["revenue_yoy"])
         row["stable"] = .50 * row["trend"] * 100 + .35 * low_vol + .15 * momentum
-        row["growth"] = .45 * row["trend"] * 100 + .40 * momentum + .15 * volume
+        row["growth"] = .30 * row["trend"] * 100 + .30 * momentum + .15 * volume + .25 * revenue
         row["strong"] = .30 * row["trend"] * 100 + .40 * momentum + .30 * volume
     return candidates
 
@@ -210,6 +273,7 @@ def summarize(trades, initial_capital):
 
 def run_backtest(history):
     maps = [{r["code"]: r for r in day} for day in history]
+    revenue_history = load_revenue_history()
     results = {}
     for horizon in (3, 4, 5):
         for strategy in ("stable", "growth", "strong"):
@@ -218,7 +282,7 @@ def run_backtest(history):
             equity = CAPITAL
             batch_no = 0
             while index + horizon + 1 < len(history):
-                signal = ranks(history, index)
+                signal = ranks(history, index, revenue_history)
                 breadth = sum(r["trend"] >= 2 / 3 for r in signal) / len(signal) * 100 if signal else 0
                 if breadth < 45 or equity <= 0:
                     index += horizon + 1
@@ -256,7 +320,7 @@ def main():
     history = collect_three_years()
     results = run_backtest(history)
     payload = {"start": history[20][0]["date"], "end": history[-1][0]["date"], "capital": CAPITAL,
-               "commission": COMMISSION, "tax": TAX, "method": "技術面子策略（不含歷史營收、EPS及外資）",
+               "commission": COMMISSION, "tax": TAX, "method": "成長策略含歷史月營收；尚未加入歷史 EPS 與外資",
                "results": results}
     OUTPUT.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
     render_report(payload)
@@ -271,7 +335,7 @@ def render_report(payload):
             item = payload["results"][f"{strategy}_{horizon}"]
             test = item["validation"]
             rows.append(f'''<tr><td>{labels[strategy]}</td><td>{horizon} 日</td><td>{item['trades']}</td><td>{item['win_rate']:.1f}%</td><td>{item['avg_return']:.2f}%</td><td>{item['ending_equity']:,.0f}</td><td>{item['max_drawdown']:.2f}%</td><td>{test['win_rate']:.1f}%</td><td>{test['avg_return']:.2f}%</td></tr>''')
-    page = f'''<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>V2C 策略驗證</title><style>body{{margin:0;background:#f4f6f9;color:#172033;font-family:system-ui,"Noto Sans TC",sans-serif}}main{{max-width:1050px;margin:auto;padding:24px 14px}}header{{padding:26px;border-radius:20px;background:linear-gradient(135deg,#312e81,#2563eb);color:white}}.card{{background:white;border-radius:16px;padding:18px;margin-top:18px;overflow:auto}}table{{width:100%;border-collapse:collapse;min-width:850px}}th,td{{padding:12px 9px;text-align:right;border-bottom:1px solid #e5e7eb}}th:first-child,td:first-child{{text-align:left}}.note{{color:#667085;line-height:1.7}}a{{color:#2563eb}}</style></head><body><main><header><h1>V2C 策略驗證</h1><p>{payload['start']}～{payload['end']} · 本金 NT$ {payload['capital']:,} · 大盤弱勢暫停進場</p></header><div class="card"><table><thead><tr><th>策略</th><th>持有</th><th>交易數</th><th>全期勝率</th><th>全期平均</th><th>期末資金</th><th>最大回撤</th><th>驗證期勝率</th><th>驗證期平均</th></tr></thead><tbody>{''.join(rows)}</tbody></table></div><div class="card note"><b>回測口徑</b><p>每批 Top 5 平均配置可用資金；手續費 0.1425%、賣出交易稅 0.3%、最低手續費 20 元；固定停損 -5%、固定停利 +8%。均線廣度低於 45% 時不進場。最後約三分之一期間列為獨立驗證期。現階段仍是價格、成交量及均線子策略，不含歷史營收、EPS、外資，且以目前仍在候選池的股票回測，可能有存活者偏差。結果不代表未來績效。</p><a href="index.html">返回每日選股</a></div></main></body></html>'''
+    page = f'''<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>V2C 策略驗證</title><style>body{{margin:0;background:#f4f6f9;color:#172033;font-family:system-ui,"Noto Sans TC",sans-serif}}main{{max-width:1050px;margin:auto;padding:24px 14px}}header{{padding:26px;border-radius:20px;background:linear-gradient(135deg,#312e81,#2563eb);color:white}}.card{{background:white;border-radius:16px;padding:18px;margin-top:18px;overflow:auto}}table{{width:100%;border-collapse:collapse;min-width:850px}}th,td{{padding:12px 9px;text-align:right;border-bottom:1px solid #e5e7eb}}th:first-child,td:first-child{{text-align:left}}.note{{color:#667085;line-height:1.7}}a{{color:#2563eb}}</style></head><body><main><header><h1>V2C 策略驗證</h1><p>{payload['start']}～{payload['end']} · 本金 NT$ {payload['capital']:,} · 大盤弱勢暫停進場</p></header><div class="card"><table><thead><tr><th>策略</th><th>持有</th><th>交易數</th><th>全期勝率</th><th>全期平均</th><th>期末資金</th><th>最大回撤</th><th>驗證期勝率</th><th>驗證期平均</th></tr></thead><tbody>{''.join(rows)}</tbody></table></div><div class="card note"><b>回測口徑</b><p>每批 Top 5 平均配置可用資金；手續費 0.1425%、賣出交易稅 0.3%、最低手續費 20 元；固定停損 -5%、固定停利 +8%。均線廣度低於 45% 時不進場。最後約三分之一期間列為獨立驗證期。成長策略已加入當時可取得的歷史月營收年增率，並以資料月份後 10 日才可使用，避免偷看未來；尚未加入歷史 EPS 與外資。股票池仍可能有存活者偏差。結果不代表未來績效。</p><a href="index.html">返回每日選股</a></div></main></body></html>'''
     (ROOT / "docs" / "backtest.html").write_text(page, encoding="utf-8")
 
 

@@ -2,3 +2,4 @@ __pycache__/
 *.pyc
 work/backtest_market.json
 work/finmind/
+work/finmind_revenue/
