@@ -171,11 +171,18 @@ def collect_eps(token, codes, start, end):
         futures = {pool.submit(fetch, code): code for code in batch}
         completed = 0
         for future in as_completed(futures):
-            future.result()
+            code = futures[future]
+            try:
+                future.result()
+            except Exception as error:
+                print(f"EPS {code} 暫時失敗：{error}", flush=True)
+                continue
             completed += 1
             if completed % 25 == 0:
                 print(f"本批 EPS 下載進度 {completed}/{len(batch)}", flush=True)
-    remaining = max(0, len(missing) - len(batch))
+    if batch and completed == 0:
+        raise RuntimeError("本批 EPS 全部下載失敗，請檢查 Token 或 API 狀態")
+    remaining = sum(not (EPS_CACHE / f"{code}.json").exists() for code in codes)
     if remaining:
         print(f"本批完成，尚有 {remaining} 檔 EPS；請再次執行工作以接續。", flush=True)
     return remaining
@@ -217,11 +224,18 @@ def collect_revenue(token, codes, start, end):
         futures = {pool.submit(fetch, code): code for code in batch}
         completed = 0
         for future in as_completed(futures):
-            future.result()
+            code = futures[future]
+            try:
+                future.result()
+            except Exception as error:
+                print(f"營收 {code} 暫時失敗：{error}", flush=True)
+                continue
             completed += 1
             if completed % 25 == 0:
                 print(f"本批營收下載進度 {completed}/{len(batch)}", flush=True)
-    remaining = max(0, len(missing) - len(batch))
+    if batch and completed == 0:
+        raise RuntimeError("本批營收全部下載失敗，請檢查 Token 或 API 狀態")
+    remaining = sum(not (REVENUE_CACHE / f"{code}.json").exists() for code in codes)
     if remaining:
         print(f"本批完成，尚有 {remaining} 檔；請再次執行工作以接續。", flush=True)
     return remaining
