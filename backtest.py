@@ -416,13 +416,18 @@ def main():
     history = collect_three_years()
     pending = ROOT / "work" / "collection_pending"
     if pending.exists():
-        print(f"資料分批保存成功，尚有 {pending.read_text(encoding='utf-8')} 檔待下載；本次不產生回測。")
+        remaining = int(pending.read_text(encoding="utf-8"))
+        status = {"status": "collecting", "stage": "EPS", "remaining": remaining,
+                  "updated_at": dt.datetime.now(dt.timezone(dt.timedelta(hours=8))).isoformat(timespec="seconds")}
+        (ROOT / "docs" / "collection_status.json").write_text(json.dumps(status, ensure_ascii=False, indent=2), encoding="utf-8")
+        print(f"資料分批保存成功，尚有 {remaining} 檔待下載；本次不產生回測。")
         return
     results = run_backtest(history)
     payload = {"start": history[20][0]["date"], "end": history[-1][0]["date"], "capital": CAPITAL,
                "commission": COMMISSION, "tax": TAX, "method": "成長策略含歷史月營收與歷史 EPS；尚未加入歷史外資",
                "results": results}
     OUTPUT.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+    (ROOT / "docs" / "collection_status.json").write_text(json.dumps({"status": "complete", "stage": "EPS", "remaining": 0}, ensure_ascii=False, indent=2), encoding="utf-8")
     render_report(payload)
     print(f"回測完成：{payload['start']}～{payload['end']}，共 {len(history)} 個交易日")
 
