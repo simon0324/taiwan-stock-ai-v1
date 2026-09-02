@@ -21,6 +21,7 @@ jobs:
           path: |
             work/finmind
             work/finmind_revenue
+            work/finmind_eps
           key: finmind-twse-three-year-${{ github.run_id }}
           restore-keys: |
             finmind-twse-three-year-
