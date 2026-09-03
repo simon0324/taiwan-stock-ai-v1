@@ -12,6 +12,8 @@ import urllib.request
 from collections import defaultdict
 from pathlib import Path
 
+import forward_validation
+
 
 ROOT = Path(__file__).resolve().parent
 DOCS = ROOT / "docs"
@@ -282,12 +284,14 @@ def update_tracking(rows, latest_day, limit):
     return f"已完成 {len(completed)} 筆追蹤，勝率 {wins / len(completed) * 100:.1f}%，平均報酬 {average:.2f}% 。"
 
 
-def render(rows, latest_day):
+def render(rows, latest_day, market_rows):
     labels = [("stable", "穩健 Top 5"), ("growth", "成長 Top 5"), ("strong", "強勢 Top 5"), ("overall", "綜合 Top 5")]
     breadth = sum(r["trend"] >= 66 for r in rows) / len(rows) * 100 if rows else 0
     market_weak = breadth < 45
     limit = 3 if market_weak else 5
     tracking_summary = update_tracking(rows, latest_day, limit)
+    forward = forward_validation.update(rows, latest_day.isoformat(), market_rows, DOCS)
+    forward_done = forward["summary"]["revenue_only"]["completed"]
     market_label = f"大盤偏弱：每組降為 Top 3（多頭排列比率 {breadth:.1f}%）" if market_weak else f"大盤正常（多頭排列比率 {breadth:.1f}%）"
     sections = []
     for key, label in labels:
@@ -297,7 +301,7 @@ def render(rows, latest_day):
     stamp = dt.datetime.now(dt.timezone(dt.timedelta(hours=8))).strftime("%Y-%m-%d %H:%M")
     page = f'''<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>台股 AI 選股 V2</title><style>
 :root{{--bg:#f4f6f9;--card:#fff;--ink:#172033;--muted:#667085;--brand:#1d4ed8;--up:#dc2626;--down:#15803d}}*{{box-sizing:border-box}}body{{margin:0;background:var(--bg);color:var(--ink);font-family:system-ui,"Noto Sans TC",sans-serif}}main{{max-width:920px;margin:auto;padding:24px 16px 60px}}header{{background:linear-gradient(135deg,#172554,#2563eb);color:white;border-radius:22px;padding:28px;margin-bottom:18px}}h1{{margin:0 0 8px;font-size:clamp(26px,6vw,40px)}}header p{{margin:5px 0;opacity:.9}}.market{{background:#fff7ed;color:#9a3412;padding:13px 15px;border-radius:14px;margin:14px 0;font-weight:700}}.history{{background:#eef2ff;color:#3730a3;padding:13px 15px;border-radius:14px;margin:10px 0}}nav{{display:flex;gap:8px;overflow:auto;margin:16px 0}}nav a{{white-space:nowrap;background:white;color:var(--brand);padding:10px 14px;border-radius:999px;text-decoration:none;font-weight:700}}section{{margin-top:28px}}h2{{font-size:21px}}.stock{{display:grid;grid-template-columns:34px 1fr auto;align-items:start;gap:12px;background:var(--card);padding:16px;margin:10px 0;border-radius:16px;box-shadow:0 3px 16px #1720330d}}.rank{{display:grid;place-items:center;width:30px;height:30px;border-radius:50%;background:#dbeafe;color:#1d4ed8;font-weight:800}}h3{{margin:0 0 5px}}h3 small{{color:var(--muted);font-weight:500}}.stock p{{margin:0;color:var(--muted);font-size:13px;line-height:1.5}}.levels{{display:flex;flex-wrap:wrap;gap:7px;margin:10px 0}}.levels span{{background:#f8fafc;border:1px solid #e2e8f0;border-radius:8px;padding:6px 8px;font-size:12px}}.up{{color:var(--up)}}.down{{color:var(--down)}}.risk{{color:#9a3412!important}}.score{{font-size:24px;font-weight:800;color:var(--brand)}}.score small{{font-size:12px;margin-left:2px}}footer{{color:var(--muted);font-size:12px;margin-top:30px;line-height:1.6}}@media(max-width:600px){{.stock{{grid-template-columns:30px 1fr}}.score{{grid-column:2;font-size:18px}}}}
-</style></head><body><main><header><h1>台股 AI 選股 V2</h1><p>3～5 個交易日決策輔助 · 僅台灣上市股票</p><p>行情日：{latest_day.isoformat()}　更新：{stamp}</p></header><div class="market">{market_label}</div><div class="history">績效追蹤：{tracking_summary}</div><nav>{''.join(f'<a href="#{k}">{v.replace(" Top 5", "")}</a>' for k,v in labels)}</nav>{''.join(sections)}<footer>參考區間以收盤價 ±0.5% 計算；固定停損 -5%、固定目標 +8%；波動價格採 14 日真實波幅估算。大盤濾網使用合格股票的均線廣度。所有價格僅供研究，不構成投資建議或獲利保證。資料來源：臺灣證券交易所 OpenAPI／公開資訊觀測站。</footer></main></body></html>'''
+</style></head><body><main><header><h1>台股 AI 選股 V2</h1><p>3～5 個交易日決策輔助 · 僅台灣上市股票</p><p>行情日：{latest_day.isoformat()}　更新：{stamp}</p></header><div class="market">{market_label}</div><div class="history">績效追蹤：{tracking_summary}</div><div class="history"><a href="forward_validation.html">每日向前驗證</a>：目前完成 {forward_done} 筆，資料持續累積。</div><nav>{''.join(f'<a href="#{k}">{v.replace(" Top 5", "")}</a>' for k,v in labels)}</nav>{''.join(sections)}<footer>參考區間以收盤價 ±0.5% 計算；固定停損 -5%、固定目標 +8%；波動價格採 14 日真實波幅估算。大盤濾網使用合格股票的均線廣度。所有價格僅供研究，不構成投資建議或獲利保證。資料來源：臺灣證券交易所 OpenAPI／公開資訊觀測站。</footer></main></body></html>'''
     DOCS.mkdir(exist_ok=True)
     (DOCS / "index.html").write_text(page, encoding="utf-8")
     (DOCS / "results.json").write_text(json.dumps({"market_date": latest_day.isoformat(), "stocks": rows}, ensure_ascii=False, indent=2), encoding="utf-8")
@@ -308,7 +312,7 @@ def main():
     rows, latest_day = build_scores(history)
     if len(rows) < 20:
         raise RuntimeError(f"通過篩選的股票過少：{len(rows)}")
-    render(rows, latest_day)
+    render(rows, latest_day, history[-1])
     print(f"完成：{latest_day}，候選 {len(rows)} 檔，頁面位於 docs/index.html")
 
 
