@@ -1,0 +1,110 @@
+{
+  "market_date": "2026-09-03",
+  "rules_version": 1,
+  "summary": {
+    "revenue_only": {
+      "completed": 0,
+      "win_rate": null,
+      "average_return": null,
+      "signals": 1
+    },
+    "with_eps": {
+      "completed": 0,
+      "win_rate": null,
+      "average_return": null,
+      "signals": 1
+    }
+  },
+  "records": [
+    {
+      "signal_date": "2026-09-03",
+      "variant": "revenue_only",
+      "rank": 1,
+      "code": "3055",
+      "name": "蔚華科",
+      "score": 95.7545045045045,
+      "status": "waiting_entry"
+    },
+    {
+      "signal_date": "2026-09-03",
+      "variant": "revenue_only",
+      "rank": 2,
+      "code": "7711",
+      "name": "永擎",
+      "score": 95.68693693693695,
+      "status": "waiting_entry"
+    },
+    {
+      "signal_date": "2026-09-03",
+      "variant": "revenue_only",
+      "rank": 3,
+      "code": "6209",
+      "name": "今國光",
+      "score": 93.61486486486487,
+      "status": "waiting_entry"
+    },
+    {
+      "signal_date": "2026-09-03",
+      "variant": "revenue_only",
+      "rank": 4,
+      "code": "6442",
+      "name": "光聖",
+      "score": 91.73423423423424,
+      "status": "waiting_entry"
+    },
+    {
+      "signal_date": "2026-09-03",
+      "variant": "revenue_only",
+      "rank": 5,
+      "code": "2455",
+      "name": "全新",
+      "score": 90.76576576576576,
+      "status": "waiting_entry"
+    },
+    {
+      "signal_date": "2026-09-03",
+      "variant": "with_eps",
+      "rank": 1,
+      "code": "7711",
+      "name": "永擎",
+      "score": 94.92792792792793,
+      "status": "waiting_entry"
+    },
+    {
+      "signal_date": "2026-09-03",
+      "variant": "with_eps",
+      "rank": 2,
+      "code": "6442",
+      "name": "光聖",
+      "score": 91.94594594594595,
+      "status": "waiting_entry"
+    },
+    {
+      "signal_date": "2026-09-03",
+      "variant": "with_eps",
+      "rank": 3,
+      "code": "6515",
+      "name": "穎崴",
+      "score": 89.00900900900902,
+      "status": "waiting_entry"
+    },
+    {
+      "signal_date": "2026-09-03",
+      "variant": "with_eps",
+      "rank": 4,
+      "code": "3006",
+      "name": "晶豪科",
+      "score": 84.16216216216216,
+      "status": "waiting_entry"
+    },
+    {
+      "signal_date": "2026-09-03",
+      "variant": "with_eps",
+      "rank": 5,
+      "code": "6209",
+      "name": "今國光",
+      "score": 81.87387387387389,
+      "status": "waiting_entry"
+    }
+  ]
+}

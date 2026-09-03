@@ -115,7 +115,7 @@
     "name": "永擎",
     "entry_price": 575.0,
     "latest_price": 575.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-09-03"
@@ -126,7 +126,7 @@
     "name": "穎崴",
     "entry_price": 7000.0,
     "latest_price": 7000.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-09-03"
@@ -137,7 +137,7 @@
     "name": "光聖",
     "entry_price": 1770.0,
     "latest_price": 1770.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-09-03"
@@ -148,7 +148,7 @@
     "name": "晶豪科",
     "entry_price": 277.0,
     "latest_price": 277.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-09-03"
@@ -159,7 +159,7 @@
     "name": "帆宣",
     "entry_price": 500.0,
     "latest_price": 500.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-09-03"
