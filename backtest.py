@@ -271,7 +271,7 @@ def save_cache(by_date):
     CACHE.write_text(json.dumps(ordered, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
 
 
-def ranks(history, index, revenue_history=None, eps_history=None):
+def ranks(history, index, revenue_history=None, eps_history=None, eps_weight=None):
     window = history[index - 20:index + 1]
     series = defaultdict(list)
     for daily in window:
@@ -317,6 +317,9 @@ def ranks(history, index, revenue_history=None, eps_history=None):
         eps = pct("eps_yoy", row["eps_yoy"])
         row["stable"] = .50 * row["trend"] * 100 + .35 * low_vol + .15 * momentum
         row["growth"] = .25 * row["trend"] * 100 + .25 * momentum + .10 * volume + .20 * revenue + .20 * eps
+        if eps_weight is not None:
+            baseline = .30 * row["trend"] * 100 + .30 * momentum + .15 * volume + .25 * revenue
+            row["growth"] = (1 - eps_weight) * baseline + eps_weight * eps
         row["strong"] = .30 * row["trend"] * 100 + .40 * momentum + .30 * volume
     return candidates
 
@@ -366,24 +369,27 @@ def summarize(trades, initial_capital):
             "target_rate": sum(t["reason"] == "停利" for t in trades) / len(trades) * 100}
 
 
-def run_backtest(history):
+def run_backtest(history, revenue_history=None, eps_history=None, eps_weight=None,
+                 strategies=("stable", "growth", "strong")):
     maps = [{r["code"]: r for r in day} for day in history]
-    revenue_history = load_revenue_history()
-    eps_history = load_eps_history()
+    if revenue_history is None:
+        revenue_history = load_revenue_history()
+    if eps_history is None:
+        eps_history = load_eps_history()
     results = {}
     for horizon in (3, 4, 5):
-        for strategy in ("stable", "growth", "strong"):
+        for strategy in strategies:
             trades = []
             index = 20
             equity = CAPITAL
             batch_no = 0
             while index + horizon + 1 < len(history):
-                signal = ranks(history, index, revenue_history, eps_history)
+                signal = ranks(history, index, revenue_history, eps_history, eps_weight)
                 breadth = sum(r["trend"] >= 2 / 3 for r in signal) / len(signal) * 100 if signal else 0
                 if breadth < 45 or equity <= 0:
                     index += horizon + 1
                     continue
-                selected = sorted(signal, key=lambda r: r[strategy], reverse=True)[:5]
+                selected = sorted(signal, key=lambda r: (-r[strategy], r["code"]))[:5]
                 entry_map = maps[index + 1]
                 batch = []
                 position_cash = equity / 5

@@ -1,0 +1,49 @@
+name: EPS 同條件比較
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: eps-comparison
+  cancel-in-progress: false
+jobs:
+  compare:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: 還原已有歷史快取（不下載）
+        id: cache
+        uses: actions/cache/restore@v4
+        with:
+          path: |
+            work/finmind
+            work/finmind_revenue
+            work/finmind_eps
+          key: finmind-twse-three-year-${{ github.run_id }}
+          restore-keys: finmind-twse-three-year-
+          fail-on-cache-miss: true
+      - name: 測試比較邏輯
+        run: python -m unittest discover -s tests -v
+      - name: 執行固定條件比較
+        run: python compare_backtest.py
+      - name: 保存比較報告
+        uses: actions/upload-artifact@v4
+        with:
+          name: eps-comparison
+          path: |
+            docs/comparison.json
+            docs/comparison.html
+      - name: 發布比較報告
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/comparison.json docs/comparison.html
+          if ! git diff --cached --quiet; then
+            git commit -m "更新 EPS 同條件比較"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
