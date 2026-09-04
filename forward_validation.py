@@ -47,11 +47,14 @@ def complete(record, exit_price, reason, date):
 def advance(records, market_date, market_rows):
     market = {r["code"]: r for r in market_rows}
     for record in records:
-        if record["status"] == "completed" or record["signal_date"] >= market_date:
+        if record.get("legacy_unverified") or record["status"] == "completed" or record["signal_date"] >= market_date:
+            continue
+        if record.get("last_processed_date", record.get("entry_date", "")) >= market_date:
             continue
         row = market.get(record["code"])
         if not row:
             continue
+        record["last_processed_date"] = market_date
         if record["status"] == "waiting_entry":
             entry = row["close"]
             # A nominal NT$100,000 position keeps minimum-fee effects comparable.
@@ -71,11 +74,11 @@ def advance(records, market_date, market_rows):
 
 
 def summary(records, variant):
-    done = [r for r in records if r["variant"] == variant and r["status"] == "completed"]
+    done = [r for r in records if r["variant"] == variant and r["status"] == "completed" and not r.get("legacy_unverified")]
     returns = [r["return_pct"] for r in done]
     return {"completed": len(done), "win_rate": (sum(x > 0 for x in returns) / len(returns) * 100) if returns else None,
             "average_return": statistics.mean(returns) if returns else None,
-            "signals": len({r["signal_date"] for r in records if r["variant"] == variant})}
+            "signals": len({r["signal_date"] for r in records if r["variant"] == variant and not r.get("legacy_unverified")})}
 
 
 def render(payload):
@@ -92,28 +95,31 @@ section{{background:#fff;border-radius:16px;padding:20px;margin:16px 0;overflow:
 <body><main><h1>每日向前驗證</h1><p>資料日：{payload['market_date']} · 成長 Top 5 · 5 個交易日</p><section><table><thead><tr><th>版本</th><th>訊號日數</th><th>完成筆數</th><th>勝率</th><th>平均淨報酬</th></tr></thead><tbody>{''.join(rows)}</tbody></table></section>
 <section><p>每個新交易日才新增一次訊號。訊號的下一個有行情交易日以收盤價進場，再觀察 5 個後續交易日；停損 -5%、停利 +8%，同日同時觸及先算停損。</p>
 <p>每檔以名目 NT$100,000 計算整股，扣除買賣手續費各 0.1425%（最低 20 元）及賣出稅 0.3%。這是每日重疊的訊號研究，不是單一資金帳戶績效，也不會改變網站排名或下單。</p>
-<p>資料會逐日累積，滿足進場日及 5 個後續交易日後才列入結果。免費資料或網站停止更新時，驗證也會停止累積。</p>
+<p>舊版待核對紀錄 {payload.get('legacy_count', 0)} 筆，完整保留但停止推進、不計入新版統計。同日重跑不增加持有日或變更當日名單。缺行情或漏跑時僅累積實際觀察到的交易日，不冒稱已補齊缺漏期間。</p>
 <p><a href="forward_validation.json">下載完整不可回填紀錄</a> · <a href="comparison.html">歷史同條件比較</a> · <a href="index.html">每日選股</a></p></section></main></body></html>'''
 
 
 def update(rows, market_date, market_rows, docs: Path):
     docs.mkdir(parents=True, exist_ok=True)
     path = docs / "forward_validation.json"
-    try:
-        old = json.loads(path.read_text(encoding="utf-8"))
-        records = old.get("records", [])
-    except (OSError, ValueError):
-        records = []
+    old = json.loads(path.read_text(encoding="utf-8")) if path.exists() else {}
+    records = old.get("records", [])
+    if old.get("rules_version", 2) < 2:
+        for record in records:
+            record["legacy_unverified"] = True
+    if market_date < old.get("market_date", ""):
+        raise ValueError("行情日期倒退，停止寫入驗證紀錄")
     advance(records, market_date, market_rows)
-    existing = {(r["signal_date"], r["variant"], r["code"]) for r in records}
+    existing = {(r["signal_date"], r["variant"]) for r in records}
     for variant, picks in ranked_picks(rows).items():
         for rank, pick in enumerate(picks, 1):
-            key = (market_date, variant, pick["code"])
+            key = (market_date, variant)
             if key not in existing:
                 records.append({"signal_date": market_date, "variant": variant, "rank": rank,
                                 "code": pick["code"], "name": pick["name"], "score": pick[variant],
                                 "status": "waiting_entry"})
-    payload = {"market_date": market_date, "rules_version": 1,
+    payload = {"market_date": market_date, "rules_version": 2,
+               "legacy_count": sum(bool(r.get("legacy_unverified")) for r in records),
                "summary": {v: summary(records, v) for v in ("revenue_only", "with_eps")},
                "records": records}
     path.write_text(json.dumps(payload, ensure_ascii=False, indent=2, allow_nan=False), encoding="utf-8")

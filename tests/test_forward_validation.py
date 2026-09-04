@@ -18,6 +18,33 @@ def market(date, close=100, low=99, high=101):
 
 
 class ForwardTests(unittest.TestCase):
+    def test_active_rerun_and_changed_ranking_are_frozen(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            docs = Path(tmp)
+            fv.update(candidates(), "2026-01-02", market("2026-01-02"), docs)
+            first = fv.update(candidates(), "2026-01-03", market("2026-01-03"), docs)
+            changed = candidates()
+            changed[0]["trend"] = 999
+            second = fv.update(changed, "2026-01-03", market("2026-01-03"), docs)
+            self.assertEqual(first, second)
+            third = fv.update(candidates(), "2026-01-04", market("2026-01-04"), docs)
+            fourth = fv.update(changed, "2026-01-04", market("2026-01-04"), docs)
+            self.assertEqual(third, fourth)
+
+    def test_legacy_preserved_and_corruption_fails(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            docs = Path(tmp)
+            initial = fv.update(candidates(), "2026-01-02", market("2026-01-02"), docs)
+            initial["rules_version"] = 1
+            path = docs / "forward_validation.json"
+            path.write_text(json.dumps(initial), encoding="utf-8")
+            new = fv.update(candidates(), "2026-01-03", market("2026-01-03"), docs)
+            self.assertEqual(new["legacy_count"], 10)
+            self.assertTrue(all(r["status"] == "waiting_entry" for r in new["records"][:10]))
+            path.write_text('{broken', encoding="utf-8")
+            with self.assertRaises(json.JSONDecodeError):
+                fv.update(candidates(), "2026-01-04", market("2026-01-04"), docs)
+
     def test_signal_enters_next_day_and_exits_after_five_more(self):
         with tempfile.TemporaryDirectory() as tmp:
             docs = Path(tmp)
