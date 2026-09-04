@@ -1,18 +1,18 @@
 {
-  "market_date": "2026-09-03",
+  "market_date": "2026-09-04",
   "rules_version": 1,
   "summary": {
     "revenue_only": {
       "completed": 0,
       "win_rate": null,
       "average_return": null,
-      "signals": 1
+      "signals": 2
     },
     "with_eps": {
       "completed": 0,
       "win_rate": null,
       "average_return": null,
-      "signals": 1
+      "signals": 2
     }
   },
   "records": [
@@ -23,7 +23,11 @@
       "code": "3055",
       "name": "蔚華科",
       "score": 95.7545045045045,
-      "status": "waiting_entry"
+      "status": "active",
+      "entry_date": "2026-09-04",
+      "entry_price": 132.5,
+      "shares": 754,
+      "held_days": 0
     },
     {
       "signal_date": "2026-09-03",
@@ -32,7 +36,11 @@
       "code": "7711",
       "name": "永擎",
       "score": 95.68693693693695,
-      "status": "waiting_entry"
+      "status": "active",
+      "entry_date": "2026-09-04",
+      "entry_price": 632.0,
+      "shares": 158,
+      "held_days": 0
     },
     {
       "signal_date": "2026-09-03",
@@ -41,7 +49,11 @@
       "code": "6209",
       "name": "今國光",
       "score": 93.61486486486487,
-      "status": "waiting_entry"
+      "status": "active",
+      "entry_date": "2026-09-04",
+      "entry_price": 81.5,
+      "shares": 1226,
+      "held_days": 0
     },
     {
       "signal_date": "2026-09-03",
@@ -50,7 +62,11 @@
       "code": "6442",
       "name": "光聖",
       "score": 91.73423423423424,
-      "status": "waiting_entry"
+      "status": "active",
+      "entry_date": "2026-09-04",
+      "entry_price": 1755.0,
+      "shares": 56,
+      "held_days": 0
     },
     {
       "signal_date": "2026-09-03",
@@ -59,7 +75,11 @@
       "code": "2455",
       "name": "全新",
       "score": 90.76576576576576,
-      "status": "waiting_entry"
+      "status": "active",
+      "entry_date": "2026-09-04",
+      "entry_price": 528.0,
+      "shares": 189,
+      "held_days": 0
     },
     {
       "signal_date": "2026-09-03",
@@ -68,7 +88,11 @@
       "code": "7711",
       "name": "永擎",
       "score": 94.92792792792793,
-      "status": "waiting_entry"
+      "status": "active",
+      "entry_date": "2026-09-04",
+      "entry_price": 632.0,
+      "shares": 158,
+      "held_days": 0
     },
     {
       "signal_date": "2026-09-03",
@@ -77,7 +101,11 @@
       "code": "6442",
       "name": "光聖",
       "score": 91.94594594594595,
-      "status": "waiting_entry"
+      "status": "active",
+      "entry_date": "2026-09-04",
+      "entry_price": 1755.0,
+      "shares": 56,
+      "held_days": 0
     },
     {
       "signal_date": "2026-09-03",
@@ -86,7 +114,11 @@
       "code": "6515",
       "name": "穎崴",
       "score": 89.00900900900902,
-      "status": "waiting_entry"
+      "status": "active",
+      "entry_date": "2026-09-04",
+      "entry_price": 7075.0,
+      "shares": 14,
+      "held_days": 0
     },
     {
       "signal_date": "2026-09-03",
@@ -95,7 +127,11 @@
       "code": "3006",
       "name": "晶豪科",
       "score": 84.16216216216216,
-      "status": "waiting_entry"
+      "status": "active",
+      "entry_date": "2026-09-04",
+      "entry_price": 278.5,
+      "shares": 359,
+      "held_days": 0
     },
     {
       "signal_date": "2026-09-03",
@@ -104,6 +140,100 @@
       "code": "6209",
       "name": "今國光",
       "score": 81.87387387387389,
+      "status": "active",
+      "entry_date": "2026-09-04",
+      "entry_price": 81.5,
+      "shares": 1226,
+      "held_days": 0
+    },
+    {
+      "signal_date": "2026-09-04",
+      "variant": "revenue_only",
+      "rank": 1,
+      "code": "7711",
+      "name": "永擎",
+      "score": 98.34467120181407,
+      "status": "waiting_entry"
+    },
+    {
+      "signal_date": "2026-09-04",
+      "variant": "revenue_only",
+      "rank": 2,
+      "code": "2305",
+      "name": "全友",
+      "score": 95.57823129251702,
+      "status": "waiting_entry"
+    },
+    {
+      "signal_date": "2026-09-04",
+      "variant": "revenue_only",
+      "rank": 3,
+      "code": "4977",
+      "name": "眾達-KY",
+      "score": 94.05895691609979,
+      "status": "waiting_entry"
+    },
+    {
+      "signal_date": "2026-09-04",
+      "variant": "revenue_only",
+      "rank": 4,
+      "code": "2464",
+      "name": "盟立",
+      "score": 93.65079365079364,
+      "status": "waiting_entry"
+    },
+    {
+      "signal_date": "2026-09-04",
+      "variant": "revenue_only",
+      "rank": 5,
+      "code": "2395",
+      "name": "研華",
+      "score": 91.54195011337869,
+      "status": "waiting_entry"
+    },
+    {
+      "signal_date": "2026-09-04",
+      "variant": "with_eps",
+      "rank": 1,
+      "code": "7711",
+      "name": "永擎",
+      "score": 97.04308390022678,
+      "status": "waiting_entry"
+    },
+    {
+      "signal_date": "2026-09-04",
+      "variant": "with_eps",
+      "rank": 2,
+      "code": "2382",
+      "name": "廣達",
+      "score": 90.17687074829934,
+      "status": "waiting_entry"
+    },
+    {
+      "signal_date": "2026-09-04",
+      "variant": "with_eps",
+      "rank": 3,
+      "code": "2395",
+      "name": "研華",
+      "score": 90.14965986394559,
+      "status": "waiting_entry"
+    },
+    {
+      "signal_date": "2026-09-04",
+      "variant": "with_eps",
+      "rank": 4,
+      "code": "2357",
+      "name": "華碩",
+      "score": 90.02267573696145,
+      "status": "waiting_entry"
+    },
+    {
+      "signal_date": "2026-09-04",
+      "variant": "with_eps",
+      "rank": 5,
+      "code": "3017",
+      "name": "奇鋐",
+      "score": 90.00453514739229,
       "status": "waiting_entry"
     }
   ]
