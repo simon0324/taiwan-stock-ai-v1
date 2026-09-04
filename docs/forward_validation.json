@@ -1,18 +1,19 @@
 {
   "market_date": "2026-09-04",
-  "rules_version": 1,
+  "rules_version": 2,
+  "legacy_count": 20,
   "summary": {
     "revenue_only": {
-      "completed": 3,
-      "win_rate": 0.0,
-      "average_return": -5.562552607297042,
-      "signals": 2
+      "completed": 0,
+      "win_rate": null,
+      "average_return": null,
+      "signals": 0
     },
     "with_eps": {
-      "completed": 3,
-      "win_rate": 0.0,
-      "average_return": -5.562530832986605,
-      "signals": 2
+      "completed": 0,
+      "win_rate": null,
+      "average_return": null,
+      "signals": 0
     }
   },
   "records": [
@@ -27,7 +28,8 @@
       "entry_date": "2026-09-04",
       "entry_price": 132.5,
       "shares": 754,
-      "held_days": 1
+      "held_days": 1,
+      "legacy_unverified": true
     },
     {
       "signal_date": "2026-09-03",
@@ -44,7 +46,8 @@
       "exit_date": "2026-09-04",
       "exit_price": 600.4,
       "reason": "stop",
-      "return_pct": -5.562810447043746
+      "return_pct": -5.562810447043746,
+      "legacy_unverified": true
     },
     {
       "signal_date": "2026-09-03",
@@ -57,7 +60,8 @@
       "entry_date": "2026-09-04",
       "entry_price": 81.5,
       "shares": 1226,
-      "held_days": 1
+      "held_days": 1,
+      "legacy_unverified": true
     },
     {
       "signal_date": "2026-09-03",
@@ -74,7 +78,8 @@
       "exit_date": "2026-09-04",
       "exit_price": 1667.25,
       "reason": "stop",
-      "return_pct": -5.562678062678063
+      "return_pct": -5.562678062678063,
+      "legacy_unverified": true
     },
     {
       "signal_date": "2026-09-03",
@@ -91,7 +96,8 @@
       "exit_date": "2026-09-04",
       "exit_price": 501.59999999999997,
       "reason": "stop",
-      "return_pct": -5.562169312169319
+      "return_pct": -5.562169312169319,
+      "legacy_unverified": true
     },
     {
       "signal_date": "2026-09-03",
@@ -108,7 +114,8 @@
       "exit_date": "2026-09-04",
       "exit_price": 600.4,
       "reason": "stop",
-      "return_pct": -5.562810447043746
+      "return_pct": -5.562810447043746,
+      "legacy_unverified": true
     },
     {
       "signal_date": "2026-09-03",
@@ -125,7 +132,8 @@
       "exit_date": "2026-09-04",
       "exit_price": 1667.25,
       "reason": "stop",
-      "return_pct": -5.562678062678063
+      "return_pct": -5.562678062678063,
+      "legacy_unverified": true
     },
     {
       "signal_date": "2026-09-03",
@@ -138,7 +146,8 @@
       "entry_date": "2026-09-04",
       "entry_price": 7075.0,
       "shares": 14,
-      "held_days": 1
+      "held_days": 1,
+      "legacy_unverified": true
     },
     {
       "signal_date": "2026-09-03",
@@ -155,7 +164,8 @@
       "exit_date": "2026-09-04",
       "exit_price": 264.575,
       "reason": "stop",
-      "return_pct": -5.562103989238007
+      "return_pct": -5.562103989238007,
+      "legacy_unverified": true
     },
     {
       "signal_date": "2026-09-03",
@@ -168,7 +178,8 @@
       "entry_date": "2026-09-04",
       "entry_price": 81.5,
       "shares": 1226,
-      "held_days": 1
+      "held_days": 1,
+      "legacy_unverified": true
     },
     {
       "signal_date": "2026-09-04",
@@ -177,7 +188,8 @@
       "code": "7711",
       "name": "永擎",
       "score": 98.34467120181407,
-      "status": "waiting_entry"
+      "status": "waiting_entry",
+      "legacy_unverified": true
     },
     {
       "signal_date": "2026-09-04",
@@ -186,7 +198,8 @@
       "code": "2305",
       "name": "全友",
       "score": 95.57823129251702,
-      "status": "waiting_entry"
+      "status": "waiting_entry",
+      "legacy_unverified": true
     },
     {
       "signal_date": "2026-09-04",
@@ -195,7 +208,8 @@
       "code": "4977",
       "name": "眾達-KY",
       "score": 94.05895691609979,
-      "status": "waiting_entry"
+      "status": "waiting_entry",
+      "legacy_unverified": true
     },
     {
       "signal_date": "2026-09-04",
@@ -204,7 +218,8 @@
       "code": "2464",
       "name": "盟立",
       "score": 93.65079365079364,
-      "status": "waiting_entry"
+      "status": "waiting_entry",
+      "legacy_unverified": true
     },
     {
       "signal_date": "2026-09-04",
@@ -213,7 +228,8 @@
       "code": "2395",
       "name": "研華",
       "score": 91.54195011337869,
-      "status": "waiting_entry"
+      "status": "waiting_entry",
+      "legacy_unverified": true
     },
     {
       "signal_date": "2026-09-04",
@@ -222,7 +238,8 @@
       "code": "7711",
       "name": "永擎",
       "score": 97.04308390022678,
-      "status": "waiting_entry"
+      "status": "waiting_entry",
+      "legacy_unverified": true
     },
     {
       "signal_date": "2026-09-04",
@@ -231,7 +248,8 @@
       "code": "2382",
       "name": "廣達",
       "score": 90.17687074829934,
-      "status": "waiting_entry"
+      "status": "waiting_entry",
+      "legacy_unverified": true
     },
     {
       "signal_date": "2026-09-04",
@@ -240,7 +258,8 @@
       "code": "2395",
       "name": "研華",
       "score": 90.14965986394559,
-      "status": "waiting_entry"
+      "status": "waiting_entry",
+      "legacy_unverified": true
     },
     {
       "signal_date": "2026-09-04",
@@ -249,7 +268,8 @@
       "code": "2357",
       "name": "華碩",
       "score": 90.02267573696145,
-      "status": "waiting_entry"
+      "status": "waiting_entry",
+      "legacy_unverified": true
     },
     {
       "signal_date": "2026-09-04",
@@ -258,7 +278,8 @@
       "code": "3017",
       "name": "奇鋐",
       "score": 90.00453514739229,
-      "status": "waiting_entry"
+      "status": "waiting_entry",
+      "legacy_unverified": true
     }
   ]
 }
