@@ -1,0 +1,81 @@
+{
+  "rules_version": "global-rules-1",
+  "as_of": "2026-09-05T01:19:21.202611+08:00",
+  "sources": [
+    {
+      "source": "中央通訊社・國際",
+      "status": "ok",
+      "invalid_dates": 0
+    },
+    {
+      "source": "中央通訊社・產經",
+      "status": "ok",
+      "invalid_dates": 0
+    }
+  ],
+  "events": [
+    {
+      "id": "9ed741fbaf565227419682b5",
+      "title": "川普命聯準會降息　否則與貿易逆差國停止往來",
+      "url": "https://www.cna.com.tw/news/aopl/202609040342.aspx",
+      "source": "中央通訊社・國際",
+      "published_at": "2026-09-04T23:42:19+08:00",
+      "first_seen_at": "2026-09-05T01:19:21.202611+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "利率政策",
+          "industry": "金融、負債敏感與出口產業",
+          "possible_benefit": "若融資成本下降，負債敏感企業可能改善。",
+          "possible_risk": "若利差收窄或匯率不利，部分企業可能承壓。",
+          "verify_next": "核對實際決議與預期、幣別及企業負債結構。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
+    {
+      "id": "13c6bf0978f33e99e5cd5779",
+      "title": "美就業報告強化Fed升息預期　美股開盤走勢不一",
+      "url": "https://www.cna.com.tw/news/afe/202609040330.aspx",
+      "source": "中央通訊社・產經",
+      "published_at": "2026-09-04T21:59:49+08:00",
+      "first_seen_at": "2026-09-05T01:19:21.202611+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "利率政策",
+          "industry": "金融、負債敏感與出口產業",
+          "possible_benefit": "若融資成本下降，負債敏感企業可能改善。",
+          "possible_risk": "若利差收窄或匯率不利，部分企業可能承壓。",
+          "verify_next": "核對實際決議與預期、幣別及企業負債結構。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
+    {
+      "id": "a8180b594dcdc9b6c5f23f7b",
+      "title": "聯合國糧農組織：乾旱與戰爭推升8月食品價格",
+      "url": "https://www.cna.com.tw/news/aopl/202609040327.aspx",
+      "source": "中央通訊社・國際",
+      "published_at": "2026-09-04T21:51:43+08:00",
+      "first_seen_at": "2026-09-05T01:19:21.202611+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "衝突／航運",
+          "industry": "航運、物流、能源與出口產業",
+          "possible_benefit": "若供給受限推升運價，部分運輸商可能受益。",
+          "possible_risk": "繞航、保險、交期與燃料成本也可能增加。",
+          "verify_next": "核對事件是否已發生、航線曝險與實際成本，不把衝突直接當買進訊號。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    }
+  ]
+}
