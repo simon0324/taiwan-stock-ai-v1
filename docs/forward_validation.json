@@ -3,15 +3,15 @@
   "rules_version": 1,
   "summary": {
     "revenue_only": {
-      "completed": 0,
-      "win_rate": null,
-      "average_return": null,
+      "completed": 3,
+      "win_rate": 0.0,
+      "average_return": -5.562552607297042,
       "signals": 2
     },
     "with_eps": {
-      "completed": 0,
-      "win_rate": null,
-      "average_return": null,
+      "completed": 3,
+      "win_rate": 0.0,
+      "average_return": -5.562530832986605,
       "signals": 2
     }
   },
@@ -27,7 +27,7 @@
       "entry_date": "2026-09-04",
       "entry_price": 132.5,
       "shares": 754,
-      "held_days": 0
+      "held_days": 1
     },
     {
       "signal_date": "2026-09-03",
@@ -36,11 +36,15 @@
       "code": "7711",
       "name": "永擎",
       "score": 95.68693693693695,
-      "status": "active",
+      "status": "completed",
       "entry_date": "2026-09-04",
       "entry_price": 632.0,
       "shares": 158,
-      "held_days": 0
+      "held_days": 1,
+      "exit_date": "2026-09-04",
+      "exit_price": 600.4,
+      "reason": "stop",
+      "return_pct": -5.562810447043746
     },
     {
       "signal_date": "2026-09-03",
@@ -53,7 +57,7 @@
       "entry_date": "2026-09-04",
       "entry_price": 81.5,
       "shares": 1226,
-      "held_days": 0
+      "held_days": 1
     },
     {
       "signal_date": "2026-09-03",
@@ -62,11 +66,15 @@
       "code": "6442",
       "name": "光聖",
       "score": 91.73423423423424,
-      "status": "active",
+      "status": "completed",
       "entry_date": "2026-09-04",
       "entry_price": 1755.0,
       "shares": 56,
-      "held_days": 0
+      "held_days": 1,
+      "exit_date": "2026-09-04",
+      "exit_price": 1667.25,
+      "reason": "stop",
+      "return_pct": -5.562678062678063
     },
     {
       "signal_date": "2026-09-03",
@@ -75,11 +83,15 @@
       "code": "2455",
       "name": "全新",
       "score": 90.76576576576576,
-      "status": "active",
+      "status": "completed",
       "entry_date": "2026-09-04",
       "entry_price": 528.0,
       "shares": 189,
-      "held_days": 0
+      "held_days": 1,
+      "exit_date": "2026-09-04",
+      "exit_price": 501.59999999999997,
+      "reason": "stop",
+      "return_pct": -5.562169312169319
     },
     {
       "signal_date": "2026-09-03",
@@ -88,11 +100,15 @@
       "code": "7711",
       "name": "永擎",
       "score": 94.92792792792793,
-      "status": "active",
+      "status": "completed",
       "entry_date": "2026-09-04",
       "entry_price": 632.0,
       "shares": 158,
-      "held_days": 0
+      "held_days": 1,
+      "exit_date": "2026-09-04",
+      "exit_price": 600.4,
+      "reason": "stop",
+      "return_pct": -5.562810447043746
     },
     {
       "signal_date": "2026-09-03",
@@ -101,11 +117,15 @@
       "code": "6442",
       "name": "光聖",
       "score": 91.94594594594595,
-      "status": "active",
+      "status": "completed",
       "entry_date": "2026-09-04",
       "entry_price": 1755.0,
       "shares": 56,
-      "held_days": 0
+      "held_days": 1,
+      "exit_date": "2026-09-04",
+      "exit_price": 1667.25,
+      "reason": "stop",
+      "return_pct": -5.562678062678063
     },
     {
       "signal_date": "2026-09-03",
@@ -118,7 +138,7 @@
       "entry_date": "2026-09-04",
       "entry_price": 7075.0,
       "shares": 14,
-      "held_days": 0
+      "held_days": 1
     },
     {
       "signal_date": "2026-09-03",
@@ -127,11 +147,15 @@
       "code": "3006",
       "name": "晶豪科",
       "score": 84.16216216216216,
-      "status": "active",
+      "status": "completed",
       "entry_date": "2026-09-04",
       "entry_price": 278.5,
       "shares": 359,
-      "held_days": 0
+      "held_days": 1,
+      "exit_date": "2026-09-04",
+      "exit_price": 264.575,
+      "reason": "stop",
+      "return_pct": -5.562103989238007
     },
     {
       "signal_date": "2026-09-03",
@@ -144,7 +168,7 @@
       "entry_date": "2026-09-04",
       "entry_price": 81.5,
       "shares": 1226,
-      "held_days": 0
+      "held_days": 1
     },
     {
       "signal_date": "2026-09-04",

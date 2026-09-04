@@ -170,7 +170,7 @@
     "name": "永擎",
     "entry_price": 632.0,
     "latest_price": 632.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-09-04"
@@ -181,7 +181,7 @@
     "name": "廣達",
     "entry_price": 345.0,
     "latest_price": 345.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-09-04"
@@ -192,7 +192,7 @@
     "name": "世芯-KY",
     "entry_price": 4220.0,
     "latest_price": 4220.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-09-04"
@@ -203,7 +203,7 @@
     "name": "穎崴",
     "entry_price": 7075.0,
     "latest_price": 7075.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-09-04"
@@ -214,7 +214,7 @@
     "name": "大量",
     "entry_price": 803.0,
     "latest_price": 803.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-09-04"
