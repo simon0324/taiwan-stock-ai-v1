@@ -294,6 +294,7 @@ def render(rows, latest_day, market_rows):
     forward_done = forward["summary"]["revenue_only"]["completed"]
     market_label = f"大盤偏弱：每組降為 Top 3（多頭排列比率 {breadth:.1f}%）" if market_weak else f"大盤正常（多頭排列比率 {breadth:.1f}%）"
     sections = []
+    sections.append('<section><a href="international_rank.html">國際事件加權 Top 5（實驗）</a>：公司證據、事件加減分及向前比較。</section>')
     sections.append('<section><a href="global_events.html">國際重大事件雷達（免費規則版，不加分）</a></section>')
     sections.append('<section><a href="eps_observer.html">公告原文＋單月 EPS 觀察表（不加分）</a></section>')
     sections.append('<section><a href="news.html">消息加分版 Top 5（實驗）</a>：訂單、話題、龍頭與專利技術，附來源與評分原因。</section>')
