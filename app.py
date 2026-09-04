@@ -294,6 +294,7 @@ def render(rows, latest_day, market_rows):
     forward_done = forward["summary"]["revenue_only"]["completed"]
     market_label = f"大盤偏弱：每組降為 Top 3（多頭排列比率 {breadth:.1f}%）" if market_weak else f"大盤正常（多頭排列比率 {breadth:.1f}%）"
     sections = []
+    sections.append('<section><a href="news.html">消息加分版 Top 5（實驗）</a>：訂單、話題、龍頭與專利技術，附來源與評分原因。</section>')
     for key, label in labels:
         top = sorted(rows, key=lambda r: r[key], reverse=True)[:limit]
         shown_label = label.replace("Top 5", f"Top {limit}")

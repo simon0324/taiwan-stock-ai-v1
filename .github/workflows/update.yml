@@ -18,6 +18,10 @@ jobs:
           python-version: "3.12"
       - name: 產生最新選股頁面
         run: python app.py
+      - name: 測試消息評分
+        run: python -m unittest discover -s tests -v
+      - name: 產生獨立消息加分版
+        run: python event_news.py
       - name: 儲存更新結果
         run: |
           git config user.name "github-actions[bot]"
