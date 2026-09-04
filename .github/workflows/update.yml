@@ -28,6 +28,8 @@ jobs:
         run: python event_news.py
       - name: 產生公告與單月 EPS 觀察表
         run: python eps_observer.py
+      - name: 產生免費國際事件雷達
+        run: python global_events.py
       - name: 儲存更新結果
         run: |
           git config user.name "github-actions[bot]"
