@@ -20,6 +20,7 @@ DOCS = ROOT / "docs"
 TWSE = "https://www.twse.com.tw/rwd/zh"
 OPEN = "https://openapi.twse.com.tw/v1"
 HEADERS = {"User-Agent": "Mozilla/5.0 Taiwan-stock-v1/1.0"}
+DATA_WARNINGS = []
 
 
 def get_json(url: str):
@@ -28,7 +29,10 @@ def get_json(url: str):
         try:
             req = urllib.request.Request(url, headers=HEADERS)
             with urllib.request.urlopen(req, timeout=45) as response:
-                return json.load(response)
+                body = response.read()
+                if not body.strip():
+                    raise RuntimeError(f"資料來源回傳空白內容：{url}")
+                return json.loads(body)
         except Exception as error:
             last_error = error
             if attempt < 2:
@@ -107,9 +111,37 @@ def trading_history(days=32):
     return result
 
 
+def previous_metric(metric):
+    path = DOCS / "results.json"
+    try:
+        payload = json.loads(path.read_text(encoding="utf-8"))
+    except (FileNotFoundError, json.JSONDecodeError, OSError):
+        return {}, None
+    values = {
+        str(row.get("code", "")).strip(): number(row.get(metric))
+        for row in payload.get("stocks", [])
+        if str(row.get("code", "")).strip() and row.get(metric) is not None
+    }
+    return values, payload.get("market_date")
+
+
 def fetch_revenue():
-    data = get_json(f"{OPEN}/opendata/t187ap05_L")
-    return {str(r.get("公司代號", "")).strip(): number(r.get("營業收入-去年同月增減(%)")) for r in data}
+    url = f"{OPEN}/opendata/t187ap05_L"
+    try:
+        data = get_json(url)
+        if not isinstance(data, list) or not data:
+            raise RuntimeError("營收資料不是有效的非空清單")
+        result = {str(r.get("公司代號", "")).strip(): number(r.get("營業收入-去年同月增減(%)")) for r in data}
+        result = {code: value for code, value in result.items() if re.fullmatch(r"\d{4}", code)}
+        if not result:
+            raise RuntimeError("營收資料沒有有效股票代碼")
+        return result
+    except Exception as error:
+        previous, market_date = previous_metric("revenue")
+        if not previous:
+            raise RuntimeError(f"營收資料取得失敗，且沒有上次資料可備援：{error}") from error
+        DATA_WARNINGS.append(f"營收即時資料取得失敗；暫用上次選股資料（行情日 {market_date or '未知'}）。")
+        return previous
 
 
 def fetch_eps():
@@ -294,6 +326,9 @@ def render(rows, latest_day, market_rows):
     forward_done = forward["summary"]["revenue_only"]["completed"]
     market_label = f"大盤偏弱：每組降為 Top 3（多頭排列比率 {breadth:.1f}%）" if market_weak else f"大盤正常（多頭排列比率 {breadth:.1f}%）"
     sections = []
+    if DATA_WARNINGS:
+        warnings = "".join(f"<li>{html.escape(message)}</li>" for message in DATA_WARNINGS)
+        sections.append(f'<section class="data-warning"><strong>資料品質提醒</strong><ul>{warnings}</ul></section>')
     sections.append('<section><a href="international_rank.html">國際事件加權 Top 5（實驗）</a>：公司證據、事件加減分及向前比較。</section>')
     sections.append('<section><a href="global_events.html">國際重大事件雷達（免費規則版，不加分）</a></section>')
     sections.append('<section><a href="eps_observer.html">公告原文＋單月 EPS 觀察表（不加分）</a></section>')
@@ -308,10 +343,11 @@ def render(rows, latest_day, market_rows):
 </style></head><body><main><header><h1>台股 AI 選股 V2</h1><p>3～5 個交易日決策輔助 · 僅台灣上市股票</p><p>行情日：{latest_day.isoformat()}　更新：{stamp}</p></header><div class="market">{market_label}</div><div class="history">績效追蹤：{tracking_summary}</div><div class="history"><a href="forward_validation.html">每日向前驗證</a>：目前完成 {forward_done} 筆，資料持續累積。</div><nav>{''.join(f'<a href="#{k}">{v.replace(" Top 5", "")}</a>' for k,v in labels)}</nav>{''.join(sections)}<footer>參考區間以收盤價 ±0.5% 計算；固定停損 -5%、固定目標 +8%；波動價格採 14 日真實波幅估算。大盤濾網使用合格股票的均線廣度。所有價格僅供研究，不構成投資建議或獲利保證。資料來源：臺灣證券交易所 OpenAPI／公開資訊觀測站。</footer></main></body></html>'''
     DOCS.mkdir(exist_ok=True)
     (DOCS / "index.html").write_text(page, encoding="utf-8")
-    (DOCS / "results.json").write_text(json.dumps({"market_date": latest_day.isoformat(), "stocks": rows}, ensure_ascii=False, indent=2), encoding="utf-8")
+    (DOCS / "results.json").write_text(json.dumps({"market_date": latest_day.isoformat(), "data_warnings": DATA_WARNINGS, "stocks": rows}, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
 def main():
+    DATA_WARNINGS.clear()
     history = trading_history()
     rows, latest_day = build_scores(history)
     if len(rows) < 20:
