@@ -1,6 +1,6 @@
 {
   "rules_version": "global-rules-1",
-  "as_of": "2026-09-05T12:23:26.730547+08:00",
+  "as_of": "2026-09-06T00:23:34.297577+08:00",
   "sources": [
     {
       "source": "中央通訊社・國際",
@@ -14,6 +14,111 @@
     }
   ],
   "events": [
+    {
+      "id": "3654093edb6062309ea15db5",
+      "title": "關稅牽動成衣版圖　台灣牡蠣殼將穿越馬達加斯加進歐洲",
+      "url": "https://www.cna.com.tw/news/afe/202609050175.aspx",
+      "source": "中央通訊社・產經",
+      "published_at": "2026-09-05T20:18:00+08:00",
+      "first_seen_at": "2026-09-06T00:23:34.297577+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "關稅／貿易",
+          "industry": "出口製造、電子、機械",
+          "possible_benefit": "若關稅下降或訂單轉移，部分出口商可能受益。",
+          "possible_risk": "若成本提高且無法轉嫁，利潤可能承壓。",
+          "verify_next": "核對原產地、稅率、生效日與企業產地；不能將降稅與加稅視為同方向。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
+    {
+      "id": "5dd1328b6d1e673363933126",
+      "title": "川普特使抵莫斯科　討論結束戰爭可能性",
+      "url": "https://www.cna.com.tw/news/aopl/202609050171.aspx",
+      "source": "中央通訊社・國際",
+      "published_at": "2026-09-05T19:45:51+08:00",
+      "first_seen_at": "2026-09-06T00:23:34.297577+08:00",
+      "certainty": "推測／待確認",
+      "channels": [
+        {
+          "category": "衝突／航運",
+          "industry": "航運、物流、能源與出口產業",
+          "possible_benefit": "若供給受限推升運價，部分運輸商可能受益。",
+          "possible_risk": "繞航、保險、交期與燃料成本也可能增加。",
+          "verify_next": "核對事件是否已發生、航線曝險與實際成本，不把衝突直接當買進訊號。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
+    {
+      "id": "1db846d6c23b7b8116dbe240",
+      "title": "川普揚言加新關稅　日經濟產業部長：日美關稅協議「不變」",
+      "url": "https://www.cna.com.tw/news/aopl/202609050147.aspx",
+      "source": "中央通訊社・國際",
+      "published_at": "2026-09-05T17:27:58+08:00",
+      "first_seen_at": "2026-09-06T00:23:34.297577+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "關稅／貿易",
+          "industry": "出口製造、電子、機械",
+          "possible_benefit": "若關稅下降或訂單轉移，部分出口商可能受益。",
+          "possible_risk": "若成本提高且無法轉嫁，利潤可能承壓。",
+          "verify_next": "核對原產地、稅率、生效日與企業產地；不能將降稅與加稅視為同方向。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
+    {
+      "id": "e7325392edb9e596361d3854",
+      "title": "中油：7日起汽柴油價格不調整　95無鉛維持32元",
+      "url": "https://www.cna.com.tw/news/ahel/202609050143.aspx",
+      "source": "中央通訊社・產經",
+      "published_at": "2026-09-05T17:18:50+08:00",
+      "first_seen_at": "2026-09-06T00:23:34.297577+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "能源供應",
+          "industry": "能源、石化、航空與運輸",
+          "possible_benefit": "若能源售價上升且成本可控，部分上游企業可能受益。",
+          "possible_risk": "若燃料成本提高，未避險的用能企業可能承壓。",
+          "verify_next": "核對價格方向、持續性、庫存、避險與成本轉嫁，油價下跌時可能相反。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
+    {
+      "id": "0715f6fee3b592ac0bc34464",
+      "title": "美國長債殖利率居高不下  灣區買房租屋雙重承壓",
+      "url": "https://www.cna.com.tw/news/aopl/202609050092.aspx",
+      "source": "中央通訊社・產經",
+      "published_at": "2026-09-05T14:04:55+08:00",
+      "first_seen_at": "2026-09-06T00:23:34.297577+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "利率政策",
+          "industry": "金融、負債敏感與出口產業",
+          "possible_benefit": "若融資成本下降，負債敏感企業可能改善。",
+          "possible_risk": "若利差收窄或匯率不利，部分企業可能承壓。",
+          "verify_next": "核對實際決議與預期、幣別及企業負債結構。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
     {
       "id": "8d2f8561886a40f3938da6fb",
       "title": "美假期前交易清淡　油價震盪收高",
