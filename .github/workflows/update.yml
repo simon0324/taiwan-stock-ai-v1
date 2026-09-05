@@ -40,6 +40,8 @@ jobs:
         run: python unified_rank.py
       - name: 產生強化選股與向前驗證
         run: python enhanced_rank.py
+      - name: 產生供應鏈受惠觀察與向前驗證
+        run: python beneficiary_rank.py
       - name: 儲存更新結果
         run: |
           git config user.name "github-actions[bot]"
