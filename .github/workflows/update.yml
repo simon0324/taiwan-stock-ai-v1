@@ -2,6 +2,8 @@ name: 每日更新選股
 
 on:
   schedule:
+    # 22:30 UTC = 台灣 06:30；美股收盤後、台股開盤前。
+    - cron: "30 22 * * 0-4"
     - cron: "50 6 * * 1-5"
   workflow_dispatch:
 
@@ -32,6 +34,8 @@ jobs:
         run: python global_events.py
       - name: 產生國際事件個股加權與追蹤
         run: python international_rank.py
+      - name: 產生美股隔夜加權版
+        run: python us_market.py
       - name: 儲存更新結果
         run: |
           git config user.name "github-actions[bot]"
