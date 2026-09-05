@@ -1,6 +1,6 @@
 {
   "rules_version": "global-rules-1",
-  "as_of": "2026-09-05T01:19:21.202611+08:00",
+  "as_of": "2026-09-05T11:36:40.878121+08:00",
   "sources": [
     {
       "source": "中央通訊社・國際",
@@ -14,6 +14,69 @@
     }
   ],
   "events": [
+    {
+      "id": "8d2f8561886a40f3938da6fb",
+      "title": "美假期前交易清淡　油價震盪收高",
+      "url": "https://www.cna.com.tw/news/afe/202609050007.aspx",
+      "source": "中央通訊社・產經",
+      "published_at": "2026-09-05T05:58:42+08:00",
+      "first_seen_at": "2026-09-05T11:36:40.878121+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "能源供應",
+          "industry": "能源、石化、航空與運輸",
+          "possible_benefit": "若能源售價上升且成本可控，部分上游企業可能受益。",
+          "possible_risk": "若燃料成本提高，未避險的用能企業可能承壓。",
+          "verify_next": "核對價格方向、持續性、庫存、避險與成本轉嫁，油價下跌時可能相反。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
+    {
+      "id": "95f98d1c03ae3cb4e0110f60",
+      "title": "川普：俄烏戰爭是普丁澤倫斯基性格問題　衝突必須解決",
+      "url": "https://www.cna.com.tw/news/aopl/202609050005.aspx",
+      "source": "中央通訊社・國際",
+      "published_at": "2026-09-05T04:30:36+08:00",
+      "first_seen_at": "2026-09-05T11:36:40.878121+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "衝突／航運",
+          "industry": "航運、物流、能源與出口產業",
+          "possible_benefit": "若供給受限推升運價，部分運輸商可能受益。",
+          "possible_risk": "繞航、保險、交期與燃料成本也可能增加。",
+          "verify_next": "核對事件是否已發生、航線曝險與實際成本，不把衝突直接當買進訊號。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
+    {
+      "id": "bd7d7e172069479d95826a25",
+      "title": "美聯準會升息機率增　歐股互有漲跌",
+      "url": "https://www.cna.com.tw/news/afe/202609050002.aspx",
+      "source": "中央通訊社・產經",
+      "published_at": "2026-09-05T01:06:26+08:00",
+      "first_seen_at": "2026-09-05T11:36:40.878121+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "利率政策",
+          "industry": "金融、負債敏感與出口產業",
+          "possible_benefit": "若融資成本下降，負債敏感企業可能改善。",
+          "possible_risk": "若利差收窄或匯率不利，部分企業可能承壓。",
+          "verify_next": "核對實際決議與預期、幣別及企業負債結構。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
     {
       "id": "9ed741fbaf565227419682b5",
       "title": "川普命聯準會降息　否則與貿易逆差國停止往來",
