@@ -329,6 +329,7 @@ def render(rows, latest_day, market_rows):
     if DATA_WARNINGS:
         warnings = "".join(f"<li>{html.escape(message)}</li>" for message in DATA_WARNINGS)
         sections.append(f'<section class="data-warning"><strong>資料品質提醒</strong><ul>{warnings}</ul></section>')
+    sections.append('<section><a href="enhanced_rank.html">強化選股 Top 5（實驗）</a>：相對強弱、法人、價量突破、財務品質及籌碼風險。</section>')
     sections.append('<section><a href="unified_rank.html">整合總分 Top 5（實驗）</a>：基本技術、國內消息、國際事件及美股隔夜合成單一分數。</section>')
     sections.append('<section><a href="us_market.html">美股隔夜加權 Top 5（實驗）</a>：每天早上更新昨夜美股收盤訊號。</section>')
     sections.append('<section><a href="international_rank.html">國際事件加權 Top 5（實驗）</a>：公司證據、事件加減分及向前比較。</section>')
