@@ -42,6 +42,8 @@ jobs:
         run: python enhanced_rank.py
       - name: 產生供應鏈受惠觀察與向前驗證
         run: python beneficiary_rank.py
+      - name: 產生 K 線機率預測與向前驗證
+        run: python kline_forecast.py
       - name: 儲存更新結果
         run: |
           git config user.name "github-actions[bot]"

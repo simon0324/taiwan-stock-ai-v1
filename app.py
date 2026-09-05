@@ -331,6 +331,7 @@ def render(rows, latest_day, market_rows):
         sections.append(f'<section class="data-warning"><strong>資料品質提醒</strong><ul>{warnings}</ul></section>')
     sections.append('<section><a href="enhanced_rank.html">強化選股 Top 5（實驗）</a>：相對強弱、法人、價量突破、財務品質及籌碼風險。</section>')
     sections.append('<section><a href="beneficiary_rank.html">台積電／聯發科供應鏈受惠 Top 5（觀察版）</a>：關聯證據、財務品質、回檔位置與止跌訊號；尚未併入正式排名。</section>')
+    sections.append('<section><a href="kline_forecast.html">K線機率預測 Top 5（觀察版）</a>：未來3日／5日方向機率、統計價格區間與向前驗證。</section>')
     sections.append('<section><a href="unified_rank.html">整合總分 Top 5（實驗）</a>：基本技術、國內消息、國際事件及美股隔夜合成單一分數。</section>')
     sections.append('<section><a href="us_market.html">美股隔夜加權 Top 5（實驗）</a>：每天早上更新昨夜美股收盤訊號。</section>')
     sections.append('<section><a href="international_rank.html">國際事件加權 Top 5（實驗）</a>：公司證據、事件加減分及向前比較。</section>')
