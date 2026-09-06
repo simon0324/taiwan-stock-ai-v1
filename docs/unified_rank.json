@@ -7,7 +7,7 @@
     "us": 0.1
   },
   "market_date": "2026-09-04",
-  "as_of": "2026-09-06T01:01:04.171359+08:00",
+  "as_of": "2026-09-06T10:51:17.866930+08:00",
   "complete": true,
   "problems": [],
   "ranking": [
@@ -51,7 +51,7 @@
     {
       "code": "2382",
       "name": "廣達",
-      "original_score": 88.7348484848485,
+      "original_score": 87.7348484848485,
       "base_score_without_news": 92.35247208931422,
       "domestic_score": 50.0,
       "international_score": 50,
@@ -137,7 +137,7 @@
     {
       "code": "3006",
       "name": "晶豪科",
-      "original_score": 88.24242424242425,
+      "original_score": 86.24242424242425,
       "base_score_without_news": 90.78149920255184,
       "domestic_score": 50.0,
       "international_score": 50,
@@ -525,7 +525,7 @@
     {
       "code": "8996",
       "name": "高力",
-      "original_score": 79.13636363636363,
+      "original_score": 78.13636363636363,
       "base_score_without_news": 82.24880382775119,
       "domestic_score": 50.0,
       "international_score": 50,
@@ -775,7 +775,7 @@
     {
       "code": "6426",
       "name": "統新",
-      "original_score": 76.65909090909089,
+      "original_score": 75.65909090909089,
       "base_score_without_news": 79.64114832535884,
       "domestic_score": 50.0,
       "international_score": 50,
@@ -825,7 +825,7 @@
     {
       "code": "2317",
       "name": "鴻海",
-      "original_score": 76.11363636363636,
+      "original_score": 75.11363636363636,
       "base_score_without_news": 79.06698564593302,
       "domestic_score": 50.0,
       "international_score": 50,
@@ -924,7 +924,7 @@
     {
       "code": "2464",
       "name": "盟立",
-      "original_score": 77.15151515151514,
+      "original_score": 74.15151515151514,
       "base_score_without_news": 78.0542264752791,
       "domestic_score": 50.0,
       "international_score": 50,
@@ -982,7 +982,7 @@
     {
       "code": "5284",
       "name": "jpp-KY",
-      "original_score": 75.0378787878788,
+      "original_score": 74.0378787878788,
       "base_score_without_news": 77.93460925039874,
       "domestic_score": 50.0,
       "international_score": 50,
@@ -1179,7 +1179,7 @@
     {
       "code": "2308",
       "name": "台達電",
-      "original_score": 74.99242424242425,
+      "original_score": 72.99242424242425,
       "base_score_without_news": 76.83413078149921,
       "domestic_score": 50.0,
       "international_score": 50,
@@ -1638,7 +1638,7 @@
     {
       "code": "2207",
       "name": "和泰車",
-      "original_score": 71.09848484848486,
+      "original_score": 70.09848484848486,
       "base_score_without_news": 73.7878787878788,
       "domestic_score": 50.0,
       "international_score": 50,
@@ -1760,7 +1760,7 @@
     {
       "code": "1303",
       "name": "南亞",
-      "original_score": 70.1590909090909,
+      "original_score": 69.1590909090909,
       "base_score_without_news": 72.79904306220095,
       "domestic_score": 50.0,
       "international_score": 50,
@@ -1841,7 +1841,7 @@
     {
       "code": "6214",
       "name": "精誠",
-      "original_score": 70.93939393939395,
+      "original_score": 68.93939393939395,
       "base_score_without_news": 72.5677830940989,
       "domestic_score": 50.0,
       "international_score": 50,
@@ -2612,7 +2612,7 @@
     {
       "code": "6446",
       "name": "藥華藥",
-      "original_score": 66.34848484848484,
+      "original_score": 65.34848484848484,
       "base_score_without_news": 68.78787878787878,
       "domestic_score": 50.0,
       "international_score": 50,
@@ -2712,7 +2712,7 @@
     {
       "code": "6526",
       "name": "達發",
-      "original_score": 66.0378787878788,
+      "original_score": 65.0378787878788,
       "base_score_without_news": 68.46092503987242,
       "domestic_score": 50.0,
       "international_score": 50,
@@ -2978,12 +2978,12 @@
     {
       "code": "2492",
       "name": "華新科",
-      "original_score": 64.72727272727273,
-      "base_score_without_news": 67.08133971291868,
+      "original_score": 63.72727272727273,
+      "base_score_without_news": 67.08133971291866,
       "domestic_score": 50.0,
       "international_score": 50,
       "us_score": 44.915438011071764,
-      "unified_score": 62.30254858579618,
+      "unified_score": 62.302548585796174,
       "missing": [],
       "domestic_events": [
         {
@@ -3136,7 +3136,7 @@
     {
       "code": "1563",
       "name": "巧新",
-      "original_score": 63.47727272727273,
+      "original_score": 62.47727272727273,
       "base_score_without_news": 65.76555023923446,
       "domestic_score": 50.0,
       "international_score": 50,
@@ -3186,7 +3186,7 @@
     {
       "code": "3665",
       "name": "貿聯-KY",
-      "original_score": 63.34848484848485,
+      "original_score": 62.34848484848485,
       "base_score_without_news": 65.62998405103669,
       "domestic_score": 50.0,
       "international_score": 50,
@@ -3290,7 +3290,7 @@
     {
       "code": "2882",
       "name": "國泰金",
-      "original_score": 63.17424242424243,
+      "original_score": 62.17424242424243,
       "base_score_without_news": 65.44657097288678,
       "domestic_score": 50.0,
       "international_score": 50,
@@ -3421,7 +3421,7 @@
     {
       "code": "1560",
       "name": "中砂",
-      "original_score": 62.5,
+      "original_score": 61.5,
       "base_score_without_news": 64.73684210526316,
       "domestic_score": 50.0,
       "international_score": 50,
@@ -3611,7 +3611,7 @@
     {
       "code": "2449",
       "name": "京元電子",
-      "original_score": 61.90151515151515,
+      "original_score": 60.90151515151515,
       "base_score_without_news": 64.10685805422648,
       "domestic_score": 50.0,
       "international_score": 50,
@@ -3905,14 +3905,28 @@
     {
       "code": "4763",
       "name": "材料*-KY",
-      "original_score": 59.81060606060606,
+      "original_score": 60.81060606060606,
       "base_score_without_news": 62.95853269537481,
       "domestic_score": 50.0,
       "international_score": 50,
       "us_score": 44.915438011071764,
       "unified_score": 59.210443322638284,
       "missing": [],
-      "domestic_events": [],
+      "domestic_events": [
+        {
+          "id": "6a1b17b608756075018ec57a",
+          "code": "4763",
+          "title": "代子公司北屏新材料（山東）有限公司公告新增資金貸與金額\r\n達新臺幣一千萬元以上且達該公開發行公司最近期財務報表\r\n淨值百分之二以上。",
+          "published_at": "2026-09-05T15:44:12+08:00",
+          "first_seen_at": "2026-09-06T10:51:14.460170+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        }
+      ],
       "international_events": [],
       "us_components": [
         "S&P 500",
@@ -3941,7 +3955,7 @@
     {
       "code": "4958",
       "name": "臻鼎-KY",
-      "original_score": 64.75,
+      "original_score": 59.75,
       "base_score_without_news": 62.89473684210527,
       "domestic_score": 50.0,
       "international_score": 50,
@@ -4173,7 +4187,7 @@
     {
       "code": "2498",
       "name": "宏達電",
-      "original_score": 61.03787878787879,
+      "original_score": 59.03787878787879,
       "base_score_without_news": 62.1451355661882,
       "domestic_score": 50.0,
       "international_score": 50,
@@ -4250,7 +4264,7 @@
     {
       "code": "6415",
       "name": "矽力*-KY",
-      "original_score": 62.93939393939394,
+      "original_score": 58.93939393939394,
       "base_score_without_news": 62.0414673046252,
       "domestic_score": 50.0,
       "international_score": 50,
@@ -4502,7 +4516,7 @@
     {
       "code": "3034",
       "name": "聯詠",
-      "original_score": 57.51515151515151,
+      "original_score": 56.51515151515151,
       "base_score_without_news": 59.48963317384369,
       "domestic_score": 50.0,
       "international_score": 50,
@@ -5049,7 +5063,7 @@
     {
       "code": "2887",
       "name": "台新新光金",
-      "original_score": 57.34848484848485,
+      "original_score": 56.34848484848485,
       "base_score_without_news": 59.31419457735248,
       "domestic_score": 50.0,
       "international_score": 50,
@@ -5243,7 +5257,7 @@
     {
       "code": "2379",
       "name": "瑞昱",
-      "original_score": 57.07575757575757,
+      "original_score": 55.07575757575757,
       "base_score_without_news": 57.974481658692184,
       "domestic_score": 50.0,
       "international_score": 50,
@@ -5378,7 +5392,7 @@
     {
       "code": "3033",
       "name": "威健",
-      "original_score": 57.84090909090909,
+      "original_score": 54.84090909090909,
       "base_score_without_news": 57.727272727272734,
       "domestic_score": 50.0,
       "international_score": 50,
@@ -5874,7 +5888,7 @@
     {
       "code": "2441",
       "name": "超豐",
-      "original_score": 53.69696969696971,
+      "original_score": 52.69696969696971,
       "base_score_without_news": 55.47049441786285,
       "domestic_score": 50.0,
       "international_score": 50,
@@ -6082,7 +6096,7 @@
     {
       "code": "2474",
       "name": "可成",
-      "original_score": 53.34090909090909,
+      "original_score": 52.34090909090909,
       "base_score_without_news": 55.09569377990431,
       "domestic_score": 50.0,
       "international_score": 50,
@@ -6280,6 +6294,19 @@
       "unified_score": 52.76905576282966,
       "missing": [],
       "domestic_events": [
+        {
+          "id": "628debfce064f4f445430b1c",
+          "code": "2891",
+          "title": "代子公司中國信託商業銀行股份有限公司公告\r\n與支付寶支付科技有限公司合作支付寶支付續約",
+          "published_at": "2026-09-05T10:10:47+08:00",
+          "first_seen_at": "2026-09-06T10:51:14.460170+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
         {
           "id": "813546983227bdbf9f443465",
           "code": "2891",
@@ -6817,7 +6844,7 @@
     {
       "code": "3003",
       "name": "健和興",
-      "original_score": 50.71969696969697,
+      "original_score": 49.71969696969697,
       "base_score_without_news": 52.33652312599681,
       "domestic_score": 50.0,
       "international_score": 50,
@@ -7367,7 +7394,7 @@
     {
       "code": "8028",
       "name": "昇陽半導體",
-      "original_score": 47.32575757575757,
+      "original_score": 46.32575757575757,
       "base_score_without_news": 48.76395534290271,
       "domestic_score": 50.0,
       "international_score": 50,
@@ -7435,14 +7462,28 @@
     {
       "code": "3035",
       "name": "智原",
-      "original_score": 46.196969696969695,
+      "original_score": 47.196969696969695,
       "base_score_without_news": 48.62838915470495,
       "domestic_score": 50.0,
       "international_score": 50,
       "us_score": 44.915438011071764,
       "unified_score": 48.462835667135884,
       "missing": [],
-      "domestic_events": [],
+      "domestic_events": [
+        {
+          "id": "c40f8f5b04a7d84416a68f4b",
+          "code": "3035",
+          "title": "公告本公司內部稽核主管異動",
+          "published_at": "2026-09-05T18:44:41+08:00",
+          "first_seen_at": "2026-09-06T10:51:14.460170+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        }
+      ],
       "international_events": [],
       "us_components": [
         "S&P 500",
@@ -7819,7 +7860,7 @@
     {
       "code": "2323",
       "name": "中環",
-      "original_score": 49.659090909090914,
+      "original_score": 44.659090909090914,
       "base_score_without_news": 47.00956937799044,
       "domestic_score": 50.0,
       "international_score": 50,
@@ -8536,7 +8577,7 @@
     {
       "code": "2002",
       "name": "中鋼",
-      "original_score": 40.71212121212122,
+      "original_score": 39.71212121212122,
       "base_score_without_news": 41.80223285486444,
       "domestic_score": 50.0,
       "international_score": 50,
@@ -8568,7 +8609,7 @@
     {
       "code": "1314",
       "name": "中石化",
-      "original_score": 40.65151515151515,
+      "original_score": 39.65151515151515,
       "base_score_without_news": 41.738437001594896,
       "domestic_score": 50.0,
       "international_score": 50,
@@ -8672,12 +8713,12 @@
     {
       "code": "8039",
       "name": "台虹",
-      "original_score": 39.939393939393945,
-      "base_score_without_news": 40.98883572567784,
+      "original_score": 38.93939393939394,
+      "base_score_without_news": 40.98883572567783,
       "domestic_score": 50.0,
       "international_score": 50,
       "us_score": 44.915438011071764,
-      "unified_score": 42.73317059536556,
+      "unified_score": 42.73317059536555,
       "missing": [],
       "domestic_events": [
         {
@@ -8722,7 +8763,7 @@
     {
       "code": "7799",
       "name": "禾榮科",
-      "original_score": 39.57575757575757,
+      "original_score": 38.57575757575757,
       "base_score_without_news": 40.6060606060606,
       "domestic_score": 50.0,
       "international_score": 50,
@@ -9002,7 +9043,7 @@
     {
       "code": "2439",
       "name": "美律",
-      "original_score": 36.43181818181818,
+      "original_score": 35.43181818181818,
       "base_score_without_news": 37.29665071770335,
       "domestic_score": 50.0,
       "international_score": 50,

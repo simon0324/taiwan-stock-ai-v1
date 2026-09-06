@@ -13,6 +13,19 @@
     "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
   },
   {
+    "id": "c40f8f5b04a7d84416a68f4b",
+    "code": "3035",
+    "title": "公告本公司內部稽核主管異動",
+    "published_at": "2026-09-05T18:44:41+08:00",
+    "first_seen_at": "2026-09-06T10:51:14.460170+08:00",
+    "source": "證交所・公司重大訊息",
+    "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+    "official": true,
+    "category": "待查證",
+    "direction": 0,
+    "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+  },
+  {
     "id": "ff7d8d1fb95c51fb2e57b837",
     "code": "2317",
     "title": "鴻海8月營收創同期新高　看好AI需求第3季續成長",
@@ -21,6 +34,32 @@
     "source": "中央通訊社・產經",
     "url": "https://www.cna.com.tw/news/afe/202609050121.aspx",
     "official": false,
+    "category": "待查證",
+    "direction": 0,
+    "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+  },
+  {
+    "id": "6a1b17b608756075018ec57a",
+    "code": "4763",
+    "title": "代子公司北屏新材料（山東）有限公司公告新增資金貸與金額\r\n達新臺幣一千萬元以上且達該公開發行公司最近期財務報表\r\n淨值百分之二以上。",
+    "published_at": "2026-09-05T15:44:12+08:00",
+    "first_seen_at": "2026-09-06T10:51:14.460170+08:00",
+    "source": "證交所・公司重大訊息",
+    "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+    "official": true,
+    "category": "待查證",
+    "direction": 0,
+    "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+  },
+  {
+    "id": "628debfce064f4f445430b1c",
+    "code": "2891",
+    "title": "代子公司中國信託商業銀行股份有限公司公告\r\n與支付寶支付科技有限公司合作支付寶支付續約",
+    "published_at": "2026-09-05T10:10:47+08:00",
+    "first_seen_at": "2026-09-06T10:51:14.460170+08:00",
+    "source": "證交所・公司重大訊息",
+    "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+    "official": true,
     "category": "待查證",
     "direction": 0,
     "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"

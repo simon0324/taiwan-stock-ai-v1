@@ -1,6 +1,6 @@
 {
   "rules_version": "us-overnight-1",
-  "as_of": "2026-09-06T01:01:03.543484+08:00",
+  "as_of": "2026-09-06T10:51:17.206471+08:00",
   "market_date": "2026-09-04",
   "us_market_date": "2026-09-04",
   "source_status": "正常",
@@ -125,24 +125,10 @@
     {
       "code": "2382",
       "name": "廣達",
-      "original_score": 88.7348484848485,
+      "original_score": 87.7348484848485,
       "us_score": 44.915438011071764,
       "us_adjustment": -0.5084561988928238,
-      "weighted_score": 84.35290743747082,
-      "semiconductor_evidence": null,
-      "components": [
-        "S&P 500",
-        "Nasdaq",
-        "VIX（反向）"
-      ]
-    },
-    {
-      "code": "3006",
-      "name": "晶豪科",
-      "original_score": 88.24242424242425,
-      "us_score": 44.915438011071764,
-      "us_adjustment": -0.5084561988928238,
-      "weighted_score": 83.90972561928899,
+      "weighted_score": 83.45290743747083,
       "semiconductor_evidence": null,
       "components": [
         "S&P 500",
@@ -185,6 +171,20 @@
       "us_score": 44.915438011071764,
       "us_adjustment": -0.5084561988928238,
       "weighted_score": 82.29381652837989,
+      "semiconductor_evidence": null,
+      "components": [
+        "S&P 500",
+        "Nasdaq",
+        "VIX（反向）"
+      ]
+    },
+    {
+      "code": "3006",
+      "name": "晶豪科",
+      "original_score": 86.24242424242425,
+      "us_score": 44.915438011071764,
+      "us_adjustment": -0.5084561988928238,
+      "weighted_score": 82.109725619289,
       "semiconductor_evidence": null,
       "components": [
         "S&P 500",
@@ -394,20 +394,6 @@
       ]
     },
     {
-      "code": "8996",
-      "name": "高力",
-      "original_score": 79.13636363636363,
-      "us_score": 44.915438011071764,
-      "us_adjustment": -0.5084561988928238,
-      "weighted_score": 75.71427107383444,
-      "semiconductor_evidence": null,
-      "components": [
-        "S&P 500",
-        "Nasdaq",
-        "VIX（反向）"
-      ]
-    },
-    {
       "code": "7750",
       "name": "新代",
       "original_score": 78.84848484848486,
@@ -478,6 +464,20 @@
       ]
     },
     {
+      "code": "8996",
+      "name": "高力",
+      "original_score": 78.13636363636363,
+      "us_score": 44.915438011071764,
+      "us_adjustment": -0.5084561988928238,
+      "weighted_score": 74.81427107383443,
+      "semiconductor_evidence": null,
+      "components": [
+        "S&P 500",
+        "Nasdaq",
+        "VIX（反向）"
+      ]
+    },
+    {
       "code": "4912",
       "name": "聯德控股-KY",
       "original_score": 77.91666666666667,
@@ -534,20 +534,6 @@
       ]
     },
     {
-      "code": "2464",
-      "name": "盟立",
-      "original_score": 77.15151515151514,
-      "us_score": 44.915438011071764,
-      "us_adjustment": -0.5084561988928238,
-      "weighted_score": 73.9279074374708,
-      "semiconductor_evidence": null,
-      "components": [
-        "S&P 500",
-        "Nasdaq",
-        "VIX（反向）"
-      ]
-    },
-    {
       "code": "2454",
       "name": "聯發科",
       "original_score": 75.23484848484848,
@@ -573,20 +559,6 @@
       "us_score": 44.915438011071764,
       "us_adjustment": -0.5084561988928238,
       "weighted_score": 73.484725619289,
-      "semiconductor_evidence": null,
-      "components": [
-        "S&P 500",
-        "Nasdaq",
-        "VIX（反向）"
-      ]
-    },
-    {
-      "code": "6426",
-      "name": "統新",
-      "original_score": 76.65909090909089,
-      "us_score": 44.915438011071764,
-      "us_adjustment": -0.5084561988928238,
-      "weighted_score": 73.48472561928898,
       "semiconductor_evidence": null,
       "components": [
         "S&P 500",
@@ -623,12 +595,12 @@
       ]
     },
     {
-      "code": "2317",
-      "name": "鴻海",
-      "original_score": 76.11363636363636,
+      "code": "4576",
+      "name": "大銀微系統",
+      "original_score": 75.84848484848484,
       "us_score": 44.915438011071764,
       "us_adjustment": -0.5084561988928238,
-      "weighted_score": 72.9938165283799,
+      "weighted_score": 72.75518016474354,
       "semiconductor_evidence": null,
       "components": [
         "S&P 500",
@@ -637,12 +609,12 @@
       ]
     },
     {
-      "code": "4576",
-      "name": "大銀微系統",
-      "original_score": 75.84848484848484,
+      "code": "6426",
+      "name": "統新",
+      "original_score": 75.65909090909089,
       "us_score": 44.915438011071764,
       "us_adjustment": -0.5084561988928238,
-      "weighted_score": 72.75518016474354,
+      "weighted_score": 72.58472561928897,
       "semiconductor_evidence": null,
       "components": [
         "S&P 500",
@@ -665,40 +637,26 @@
       ]
     },
     {
+      "code": "2317",
+      "name": "鴻海",
+      "original_score": 75.11363636363636,
+      "us_score": 44.915438011071764,
+      "us_adjustment": -0.5084561988928238,
+      "weighted_score": 72.09381652837989,
+      "semiconductor_evidence": null,
+      "components": [
+        "S&P 500",
+        "Nasdaq",
+        "VIX（反向）"
+      ]
+    },
+    {
       "code": "3443",
       "name": "創意",
       "original_score": 75.07575757575758,
       "us_score": 44.915438011071764,
       "us_adjustment": -0.5084561988928238,
       "weighted_score": 72.059725619289,
-      "semiconductor_evidence": null,
-      "components": [
-        "S&P 500",
-        "Nasdaq",
-        "VIX（反向）"
-      ]
-    },
-    {
-      "code": "5284",
-      "name": "jpp-KY",
-      "original_score": 75.0378787878788,
-      "us_score": 44.915438011071764,
-      "us_adjustment": -0.5084561988928238,
-      "weighted_score": 72.02563471019809,
-      "semiconductor_evidence": null,
-      "components": [
-        "S&P 500",
-        "Nasdaq",
-        "VIX（反向）"
-      ]
-    },
-    {
-      "code": "2308",
-      "name": "台達電",
-      "original_score": 74.99242424242425,
-      "us_score": 44.915438011071764,
-      "us_adjustment": -0.5084561988928238,
-      "weighted_score": 71.984725619289,
       "semiconductor_evidence": null,
       "components": [
         "S&P 500",
@@ -727,6 +685,34 @@
       "us_score": 44.915438011071764,
       "us_adjustment": -0.5084561988928238,
       "weighted_score": 71.69154380110717,
+      "semiconductor_evidence": null,
+      "components": [
+        "S&P 500",
+        "Nasdaq",
+        "VIX（反向）"
+      ]
+    },
+    {
+      "code": "2464",
+      "name": "盟立",
+      "original_score": 74.15151515151514,
+      "us_score": 44.915438011071764,
+      "us_adjustment": -0.5084561988928238,
+      "weighted_score": 71.2279074374708,
+      "semiconductor_evidence": null,
+      "components": [
+        "S&P 500",
+        "Nasdaq",
+        "VIX（反向）"
+      ]
+    },
+    {
+      "code": "5284",
+      "name": "jpp-KY",
+      "original_score": 74.0378787878788,
+      "us_score": 44.915438011071764,
+      "us_adjustment": -0.5084561988928238,
+      "weighted_score": 71.12563471019809,
       "semiconductor_evidence": null,
       "components": [
         "S&P 500",
@@ -825,6 +811,20 @@
       "us_score": 44.915438011071764,
       "us_adjustment": -0.5084561988928238,
       "weighted_score": 70.26654380110716,
+      "semiconductor_evidence": null,
+      "components": [
+        "S&P 500",
+        "Nasdaq",
+        "VIX（反向）"
+      ]
+    },
+    {
+      "code": "2308",
+      "name": "台達電",
+      "original_score": 72.99242424242425,
+      "us_score": 44.915438011071764,
+      "us_adjustment": -0.5084561988928238,
+      "weighted_score": 70.184725619289,
       "semiconductor_evidence": null,
       "components": [
         "S&P 500",
@@ -1029,34 +1029,6 @@
       ]
     },
     {
-      "code": "2207",
-      "name": "和泰車",
-      "original_score": 71.09848484848486,
-      "us_score": 44.915438011071764,
-      "us_adjustment": -0.5084561988928238,
-      "weighted_score": 68.48018016474354,
-      "semiconductor_evidence": null,
-      "components": [
-        "S&P 500",
-        "Nasdaq",
-        "VIX（反向）"
-      ]
-    },
-    {
-      "code": "6214",
-      "name": "精誠",
-      "original_score": 70.93939393939395,
-      "us_score": 44.915438011071764,
-      "us_adjustment": -0.5084561988928238,
-      "weighted_score": 68.33699834656173,
-      "semiconductor_evidence": null,
-      "components": [
-        "S&P 500",
-        "Nasdaq",
-        "VIX（反向）"
-      ]
-    },
-    {
       "code": "6209",
       "name": "今國光",
       "original_score": 70.86363636363636,
@@ -1127,12 +1099,12 @@
       ]
     },
     {
-      "code": "1303",
-      "name": "南亞",
-      "original_score": 70.1590909090909,
+      "code": "4949",
+      "name": "有成精密",
+      "original_score": 70.13636363636364,
       "us_score": 44.915438011071764,
       "us_adjustment": -0.5084561988928238,
-      "weighted_score": 67.63472561928899,
+      "weighted_score": 67.61427107383444,
       "semiconductor_evidence": null,
       "components": [
         "S&P 500",
@@ -1141,12 +1113,12 @@
       ]
     },
     {
-      "code": "4949",
-      "name": "有成精密",
-      "original_score": 70.13636363636364,
+      "code": "2207",
+      "name": "和泰車",
+      "original_score": 70.09848484848486,
       "us_score": 44.915438011071764,
       "us_adjustment": -0.5084561988928238,
-      "weighted_score": 67.61427107383444,
+      "weighted_score": 67.58018016474355,
       "semiconductor_evidence": null,
       "components": [
         "S&P 500",
@@ -1225,6 +1197,20 @@
       ]
     },
     {
+      "code": "1303",
+      "name": "南亞",
+      "original_score": 69.1590909090909,
+      "us_score": 44.915438011071764,
+      "us_adjustment": -0.5084561988928238,
+      "weighted_score": 66.734725619289,
+      "semiconductor_evidence": null,
+      "components": [
+        "S&P 500",
+        "Nasdaq",
+        "VIX（反向）"
+      ]
+    },
+    {
       "code": "2615",
       "name": "萬海",
       "original_score": 69.14393939393939,
@@ -1245,6 +1231,20 @@
       "us_score": 44.915438011071764,
       "us_adjustment": -0.5084561988928238,
       "weighted_score": 66.59836198292537,
+      "semiconductor_evidence": null,
+      "components": [
+        "S&P 500",
+        "Nasdaq",
+        "VIX（反向）"
+      ]
+    },
+    {
+      "code": "6214",
+      "name": "精誠",
+      "original_score": 68.93939393939395,
+      "us_score": 44.915438011071764,
+      "us_adjustment": -0.5084561988928238,
+      "weighted_score": 66.53699834656173,
       "semiconductor_evidence": null,
       "components": [
         "S&P 500",
@@ -1622,20 +1622,6 @@
       ]
     },
     {
-      "code": "6446",
-      "name": "藥華藥",
-      "original_score": 66.34848484848484,
-      "us_score": 44.915438011071764,
-      "us_adjustment": -0.5084561988928238,
-      "weighted_score": 64.20518016474354,
-      "semiconductor_evidence": null,
-      "components": [
-        "S&P 500",
-        "Nasdaq",
-        "VIX（反向）"
-      ]
-    },
-    {
       "code": "1326",
       "name": "台化",
       "original_score": 66.31060606060606,
@@ -1706,20 +1692,6 @@
       ]
     },
     {
-      "code": "6526",
-      "name": "達發",
-      "original_score": 66.0378787878788,
-      "us_score": 44.915438011071764,
-      "us_adjustment": -0.5084561988928238,
-      "weighted_score": 63.925634710198096,
-      "semiconductor_evidence": null,
-      "components": [
-        "S&P 500",
-        "Nasdaq",
-        "VIX（反向）"
-      ]
-    },
-    {
       "code": "3706",
       "name": "神達",
       "original_score": 65.9090909090909,
@@ -1776,6 +1748,20 @@
       ]
     },
     {
+      "code": "6446",
+      "name": "藥華藥",
+      "original_score": 65.34848484848484,
+      "us_score": 44.915438011071764,
+      "us_adjustment": -0.5084561988928238,
+      "weighted_score": 63.30518016474354,
+      "semiconductor_evidence": null,
+      "components": [
+        "S&P 500",
+        "Nasdaq",
+        "VIX（反向）"
+      ]
+    },
+    {
       "code": "2388",
       "name": "威盛",
       "original_score": 65.31818181818181,
@@ -1810,6 +1796,20 @@
       "us_score": 44.915438011071764,
       "us_adjustment": -0.5084561988928238,
       "weighted_score": 63.182452892016265,
+      "semiconductor_evidence": null,
+      "components": [
+        "S&P 500",
+        "Nasdaq",
+        "VIX（反向）"
+      ]
+    },
+    {
+      "code": "6526",
+      "name": "達發",
+      "original_score": 65.0378787878788,
+      "us_score": 44.915438011071764,
+      "us_adjustment": -0.5084561988928238,
+      "weighted_score": 63.0256347101981,
       "semiconductor_evidence": null,
       "components": [
         "S&P 500",
@@ -1860,20 +1860,6 @@
       ]
     },
     {
-      "code": "4958",
-      "name": "臻鼎-KY",
-      "original_score": 64.75,
-      "us_score": 44.915438011071764,
-      "us_adjustment": -0.5084561988928238,
-      "weighted_score": 62.766543801107176,
-      "semiconductor_evidence": null,
-      "components": [
-        "S&P 500",
-        "Nasdaq",
-        "VIX（反向）"
-      ]
-    },
-    {
       "code": "1503",
       "name": "士電",
       "original_score": 64.73484848484848,
@@ -1894,20 +1880,6 @@
       "us_score": 44.915438011071764,
       "us_adjustment": -0.5084561988928238,
       "weighted_score": 62.75290743747082,
-      "semiconductor_evidence": null,
-      "components": [
-        "S&P 500",
-        "Nasdaq",
-        "VIX（反向）"
-      ]
-    },
-    {
-      "code": "2492",
-      "name": "華新科",
-      "original_score": 64.72727272727273,
-      "us_score": 44.915438011071764,
-      "us_adjustment": -0.5084561988928238,
-      "weighted_score": 62.74608925565264,
       "semiconductor_evidence": null,
       "components": [
         "S&P 500",
@@ -2028,40 +2000,26 @@
       ]
     },
     {
+      "code": "2492",
+      "name": "華新科",
+      "original_score": 63.72727272727273,
+      "us_score": 44.915438011071764,
+      "us_adjustment": -0.5084561988928238,
+      "weighted_score": 61.84608925565263,
+      "semiconductor_evidence": null,
+      "components": [
+        "S&P 500",
+        "Nasdaq",
+        "VIX（反向）"
+      ]
+    },
+    {
       "code": "2881",
       "name": "富邦金",
       "original_score": 63.65909090909091,
       "us_score": 44.915438011071764,
       "us_adjustment": -0.5084561988928238,
       "weighted_score": 61.78472561928899,
-      "semiconductor_evidence": null,
-      "components": [
-        "S&P 500",
-        "Nasdaq",
-        "VIX（反向）"
-      ]
-    },
-    {
-      "code": "1563",
-      "name": "巧新",
-      "original_score": 63.47727272727273,
-      "us_score": 44.915438011071764,
-      "us_adjustment": -0.5084561988928238,
-      "weighted_score": 61.621089255652635,
-      "semiconductor_evidence": null,
-      "components": [
-        "S&P 500",
-        "Nasdaq",
-        "VIX（反向）"
-      ]
-    },
-    {
-      "code": "3665",
-      "name": "貿聯-KY",
-      "original_score": 63.34848484848485,
-      "us_score": 44.915438011071764,
-      "us_adjustment": -0.5084561988928238,
-      "weighted_score": 61.50518016474354,
       "semiconductor_evidence": null,
       "components": [
         "S&P 500",
@@ -2084,40 +2042,12 @@
       ]
     },
     {
-      "code": "2882",
-      "name": "國泰金",
-      "original_score": 63.17424242424243,
-      "us_score": 44.915438011071764,
-      "us_adjustment": -0.5084561988928238,
-      "weighted_score": 61.34836198292536,
-      "semiconductor_evidence": null,
-      "components": [
-        "S&P 500",
-        "Nasdaq",
-        "VIX（反向）"
-      ]
-    },
-    {
       "code": "2612",
       "name": "中航",
       "original_score": 63.053030303030305,
       "us_score": 44.915438011071764,
       "us_adjustment": -0.5084561988928238,
       "weighted_score": 61.23927107383445,
-      "semiconductor_evidence": null,
-      "components": [
-        "S&P 500",
-        "Nasdaq",
-        "VIX（反向）"
-      ]
-    },
-    {
-      "code": "6415",
-      "name": "矽力*-KY",
-      "original_score": 62.93939393939394,
-      "us_score": 44.915438011071764,
-      "us_adjustment": -0.5084561988928238,
-      "weighted_score": 61.136998346561725,
       "semiconductor_evidence": null,
       "components": [
         "S&P 500",
@@ -2182,12 +2112,12 @@
       ]
     },
     {
-      "code": "1560",
-      "name": "中砂",
-      "original_score": 62.5,
+      "code": "1563",
+      "name": "巧新",
+      "original_score": 62.47727272727273,
       "us_score": 44.915438011071764,
       "us_adjustment": -0.5084561988928238,
-      "weighted_score": 60.74154380110718,
+      "weighted_score": 60.72108925565263,
       "semiconductor_evidence": null,
       "components": [
         "S&P 500",
@@ -2202,6 +2132,20 @@
       "us_score": 44.915438011071764,
       "us_adjustment": -0.5084561988928238,
       "weighted_score": 60.68699834656172,
+      "semiconductor_evidence": null,
+      "components": [
+        "S&P 500",
+        "Nasdaq",
+        "VIX（反向）"
+      ]
+    },
+    {
+      "code": "3665",
+      "name": "貿聯-KY",
+      "original_score": 62.34848484848485,
+      "us_score": 44.915438011071764,
+      "us_adjustment": -0.5084561988928238,
+      "weighted_score": 60.605180164743544,
       "semiconductor_evidence": null,
       "components": [
         "S&P 500",
@@ -2266,12 +2210,12 @@
       ]
     },
     {
-      "code": "1319",
-      "name": "東陽",
-      "original_score": 61.93181818181819,
+      "code": "2882",
+      "name": "國泰金",
+      "original_score": 62.17424242424243,
       "us_score": 44.915438011071764,
       "us_adjustment": -0.5084561988928238,
-      "weighted_score": 60.230180164743544,
+      "weighted_score": 60.44836198292536,
       "semiconductor_evidence": null,
       "components": [
         "S&P 500",
@@ -2280,12 +2224,12 @@
       ]
     },
     {
-      "code": "2449",
-      "name": "京元電子",
-      "original_score": 61.90151515151515,
+      "code": "1319",
+      "name": "東陽",
+      "original_score": 61.93181818181819,
       "us_score": 44.915438011071764,
       "us_adjustment": -0.5084561988928238,
-      "weighted_score": 60.20290743747081,
+      "weighted_score": 60.230180164743544,
       "semiconductor_evidence": null,
       "components": [
         "S&P 500",
@@ -2328,6 +2272,20 @@
       "us_score": 44.915438011071764,
       "us_adjustment": -0.5084561988928238,
       "weighted_score": 59.86199834656173,
+      "semiconductor_evidence": null,
+      "components": [
+        "S&P 500",
+        "Nasdaq",
+        "VIX（反向）"
+      ]
+    },
+    {
+      "code": "1560",
+      "name": "中砂",
+      "original_score": 61.5,
+      "us_score": 44.915438011071764,
+      "us_adjustment": -0.5084561988928238,
+      "weighted_score": 59.84154380110718,
       "semiconductor_evidence": null,
       "components": [
         "S&P 500",
@@ -2448,12 +2406,26 @@
       ]
     },
     {
-      "code": "2498",
-      "name": "宏達電",
-      "original_score": 61.03787878787879,
+      "code": "2449",
+      "name": "京元電子",
+      "original_score": 60.90151515151515,
       "us_score": 44.915438011071764,
       "us_adjustment": -0.5084561988928238,
-      "weighted_score": 59.42563471019809,
+      "weighted_score": 59.302907437470815,
+      "semiconductor_evidence": null,
+      "components": [
+        "S&P 500",
+        "Nasdaq",
+        "VIX（反向）"
+      ]
+    },
+    {
+      "code": "4763",
+      "name": "材料*-KY",
+      "original_score": 60.81060606060606,
+      "us_score": 44.915438011071764,
+      "us_adjustment": -0.5084561988928238,
+      "weighted_score": 59.221089255652636,
       "semiconductor_evidence": null,
       "components": [
         "S&P 500",
@@ -2644,8 +2616,8 @@
       ]
     },
     {
-      "code": "4763",
-      "name": "材料*-KY",
+      "code": "6789",
+      "name": "采鈺",
       "original_score": 59.81060606060606,
       "us_score": 44.915438011071764,
       "us_adjustment": -0.5084561988928238,
@@ -2658,12 +2630,12 @@
       ]
     },
     {
-      "code": "6789",
-      "name": "采鈺",
-      "original_score": 59.81060606060606,
+      "code": "4958",
+      "name": "臻鼎-KY",
+      "original_score": 59.75,
       "us_score": 44.915438011071764,
       "us_adjustment": -0.5084561988928238,
-      "weighted_score": 58.32108925565264,
+      "weighted_score": 58.266543801107176,
       "semiconductor_evidence": null,
       "components": [
         "S&P 500",
@@ -2756,22 +2728,17 @@
       ]
     },
     {
-      "code": "3034",
-      "name": "聯詠",
-      "original_score": 57.51515151515151,
-      "us_score": 59.915438011071764,
-      "us_adjustment": 0.9915438011071762,
-      "weighted_score": 57.755180164743535,
-      "semiconductor_evidence": {
-        "url": "https://www.novatek.com.tw/en-global/about/about",
-        "text": "公司頁說明顯示與影像處理 IC 業務。",
-        "risk": "產業同向只是待驗證假設；公司基本面、客戶、產品與台股開盤跳空可造成不同走勢。"
-      },
+      "code": "2498",
+      "name": "宏達電",
+      "original_score": 59.03787878787879,
+      "us_score": 44.915438011071764,
+      "us_adjustment": -0.5084561988928238,
+      "weighted_score": 57.625634710198085,
+      "semiconductor_evidence": null,
       "components": [
         "S&P 500",
         "Nasdaq",
-        "VIX（反向）",
-        "SOX"
+        "VIX（反向）"
       ]
     },
     {
@@ -2781,6 +2748,20 @@
       "us_score": 44.915438011071764,
       "us_adjustment": -0.5084561988928238,
       "weighted_score": 57.625634710198085,
+      "semiconductor_evidence": null,
+      "components": [
+        "S&P 500",
+        "Nasdaq",
+        "VIX（反向）"
+      ]
+    },
+    {
+      "code": "6415",
+      "name": "矽力*-KY",
+      "original_score": 58.93939393939394,
+      "us_score": 44.915438011071764,
+      "us_adjustment": -0.5084561988928238,
+      "weighted_score": 57.536998346561724,
       "semiconductor_evidence": null,
       "components": [
         "S&P 500",
@@ -2976,26 +2957,31 @@
       ]
     },
     {
+      "code": "3034",
+      "name": "聯詠",
+      "original_score": 56.51515151515151,
+      "us_score": 59.915438011071764,
+      "us_adjustment": 0.9915438011071762,
+      "weighted_score": 56.85518016474354,
+      "semiconductor_evidence": {
+        "url": "https://www.novatek.com.tw/en-global/about/about",
+        "text": "公司頁說明顯示與影像處理 IC 業務。",
+        "risk": "產業同向只是待驗證假設；公司基本面、客戶、產品與台股開盤跳空可造成不同走勢。"
+      },
+      "components": [
+        "S&P 500",
+        "Nasdaq",
+        "VIX（反向）",
+        "SOX"
+      ]
+    },
+    {
       "code": "1229",
       "name": "聯華",
       "original_score": 57.86363636363637,
       "us_score": 44.915438011071764,
       "us_adjustment": -0.5084561988928238,
       "weighted_score": 56.568816528379905,
-      "semiconductor_evidence": null,
-      "components": [
-        "S&P 500",
-        "Nasdaq",
-        "VIX（反向）"
-      ]
-    },
-    {
-      "code": "3033",
-      "name": "威健",
-      "original_score": 57.84090909090909,
-      "us_score": 44.915438011071764,
-      "us_adjustment": -0.5084561988928238,
-      "weighted_score": 56.548361982925364,
       "semiconductor_evidence": null,
       "components": [
         "S&P 500",
@@ -3038,20 +3024,6 @@
       "us_score": 44.915438011071764,
       "us_adjustment": -0.5084561988928238,
       "weighted_score": 56.227907437470805,
-      "semiconductor_evidence": null,
-      "components": [
-        "S&P 500",
-        "Nasdaq",
-        "VIX（反向）"
-      ]
-    },
-    {
-      "code": "2887",
-      "name": "台新新光金",
-      "original_score": 57.34848484848485,
-      "us_score": 44.915438011071764,
-      "us_adjustment": -0.5084561988928238,
-      "weighted_score": 56.105180164743544,
       "semiconductor_evidence": null,
       "components": [
         "S&P 500",
@@ -3150,20 +3122,6 @@
       "us_score": 44.915438011071764,
       "us_adjustment": -0.5084561988928238,
       "weighted_score": 55.88699834656172,
-      "semiconductor_evidence": null,
-      "components": [
-        "S&P 500",
-        "Nasdaq",
-        "VIX（反向）"
-      ]
-    },
-    {
-      "code": "2379",
-      "name": "瑞昱",
-      "original_score": 57.07575757575757,
-      "us_score": 44.915438011071764,
-      "us_adjustment": -0.5084561988928238,
-      "weighted_score": 55.859725619288994,
       "semiconductor_evidence": null,
       "components": [
         "S&P 500",
@@ -3312,6 +3270,20 @@
       ]
     },
     {
+      "code": "2887",
+      "name": "台新新光金",
+      "original_score": 56.34848484848485,
+      "us_score": 44.915438011071764,
+      "us_adjustment": -0.5084561988928238,
+      "weighted_score": 55.205180164743545,
+      "semiconductor_evidence": null,
+      "components": [
+        "S&P 500",
+        "Nasdaq",
+        "VIX（反向）"
+      ]
+    },
+    {
       "code": "6782",
       "name": "視陽",
       "original_score": 56.25,
@@ -3438,6 +3410,20 @@
       ]
     },
     {
+      "code": "2379",
+      "name": "瑞昱",
+      "original_score": 55.07575757575757,
+      "us_score": 44.915438011071764,
+      "us_adjustment": -0.5084561988928238,
+      "weighted_score": 54.05972561928899,
+      "semiconductor_evidence": null,
+      "components": [
+        "S&P 500",
+        "Nasdaq",
+        "VIX（反向）"
+      ]
+    },
+    {
       "code": "1710",
       "name": "東聯",
       "original_score": 55.00757575757576,
@@ -3496,6 +3482,20 @@
     {
       "code": "2845",
       "name": "遠東銀",
+      "original_score": 54.84090909090909,
+      "us_score": 44.915438011071764,
+      "us_adjustment": -0.5084561988928238,
+      "weighted_score": 53.84836198292536,
+      "semiconductor_evidence": null,
+      "components": [
+        "S&P 500",
+        "Nasdaq",
+        "VIX（反向）"
+      ]
+    },
+    {
+      "code": "3033",
+      "name": "威健",
       "original_score": 54.84090909090909,
       "us_score": 44.915438011071764,
       "us_adjustment": -0.5084561988928238,
@@ -3704,20 +3704,6 @@
       ]
     },
     {
-      "code": "2441",
-      "name": "超豐",
-      "original_score": 53.69696969696971,
-      "us_score": 44.915438011071764,
-      "us_adjustment": -0.5084561988928238,
-      "weighted_score": 52.81881652837992,
-      "semiconductor_evidence": null,
-      "components": [
-        "S&P 500",
-        "Nasdaq",
-        "VIX（反向）"
-      ]
-    },
-    {
       "code": "6949",
       "name": "沛爾生醫-創",
       "original_score": 53.63636363636365,
@@ -3766,20 +3752,6 @@
       "us_score": 44.915438011071764,
       "us_adjustment": -0.5084561988928238,
       "weighted_score": 52.655180164743534,
-      "semiconductor_evidence": null,
-      "components": [
-        "S&P 500",
-        "Nasdaq",
-        "VIX（反向）"
-      ]
-    },
-    {
-      "code": "2474",
-      "name": "可成",
-      "original_score": 53.34090909090909,
-      "us_score": 44.915438011071764,
-      "us_adjustment": -0.5084561988928238,
-      "weighted_score": 52.49836198292536,
       "semiconductor_evidence": null,
       "components": [
         "S&P 500",
@@ -3850,6 +3822,20 @@
       "us_score": 44.915438011071764,
       "us_adjustment": -0.5084561988928238,
       "weighted_score": 51.952907437470806,
+      "semiconductor_evidence": null,
+      "components": [
+        "S&P 500",
+        "Nasdaq",
+        "VIX（反向）"
+      ]
+    },
+    {
+      "code": "2441",
+      "name": "超豐",
+      "original_score": 52.69696969696971,
+      "us_score": 44.915438011071764,
+      "us_adjustment": -0.5084561988928238,
+      "weighted_score": 51.918816528379914,
       "semiconductor_evidence": null,
       "components": [
         "S&P 500",
@@ -3934,6 +3920,20 @@
       "us_score": 44.915438011071764,
       "us_adjustment": -0.5084561988928238,
       "weighted_score": 51.62563471019809,
+      "semiconductor_evidence": null,
+      "components": [
+        "S&P 500",
+        "Nasdaq",
+        "VIX（反向）"
+      ]
+    },
+    {
+      "code": "2474",
+      "name": "可成",
+      "original_score": 52.34090909090909,
+      "us_score": 44.915438011071764,
+      "us_adjustment": -0.5084561988928238,
+      "weighted_score": 51.59836198292536,
       "semiconductor_evidence": null,
       "components": [
         "S&P 500",
@@ -4208,20 +4208,6 @@
       ]
     },
     {
-      "code": "3003",
-      "name": "健和興",
-      "original_score": 50.71969696969697,
-      "us_score": 44.915438011071764,
-      "us_adjustment": -0.5084561988928238,
-      "weighted_score": 50.13927107383445,
-      "semiconductor_evidence": null,
-      "components": [
-        "S&P 500",
-        "Nasdaq",
-        "VIX（反向）"
-      ]
-    },
-    {
       "code": "8070",
       "name": "長華*",
       "original_score": 50.71969696969697,
@@ -4404,12 +4390,12 @@
       ]
     },
     {
-      "code": "2101",
-      "name": "南港",
-      "original_score": 49.68939393939394,
+      "code": "3003",
+      "name": "健和興",
+      "original_score": 49.71969696969697,
       "us_score": 44.915438011071764,
       "us_adjustment": -0.5084561988928238,
-      "weighted_score": 49.21199834656172,
+      "weighted_score": 49.23927107383445,
       "semiconductor_evidence": null,
       "components": [
         "S&P 500",
@@ -4418,12 +4404,12 @@
       ]
     },
     {
-      "code": "2323",
-      "name": "中環",
-      "original_score": 49.659090909090914,
+      "code": "2101",
+      "name": "南港",
+      "original_score": 49.68939393939394,
       "us_score": 44.915438011071764,
       "us_adjustment": -0.5084561988928238,
-      "weighted_score": 49.184725619289,
+      "weighted_score": 49.21199834656172,
       "semiconductor_evidence": null,
       "components": [
         "S&P 500",
@@ -4698,12 +4684,12 @@
       ]
     },
     {
-      "code": "8028",
-      "name": "昇陽半導體",
-      "original_score": 47.32575757575757,
+      "code": "3035",
+      "name": "智原",
+      "original_score": 47.196969696969695,
       "us_score": 44.915438011071764,
       "us_adjustment": -0.5084561988928238,
-      "weighted_score": 47.08472561928899,
+      "weighted_score": 46.968816528379904,
       "semiconductor_evidence": null,
       "components": [
         "S&P 500",
@@ -4824,6 +4810,20 @@
       ]
     },
     {
+      "code": "8028",
+      "name": "昇陽半導體",
+      "original_score": 46.32575757575757,
+      "us_score": 44.915438011071764,
+      "us_adjustment": -0.5084561988928238,
+      "weighted_score": 46.18472561928899,
+      "semiconductor_evidence": null,
+      "components": [
+        "S&P 500",
+        "Nasdaq",
+        "VIX（反向）"
+      ]
+    },
+    {
       "code": "4585",
       "name": "達明",
       "original_score": 46.23484848484849,
@@ -4844,20 +4844,6 @@
       "us_score": 44.915438011071764,
       "us_adjustment": -0.5084561988928238,
       "weighted_score": 46.102907437470805,
-      "semiconductor_evidence": null,
-      "components": [
-        "S&P 500",
-        "Nasdaq",
-        "VIX（反向）"
-      ]
-    },
-    {
-      "code": "3035",
-      "name": "智原",
-      "original_score": 46.196969696969695,
-      "us_score": 44.915438011071764,
-      "us_adjustment": -0.5084561988928238,
-      "weighted_score": 46.068816528379905,
       "semiconductor_evidence": null,
       "components": [
         "S&P 500",
@@ -5110,6 +5096,20 @@
       "us_score": 44.915438011071764,
       "us_adjustment": -0.5084561988928238,
       "weighted_score": 44.69836198292536,
+      "semiconductor_evidence": null,
+      "components": [
+        "S&P 500",
+        "Nasdaq",
+        "VIX（反向）"
+      ]
+    },
+    {
+      "code": "2323",
+      "name": "中環",
+      "original_score": 44.659090909090914,
+      "us_score": 44.915438011071764,
+      "us_adjustment": -0.5084561988928238,
+      "weighted_score": 44.684725619289,
       "semiconductor_evidence": null,
       "components": [
         "S&P 500",
@@ -5524,34 +5524,6 @@
       ]
     },
     {
-      "code": "2002",
-      "name": "中鋼",
-      "original_score": 40.71212121212122,
-      "us_score": 44.915438011071764,
-      "us_adjustment": -0.5084561988928238,
-      "weighted_score": 41.132452892016275,
-      "semiconductor_evidence": null,
-      "components": [
-        "S&P 500",
-        "Nasdaq",
-        "VIX（反向）"
-      ]
-    },
-    {
-      "code": "1314",
-      "name": "中石化",
-      "original_score": 40.65151515151515,
-      "us_score": 44.915438011071764,
-      "us_adjustment": -0.5084561988928238,
-      "weighted_score": 41.07790743747081,
-      "semiconductor_evidence": null,
-      "components": [
-        "S&P 500",
-        "Nasdaq",
-        "VIX（反向）"
-      ]
-    },
-    {
       "code": "1101",
       "name": "台泥",
       "original_score": 40.40909090909091,
@@ -5608,20 +5580,6 @@
       ]
     },
     {
-      "code": "8039",
-      "name": "台虹",
-      "original_score": 39.939393939393945,
-      "us_score": 44.915438011071764,
-      "us_adjustment": -0.5084561988928238,
-      "weighted_score": 40.43699834656173,
-      "semiconductor_evidence": null,
-      "components": [
-        "S&P 500",
-        "Nasdaq",
-        "VIX（反向）"
-      ]
-    },
-    {
       "code": "4976",
       "name": "佳凌",
       "original_score": 39.901515151515156,
@@ -5650,12 +5608,26 @@
       ]
     },
     {
-      "code": "7799",
-      "name": "禾榮科",
-      "original_score": 39.57575757575757,
+      "code": "2002",
+      "name": "中鋼",
+      "original_score": 39.71212121212122,
       "us_score": 44.915438011071764,
       "us_adjustment": -0.5084561988928238,
-      "weighted_score": 40.109725619288994,
+      "weighted_score": 40.232452892016276,
+      "semiconductor_evidence": null,
+      "components": [
+        "S&P 500",
+        "Nasdaq",
+        "VIX（反向）"
+      ]
+    },
+    {
+      "code": "1314",
+      "name": "中石化",
+      "original_score": 39.65151515151515,
+      "us_score": 44.915438011071764,
+      "us_adjustment": -0.5084561988928238,
+      "weighted_score": 40.177907437470815,
       "semiconductor_evidence": null,
       "components": [
         "S&P 500",
@@ -5720,12 +5692,40 @@
       ]
     },
     {
+      "code": "8039",
+      "name": "台虹",
+      "original_score": 38.93939393939394,
+      "us_score": 44.915438011071764,
+      "us_adjustment": -0.5084561988928238,
+      "weighted_score": 39.536998346561724,
+      "semiconductor_evidence": null,
+      "components": [
+        "S&P 500",
+        "Nasdaq",
+        "VIX（反向）"
+      ]
+    },
+    {
       "code": "8110",
       "name": "華東",
       "original_score": 38.75,
       "us_score": 44.915438011071764,
       "us_adjustment": -0.5084561988928238,
       "weighted_score": 39.36654380110718,
+      "semiconductor_evidence": null,
+      "components": [
+        "S&P 500",
+        "Nasdaq",
+        "VIX（反向）"
+      ]
+    },
+    {
+      "code": "7799",
+      "name": "禾榮科",
+      "original_score": 38.57575757575757,
+      "us_score": 44.915438011071764,
+      "us_adjustment": -0.5084561988928238,
+      "weighted_score": 39.20972561928899,
       "semiconductor_evidence": null,
       "components": [
         "S&P 500",
@@ -5902,12 +5902,12 @@
       ]
     },
     {
-      "code": "2439",
-      "name": "美律",
-      "original_score": 36.43181818181818,
+      "code": "3543",
+      "name": "州巧",
+      "original_score": 35.97727272727273,
       "us_score": 44.915438011071764,
       "us_adjustment": -0.5084561988928238,
-      "weighted_score": 37.28018016474354,
+      "weighted_score": 36.871089255652635,
       "semiconductor_evidence": null,
       "components": [
         "S&P 500",
@@ -5916,12 +5916,12 @@
       ]
     },
     {
-      "code": "3543",
-      "name": "州巧",
-      "original_score": 35.97727272727273,
+      "code": "2439",
+      "name": "美律",
+      "original_score": 35.43181818181818,
       "us_score": 44.915438011071764,
       "us_adjustment": -0.5084561988928238,
-      "weighted_score": 36.871089255652635,
+      "weighted_score": 36.380180164743535,
       "semiconductor_evidence": null,
       "components": [
         "S&P 500",

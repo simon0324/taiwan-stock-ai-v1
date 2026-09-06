@@ -1,6 +1,6 @@
 {
   "rules_version": "global-rules-1",
-  "as_of": "2026-09-06T01:01:03.059125+08:00",
+  "as_of": "2026-09-06T10:51:16.622105+08:00",
   "sources": [
     {
       "source": "中央通訊社・國際",
@@ -14,6 +14,27 @@
     }
   ],
   "events": [
+    {
+      "id": "7304c484c3cf6a6c601d1749",
+      "title": "美軍襲3油輪反擊伊朗飛彈攻勢　荷莫茲控制權爭奪升級",
+      "url": "https://www.cna.com.tw/news/aopl/202609060008.aspx",
+      "source": "中央通訊社・國際",
+      "published_at": "2026-09-06T06:40:19+08:00",
+      "first_seen_at": "2026-09-06T10:51:16.622105+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "衝突／航運",
+          "industry": "航運、物流、能源與出口產業",
+          "possible_benefit": "若供給受限推升運價，部分運輸商可能受益。",
+          "possible_risk": "繞航、保險、交期與燃料成本也可能增加。",
+          "verify_next": "核對事件是否已發生、航線曝險與實際成本，不把衝突直接當買進訊號。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
     {
       "id": "3654093edb6062309ea15db5",
       "title": "關稅牽動成衣版圖　台灣牡蠣殼將穿越馬達加斯加進歐洲",
