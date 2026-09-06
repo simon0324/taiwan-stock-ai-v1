@@ -113,7 +113,7 @@ def build(results, history):
         f5["price_high"] = price*(1+f5["high_return_pct"]/100)
         rows.append({"code": stock["code"], "name": stock["name"], "price": price,
                      "forecast_3d": f3, "forecast_5d": f5,
-                     "candles": [{key: item.get(key) for key in ("date", "open", "high", "low", "close")}
+                     "candles": [{key: item.get(key) for key in ("date", "open", "high", "low", "close", "value")}
                                  for item in series[-30:]],
                      "signals": {"momentum_5d": x[0], "position_from_20d_high": x[1],
                                  "volume_ratio": x[2], "trend_score": x[3], "atr_pct": x[4]}})
@@ -141,10 +141,11 @@ def chart_svg(row):
     candles = row.get("candles", [])
     if not candles:
         return '<p>缺少K線資料</p>'
-    width, height, top, bottom = 720, 270, 18, 28
-    left, step = 34, 18
-    last_x = left + (len(candles)-1)*step
-    future_x3, future_x5 = last_x+54, last_x+90
+    width, height, top, price_bottom = 780, 390, 28, 265
+    left, right = 42, 752
+    actual_right, future_x3, future_x5 = 590, 660, 730
+    step = (actual_right-left)/max(1, len(candles)-1)
+    last_x = actual_right
     forecast = row["forecast_5d"]
     current = float(candles[-1]["close"])
     expected3 = current*(1+row["forecast_3d"]["expected_return_pct"]/100)
@@ -157,22 +158,60 @@ def chart_svg(row):
     pad = max((hi-lo)*.08, current*.005)
     lo, hi = lo-pad, hi+pad
     def y(value):
-        return top+(hi-float(value))/(hi-lo)*(height-top-bottom)
-    parts = [f'<svg viewBox="0 0 {width} {height}" role="img" aria-label="歷史K線與未來機率區間">',
-             f'<rect width="{width}" height="{height}" rx="12" fill="#f8fafc"/>']
+        return top+(hi-float(value))/(hi-lo)*(price_bottom-top)
+    parts = [f'<svg viewBox="0 0 {width} {height}" role="img" aria-label="歷史K線、均線、成交量與未來機率區間">',
+             f'<rect width="{width}" height="{height}" rx="12" fill="#101827"/>',
+             f'<rect x="{actual_right+10}" y="{top}" width="{right-actual_right-10}" height="{price_bottom-top}" fill="#172554" opacity=".7"/>']
+    for tick in range(5):
+        price = hi-(hi-lo)*tick/4
+        gy = y(price)
+        parts.append(f'<line x1="{left}" y1="{gy:.1f}" x2="{right}" y2="{gy:.1f}" stroke="#334155"/>')
+        parts.append(f'<text x="{right-3}" y="{gy-3:.1f}" text-anchor="end" font-size="11" fill="#94a3b8">{price:.2f}</text>')
+    missing_open = False
     for index, candle in enumerate(candles):
         x = left+index*step
-        opened = float(candle.get("open") or candle["close"])
+        if candle.get("open") is None:
+            missing_open = True
+            opened = float(candles[index-1]["close"] if index else candle["close"])
+        else:
+            opened = float(candle["open"])
         closed, high, low = float(candle["close"]), float(candle["high"]), float(candle["low"])
-        color = "#dc2626" if closed >= opened else "#15803d"
+        color = "#ef4444" if closed >= opened else "#22c55e"
         body_y, body_h = min(y(opened), y(closed)), max(2, abs(y(opened)-y(closed)))
         parts.append(f'<line x1="{x}" y1="{y(high):.1f}" x2="{x}" y2="{y(low):.1f}" stroke="{color}"/>')
-        parts.append(f'<rect x="{x-3}" y="{body_y:.1f}" width="6" height="{body_h:.1f}" fill="{color}"/>')
+        parts.append(f'<rect x="{x-4}" y="{body_y:.1f}" width="8" height="{body_h:.1f}" fill="{color}"/>')
+    closes = [float(c["close"]) for c in candles]
+    for period, color in ((5, "#facc15"), (10, "#38bdf8"), (20, "#c084fc")):
+        points = []
+        for index in range(period-1, len(closes)):
+            ma = statistics.mean(closes[index-period+1:index+1])
+            points.append(f"{left+index*step:.1f},{y(ma):.1f}")
+        if points:
+            parts.append(f'<polyline points="{" ".join(points)}" fill="none" stroke="{color}" stroke-width="1.8"/>')
+    volumes = [float(c.get("value") or 0) for c in candles]
+    max_volume = max(volumes) if volumes else 1
+    for index, (candle, volume) in enumerate(zip(candles, volumes)):
+        x = left+index*step
+        vh = 55*volume/max_volume if max_volume else 0
+        color = "#ef4444" if float(candle["close"]) >= float(candle.get("open") or (candles[index-1]["close"] if index else candle["close"])) else "#22c55e"
+        parts.append(f'<rect x="{x-4}" y="{345-vh:.1f}" width="8" height="{vh:.1f}" fill="{color}" opacity=".65"/>')
+    parts.append(f'<line x1="{left}" y1="350" x2="{right}" y2="350" stroke="#475569"/>')
     cy, l3y, l5y, h3y, h5y = y(current), y(low3), y(low5), y(high3), y(high5)
-    parts.append(f'<polygon points="{last_x},{cy:.1f} {future_x3},{h3y:.1f} {future_x5},{h5y:.1f} {future_x5},{l5y:.1f} {future_x3},{l3y:.1f}" fill="#93c5fd" opacity=".35"/>')
-    parts.append(f'<polyline points="{last_x},{cy:.1f} {future_x3},{y(expected3):.1f} {future_x5},{y(expected5):.1f}" fill="none" stroke="#2563eb" stroke-width="3" stroke-dasharray="7 5"/>')
-    parts.append(f'<line x1="{last_x+10}" y1="{top}" x2="{last_x+10}" y2="{height-bottom}" stroke="#94a3b8" stroke-dasharray="3 4"/>')
-    parts.append(f'<text x="{left}" y="{height-8}" font-size="12" fill="#64748b">真實K線</text><text x="{last_x+18}" y="{height-8}" font-size="12" fill="#2563eb">未來3～5日機率區間</text></svg>')
+    parts.append(f'<polygon points="{last_x},{cy:.1f} {future_x3},{h3y:.1f} {future_x5},{h5y:.1f} {future_x5},{l5y:.1f} {future_x3},{l3y:.1f}" fill="#3b82f6" opacity=".28"/>')
+    parts.append(f'<polyline points="{last_x},{cy:.1f} {future_x3},{h3y:.1f} {future_x5},{h5y:.1f}" fill="none" stroke="#f59e0b" stroke-width="2" stroke-dasharray="5 4"/>')
+    parts.append(f'<polyline points="{last_x},{cy:.1f} {future_x3},{l3y:.1f} {future_x5},{l5y:.1f}" fill="none" stroke="#fb7185" stroke-width="2" stroke-dasharray="5 4"/>')
+    parts.append(f'<polyline points="{last_x},{cy:.1f} {future_x3},{y(expected3):.1f} {future_x5},{y(expected5):.1f}" fill="none" stroke="#22d3ee" stroke-width="4" stroke-dasharray="8 5"/>')
+    for x, value, label in ((future_x3, expected3, "D+3"), (future_x5, expected5, "D+5")):
+        parts.append(f'<circle cx="{x}" cy="{y(value):.1f}" r="5" fill="#22d3ee"/><text x="{x}" y="{y(value)-9:.1f}" text-anchor="middle" font-size="12" fill="#e0f2fe">{label} {value:.2f}</text>')
+    parts.append(f'<line x1="{actual_right+8}" y1="{top}" x2="{actual_right+8}" y2="350" stroke="#e2e8f0" stroke-width="2" stroke-dasharray="5 5"/>')
+    first_date, last_date = candles[0].get("date", ""), candles[-1].get("date", "")
+    parts.append(f'<text x="{left}" y="370" font-size="11" fill="#94a3b8">{first_date}</text><text x="{actual_right}" y="370" text-anchor="end" font-size="11" fill="#94a3b8">{last_date}</text>')
+    parts.append(f'<text x="{actual_right+18}" y="48" font-size="12" font-weight="700" fill="#bfdbfe">未來3～5日機率區間</text>')
+    parts.append(f'<text x="{left}" y="48" font-size="13" font-weight="700" fill="#cbd5e1">真實K線區</text>')
+    parts.append('<text x="42" y="18" font-size="11" fill="#facc15">MA5</text><text x="78" y="18" font-size="11" fill="#38bdf8">MA10</text><text x="121" y="18" font-size="11" fill="#c084fc">MA20</text>')
+    if missing_open:
+        parts.append('<text x="300" y="382" font-size="10" fill="#fbbf24">舊資料缺開盤價：K棒實體暫以昨收近似，後續每日更新會改善</text>')
+    parts.append('</svg>')
     return ''.join(parts)
 
 
