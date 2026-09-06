@@ -113,6 +113,8 @@ def build(results, history):
         f5["price_high"] = price*(1+f5["high_return_pct"]/100)
         rows.append({"code": stock["code"], "name": stock["name"], "price": price,
                      "forecast_3d": f3, "forecast_5d": f5,
+                     "candles": [{key: item.get(key) for key in ("date", "open", "high", "low", "close")}
+                                 for item in series[-30:]],
                      "signals": {"momentum_5d": x[0], "position_from_20d_high": x[1],
                                  "volume_ratio": x[2], "trend_score": x[3], "atr_pct": x[4]}})
     rows.sort(key=lambda r: (-r["forecast_5d"]["probability_up"], -r["forecast_5d"]["expected_return_pct"], r["code"]))
@@ -135,12 +137,52 @@ def confidence(meta):
     return "低（歷史期間不足3年）"
 
 
+def chart_svg(row):
+    candles = row.get("candles", [])
+    if not candles:
+        return '<p>缺少K線資料</p>'
+    width, height, top, bottom = 720, 270, 18, 28
+    left, step = 34, 18
+    last_x = left + (len(candles)-1)*step
+    future_x3, future_x5 = last_x+54, last_x+90
+    forecast = row["forecast_5d"]
+    current = float(candles[-1]["close"])
+    expected3 = current*(1+row["forecast_3d"]["expected_return_pct"]/100)
+    expected5 = current*(1+forecast["expected_return_pct"]/100)
+    low5, high5 = forecast["price_low"], forecast["price_high"]
+    low3, high3 = current+(low5-current)*.6, current+(high5-current)*.6
+    prices = [float(c[key]) for c in candles for key in ("high", "low", "close") if c.get(key) is not None]
+    prices += [expected3, expected5, low3, high3, low5, high5]
+    lo, hi = min(prices), max(prices)
+    pad = max((hi-lo)*.08, current*.005)
+    lo, hi = lo-pad, hi+pad
+    def y(value):
+        return top+(hi-float(value))/(hi-lo)*(height-top-bottom)
+    parts = [f'<svg viewBox="0 0 {width} {height}" role="img" aria-label="歷史K線與未來機率區間">',
+             f'<rect width="{width}" height="{height}" rx="12" fill="#f8fafc"/>']
+    for index, candle in enumerate(candles):
+        x = left+index*step
+        opened = float(candle.get("open") or candle["close"])
+        closed, high, low = float(candle["close"]), float(candle["high"]), float(candle["low"])
+        color = "#dc2626" if closed >= opened else "#15803d"
+        body_y, body_h = min(y(opened), y(closed)), max(2, abs(y(opened)-y(closed)))
+        parts.append(f'<line x1="{x}" y1="{y(high):.1f}" x2="{x}" y2="{y(low):.1f}" stroke="{color}"/>')
+        parts.append(f'<rect x="{x-3}" y="{body_y:.1f}" width="6" height="{body_h:.1f}" fill="{color}"/>')
+    cy, l3y, l5y, h3y, h5y = y(current), y(low3), y(low5), y(high3), y(high5)
+    parts.append(f'<polygon points="{last_x},{cy:.1f} {future_x3},{h3y:.1f} {future_x5},{h5y:.1f} {future_x5},{l5y:.1f} {future_x3},{l3y:.1f}" fill="#93c5fd" opacity=".35"/>')
+    parts.append(f'<polyline points="{last_x},{cy:.1f} {future_x3},{y(expected3):.1f} {future_x5},{y(expected5):.1f}" fill="none" stroke="#2563eb" stroke-width="3" stroke-dasharray="7 5"/>')
+    parts.append(f'<line x1="{last_x+10}" y1="{top}" x2="{last_x+10}" y2="{height-bottom}" stroke="#94a3b8" stroke-dasharray="3 4"/>')
+    parts.append(f'<text x="{left}" y="{height-8}" font-size="12" fill="#64748b">真實K線</text><text x="{last_x+18}" y="{height-8}" font-size="12" fill="#2563eb">未來3～5日機率區間</text></svg>')
+    return ''.join(parts)
+
+
 def render(data, snapshots):
     cards = []
     for row in data["ranking"][:5]:
         a, b, s = row["forecast_3d"], row["forecast_5d"], row["signals"]
         state = "偏多" if b["probability_up"] >= 58 else "偏空" if b["probability_up"] <= 42 else "盤整"
         cards.append(f'''<section><h2>{row['code']} {html.escape(row['name'])}</h2><p class="prob">5日上漲機率 {b['probability_up']:.1f}% · {state}</p>
+{chart_svg(row)}
 <p>3日機率 {a['probability_up']:.1f}%；5日期望報酬 {b['expected_return_pct']:.2f}%（短歷史資料已向50%中性機率收縮）</p>
 <p>5日統計區間（第10～90百分位）：{b['price_low']:.2f}～{b['price_high']:.2f}</p>
 <p>5日動能 {s['momentum_5d']:.1f}% · 距20日高點 {s['position_from_20d_high']:.1f}% · 量比 {s['volume_ratio']:.2f} · 趨勢 {s['trend_score']:.0f} · ATR {s['atr_pct']:.1f}%</p></section>''')
@@ -148,7 +190,7 @@ def render(data, snapshots):
     done = [o for o in outcomes if o.get("status") == "complete"]
     accuracy = f"完成 {len(done)} 筆，方向命中 {100*sum(o['net_return_pct'] > 0 for o in done)/len(done):.1f}%" if done else "尚在累積向前驗證"
     return f'''<!doctype html><html lang="zh-Hant"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>K線機率預測</title>
-<style>body{{background:#f4f6f9;color:#172033;font-family:system-ui}}main{{max-width:920px;margin:auto;padding:20px}}section{{background:white;border-radius:15px;padding:17px;margin:12px 0}}.prob{{font-size:22px;color:#1d4ed8;font-weight:800}}p{{line-height:1.65}}a{{color:#2563eb}}</style><main>
+<style>body{{background:#f4f6f9;color:#172033;font-family:system-ui}}main{{max-width:920px;margin:auto;padding:20px}}section{{background:white;border-radius:15px;padding:17px;margin:12px 0}}.prob{{font-size:22px;color:#1d4ed8;font-weight:800}}p{{line-height:1.65}}a{{color:#2563eb}}svg{{width:100%;height:auto;margin:8px 0}}</style><main>
 <h1>K線機率預測 Top 5（觀察版）</h1><p>行情日 {data['market_date']} · 模型信心：{data['confidence']}</p>
 <p>依歷史相似的價量、均線位置與波動估計，不是未來精確K線，也不是保證上漲。先套用正EPS、營收正成長及原綜合分至少55分的品質門檻。現有資料僅 {data['training']['unique_market_days']} 個交易日，因此只可觀察。</p>
 {''.join(cards)}<section><h2>向前驗證</h2><p>{accuracy}</p><p>每日固定保存預測，追蹤3、4、5個交易日；未累積足夠樣本前不加入正式總分。</p></section>

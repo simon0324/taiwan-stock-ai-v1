@@ -28,6 +28,15 @@ class KlineForecastTests(unittest.TestCase):
                                 "revenue": 50, "overall": 80}]}
         self.assertEqual(k.build(results, history)[0], [])
 
+    def test_chart_distinguishes_real_and_forecast(self):
+        row = {"candles": [{"date": "2026-09-01", "open": 99, "high": 102, "low": 98, "close": 100}],
+               "forecast_3d": {"expected_return_pct": 1},
+               "forecast_5d": {"expected_return_pct": 2, "price_low": 95, "price_high": 108}}
+        svg = k.chart_svg(row)
+        self.assertIn("真實K線", svg)
+        self.assertIn("未來3～5日機率區間", svg)
+        self.assertIn("stroke-dasharray", svg)
+
 
 if __name__ == "__main__":
     unittest.main()

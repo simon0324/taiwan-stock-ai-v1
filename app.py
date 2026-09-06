@@ -72,17 +72,18 @@ def fetch_market_day(day: dt.date):
         if not re.fullmatch(r"\d{4}", code):
             continue
         close = number(row.get("收盤價"))
+        opened = number(row.get("開盤價"), close)
         high = number(row.get("最高價"), close)
         low = number(row.get("最低價"), close)
         value = number(row.get("成交金額"))
         volume = number(row.get("成交股數"))
         if close > 0:
-            rows.append({"code": code, "name": row.get("證券名稱", ""), "date": day.isoformat(), "close": close,
+            rows.append({"code": code, "name": row.get("證券名稱", ""), "date": day.isoformat(), "open": opened or close, "close": close,
                          "high": high or close, "low": low or close, "value": value, "volume": volume})
     return rows
 
 
-def trading_history(days=32):
+def trading_history(days=32, retention=800, backfill_per_run=10):
     today = dt.datetime.now(dt.timezone(dt.timedelta(hours=8))).date()
     cache_path = DOCS / "market_history.json"
     try:
@@ -100,12 +101,26 @@ def trading_history(days=32):
             if rows is None:
                 rows = fetch_market_day(cursor)
             if rows:
+                by_date[key] = rows
                 found.append(rows)
         cursor -= dt.timedelta(days=1)
         attempts += 1
     if len(found) < 20:
         raise RuntimeError(f"歷史行情不足：只取得 {len(found)} 個交易日")
-    result = list(reversed(found))
+    # 每次額外回補較舊的交易日，並保留已取得的歷史；避免每日覆寫後永遠只有 32 天。
+    if by_date and backfill_per_run > 0:
+        cursor = dt.date.fromisoformat(min(by_date)) - dt.timedelta(days=1)
+        added = 0
+        attempts = 0
+        while added < backfill_per_run and attempts < backfill_per_run * 3:
+            if cursor.weekday() < 5:
+                rows = fetch_market_day(cursor)
+                if rows:
+                    by_date[cursor.isoformat()] = rows
+                    added += 1
+            cursor -= dt.timedelta(days=1)
+            attempts += 1
+    result = [by_date[key] for key in sorted(by_date)][-retention:]
     DOCS.mkdir(exist_ok=True)
     cache_path.write_text(json.dumps(result, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     return result
