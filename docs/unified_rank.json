@@ -7,7 +7,7 @@
     "us": 0.1
   },
   "market_date": "2026-09-04",
-  "as_of": "2026-09-06T10:59:54.931035+08:00",
+  "as_of": "2026-09-07T08:07:29.133396+08:00",
   "complete": true,
   "problems": [],
   "ranking": [
@@ -405,7 +405,21 @@
       "us_score": 59.915438011071764,
       "unified_score": 74.82527585852344,
       "missing": [],
-      "domestic_events": [],
+      "domestic_events": [
+        {
+          "id": "51a0818d874ebe381810120a",
+          "code": "2330",
+          "title": "化解台積電3奈米廠出走危機　陳良基出書談4年入閣心路",
+          "published_at": "2026-09-06T19:24:18+08:00",
+          "first_seen_at": "2026-09-07T08:07:24.999047+08:00",
+          "source": "中央通訊社・產經",
+          "url": "https://www.cna.com.tw/news/afe/202609060169.aspx",
+          "official": false,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        }
+      ],
       "international_events": [],
       "us_components": [
         "S&P 500",
@@ -2751,7 +2765,21 @@
       "us_score": 44.915438011071764,
       "unified_score": 63.229582078619146,
       "missing": [],
-      "domestic_events": [],
+      "domestic_events": [
+        {
+          "id": "c27236d3215aca7b0f26a7a0",
+          "code": "2353",
+          "title": "宏碁深化輝達微軟Google合作　陳俊聖：AI落地端是優勢主場",
+          "published_at": "2026-09-06T10:18:54+08:00",
+          "first_seen_at": "2026-09-07T08:07:24.999047+08:00",
+          "source": "中央通訊社・產經",
+          "url": "https://www.cna.com.tw/news/afe/202609060022.aspx",
+          "official": false,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        }
+      ],
       "international_events": [],
       "us_components": [
         "S&P 500",
@@ -3905,7 +3933,7 @@
     {
       "code": "4763",
       "name": "材料*-KY",
-      "original_score": 60.81060606060606,
+      "original_score": 59.81060606060606,
       "base_score_without_news": 62.95853269537481,
       "domestic_score": 50.0,
       "international_score": 50,
@@ -5327,7 +5355,21 @@
       "us_score": 44.915438011071764,
       "unified_score": 55.39465384895407,
       "missing": [],
-      "domestic_events": [],
+      "domestic_events": [
+        {
+          "id": "26d8b2dbc695ff340180e058",
+          "code": "1301",
+          "title": "台塑石化：汽柴油7日起價格不調整",
+          "published_at": "2026-09-06T13:57:00+08:00",
+          "first_seen_at": "2026-09-07T08:07:24.999047+08:00",
+          "source": "中央通訊社・產經",
+          "url": "https://www.cna.com.tw/news/ahel/202609060079.aspx",
+          "official": false,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        }
+      ],
       "international_events": [],
       "us_components": [
         "S&P 500",
@@ -5338,14 +5380,28 @@
     {
       "code": "2880",
       "name": "華南金",
-      "original_score": 54.901515151515156,
+      "original_score": 55.901515151515156,
       "base_score_without_news": 57.79106858054227,
       "domestic_score": 50.0,
       "international_score": 50,
       "us_score": 44.915438011071764,
       "unified_score": 55.33484523651388,
       "missing": [],
-      "domestic_events": [],
+      "domestic_events": [
+        {
+          "id": "fc81d064d56381753515dcb0",
+          "code": "2880",
+          "title": "代子公司華南產物保險股份有限公司公告法人董事代表人逝世",
+          "published_at": "2026-09-06T23:55:15+08:00",
+          "first_seen_at": "2026-09-07T08:07:24.999047+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        }
+      ],
       "international_events": [],
       "us_components": [
         "S&P 500",
@@ -6286,7 +6342,7 @@
     {
       "code": "2891",
       "name": "中信金",
-      "original_score": 52.65151515151515,
+      "original_score": 51.65151515151515,
       "base_score_without_news": 54.370015948963314,
       "domestic_score": 50.0,
       "international_score": 50,
@@ -7462,7 +7518,7 @@
     {
       "code": "3035",
       "name": "智原",
-      "original_score": 47.196969696969695,
+      "original_score": 46.196969696969695,
       "base_score_without_news": 48.62838915470495,
       "domestic_score": 50.0,
       "international_score": 50,

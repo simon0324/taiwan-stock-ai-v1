@@ -1,7 +1,7 @@
 {
   "rules_version": "events-1",
   "market_date": "2026-09-04",
-  "as_of": "2026-09-06T10:59:51.433817+08:00",
+  "as_of": "2026-09-07T08:07:24.999047+08:00",
   "sources": [
     {
       "source": "證交所・公司重大訊息",
@@ -883,7 +883,21 @@
           "points": 0.0
         }
       ],
-      "events": []
+      "events": [
+        {
+          "id": "51a0818d874ebe381810120a",
+          "code": "2330",
+          "title": "化解台積電3奈米廠出走危機　陳良基出書談4年入閣心路",
+          "published_at": "2026-09-06T19:24:18+08:00",
+          "first_seen_at": "2026-09-07T08:07:24.999047+08:00",
+          "source": "中央通訊社・產經",
+          "url": "https://www.cna.com.tw/news/afe/202609060169.aspx",
+          "official": false,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        }
+      ]
     },
     {
       "code": "2637",
@@ -3869,7 +3883,21 @@
           "points": 0.0
         }
       ],
-      "events": []
+      "events": [
+        {
+          "id": "c27236d3215aca7b0f26a7a0",
+          "code": "2353",
+          "title": "宏碁深化輝達微軟Google合作　陳俊聖：AI落地端是優勢主場",
+          "published_at": "2026-09-06T10:18:54+08:00",
+          "first_seen_at": "2026-09-07T08:07:24.999047+08:00",
+          "source": "中央通訊社・產經",
+          "url": "https://www.cna.com.tw/news/afe/202609060022.aspx",
+          "official": false,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        }
+      ]
     },
     {
       "code": "2636",
@@ -5131,47 +5159,6 @@
       ]
     },
     {
-      "code": "4763",
-      "name": "材料*-KY",
-      "original_score": 60.81060606060606,
-      "message_score": 50.0,
-      "score": 59.72954545454546,
-      "evidence_status": "未知／未達門檻",
-      "contributions": [
-        {
-          "category": "訂單",
-          "points": 0.0
-        },
-        {
-          "category": "新聞話題",
-          "points": 0.0
-        },
-        {
-          "category": "龍頭地位",
-          "points": 0.0
-        },
-        {
-          "category": "專利技術",
-          "points": 0.0
-        }
-      ],
-      "events": [
-        {
-          "id": "6a1b17b608756075018ec57a",
-          "code": "4763",
-          "title": "代子公司北屏新材料（山東）有限公司公告新增資金貸與金額\r\n達新臺幣一千萬元以上且達該公開發行公司最近期財務報表\r\n淨值百分之二以上。",
-          "published_at": "2026-09-05T15:44:12+08:00",
-          "first_seen_at": "2026-09-06T10:51:14.460170+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        }
-      ]
-    },
-    {
       "code": "1409",
       "name": "新纖",
       "original_score": 60.71969696969696,
@@ -5549,6 +5536,47 @@
         }
       ],
       "events": []
+    },
+    {
+      "code": "4763",
+      "name": "材料*-KY",
+      "original_score": 59.81060606060606,
+      "message_score": 50.0,
+      "score": 58.82954545454546,
+      "evidence_status": "未知／未達門檻",
+      "contributions": [
+        {
+          "category": "訂單",
+          "points": 0.0
+        },
+        {
+          "category": "新聞話題",
+          "points": 0.0
+        },
+        {
+          "category": "龍頭地位",
+          "points": 0.0
+        },
+        {
+          "category": "專利技術",
+          "points": 0.0
+        }
+      ],
+      "events": [
+        {
+          "id": "6a1b17b608756075018ec57a",
+          "code": "4763",
+          "title": "代子公司北屏新材料（山東）有限公司公告新增資金貸與金額\r\n達新臺幣一千萬元以上且達該公開發行公司最近期財務報表\r\n淨值百分之二以上。",
+          "published_at": "2026-09-05T15:44:12+08:00",
+          "first_seen_at": "2026-09-06T10:51:14.460170+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        }
+      ]
     },
     {
       "code": "6789",
@@ -7184,6 +7212,47 @@
       "events": []
     },
     {
+      "code": "2880",
+      "name": "華南金",
+      "original_score": 55.901515151515156,
+      "message_score": 50.0,
+      "score": 55.311363636363645,
+      "evidence_status": "未知／未達門檻",
+      "contributions": [
+        {
+          "category": "訂單",
+          "points": 0.0
+        },
+        {
+          "category": "新聞話題",
+          "points": 0.0
+        },
+        {
+          "category": "龍頭地位",
+          "points": 0.0
+        },
+        {
+          "category": "專利技術",
+          "points": 0.0
+        }
+      ],
+      "events": [
+        {
+          "id": "fc81d064d56381753515dcb0",
+          "code": "2880",
+          "title": "代子公司華南產物保險股份有限公司公告法人董事代表人逝世",
+          "published_at": "2026-09-06T23:55:15+08:00",
+          "first_seen_at": "2026-09-07T08:07:24.999047+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        }
+      ]
+    },
+    {
       "code": "2489",
       "name": "瑞軒",
       "original_score": 55.81060606060606,
@@ -7478,34 +7547,21 @@
           "points": 0.0
         }
       ],
-      "events": []
-    },
-    {
-      "code": "2880",
-      "name": "華南金",
-      "original_score": 54.901515151515156,
-      "message_score": 50.0,
-      "score": 54.41136363636364,
-      "evidence_status": "未知／未達門檻",
-      "contributions": [
+      "events": [
         {
-          "category": "訂單",
-          "points": 0.0
-        },
-        {
-          "category": "新聞話題",
-          "points": 0.0
-        },
-        {
-          "category": "龍頭地位",
-          "points": 0.0
-        },
-        {
-          "category": "專利技術",
-          "points": 0.0
+          "id": "26d8b2dbc695ff340180e058",
+          "code": "1301",
+          "title": "台塑石化：汽柴油7日起價格不調整",
+          "published_at": "2026-09-06T13:57:00+08:00",
+          "first_seen_at": "2026-09-07T08:07:24.999047+08:00",
+          "source": "中央通訊社・產經",
+          "url": "https://www.cna.com.tw/news/ahel/202609060079.aspx",
+          "official": false,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
         }
-      ],
-      "events": []
+      ]
     },
     {
       "code": "2374",
@@ -8374,73 +8430,6 @@
       "events": []
     },
     {
-      "code": "2891",
-      "name": "中信金",
-      "original_score": 52.65151515151515,
-      "message_score": 50.0,
-      "score": 52.38636363636363,
-      "evidence_status": "未知／未達門檻",
-      "contributions": [
-        {
-          "category": "訂單",
-          "points": 0.0
-        },
-        {
-          "category": "新聞話題",
-          "points": 0.0
-        },
-        {
-          "category": "龍頭地位",
-          "points": 0.0
-        },
-        {
-          "category": "專利技術",
-          "points": 0.0
-        }
-      ],
-      "events": [
-        {
-          "id": "628debfce064f4f445430b1c",
-          "code": "2891",
-          "title": "代子公司中國信託商業銀行股份有限公司公告\r\n與支付寶支付科技有限公司合作支付寶支付續約",
-          "published_at": "2026-09-05T10:10:47+08:00",
-          "first_seen_at": "2026-09-06T10:51:14.460170+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "813546983227bdbf9f443465",
-          "code": "2891",
-          "title": "代子公司CTBC Asia Limited公告董事辭任",
-          "published_at": "2026-09-04T16:26:29+08:00",
-          "first_seen_at": "2026-09-05T11:36:38.452842+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "1f183fe461eabb46dd4adda7",
-          "code": "2891",
-          "title": "代台灣人壽公告核准投資\r\nLightspeed Platinum, L.P.",
-          "published_at": "2026-09-03T16:14:11+08:00",
-          "first_seen_at": "2026-09-05T00:57:28.124467+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        }
-      ]
-    },
-    {
       "code": "3533",
       "name": "嘉澤",
       "original_score": 52.553030303030305,
@@ -8872,6 +8861,73 @@
         }
       ],
       "events": []
+    },
+    {
+      "code": "2891",
+      "name": "中信金",
+      "original_score": 51.65151515151515,
+      "message_score": 50.0,
+      "score": 51.486363636363635,
+      "evidence_status": "未知／未達門檻",
+      "contributions": [
+        {
+          "category": "訂單",
+          "points": 0.0
+        },
+        {
+          "category": "新聞話題",
+          "points": 0.0
+        },
+        {
+          "category": "龍頭地位",
+          "points": 0.0
+        },
+        {
+          "category": "專利技術",
+          "points": 0.0
+        }
+      ],
+      "events": [
+        {
+          "id": "628debfce064f4f445430b1c",
+          "code": "2891",
+          "title": "代子公司中國信託商業銀行股份有限公司公告\r\n與支付寶支付科技有限公司合作支付寶支付續約",
+          "published_at": "2026-09-05T10:10:47+08:00",
+          "first_seen_at": "2026-09-06T10:51:14.460170+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "813546983227bdbf9f443465",
+          "code": "2891",
+          "title": "代子公司CTBC Asia Limited公告董事辭任",
+          "published_at": "2026-09-04T16:26:29+08:00",
+          "first_seen_at": "2026-09-05T11:36:38.452842+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "1f183fe461eabb46dd4adda7",
+          "code": "2891",
+          "title": "代台灣人壽公告核准投資\r\nLightspeed Platinum, L.P.",
+          "published_at": "2026-09-03T16:14:11+08:00",
+          "first_seen_at": "2026-09-05T00:57:28.124467+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        }
+      ]
     },
     {
       "code": "3504",
@@ -10185,47 +10241,6 @@
       "events": []
     },
     {
-      "code": "3035",
-      "name": "智原",
-      "original_score": 47.196969696969695,
-      "message_score": 50.0,
-      "score": 47.47727272727273,
-      "evidence_status": "未知／未達門檻",
-      "contributions": [
-        {
-          "category": "訂單",
-          "points": 0.0
-        },
-        {
-          "category": "新聞話題",
-          "points": 0.0
-        },
-        {
-          "category": "龍頭地位",
-          "points": 0.0
-        },
-        {
-          "category": "專利技術",
-          "points": 0.0
-        }
-      ],
-      "events": [
-        {
-          "id": "c40f8f5b04a7d84416a68f4b",
-          "code": "3035",
-          "title": "公告本公司內部稽核主管異動",
-          "published_at": "2026-09-05T18:44:41+08:00",
-          "first_seen_at": "2026-09-06T10:51:14.460170+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        }
-      ]
-    },
-    {
       "code": "4927",
       "name": "泰鼎-KY",
       "original_score": 47.1060606060606,
@@ -10535,6 +10550,47 @@
         }
       ],
       "events": []
+    },
+    {
+      "code": "3035",
+      "name": "智原",
+      "original_score": 46.196969696969695,
+      "message_score": 50.0,
+      "score": 46.57727272727273,
+      "evidence_status": "未知／未達門檻",
+      "contributions": [
+        {
+          "category": "訂單",
+          "points": 0.0
+        },
+        {
+          "category": "新聞話題",
+          "points": 0.0
+        },
+        {
+          "category": "龍頭地位",
+          "points": 0.0
+        },
+        {
+          "category": "專利技術",
+          "points": 0.0
+        }
+      ],
+      "events": [
+        {
+          "id": "c40f8f5b04a7d84416a68f4b",
+          "code": "3035",
+          "title": "公告本公司內部稽核主管異動",
+          "published_at": "2026-09-05T18:44:41+08:00",
+          "first_seen_at": "2026-09-06T10:51:14.460170+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        }
+      ]
     },
     {
       "code": "9945",

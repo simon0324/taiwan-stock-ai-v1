@@ -1,6 +1,6 @@
 {
   "rules_version": "global-rules-1",
-  "as_of": "2026-09-06T10:59:53.510876+08:00",
+  "as_of": "2026-09-07T08:07:27.299697+08:00",
   "sources": [
     {
       "source": "中央通訊社・國際",
@@ -14,6 +14,69 @@
     }
   ],
   "events": [
+    {
+      "id": "67f874cee2e112cfa7a38978",
+      "title": "與美特使會談後　澤倫斯基：目前看來冬天仍得繼續戰爭",
+      "url": "https://www.cna.com.tw/news/aopl/202609070003.aspx",
+      "source": "中央通訊社・國際",
+      "published_at": "2026-09-07T01:16:28+08:00",
+      "first_seen_at": "2026-09-07T08:07:27.299697+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "衝突／航運",
+          "industry": "航運、物流、能源與出口產業",
+          "possible_benefit": "若供給受限推升運價，部分運輸商可能受益。",
+          "possible_risk": "繞航、保險、交期與燃料成本也可能增加。",
+          "verify_next": "核對事件是否已發生、航線曝險與實際成本，不把衝突直接當買進訊號。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
+    {
+      "id": "b08ef4895538400d2cb4d90b",
+      "title": "OPEC+：10月維持既有產量政策不變",
+      "url": "https://www.cna.com.tw/news/afe/202609060186.aspx",
+      "source": "中央通訊社・產經",
+      "published_at": "2026-09-06T22:02:01+08:00",
+      "first_seen_at": "2026-09-07T08:07:27.299697+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "能源供應",
+          "industry": "能源、石化、航空與運輸",
+          "possible_benefit": "若能源售價上升且成本可控，部分上游企業可能受益。",
+          "possible_risk": "若燃料成本提高，未避險的用能企業可能承壓。",
+          "verify_next": "核對價格方向、持續性、庫存、避險與成本轉嫁，油價下跌時可能相反。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
+    {
+      "id": "deba3f9d6e9d902b2a00ddb4",
+      "title": "中東局勢緊張　美勞動節連假汽油價格估創新高",
+      "url": "https://www.cna.com.tw/news/aopl/202609060149.aspx",
+      "source": "中央通訊社・國際",
+      "published_at": "2026-09-06T18:02:34+08:00",
+      "first_seen_at": "2026-09-07T08:07:27.299697+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "能源供應",
+          "industry": "能源、石化、航空與運輸",
+          "possible_benefit": "若能源售價上升且成本可控，部分上游企業可能受益。",
+          "possible_risk": "若燃料成本提高，未避險的用能企業可能承壓。",
+          "verify_next": "核對價格方向、持續性、庫存、避險與成本轉嫁，油價下跌時可能相反。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
     {
       "id": "7304c484c3cf6a6c601d1749",
       "title": "美軍襲3油輪反擊伊朗飛彈攻勢　荷莫茲控制權爭奪升級",

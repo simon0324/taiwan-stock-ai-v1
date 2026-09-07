@@ -1,5 +1,57 @@
 [
   {
+    "id": "fc81d064d56381753515dcb0",
+    "code": "2880",
+    "title": "代子公司華南產物保險股份有限公司公告法人董事代表人逝世",
+    "published_at": "2026-09-06T23:55:15+08:00",
+    "first_seen_at": "2026-09-07T08:07:24.999047+08:00",
+    "source": "證交所・公司重大訊息",
+    "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+    "official": true,
+    "category": "待查證",
+    "direction": 0,
+    "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+  },
+  {
+    "id": "51a0818d874ebe381810120a",
+    "code": "2330",
+    "title": "化解台積電3奈米廠出走危機　陳良基出書談4年入閣心路",
+    "published_at": "2026-09-06T19:24:18+08:00",
+    "first_seen_at": "2026-09-07T08:07:24.999047+08:00",
+    "source": "中央通訊社・產經",
+    "url": "https://www.cna.com.tw/news/afe/202609060169.aspx",
+    "official": false,
+    "category": "待查證",
+    "direction": 0,
+    "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+  },
+  {
+    "id": "26d8b2dbc695ff340180e058",
+    "code": "1301",
+    "title": "台塑石化：汽柴油7日起價格不調整",
+    "published_at": "2026-09-06T13:57:00+08:00",
+    "first_seen_at": "2026-09-07T08:07:24.999047+08:00",
+    "source": "中央通訊社・產經",
+    "url": "https://www.cna.com.tw/news/ahel/202609060079.aspx",
+    "official": false,
+    "category": "待查證",
+    "direction": 0,
+    "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+  },
+  {
+    "id": "c27236d3215aca7b0f26a7a0",
+    "code": "2353",
+    "title": "宏碁深化輝達微軟Google合作　陳俊聖：AI落地端是優勢主場",
+    "published_at": "2026-09-06T10:18:54+08:00",
+    "first_seen_at": "2026-09-07T08:07:24.999047+08:00",
+    "source": "中央通訊社・產經",
+    "url": "https://www.cna.com.tw/news/afe/202609060022.aspx",
+    "official": false,
+    "category": "待查證",
+    "direction": 0,
+    "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+  },
+  {
     "id": "c897a9dcbcd66da4b33362ce",
     "code": "2454",
     "title": "聯發科包場六福村水陸雙樂園  近2.5萬名員工眷屬齊聚",

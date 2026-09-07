@@ -10,7 +10,7 @@
     "us": 0.1
   },
   "market_date": "2026-09-04",
-  "as_of": "2026-09-06T10:59:55.201788+08:00",
+  "as_of": "2026-09-07T08:07:29.411999+08:00",
   "complete": true,
   "problems": [],
   "coverage": {
@@ -32,7 +32,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 3.7840972805339765,
+        "relative_market_5d": 3.7848853274385252,
         "relative_industry_5d": 3.4102318909873253,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 1.721269683386955,
@@ -60,7 +60,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 6.764251845938035,
+        "relative_market_5d": 6.765039892842584,
         "relative_industry_5d": 6.133518235309355,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.9049555670638236,
@@ -88,7 +88,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 6.703841520419323,
+        "relative_market_5d": 6.704629567323872,
         "relative_industry_5d": 6.073107909790643,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 2.2143021893920514,
@@ -116,7 +116,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 10.777487076030773,
+        "relative_market_5d": 10.778275122935323,
         "relative_industry_5d": 9.604443351381555,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 1.3340002807478373,
@@ -144,7 +144,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 30.260352250170037,
+        "relative_market_5d": 30.261140297074586,
         "relative_industry_5d": 29.629618639541356,
         "volume_breakout_20d": true,
         "institutional_intensity_5d": 0.39624174920349936,
@@ -172,7 +172,7 @@
         "us": 59.915438011071764
       },
       "details": {
-        "relative_market_5d": 4.299263070489739,
+        "relative_market_5d": 4.300051117394288,
         "relative_industry_5d": 5.533278174886592,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.31309459157084446,
@@ -200,7 +200,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 4.2456234363490495,
+        "relative_market_5d": 4.246411483253598,
         "relative_industry_5d": 3.6148898257203688,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 1.597132453788624,
@@ -228,7 +228,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 10.718783079643318,
+        "relative_market_5d": 10.719571126547866,
         "relative_industry_5d": 11.95279818404017,
         "volume_breakout_20d": true,
         "institutional_intensity_5d": 1.1398818010146847,
@@ -256,7 +256,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 7.054369439287439,
+        "relative_market_5d": 7.0551574861919875,
         "relative_industry_5d": 5.881325714638219,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 1.3005869982349936,
@@ -284,7 +284,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 3.9562564858497904,
+        "relative_market_5d": 3.957044532754339,
         "relative_industry_5d": 3.582391096303139,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 1.3588114154906281,
@@ -312,7 +312,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 6.736224940108443,
+        "relative_market_5d": 6.737012987012991,
         "relative_industry_5d": 6.1054913294797615,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.4566504702814653,
@@ -340,7 +340,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 3.668043121926617,
+        "relative_market_5d": 3.668831168831166,
         "relative_industry_5d": 3.0373095112979365,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.819023559047434,
@@ -368,7 +368,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 8.84670268169368,
+        "relative_market_5d": 8.847490728598228,
         "relative_industry_5d": 7.67365895704446,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.5015785117883055,
@@ -396,7 +396,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 13.686224940108431,
+        "relative_market_5d": 13.68701298701298,
         "relative_industry_5d": 14.920240044505283,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.6683250137127906,
@@ -424,7 +424,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 7.741745444840303,
+        "relative_market_5d": 7.742533491744852,
         "relative_industry_5d": 9.537839101017358,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 1.440449895933054,
@@ -452,7 +452,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 14.456813175402576,
+        "relative_market_5d": 14.457601222307126,
         "relative_industry_5d": 15.690828279799428,
         "volume_breakout_20d": true,
         "institutional_intensity_5d": 0.7631968164873558,
@@ -480,7 +480,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 5.835062149410769,
+        "relative_market_5d": 5.8358501963153175,
         "relative_industry_5d": 5.71607308971589,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 1.4826592776573395,
@@ -508,7 +508,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 1.400301722558167,
+        "relative_market_5d": 1.4010897694627156,
         "relative_industry_5d": 2.634316826955019,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.1438376408343354,
@@ -536,7 +536,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 9.354726469160429,
+        "relative_market_5d": 9.355514516064979,
         "relative_industry_5d": 11.150820125337486,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 1.9571057552418847,
@@ -564,7 +564,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 9.154955590263231,
+        "relative_market_5d": 9.155743637167781,
         "relative_industry_5d": 9.996427720885915,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.3824627088910938,
@@ -592,7 +592,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 10.672424282934294,
+        "relative_market_5d": 10.673212329838844,
         "relative_industry_5d": 10.553435223239415,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 1.0231948271474671,
@@ -620,7 +620,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 22.22535537489106,
+        "relative_market_5d": 22.22614342179561,
         "relative_industry_5d": 23.552240616093634,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.2730046930714851,
@@ -648,7 +648,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 11.722179996288222,
+        "relative_market_5d": 11.722968043192772,
         "relative_industry_5d": 11.091446385659541,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 1.4131369865343124,
@@ -676,7 +676,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 3.3088055852697194,
+        "relative_market_5d": 3.309593632174268,
         "relative_industry_5d": 5.104899241446775,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.591951509474424,
@@ -704,7 +704,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 5.257798544169351,
+        "relative_market_5d": 5.258586591073899,
         "relative_industry_5d": 4.947531492458712,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.8296751071397773,
@@ -732,7 +732,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 3.968812004785055,
+        "relative_market_5d": 3.9696000516896035,
         "relative_industry_5d": 4.810284135407739,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 1.2915055400315358,
@@ -760,7 +760,7 @@
         "us": 59.915438011071764
       },
       "details": {
-        "relative_market_5d": 11.27668918101184,
+        "relative_market_5d": 11.277477227916389,
         "relative_industry_5d": 12.510704285408691,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.17522071060859282,
@@ -788,7 +788,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 8.796474247587676,
+        "relative_market_5d": 8.797262294492224,
         "relative_industry_5d": 7.623430522938457,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.5109407661590923,
@@ -816,7 +816,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 1.5871423713010924,
+        "relative_market_5d": 1.5879304182056408,
         "relative_industry_5d": 2.1625527760629817,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 1.9084307879411855,
@@ -844,7 +844,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 2.041972563271793,
+        "relative_market_5d": 2.042760610176342,
         "relative_industry_5d": 3.838066219448849,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.0872673742326917,
@@ -872,7 +872,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 4.205233204571251,
+        "relative_market_5d": 4.2060212514758,
         "relative_industry_5d": 3.8393452079044432,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.6284196188020874,
@@ -900,7 +900,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 2.6082408552278,
+        "relative_market_5d": 2.6090289021323487,
         "relative_industry_5d": 2.831235773275387,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 1.0868717763660494,
@@ -928,7 +928,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 5.486224940108447,
+        "relative_market_5d": 5.487012987012996,
         "relative_industry_5d": 5.626304801670146,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.3658803555008221,
@@ -956,7 +956,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 2.6507271046106116,
+        "relative_market_5d": 2.6515151515151603,
         "relative_industry_5d": 3.4921992352332953,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 1.9301712607763746,
@@ -984,7 +984,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 4.128609046068715,
+        "relative_market_5d": 4.129397092973264,
         "relative_industry_5d": 3.8183419943580765,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 1.4005931060083494,
@@ -1012,7 +1012,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 1.9622397002560465,
+        "relative_market_5d": 1.963027747160595,
         "relative_industry_5d": 2.80371183087873,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 1.5010393479868622,
@@ -1040,7 +1040,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 3.146631825867435,
+        "relative_market_5d": 3.1474198727719838,
         "relative_industry_5d": 2.8363647741567966,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 1.5688759164927917,
@@ -1068,7 +1068,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 10.67141012529363,
+        "relative_market_5d": 10.67219817219818,
         "relative_industry_5d": 10.811489986855328,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.3775431629865322,
@@ -1096,7 +1096,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 11.86553528493602,
+        "relative_market_5d": 11.866323331840569,
         "relative_industry_5d": 11.234801674307338,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 1.631215659881828,
@@ -1124,7 +1124,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 2.76326478830578,
+        "relative_market_5d": 2.764052835210329,
         "relative_industry_5d": 3.604736918928464,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.45768347224310685,
@@ -1152,7 +1152,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 4.492388268305652,
+        "relative_market_5d": 4.493176315210201,
         "relative_industry_5d": 3.8616546576769717,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 1.0528979317225833,
@@ -1180,7 +1180,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 3.924620355581215,
+        "relative_market_5d": 3.925408402485764,
         "relative_industry_5d": 3.2938867449525344,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.3031216621696598,
@@ -1208,7 +1208,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 5.6357266012379945,
+        "relative_market_5d": 5.636514648142543,
         "relative_industry_5d": 4.462682876588775,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.43747208990175007,
@@ -1236,7 +1236,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 2.2126525629504066,
+        "relative_market_5d": 2.2134406098549553,
         "relative_industry_5d": 1.8387871734037553,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 1.0507131207715394,
@@ -1264,7 +1264,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 2.8010397549232566,
+        "relative_market_5d": 2.8018278018278053,
         "relative_industry_5d": 4.597133411100312,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 1.491356170689649,
@@ -1292,7 +1292,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 4.222879744378899,
+        "relative_market_5d": 4.2236677912834475,
         "relative_industry_5d": 4.267051132080585,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.7428900706728776,
@@ -1320,7 +1320,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 1.6998171731181622,
+        "relative_market_5d": 1.7006052200227106,
         "relative_industry_5d": 1.9228120911657487,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.834028571763044,
@@ -1348,7 +1348,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 1.0952383384031983,
+        "relative_market_5d": 1.0960263853077468,
         "relative_industry_5d": 1.109856293503847,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.6959280317809776,
@@ -1376,7 +1376,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 11.538856519055802,
+        "relative_market_5d": 11.539644565960351,
         "relative_industry_5d": 11.228589467345163,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.6232600167532928,
@@ -1404,7 +1404,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 3.0405033564558313,
+        "relative_market_5d": 3.04129140336038,
         "relative_industry_5d": 3.1805832180175297,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.03925753927035805,
@@ -1432,7 +1432,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 6.687775327705353,
+        "relative_market_5d": 6.688563374609902,
         "relative_industry_5d": 6.057041717076672,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.6188556489680793,
@@ -1460,7 +1460,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 6.482983449022544,
+        "relative_market_5d": 6.483771495927093,
         "relative_industry_5d": 5.852249838393863,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 1.4828973679710513,
@@ -1488,7 +1488,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 1.6719956910965783,
+        "relative_market_5d": 1.6727837380011268,
         "relative_industry_5d": 1.3617286393859396,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.7247741059880457,
@@ -1516,7 +1516,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 2.621903332068248,
+        "relative_market_5d": 2.622691378972797,
         "relative_industry_5d": 2.502914272373369,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.7484910980126074,
@@ -1544,7 +1544,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 2.220328986351211,
+        "relative_market_5d": 2.2211170332557595,
         "relative_industry_5d": 1.7341040462427681,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 1.3191892928108357,
@@ -1572,7 +1572,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 2.396184012414043,
+        "relative_market_5d": 2.3969720593185917,
         "relative_industry_5d": 1.9099590723056004,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.4047704116474091,
@@ -1600,7 +1600,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 0.48622494010844286,
+        "relative_market_5d": 0.48701298701299134,
         "relative_industry_5d": 0.0,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 1.1260856646035564,
@@ -1628,7 +1628,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 13.389450746560065,
+        "relative_market_5d": 13.390238793464615,
         "relative_industry_5d": 15.185544402737122,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.21921087230309624,
@@ -1656,7 +1656,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 2.9724127854123203,
+        "relative_market_5d": 2.973200832316869,
         "relative_industry_5d": 2.4861878453038777,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.26969953451803313,
@@ -1684,7 +1684,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 3.7881117325612665,
+        "relative_market_5d": 3.7888997794658152,
         "relative_industry_5d": 3.477844680850628,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.8459784304528124,
@@ -1712,7 +1712,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 1.9230065493038462,
+        "relative_market_5d": 1.9237945962083947,
         "relative_industry_5d": 3.7191002054809017,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.2984928704574495,
@@ -1740,7 +1740,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 1.718619306305641,
+        "relative_market_5d": 1.7194073532101894,
         "relative_industry_5d": 0.9295481322506571,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.2653057315821957,
@@ -1768,7 +1768,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -0.8412086882101433,
+        "relative_market_5d": -0.8404206413055948,
         "relative_industry_5d": 0.9548849679669122,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.3782953691474144,
@@ -1796,7 +1796,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 14.311728295813136,
+        "relative_market_5d": 14.312516342717686,
         "relative_industry_5d": 16.107821951990193,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.2317064983544628,
@@ -1824,7 +1824,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 7.351509914201709,
+        "relative_market_5d": 7.352297961106258,
         "relative_industry_5d": 6.865284974093266,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.7356646591593841,
@@ -1852,7 +1852,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 0.9677658710875836,
+        "relative_market_5d": 0.9685539179921321,
         "relative_industry_5d": 1.0119372587892694,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.9030614932148991,
@@ -1880,7 +1880,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 2.1608660884338047,
+        "relative_market_5d": 2.1616541353383534,
         "relative_industry_5d": 0.9878223637845851,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.9034643009269305,
@@ -1908,7 +1908,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 4.90727757168739,
+        "relative_market_5d": 4.908065618591939,
         "relative_industry_5d": 4.27654396105871,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.2351154174764365,
@@ -1936,7 +1936,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 11.536702429876527,
+        "relative_market_5d": 11.537490476781077,
         "relative_industry_5d": 12.770717534273379,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.8911686578899947,
@@ -1964,7 +1964,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 7.19549011582728,
+        "relative_market_5d": 7.196278162731828,
         "relative_industry_5d": 8.156497957111785,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.9677182554588847,
@@ -1992,7 +1992,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 0.12651270989261776,
+        "relative_market_5d": 0.12730075679716624,
         "relative_industry_5d": 0.14113066499326643,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.5495590416437078,
@@ -2020,7 +2020,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 1.9381305662427295,
+        "relative_market_5d": 1.938918613147278,
         "relative_industry_5d": 0.7650868415935097,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.9489237522166996,
@@ -2048,7 +2048,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 2.958135052467986,
+        "relative_market_5d": 2.9589230993725346,
         "relative_industry_5d": 4.754228708645042,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.35243099742321643,
@@ -2076,7 +2076,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 8.28283510959998,
+        "relative_market_5d": 8.283623156504527,
         "relative_industry_5d": 7.652101498971298,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.7650975018861631,
@@ -2104,7 +2104,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 12.885580817725177,
+        "relative_market_5d": 12.886368864629727,
         "relative_industry_5d": 11.572909596625003,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 1.7173026626764842,
@@ -2132,7 +2132,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 3.923032035452106,
+        "relative_market_5d": 3.923820082356655,
         "relative_industry_5d": -0.9916172094967202,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.5139504699926415,
@@ -2160,7 +2160,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -0.6613160434981114,
+        "relative_market_5d": -0.6605279965935629,
         "relative_industry_5d": 1.1347776126789442,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.24238547914546085,
@@ -2188,7 +2188,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 4.013195894465299,
+        "relative_market_5d": 4.0139839413698475,
         "relative_industry_5d": 5.8092895506423545,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.5436829271018108,
@@ -2216,7 +2216,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 7.39313184701536,
+        "relative_market_5d": 7.393919893919909,
         "relative_industry_5d": 7.082864795304722,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.01974270346760042,
@@ -2244,7 +2244,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 1.4594609498408018,
+        "relative_market_5d": 1.4602489967453502,
         "relative_industry_5d": 1.5995408114025,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.11162861977139818,
@@ -2272,7 +2272,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 0.9205354721388448,
+        "relative_market_5d": 0.9213235190433933,
         "relative_industry_5d": 0.28980186151016385,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.5801581852548955,
@@ -2300,7 +2300,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 2.0781207432922386,
+        "relative_market_5d": 2.0789087901967873,
         "relative_industry_5d": 0.3573279019492226,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.9009152525103269,
@@ -2328,7 +2328,7 @@
         "us": 59.915438011071764
       },
       "details": {
-        "relative_market_5d": -3.366986069065864,
+        "relative_market_5d": -3.3661980221613153,
         "relative_industry_5d": -2.132970964669012,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 1.0948447453629266,
@@ -2356,7 +2356,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 3.337102133090891,
+        "relative_market_5d": 3.3378901799954397,
         "relative_industry_5d": 2.971214136424083,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.1320043181547458,
@@ -2384,7 +2384,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 6.744373571138423,
+        "relative_market_5d": 6.745161618042972,
         "relative_industry_5d": 7.705381412422929,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.08787000213278386,
@@ -2412,7 +2412,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 3.62523839302325,
+        "relative_market_5d": 3.6260264399277986,
         "relative_industry_5d": 2.4521946683740303,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.016365430521439062,
@@ -2440,7 +2440,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 0.48622494010844286,
+        "relative_market_5d": 0.48701298701299134,
         "relative_industry_5d": 1.3276970707311264,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.08732798333288708,
@@ -2468,7 +2468,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 4.486224940108446,
+        "relative_market_5d": 4.487012987012995,
         "relative_industry_5d": 4.0000000000000036,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.23483597577910778,
@@ -2496,7 +2496,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 5.5853750817515255,
+        "relative_market_5d": 5.586163128656074,
         "relative_industry_5d": 5.211509692204874,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.20450476679899265,
@@ -2524,7 +2524,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -0.22551883213354773,
+        "relative_market_5d": -0.22473078522899925,
         "relative_industry_5d": -0.4369227997258307,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 1.057339432652037,
@@ -2552,7 +2552,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 0.8783818028535395,
+        "relative_market_5d": 0.879169849758088,
         "relative_industry_5d": 0.75939274315866,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.09277803157529416,
@@ -2580,7 +2580,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 5.749382834845279,
+        "relative_market_5d": 5.750170881749828,
         "relative_industry_5d": 4.4367116137451035,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 1.2736021729748532,
@@ -2608,7 +2608,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 5.272119146657555,
+        "relative_market_5d": 5.272907193562104,
         "relative_industry_5d": 4.641385536028874,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.38699848179718915,
@@ -2636,7 +2636,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 2.2739344373151447,
+        "relative_market_5d": 2.2747224842196934,
         "relative_industry_5d": 3.5079495417119966,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.24815178236430632,
@@ -2664,7 +2664,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 0.18010249112884735,
+        "relative_market_5d": 0.18089053803339583,
         "relative_industry_5d": 1.9761961473059029,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.0007605726531084908,
@@ -2692,7 +2692,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 1.2119143450431358,
+        "relative_market_5d": 1.2127023919476843,
         "relative_industry_5d": 0.03887062039391598,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.1768192547645656,
@@ -2720,7 +2720,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 4.209629195427605,
+        "relative_market_5d": 4.210417242332154,
         "relative_industry_5d": 3.5788955847989246,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.936995938246564,
@@ -2748,7 +2748,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 0.48622494010844286,
+        "relative_market_5d": 0.48701298701299134,
         "relative_industry_5d": -0.14450867052023808,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.1833371440282871,
@@ -2776,7 +2776,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 4.8183549040073546,
+        "relative_market_5d": 4.819142950911903,
         "relative_industry_5d": 5.779362745291861,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.548385640941131,
@@ -2804,7 +2804,7 @@
         "us": 59.915438011071764
       },
       "details": {
-        "relative_market_5d": 0.07300179961257647,
+        "relative_market_5d": 0.07378984651712495,
         "relative_industry_5d": 1.3070169040094282,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.6447947386672854,
@@ -2832,7 +2832,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 0.48622494010844286,
+        "relative_market_5d": 0.48701298701299134,
         "relative_industry_5d": 1.7202400445052946,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.2887835518537981,
@@ -2860,7 +2860,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -0.2771338385175126,
+        "relative_market_5d": -0.27634579161296413,
         "relative_industry_5d": 1.518959817659543,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.1517901071289992,
@@ -2888,7 +2888,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 0.6971954042434725,
+        "relative_market_5d": 0.697983451148021,
         "relative_industry_5d": 2.493289060420528,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.09346147243813206,
@@ -2916,7 +2916,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 0.7134976673811633,
+        "relative_market_5d": 0.7142857142857117,
         "relative_industry_5d": 2.0403829085837377,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.48298638269569283,
@@ -2944,7 +2944,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 2.1598651074724637,
+        "relative_market_5d": 2.1606531543770124,
         "relative_industry_5d": 1.7859997179258125,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.6896576567651523,
@@ -2972,7 +2972,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 1.7269197291903293,
+        "relative_market_5d": 1.7277077760948778,
         "relative_industry_5d": 1.361031732523521,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.6368830651136275,
@@ -3000,7 +3000,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 2.3342742214226107,
+        "relative_market_5d": 2.3350622683271594,
         "relative_industry_5d": 2.024007169711972,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.17077191459450744,
@@ -3028,7 +3028,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 0.7760800125722167,
+        "relative_market_5d": 0.7768680594767652,
         "relative_industry_5d": 0.6570909528773372,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.07322449670772818,
@@ -3056,7 +3056,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 0.3135133684331437,
+        "relative_market_5d": 0.3143014153376922,
         "relative_industry_5d": 2.109607024610199,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.20070920761127123,
@@ -3084,7 +3084,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 9.227119841253089,
+        "relative_market_5d": 9.227907888157638,
         "relative_industry_5d": 10.188127682537594,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.07823006708125765,
@@ -3112,7 +3112,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 2.4942570686225016,
+        "relative_market_5d": 2.4950451155270503,
         "relative_industry_5d": 2.7172519866700884,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.30342466407236884,
@@ -3140,7 +3140,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -0.9307791084745498,
+        "relative_market_5d": -0.9299910615700013,
         "relative_industry_5d": -0.08930697785186625,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.08870686935511737,
@@ -3168,7 +3168,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -0.4862223856614112,
+        "relative_market_5d": -0.4854343387568627,
         "relative_industry_5d": 0.7477927187354405,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.059625074123896296,
@@ -3196,7 +3196,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 1.4812498157303289,
+        "relative_market_5d": 1.4820378626348774,
         "relative_industry_5d": 1.1709827640196901,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.10325319302100337,
@@ -3224,7 +3224,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 0.9776254315089272,
+        "relative_market_5d": 0.9784134784134757,
         "relative_industry_5d": -0.19541829314029258,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.5460347904989347,
@@ -3252,7 +3252,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 2.768678577768929,
+        "relative_market_5d": 2.769466624673478,
         "relative_industry_5d": 1.5956348531197095,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.040189068739107874,
@@ -3280,7 +3280,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -0.08766315171365169,
+        "relative_market_5d": -0.08687510480910321,
         "relative_industry_5d": 0.8733446895708541,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.24248625526668788,
@@ -3308,7 +3308,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -0.8930854047191461,
+        "relative_market_5d": -0.8922973578145976,
         "relative_industry_5d": 0.3409296996777056,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.29943969465127146,
@@ -3336,7 +3336,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 1.095981037669419,
+        "relative_market_5d": 1.0967690845739675,
         "relative_industry_5d": 0.7857139859587803,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.11062579598563911,
@@ -3364,7 +3364,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 2.7537986362535625,
+        "relative_market_5d": 2.754586683158111,
         "relative_industry_5d": 1.441127415153387,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.03527240860682914,
@@ -3392,7 +3392,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 2.378510238507264,
+        "relative_market_5d": 2.3792982854118128,
         "relative_industry_5d": 2.004644848960613,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.47083699669082846,
@@ -3420,7 +3420,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 3.732298238537762,
+        "relative_market_5d": 3.733086285442311,
         "relative_industry_5d": 3.1015646279090814,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.5715558934224452,
@@ -3448,7 +3448,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 1.797086363329431,
+        "relative_market_5d": 1.7978744102339794,
         "relative_industry_5d": 1.8117043184300796,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.27220262689984004,
@@ -3476,7 +3476,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 3.480236916156337,
+        "relative_market_5d": 3.481024963060886,
         "relative_industry_5d": 2.3071931915071175,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.13560439824545142,
@@ -3504,7 +3504,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 9.86997844150899,
+        "relative_market_5d": 9.87076648841354,
         "relative_industry_5d": 9.080907267454007,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.38533066868131083,
@@ -3532,7 +3532,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 3.028597821464368,
+        "relative_market_5d": 3.0293858683689168,
         "relative_industry_5d": 3.1686776830260666,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.008644514864644334,
@@ -3560,7 +3560,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 2.329542912458665,
+        "relative_market_5d": 2.3303309593632138,
         "relative_industry_5d": 2.1181389448663825,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.16324040365833403,
@@ -3588,7 +3588,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 1.8780878951405733,
+        "relative_market_5d": 1.8788759420451218,
         "relative_industry_5d": 2.0181677567022716,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.1436234289566221,
@@ -3616,7 +3616,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 6.865535284936036,
+        "relative_market_5d": 6.866323331840585,
         "relative_industry_5d": 6.234801674307356,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.3710058148162938,
@@ -3644,7 +3644,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 0.48622494010844286,
+        "relative_market_5d": 0.48701298701299134,
         "relative_industry_5d": 2.2823185962854984,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.7737507259758136,
@@ -3672,7 +3672,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 1.1341731042553038,
+        "relative_market_5d": 1.1349611511598523,
         "relative_industry_5d": -0.03887062039391598,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.05799593527878582,
@@ -3700,7 +3700,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 14.200510654394165,
+        "relative_market_5d": 14.201298701298715,
         "relative_industry_5d": 13.890243602683526,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.10467216418085773,
@@ -3728,7 +3728,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 1.939009443740397,
+        "relative_market_5d": 1.9397974906449456,
         "relative_industry_5d": 1.6287423920297583,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.3832055914875579,
@@ -3756,7 +3756,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 0.36588799666680827,
+        "relative_market_5d": 0.36667604357135675,
         "relative_industry_5d": 0.0,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.1294023844543894,
@@ -3784,7 +3784,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -2.766660684235739,
+        "relative_market_5d": -2.7658726373311904,
         "relative_industry_5d": -1.5326455798388872,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.013774452376504886,
@@ -3812,7 +3812,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -5.039381528894255,
+        "relative_market_5d": -5.0385934819897065,
         "relative_industry_5d": -3.2432878727171994,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.13980721223731896,
@@ -3840,7 +3840,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -0.2581919333406846,
+        "relative_market_5d": -0.2574038864361361,
         "relative_industry_5d": 0.7028159079438212,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.2107279137576207,
@@ -3868,7 +3868,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 0.08218453606803622,
+        "relative_market_5d": 0.0829725829725847,
         "relative_industry_5d": -0.5485490745606447,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.18449828420570624,
@@ -3896,7 +3896,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 0.48622494010844286,
+        "relative_market_5d": 0.48701298701299134,
         "relative_industry_5d": 2.2823185962854984,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.3065478535472922,
@@ -3924,7 +3924,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -0.937652387383342,
+        "relative_market_5d": -0.9368643404787935,
         "relative_industry_5d": 0.02335545390116378,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.23318161165198314,
@@ -3952,7 +3952,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 0.9346554333819868,
+        "relative_market_5d": 0.9354434802865352,
         "relative_industry_5d": 0.8156663736871073,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 1.6987023947673805,
@@ -3980,7 +3980,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 5.162483932914191,
+        "relative_market_5d": 5.16327197981874,
         "relative_industry_5d": 6.3964990373110435,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.07427062366655088,
@@ -4008,7 +4008,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -2.92192136080594,
+        "relative_market_5d": -2.9211333139013917,
         "relative_industry_5d": -1.6879062564090885,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.01573154375005862,
@@ -4036,7 +4036,7 @@
         "us": 59.915438011071764
       },
       "details": {
-        "relative_market_5d": 0.48622494010844286,
+        "relative_market_5d": 0.48701298701299134,
         "relative_industry_5d": 1.7202400445052946,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.2130014954008003,
@@ -4064,7 +4064,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -0.35836965448615143,
+        "relative_market_5d": -0.35758160758160296,
         "relative_industry_5d": 0.8756454499107003,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.0708634120235476,
@@ -4092,7 +4092,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 8.044364474992156,
+        "relative_market_5d": 8.045152521896703,
         "relative_industry_5d": 8.885836605614838,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.21018489410680297,
@@ -4120,7 +4120,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 5.056117413226718,
+        "relative_market_5d": 5.056905460131267,
         "relative_industry_5d": 6.017125254511225,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.5879590790055028,
@@ -4148,7 +4148,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 0.19886861826938218,
+        "relative_market_5d": 0.19965666517393066,
         "relative_industry_5d": -0.17499677127726931,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.060601522362799747,
@@ -4176,7 +4176,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 0.27391071505536435,
+        "relative_market_5d": 0.27469876195991283,
         "relative_industry_5d": 2.07000437123242,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.3475803678024735,
@@ -4204,7 +4204,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 0.48622494010844286,
+        "relative_market_5d": 0.48701298701299134,
         "relative_industry_5d": 1.7202400445052946,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.261382530646621,
@@ -4232,7 +4232,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -0.5238760699925737,
+        "relative_market_5d": -0.5230880230880253,
         "relative_industry_5d": 0.710139034404278,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.22336844642463424,
@@ -4260,7 +4260,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 0.35412454380723823,
+        "relative_market_5d": 0.3549125907117867,
         "relative_industry_5d": 0.14272057621495526,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.9086220296821733,
@@ -4288,7 +4288,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 4.044943801318418,
+        "relative_market_5d": 4.0457318482229665,
         "relative_industry_5d": 2.871900076669198,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.08212653754476387,
@@ -4316,7 +4316,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 0.21300089639259556,
+        "relative_market_5d": 0.21378894329714404,
         "relative_industry_5d": 2.009094552569651,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.4172470567080206,
@@ -4344,7 +4344,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -0.7058280400240091,
+        "relative_market_5d": -0.7050399931194606,
         "relative_industry_5d": -0.5657481784623108,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.03323974319934427,
@@ -4372,7 +4372,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 3.825742565340345,
+        "relative_market_5d": 3.826530612244894,
         "relative_industry_5d": 5.059757669737197,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.631667762524306,
@@ -4400,7 +4400,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 1.5126179019852748,
+        "relative_market_5d": 1.5134059488898233,
         "relative_industry_5d": 2.088028306747164,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.6432696994345696,
@@ -4428,7 +4428,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 2.776301275986298,
+        "relative_market_5d": 2.7770893228908466,
         "relative_industry_5d": 4.572394932163354,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.40099560416505375,
@@ -4456,7 +4456,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -0.3758440254087947,
+        "relative_market_5d": -0.3750559785042462,
         "relative_industry_5d": -1.0065776360374756,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.3169441130899063,
@@ -4484,7 +4484,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 0.04423598983219201,
+        "relative_market_5d": 0.04502403673674049,
         "relative_industry_5d": 1.2782510942290437,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.22898278036497405,
@@ -4512,7 +4512,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 4.161273296007867,
+        "relative_market_5d": 4.162061342912415,
         "relative_industry_5d": 5.122281137292372,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.4555349451296309,
@@ -4540,7 +4540,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 2.867177321060815,
+        "relative_market_5d": 2.867965367965364,
         "relative_industry_5d": 2.2364437104321344,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.29422730114399065,
@@ -4568,7 +4568,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 0.8006903489134631,
+        "relative_market_5d": 0.8014783958180116,
         "relative_industry_5d": 0.6817012892185836,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.4819554619880014,
@@ -4596,7 +4596,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 2.187548191526206,
+        "relative_market_5d": 2.1883362384307548,
         "relative_industry_5d": 1.7013232514177634,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.7913760514616458,
@@ -4624,7 +4624,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 1.7682762221597204,
+        "relative_market_5d": 1.7690642690642688,
         "relative_industry_5d": 1.1375426115310394,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.009733181725592423,
@@ -4652,7 +4652,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -4.298464055106871,
+        "relative_market_5d": -4.297676008202322,
         "relative_industry_5d": -2.5023703989298154,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.23455074845709264,
@@ -4680,7 +4680,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -0.45463527494531975,
+        "relative_market_5d": -0.45384722804077127,
         "relative_industry_5d": 0.779379829451532,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.43938283205846584,
@@ -4708,7 +4708,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 2.061028089714739,
+        "relative_market_5d": 2.0618161366192878,
         "relative_industry_5d": 1.5748031496062964,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.054551879690373124,
@@ -4736,7 +4736,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 0.22981468369818736,
+        "relative_market_5d": 0.23060273060273584,
         "relative_industry_5d": -0.4009189269304936,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.12537948667727158,
@@ -4764,7 +4764,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -2.6025781486946507,
+        "relative_market_5d": -2.6017901017901024,
         "relative_industry_5d": -0.8064844925175954,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.17662832996794503,
@@ -4792,7 +4792,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 1.8300099345093523,
+        "relative_market_5d": 1.8307979814139008,
         "relative_industry_5d": 2.053004852556939,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.05131724510694494,
@@ -4820,7 +4820,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 3.253023359080781,
+        "relative_market_5d": 3.2538114059853296,
         "relative_industry_5d": 3.3931032206424794,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.4633595666561877,
@@ -4848,7 +4848,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 0.6635299046474474,
+        "relative_market_5d": 0.6643179515519959,
         "relative_industry_5d": 0.4020240656625984,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.026686663135348843,
@@ -4876,7 +4876,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -2.5059010441435268,
+        "relative_market_5d": -2.5051129972389785,
         "relative_industry_5d": -3.136634654772208,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.10202426009768888,
@@ -4904,7 +4904,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -0.2357967205413758,
+        "relative_market_5d": -0.23500867363682731,
         "relative_industry_5d": -1.4088404451905956,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.027339938999685596,
@@ -4932,7 +4932,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -0.0647392472193642,
+        "relative_market_5d": -0.06395120031481571,
         "relative_industry_5d": 0.07534061434233408,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.07097144346671719,
@@ -4960,7 +4960,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -1.572977119093627,
+        "relative_market_5d": -1.5721890721890786,
         "relative_industry_5d": -1.6919661787885065,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.9023921609508716,
@@ -4988,7 +4988,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -0.5581614828680526,
+        "relative_market_5d": -0.5573734359635041,
         "relative_industry_5d": -1.1888950934967335,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.13068602258598577,
@@ -5016,7 +5016,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -0.09771666573097915,
+        "relative_market_5d": -0.09692861882643067,
         "relative_industry_5d": 1.1362984386658725,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.38837220907883524,
@@ -5044,7 +5044,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -2.745067576898358,
+        "relative_market_5d": -2.7442795299938094,
         "relative_industry_5d": -1.5110524725015062,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.42342889840432535,
@@ -5072,7 +5072,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 2.0046631179826244,
+        "relative_market_5d": 2.005451164887173,
         "relative_industry_5d": 3.2386782223794763,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.4566607127462479,
@@ -5100,7 +5100,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -4.940131649038843,
+        "relative_market_5d": -4.9393436021342945,
         "relative_industry_5d": -4.717136730991257,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.6417283754947402,
@@ -5128,7 +5128,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -3.2038119602605555,
+        "relative_market_5d": -3.203023913356007,
         "relative_industry_5d": -1.8769267190579808,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.02489452310664868,
@@ -5156,7 +5156,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 4.407793567559431,
+        "relative_market_5d": 4.40858161446398,
         "relative_industry_5d": 3.9215686274509887,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.32896038618220363,
@@ -5184,7 +5184,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 0.9977338915151013,
+        "relative_market_5d": 0.9985219384196498,
         "relative_industry_5d": 1.041905279216787,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.04126426961648888,
@@ -5212,7 +5212,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 3.130081860792738,
+        "relative_market_5d": 3.130869907697287,
         "relative_industry_5d": 3.1687138714369345,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.47241180045101466,
@@ -5240,7 +5240,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 2.4762746913522147,
+        "relative_market_5d": 2.4770627382567634,
         "relative_industry_5d": 3.4372825326367207,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.08381622670242327,
@@ -5268,7 +5268,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 2.093367797251294,
+        "relative_market_5d": 2.0941558441558428,
         "relative_industry_5d": 2.1319998078954905,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.06928776272808772,
@@ -5296,7 +5296,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 1.8918474300682775,
+        "relative_market_5d": 1.892635476972826,
         "relative_industry_5d": 3.125862534465129,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.13521010140199807,
@@ -5324,7 +5324,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -0.06779168039016681,
+        "relative_market_5d": -0.06700363348561833,
         "relative_industry_5d": 1.1662234240066849,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.05919171689224788,
@@ -5352,7 +5352,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 3.6664369542427186,
+        "relative_market_5d": 3.6672250011472673,
         "relative_industry_5d": 2.3537657331425432,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.32939066166847375,
@@ -5380,7 +5380,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 4.778070433670672,
+        "relative_market_5d": 4.778858480575221,
         "relative_industry_5d": 4.147336823041991,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.42477255539214254,
@@ -5408,7 +5408,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 3.2812559960090635,
+        "relative_market_5d": 3.282044042913612,
         "relative_industry_5d": 4.515271100405915,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.35600526144133327,
@@ -5436,7 +5436,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -2.590698136814634,
+        "relative_market_5d": -2.5899100899100858,
         "relative_industry_5d": -0.7946044806375787,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.41303533789121166,
@@ -5464,7 +5464,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -0.76031245601344,
+        "relative_market_5d": -0.7595244091088915,
         "relative_industry_5d": 0.4737026483834117,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.027811557183720793,
@@ -5492,7 +5492,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 1.35579015749972,
+        "relative_market_5d": 1.3565782044042685,
         "relative_industry_5d": 0.04311893639954434,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.46207602401785614,
@@ -5520,7 +5520,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 2.380676902219397,
+        "relative_market_5d": 2.381464949123946,
         "relative_industry_5d": 3.341684743503903,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.30804338801773634,
@@ -5548,7 +5548,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -1.6566322027487035,
+        "relative_market_5d": -1.655844155844155,
         "relative_industry_5d": -0.4226170983518518,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.1992639159953135,
@@ -5576,7 +5576,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 1.3912023156740505,
+        "relative_market_5d": 1.391990362578599,
         "relative_industry_5d": 0.842477375565609,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.15233658592668786,
@@ -5604,7 +5604,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 2.2632847139372023,
+        "relative_market_5d": 2.264072760841751,
         "relative_industry_5d": 4.059378370114258,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -1.7099486242393231,
@@ -5632,7 +5632,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -0.7418452353301574,
+        "relative_market_5d": -0.741057188425609,
         "relative_industry_5d": -0.6017653737684592,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.07266695673593797,
@@ -5660,7 +5660,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -0.07874681130398131,
+        "relative_market_5d": -0.07795876439943283,
         "relative_industry_5d": 1.1552682930928704,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.046949827963103596,
@@ -5688,7 +5688,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -0.9054251592951312,
+        "relative_market_5d": -0.9046371123905828,
         "relative_industry_5d": -0.6624834327369045,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.1971281515305207,
@@ -5716,7 +5716,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -0.5049644872043235,
+        "relative_market_5d": -0.504176440299775,
         "relative_industry_5d": -0.8708524838711318,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.0718762819276866,
@@ -5744,7 +5744,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 6.350422470972644,
+        "relative_market_5d": 6.351210517877193,
         "relative_industry_5d": 6.365040426073293,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.44160963856988744,
@@ -5772,7 +5772,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -1.4822789968994277,
+        "relative_market_5d": -1.4814909499948792,
         "relative_industry_5d": -0.8540608954814954,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.030726951286355393,
@@ -5800,7 +5800,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -7.035898953696868,
+        "relative_market_5d": -7.035110906792319,
         "relative_industry_5d": -5.239805297519812,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.15467639742019534,
@@ -5828,7 +5828,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 2.367102683055161,
+        "relative_market_5d": 2.3678907299597096,
         "relative_industry_5d": 2.2481136233602816,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -2.883132773168207,
@@ -5856,7 +5856,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 2.905579778818118,
+        "relative_market_5d": 2.9063678257226666,
         "relative_industry_5d": 3.866587620102624,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.5004737477802318,
@@ -5884,7 +5884,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -3.9336645626539877,
+        "relative_market_5d": -3.932876515749439,
         "relative_industry_5d": -2.6996494582571358,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.24278500960382263,
@@ -5912,7 +5912,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -0.008824564842052629,
+        "relative_market_5d": -0.00803651793750415,
         "relative_industry_5d": 1.3180606763605218,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.1239876291306117,
@@ -5940,7 +5940,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 1.784926238809731,
+        "relative_market_5d": 1.7857142857142794,
         "relative_industry_5d": 3.0189413432065826,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.2160764979090279,
@@ -5968,7 +5968,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -3.0994324304094825,
+        "relative_market_5d": -3.0986443835049338,
         "relative_industry_5d": -1.3033387742324267,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.23462874790958826,
@@ -5996,7 +5996,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 1.8687134193711208,
+        "relative_market_5d": 1.8695014662756693,
         "relative_industry_5d": 2.1116551459293476,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.10326759972452217,
@@ -6024,7 +6024,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -2.9211824672989604,
+        "relative_market_5d": -2.920394420394412,
         "relative_industry_5d": -1.687167362902109,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.06742106522658062,
@@ -6052,7 +6052,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -1.6285786852692052,
+        "relative_market_5d": -1.6277906383646568,
         "relative_industry_5d": -0.6675708439846995,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.13666652598993437,
@@ -6080,7 +6080,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 1.8598513137348116,
+        "relative_market_5d": 1.86063936063936,
         "relative_industry_5d": 2.701323444357495,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.4204034221427823,
@@ -6108,7 +6108,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -3.467263431984585,
+        "relative_market_5d": -3.4664753850800367,
         "relative_industry_5d": -2.6257913013619016,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.14016404129779245,
@@ -6136,7 +6136,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -2.7616383077548043,
+        "relative_market_5d": -2.760850260850256,
         "relative_industry_5d": -1.5276232033579529,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.05074874673138129,
@@ -6164,7 +6164,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -5.633867438644441,
+        "relative_market_5d": -5.6330793917398925,
         "relative_industry_5d": -5.595235428000245,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 1.0388580170398203,
@@ -6192,7 +6192,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -0.9272026217290119,
+        "relative_market_5d": -0.9264145748244634,
         "relative_industry_5d": -0.7871227601673136,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.14736585925462287,
@@ -6220,7 +6220,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 0.48622494010844286,
+        "relative_market_5d": 0.48701298701299134,
         "relative_industry_5d": 0.6263048016701411,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.23336870550752215,
@@ -6248,7 +6248,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 0.48622494010844286,
+        "relative_market_5d": 0.48701298701299134,
         "relative_industry_5d": 0.5008428952090915,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.13251638346720193,
@@ -6276,7 +6276,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 1.7955539090118766,
+        "relative_market_5d": 1.796341955916425,
         "relative_industry_5d": 1.5340480700270276,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.04654360200608316,
@@ -6304,7 +6304,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -1.51377505989157,
+        "relative_market_5d": -1.5129870129870215,
         "relative_industry_5d": -0.5527672186070642,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.040571491575173965,
@@ -6332,7 +6332,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -0.8651264112429058,
+        "relative_market_5d": -0.8643383643383573,
         "relative_industry_5d": 0.3688886931539459,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.09449379067354109,
@@ -6360,7 +6360,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -2.39561944029501,
+        "relative_market_5d": -2.394831393390462,
         "relative_industry_5d": -0.5995257841179549,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.0888931799773059,
@@ -6388,7 +6388,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 2.905579778818118,
+        "relative_market_5d": 2.9063678257226666,
         "relative_industry_5d": 4.13959488321497,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.8204554955081887,
@@ -6416,7 +6416,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -1.2241513426737682,
+        "relative_market_5d": -1.2233632957692198,
         "relative_industry_5d": 0.009863761723083453,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.0670220616239422,
@@ -6444,7 +6444,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -3.1584219847207216,
+        "relative_market_5d": -3.1576339378161733,
         "relative_industry_5d": -3.2774110444156013,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.2956435739710458,
@@ -6472,7 +6472,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -2.7395815115044577,
+        "relative_market_5d": -2.738793464599909,
         "relative_industry_5d": -0.943487855327402,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.053049425325152715,
@@ -6500,7 +6500,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 2.499647758900375,
+        "relative_market_5d": 2.5004358058049236,
         "relative_industry_5d": 4.295741415077431,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.14607803287117185,
@@ -6528,7 +6528,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 0.021108661038676813,
+        "relative_market_5d": 0.02189670794322529,
         "relative_industry_5d": -0.2891583906719619,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -1.0206583600095043,
@@ -6556,7 +6556,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -0.7736175795765965,
+        "relative_market_5d": -0.772829532672048,
         "relative_industry_5d": -1.0351234185614455,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.18097975808264802,
@@ -6584,7 +6584,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -1.5545913864221717,
+        "relative_market_5d": -1.5538033395176232,
         "relative_industry_5d": -0.32057628202531996,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.3644617454648174,
@@ -6612,7 +6612,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 1.5129189852829905,
+        "relative_market_5d": 1.513707032187539,
         "relative_industry_5d": 2.08832939004488,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.012691119283125609,
@@ -6640,7 +6640,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -3.0804857600236604,
+        "relative_market_5d": -3.0796977131191117,
         "relative_industry_5d": -2.452267658605728,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.18965833196712414,
@@ -6668,7 +6668,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -1.313260921074072,
+        "relative_market_5d": -1.3124728741695235,
         "relative_industry_5d": -0.0792458166772203,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.013752525122822653,
@@ -6696,7 +6696,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -3.646006464850233,
+        "relative_market_5d": -3.645218417945684,
         "relative_industry_5d": -2.411991360453381,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.45911661403821064,
@@ -6724,7 +6724,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 0.6480372378430632,
+        "relative_market_5d": 0.6488252847476117,
         "relative_industry_5d": 0.3377701861324245,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.5857870643088043,
@@ -6752,7 +6752,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 0.18682374250364453,
+        "relative_market_5d": 0.187611789408193,
         "relative_industry_5d": 0.06783468280876503,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.8610992385245657,
@@ -6780,7 +6780,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -0.08520363132012432,
+        "relative_market_5d": -0.08441558441557584,
         "relative_industry_5d": -1.2582473559693441,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.042056525160110665,
@@ -6808,7 +6808,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -7.471334741589169,
+        "relative_market_5d": -7.470546694684621,
         "relative_industry_5d": -5.675241085412114,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.6180454178469652,
@@ -6836,7 +6836,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 0.7096886272592917,
+        "relative_market_5d": 0.7104766741638402,
         "relative_industry_5d": 1.6706964685437975,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.05934364030120531,
@@ -6864,7 +6864,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -0.5282678135147545,
+        "relative_market_5d": -0.527479766610206,
         "relative_industry_5d": 0.4327400277697513,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.36453098045074395,
@@ -6892,7 +6892,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -0.8798952784707936,
+        "relative_market_5d": -0.8791072315662452,
         "relative_industry_5d": 0.9161983777062619,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.5519339304822458,
@@ -6920,7 +6920,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -1.2647478225374653,
+        "relative_market_5d": -1.2639597756329168,
         "relative_industry_5d": -1.7509727626459082,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.03989856025389817,
@@ -6948,7 +6948,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 6.096785996214043,
+        "relative_market_5d": 6.097574043118592,
         "relative_industry_5d": 6.236865857775742,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -3.2177313073295517,
@@ -6976,7 +6976,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -2.1111776572941556,
+        "relative_market_5d": -2.110389610389607,
         "relative_industry_5d": -0.3150840011170999,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.011276117036344154,
@@ -7004,7 +7004,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 1.0097851495325438,
+        "relative_market_5d": 1.0105731964370923,
         "relative_industry_5d": 0.4610602094241023,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.0860474483005529,
@@ -7032,7 +7032,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 0.020386430791657917,
+        "relative_market_5d": 0.021174477696206395,
         "relative_industry_5d": -0.46583850931678494,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.27210214625401224,
@@ -7060,7 +7060,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 0.19036695194278308,
+        "relative_market_5d": 0.19115499884733156,
         "relative_industry_5d": -0.44036665868589786,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.36146615300509327,
@@ -7088,7 +7088,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -1.5104472728699248,
+        "relative_market_5d": -1.5096592259653763,
         "relative_industry_5d": -1.8207143245805635,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.013887782597355814,
@@ -7116,7 +7116,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -2.62028393563119,
+        "relative_market_5d": -2.6194958887266417,
         "relative_industry_5d": -1.6592760943466844,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.06339739924376435,
@@ -7144,7 +7144,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -3.308417917034406,
+        "relative_market_5d": -3.307629870129858,
         "relative_industry_5d": -1.5123242608573508,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.27161124355968597,
@@ -7172,7 +7172,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -5.461216277042319,
+        "relative_market_5d": -5.4604282301377705,
         "relative_industry_5d": -5.580205336737198,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.06773454843317034,
@@ -7200,7 +7200,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 1.3391034049272055,
+        "relative_market_5d": 1.339891451831754,
         "relative_industry_5d": 0.7083697942985245,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.11511571679846574,
@@ -7228,7 +7228,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -3.1558146020351616,
+        "relative_market_5d": -3.1550265551306134,
         "relative_industry_5d": -1.3597209458581063,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.153362257481454,
@@ -7256,7 +7256,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 1.4829026809722257,
+        "relative_market_5d": 1.4836907278767741,
         "relative_industry_5d": 1.622982542533924,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.2648256835904703,
@@ -7284,7 +7284,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -2.3098276914704954,
+        "relative_market_5d": -2.3090396445659467,
         "relative_industry_5d": 0.0,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.17174513746134898,
@@ -7312,7 +7312,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 2.459909150634748,
+        "relative_market_5d": 2.4606971975392966,
         "relative_industry_5d": 2.5999890121964464,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.9855058075474339,
@@ -7340,7 +7340,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -3.24710839322489,
+        "relative_market_5d": -3.2463203463203416,
         "relative_industry_5d": -2.0130932888280384,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.003628006193319298,
@@ -7368,7 +7368,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -1.0522365983531012,
+        "relative_market_5d": -1.0514485514485528,
         "relative_industry_5d": -0.424018496935169,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.03385568723540988,
@@ -7396,7 +7396,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -2.9796262321647395,
+        "relative_market_5d": -2.978838185260191,
         "relative_industry_5d": -3.098615291859619,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.1276521994738925,
@@ -7424,7 +7424,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -1.6099526184612134,
+        "relative_market_5d": -1.609164571556665,
         "relative_industry_5d": -0.3759375140643617,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.11988824141718969,
@@ -7452,7 +7452,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -0.2859758320923278,
+        "relative_market_5d": -0.2851877851877793,
         "relative_industry_5d": 0.9480392723045239,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.16734815904307937,
@@ -7480,7 +7480,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -3.466344229852031,
+        "relative_market_5d": -3.4655561829474824,
         "relative_industry_5d": -2.232329125455179,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.31927128120522297,
@@ -7508,7 +7508,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -4.602270635112799,
+        "relative_market_5d": -4.60148258820825,
         "relative_industry_5d": -4.912537686823438,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.3142887151798539,
@@ -7536,7 +7536,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 2.220328986351211,
+        "relative_market_5d": 2.2211170332557595,
         "relative_industry_5d": 1.7341040462427681,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.47991191767528585,
@@ -7564,7 +7564,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -1.6291596752761761,
+        "relative_market_5d": -1.6283716283716276,
         "relative_industry_5d": -0.3951445708793244,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.10549097330631561,
@@ -7592,7 +7592,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -9.307589492881258,
+        "relative_market_5d": -9.30680144597671,
         "relative_industry_5d": -7.511495836704202,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.05489802416228111,
@@ -7620,7 +7620,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -0.3684759145924088,
+        "relative_market_5d": -0.3676878676878603,
         "relative_industry_5d": -0.8547008547008517,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.05425113209019768,
@@ -7648,7 +7648,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -2.2787520184169017,
+        "relative_market_5d": -2.2779639715123534,
         "relative_industry_5d": -0.4826583622398464,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.09840765257793338,
@@ -7676,7 +7676,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -6.1804417265582225,
+        "relative_market_5d": -6.179653679653674,
         "relative_industry_5d": -4.94642662216137,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.531664016101364,
@@ -7704,7 +7704,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -0.6902456481268471,
+        "relative_market_5d": -0.6894576012222986,
         "relative_industry_5d": 0.15122648249583648,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -1.33451787333326,
@@ -7732,7 +7732,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 7.05816099694681,
+        "relative_market_5d": 7.058949043851359,
         "relative_industry_5d": 7.899633127569494,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -1.3149942900849196,
@@ -7760,7 +7760,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -7.661923208039706,
+        "relative_market_5d": -7.6611351611351575,
         "relative_industry_5d": -6.427908103642855,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.8053248320465176,
@@ -7788,7 +7788,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -4.586945791598879,
+        "relative_market_5d": -4.58615774469433,
         "relative_industry_5d": -5.21767940222756,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.19356670889043662,
@@ -7816,7 +7816,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -9.974767967692971,
+        "relative_market_5d": -9.973979920788423,
         "relative_industry_5d": -8.178674311515916,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.07142973039382644,
@@ -7844,7 +7844,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -0.8027116871740347,
+        "relative_market_5d": -0.8019236402694863,
         "relative_industry_5d": 0.15829615411047104,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.30520301738219113,
@@ -7872,7 +7872,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -1.6234797012417646,
+        "relative_market_5d": -1.622691654337216,
         "relative_industry_5d": -0.38946459684491286,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.6709124782447559,
@@ -7900,7 +7900,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 1.7207928413430162,
+        "relative_market_5d": 1.7215808882475647,
         "relative_industry_5d": 0.0,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.29301674516599613,
@@ -7928,7 +7928,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -1.1897527135228458,
+        "relative_market_5d": -1.1889646666182974,
         "relative_industry_5d": -1.8204863241515268,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.6988330932618342,
@@ -7956,7 +7956,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 0.7486921317094997,
+        "relative_market_5d": 0.7494801786140481,
         "relative_industry_5d": 0.3828041350426914,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.11418716065844722,
@@ -7984,7 +7984,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 9.99326719362959,
+        "relative_market_5d": 9.994055240534138,
         "relative_industry_5d": 10.007885148730239,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -1.622804725171153,
@@ -8012,7 +8012,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -3.9606297236659707,
+        "relative_market_5d": -3.959841676761422,
         "relative_industry_5d": -4.326517720332779,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.3534321538030495,
@@ -8040,7 +8040,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -1.513775059891559,
+        "relative_market_5d": -1.5129870129870104,
         "relative_industry_5d": -0.05285118219748863,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.09312183377654358,
@@ -8068,7 +8068,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -3.333999778992686,
+        "relative_market_5d": -3.333211732088137,
         "relative_industry_5d": -1.53790612281563,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.14305458681289293,
@@ -8096,7 +8096,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 3.0756207477533435,
+        "relative_market_5d": 3.076408794657892,
         "relative_industry_5d": 3.9170928783760273,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.7088938271791955,
@@ -8124,7 +8124,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 0.48622494010844286,
+        "relative_market_5d": 0.48701298701299134,
         "relative_industry_5d": 1.7202400445052946,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -1.2077002853638414,
@@ -8152,7 +8152,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -2.23486349526571,
+        "relative_market_5d": -2.2340754483611613,
         "relative_industry_5d": -1.0008483908688581,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.28037164490853755,
@@ -8180,7 +8180,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -5.376421626055711,
+        "relative_market_5d": -5.375633579151162,
         "relative_industry_5d": -3.580327969878655,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.4473894623355402,
@@ -8208,7 +8208,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -2.4767380228545246,
+        "relative_market_5d": -2.475949975949976,
         "relative_industry_5d": -1.2427229184576727,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -1.0359119000030654,
@@ -8236,7 +8236,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -1.5871402911515287,
+        "relative_market_5d": -1.5863522442469802,
         "relative_industry_5d": -0.35312518675467697,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.18041394614011852,
@@ -8264,7 +8264,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -1.00187029798679,
+        "relative_market_5d": -1.0010822510822415,
         "relative_industry_5d": -0.8617904364250917,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.3048914197236784,
@@ -8292,7 +8292,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 0.19886861826935998,
+        "relative_market_5d": 0.19965666517390845,
         "relative_industry_5d": -0.9741751063798598,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.2945898659623806,
@@ -8320,7 +8320,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 1.3391034049272055,
+        "relative_market_5d": 1.339891451831754,
         "relative_industry_5d": 0.965238015380554,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.8437482225774516,
@@ -8348,7 +8348,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 0.28046362323601026,
+        "relative_market_5d": 0.28125167014055874,
         "relative_industry_5d": 1.241471464520516,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.059272910128582296,
@@ -8376,7 +8376,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 19.812466074860207,
+        "relative_market_5d": 19.813254121764757,
         "relative_industry_5d": 21.04648117925706,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.4219502862013261,
@@ -8404,7 +8404,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -3.4706095922656663,
+        "relative_market_5d": -3.469821545361118,
         "relative_industry_5d": -3.9568345323741094,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.043724469972917034,
@@ -8432,7 +8432,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 0.04618093570800119,
+        "relative_market_5d": 0.04696898261254967,
         "relative_industry_5d": -0.44004400440044167,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.7523103580174768,
@@ -8460,7 +8460,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -4.446510485900529,
+        "relative_market_5d": -4.44572243899598,
         "relative_industry_5d": -4.82037587544718,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.04543132011963305,
@@ -8488,7 +8488,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 1.369617166256859,
+        "relative_market_5d": 1.3704052131614075,
         "relative_industry_5d": 3.1657108224339146,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -1.1569305486939032,
@@ -8516,7 +8516,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -10.682159939616648,
+        "relative_market_5d": -10.6813718927121,
         "relative_industry_5d": -8.886066283439593,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.13163292232261847,
@@ -8544,7 +8544,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -1.6849117137868352,
+        "relative_market_5d": -1.6841236668822868,
         "relative_industry_5d": -0.7239038725023295,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.06510558418171532,
@@ -8572,7 +8572,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -6.728203917606985,
+        "relative_market_5d": -6.727415870702436,
         "relative_industry_5d": -6.847192977301864,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.3893707445630459,
@@ -8600,7 +8600,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 0.48622494010844286,
+        "relative_market_5d": 0.48701298701299134,
         "relative_industry_5d": 1.061635344870332,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -1.1242306944248466,
@@ -8628,7 +8628,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -7.3720185113553445,
+        "relative_market_5d": -7.371230464450796,
         "relative_industry_5d": -6.138003406958493,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -1.3354033021861604,
@@ -8656,7 +8656,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -3.4775349692913347,
+        "relative_market_5d": -3.4767469223867864,
         "relative_industry_5d": -4.108268579920016,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.15086897353779075,
@@ -8684,7 +8684,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 0.8708403247238261,
+        "relative_market_5d": 0.8716283716283746,
         "relative_industry_5d": 0.6594363571315431,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.3806770647793741,
@@ -8712,7 +8712,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -4.839862016413305,
+        "relative_market_5d": -4.839073969508756,
         "relative_industry_5d": -3.6058469120164527,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.13027906806340733,
@@ -8740,7 +8740,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -14.724131046946571,
+        "relative_market_5d": -14.723343000042021,
         "relative_industry_5d": -14.501136128898985,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.9955553579128111,
@@ -8768,7 +8768,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -0.8353609629752567,
+        "relative_market_5d": -0.8345729160707083,
         "relative_industry_5d": 0.39865414142159494,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.4875452750338675,
@@ -8796,7 +8796,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -4.546033124407684,
+        "relative_market_5d": -4.545245077503135,
         "relative_industry_5d": -4.856300176118323,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.6346498917924216,
@@ -8824,7 +8824,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 1.1794658413216086,
+        "relative_market_5d": 1.180253888226157,
         "relative_industry_5d": 2.1404736826061144,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.21356829284260093,
@@ -8852,7 +8852,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -1.252905494674167,
+        "relative_market_5d": -1.2521174477696184,
         "relative_industry_5d": -0.018890390277315205,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -1.7810669136571304,
@@ -8880,7 +8880,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -1.2994893456058476,
+        "relative_market_5d": -1.2987012987012991,
         "relative_industry_5d": -1.7857142857142905,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -1.962700350190844,
@@ -8908,7 +8908,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -2.0719145947752757,
+        "relative_market_5d": -2.0711265478707275,
         "relative_industry_5d": -0.27582093859822043,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.29432852276150917,
@@ -8936,7 +8936,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 0.10743706132056441,
+        "relative_market_5d": 0.10822510822511289,
         "relative_industry_5d": 0.1460690719647606,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.3368939031949102,
@@ -8964,7 +8964,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -0.8412086882101433,
+        "relative_market_5d": -0.8404206413055948,
         "relative_industry_5d": -0.8025766775659471,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.871439910184579,
@@ -8992,7 +8992,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -5.95482309482605,
+        "relative_market_5d": -5.954035047921502,
         "relative_industry_5d": -4.720807990429199,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.42020635454707916,
@@ -9020,7 +9020,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -2.710122091855033,
+        "relative_market_5d": -2.7093340449504844,
         "relative_industry_5d": -1.4761069874581811,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -1.9554588182012926,
@@ -9048,7 +9048,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -2.370917917034415,
+        "relative_market_5d": -2.3701298701298668,
         "relative_industry_5d": -2.230838055472717,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.1721697418641913,
@@ -9076,7 +9076,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -25.04568995350858,
+        "relative_market_5d": -25.044901906604032,
         "relative_industry_5d": -24.084682112224076,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.29629591323416743,
@@ -9104,7 +9104,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -2.946269339067759,
+        "relative_market_5d": -2.94548129216321,
         "relative_industry_5d": -1.9852614977832528,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.17270576017056627,
@@ -9132,7 +9132,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -3.1723116452574143,
+        "relative_market_5d": -3.1715235983528656,
         "relative_industry_5d": -1.9382965408605624,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.4218983453727306,
@@ -9160,7 +9160,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 3.054443238663823,
+        "relative_market_5d": 3.0552312855683716,
         "relative_industry_5d": 4.288458343060675,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.9645930464664377,
@@ -9188,7 +9188,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -4.581342627459123,
+        "relative_market_5d": -4.580554580554574,
         "relative_industry_5d": -2.7852489712820674,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.04362287107069998,
@@ -9216,7 +9216,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -4.012044956085331,
+        "relative_market_5d": -4.011256909180783,
         "relative_industry_5d": -2.7780298516884794,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.19617733936138582,
@@ -9244,7 +9244,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -7.002761844032529,
+        "relative_market_5d": -7.00197379712798,
         "relative_industry_5d": -7.313028895743168,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -1.06409487582843,
@@ -9272,7 +9272,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -4.234805102810007,
+        "relative_market_5d": -4.234017055905459,
         "relative_industry_5d": -4.545072154520646,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.8615037837202862,
@@ -9300,7 +9300,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -5.602768034130429,
+        "relative_market_5d": -5.601979987225881,
         "relative_industry_5d": -5.721757093825309,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.11195404552754468,
@@ -9328,7 +9328,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -2.750572334167539,
+        "relative_market_5d": -2.7497842872629907,
         "relative_industry_5d": -3.060839385878178,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -1.5256922409742888,
@@ -9356,7 +9356,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -0.4312062525521021,
+        "relative_market_5d": -0.4304182056475536,
         "relative_industry_5d": 0.5298015887324037,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.6008770552369799,
@@ -9384,7 +9384,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -1.4294838721520986,
+        "relative_market_5d": -1.4286958252475501,
         "relative_industry_5d": -0.4684760308675928,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.5580674039702206,
@@ -9412,7 +9412,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -3.7918499262017242,
+        "relative_market_5d": -3.7910618792971755,
         "relative_industry_5d": -1.9957562700246685,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.3312157104761739,
@@ -9440,7 +9440,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -3.5298393169196753,
+        "relative_market_5d": -3.5290512700151266,
         "relative_industry_5d": -2.2958242125228234,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.5832116262642567,
@@ -9468,7 +9468,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -5.157115917679373,
+        "relative_market_5d": -5.156327870774824,
         "relative_industry_5d": -5.276104977374252,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.5841956025219228,
@@ -9496,7 +9496,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -4.482719159270438,
+        "relative_market_5d": -4.481931112365889,
         "relative_industry_5d": -4.259724241222852,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -1.2215910419293834,
@@ -9524,7 +9524,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -4.400337014516337,
+        "relative_market_5d": -4.399548967611788,
         "relative_industry_5d": -3.439329173231831,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.19193210168585667,
@@ -9552,7 +9552,7 @@
         "us": 59.915438011071764
       },
       "details": {
-        "relative_market_5d": -4.8277847217273075,
+        "relative_market_5d": -4.826996674822759,
         "relative_industry_5d": -3.5937696173304556,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.7396753616567503,
@@ -9580,7 +9580,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -1.7609660711275177,
+        "relative_market_5d": -1.7601780242229692,
         "relative_industry_5d": -0.43408082992494323,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -1.8915297580572021,
@@ -9608,7 +9608,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -9.437439182028967,
+        "relative_market_5d": -9.436651135124418,
         "relative_industry_5d": -7.641345525851912,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.16557546869541578,
@@ -9636,7 +9636,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -1.8326156396017035,
+        "relative_market_5d": -1.831827592697155,
         "relative_industry_5d": -1.8179976845010548,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.0591110893608805,
@@ -9664,7 +9664,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -7.003919606540693,
+        "relative_market_5d": -7.003131559636144,
         "relative_industry_5d": -5.207825950363637,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.0408115854175987,
@@ -9692,7 +9692,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -5.82445467154204,
+        "relative_market_5d": -5.823666624637491,
         "relative_industry_5d": -6.134721723252678,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.3062602216003729,
@@ -9720,7 +9720,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -4.11425932139276,
+        "relative_market_5d": -4.113471274488211,
         "relative_industry_5d": -4.480147318059569,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.3190542863817146,
@@ -9748,7 +9748,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -3.8815911518455817,
+        "relative_market_5d": -3.880803104941033,
         "relative_industry_5d": -3.658596233797995,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.45982188614864755,
@@ -9776,7 +9776,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -3.494357584163393,
+        "relative_market_5d": -3.493569537258845,
         "relative_industry_5d": -2.9189471794015045,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.07362566787240794,
@@ -9804,7 +9804,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -0.4730076738004463,
+        "relative_market_5d": -0.4722196268958978,
         "relative_industry_5d": -1.646051398449666,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.6939909929400461,
@@ -9832,7 +9832,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -1.955506469436491,
+        "relative_market_5d": -1.9547184225319425,
         "relative_industry_5d": -2.441731409544934,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.8051760452166355,
@@ -9860,7 +9860,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -2.2535010872888286,
+        "relative_market_5d": -2.25271304038428,
         "relative_industry_5d": -2.11342122572713,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.26786852794736155,
@@ -9888,7 +9888,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -8.667727903164785,
+        "relative_market_5d": -8.666939856260235,
         "relative_industry_5d": -6.871634246987729,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.6009244367059656,
@@ -9916,7 +9916,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -0.6579398196169539,
+        "relative_market_5d": -0.6571517727124054,
         "relative_industry_5d": -1.2066647597253954,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.7490419515262982,
@@ -9944,7 +9944,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -3.532322200540711,
+        "relative_market_5d": -3.531534153636162,
         "relative_industry_5d": -2.298307096143859,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.1886421161528805,
@@ -9972,7 +9972,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -5.2132569251765295,
+        "relative_market_5d": -5.212468878271981,
         "relative_industry_5d": -4.990262007128942,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.6403228294195662,
@@ -10000,7 +10000,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -5.528812653876519,
+        "relative_market_5d": -5.528024606971971,
         "relative_industry_5d": -3.7327189976994637,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.2257365719458109,
@@ -10028,7 +10028,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -2.383532234284486,
+        "relative_market_5d": -2.382744187379937,
         "relative_industry_5d": -0.58743857810743,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.20661281724638889,
@@ -10056,7 +10056,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -0.7521651527708173,
+        "relative_market_5d": -0.7513771058662688,
         "relative_industry_5d": 0.08930697785186625,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -2.1181253234570265,
@@ -10084,7 +10084,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -1.9192733416785013,
+        "relative_market_5d": -1.9184852947739528,
         "relative_industry_5d": -2.22954039338914,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.29702139137308964,
@@ -10112,7 +10112,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -18.252513798630293,
+        "relative_market_5d": -18.251725751725743,
         "relative_industry_5d": -16.456420142453236,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.2531730629248373,
@@ -10140,7 +10140,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -3.4741710994955213,
+        "relative_market_5d": -3.4733830525909726,
         "relative_industry_5d": -1.164343408025026,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.05047770742351848,
@@ -10168,7 +10168,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -4.425613850823557,
+        "relative_market_5d": -4.424825803919008,
         "relative_industry_5d": -2.1157861593530614,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.06779359595978254,
@@ -10196,7 +10196,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -2.60257814869464,
+        "relative_market_5d": -2.6017901017900913,
         "relative_industry_5d": -3.7756218733438596,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.007573072981586896,
@@ -10224,7 +10224,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -0.006385897329991286,
+        "relative_market_5d": -0.005597850425442807,
         "relative_industry_5d": 0.032246113314204905,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.5674267732235512,
@@ -10252,7 +10252,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -0.8939507186117635,
+        "relative_market_5d": -0.893162671707215,
         "relative_industry_5d": 0.06705712267274233,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.6556569291826431,
@@ -10280,7 +10280,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -17.495426436038336,
+        "relative_market_5d": -17.494638389133787,
         "relative_industry_5d": -16.53441859475383,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.10408275874397119,
@@ -10308,7 +10308,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -1.6921982964060833,
+        "relative_market_5d": -1.6914102495015348,
         "relative_industry_5d": -2.066063685952735,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.7003070088677166,
@@ -10336,7 +10336,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -3.484894193465565,
+        "relative_market_5d": -3.484106146561017,
         "relative_industry_5d": -2.2508790890687136,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.5126210553914416,
@@ -10364,7 +10364,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -1.9331298986012324,
+        "relative_market_5d": -1.932341851696684,
         "relative_industry_5d": -2.5638635092299134,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.453123565235592,
@@ -10392,7 +10392,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -5.113775059891562,
+        "relative_market_5d": -5.112987012987014,
         "relative_industry_5d": -3.3176814037145066,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -1.2187215998773464,
@@ -10420,7 +10420,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -1.9653879631173654,
+        "relative_market_5d": -1.964599916212817,
         "relative_industry_5d": -1.1239158324946819,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -1.260082913609471,
@@ -10448,7 +10448,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -3.6435685702160328,
+        "relative_market_5d": -3.642780523311484,
         "relative_industry_5d": -4.816612294865252,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.1937792061364748,
@@ -10476,7 +10476,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -3.9980799926269857,
+        "relative_market_5d": -3.997291945722437,
         "relative_industry_5d": -3.0370721513424797,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.35301884888572505,
@@ -10504,7 +10504,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -3.945908023880479,
+        "relative_market_5d": -3.9451199769759304,
         "relative_industry_5d": -4.57664163450916,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.9582669494380297,
@@ -10532,7 +10532,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -4.587206301547104,
+        "relative_market_5d": -4.586418254642555,
         "relative_industry_5d": -3.353191197150252,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -1.2558202961843559,
@@ -10560,7 +10560,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -0.5078108451798291,
+        "relative_market_5d": -0.5070227982752806,
         "relative_industry_5d": -0.49319289007918043,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.45685688287943854,
@@ -10588,7 +10588,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -6.04119020349469,
+        "relative_market_5d": -6.040402156590141,
         "relative_industry_5d": -4.245096547317634,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -1.9007255600723238,
@@ -10616,7 +10616,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -10.214164164949919,
+        "relative_market_5d": -10.213376118045371,
         "relative_industry_5d": -8.418070508772864,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.41603559685368496,
@@ -10644,7 +10644,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -2.9734126216707955,
+        "relative_market_5d": -2.972624574766247,
         "relative_industry_5d": -2.01240478038629,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -1.4941015902177084,
@@ -10672,7 +10672,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -9.924332244642292,
+        "relative_market_5d": -9.923544197737744,
         "relative_industry_5d": -8.128238588465237,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.2876831083638041,
@@ -10700,7 +10700,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -3.6804417265582092,
+        "relative_market_5d": -3.6796536796536605,
         "relative_industry_5d": -2.8389695959355254,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.20327118440910882,
@@ -10728,7 +10728,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -1.597108393224883,
+        "relative_market_5d": -1.5963203463203346,
         "relative_industry_5d": -2.770152117874103,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.31579114970618455,
@@ -10756,7 +10756,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -14.433129898601234,
+        "relative_market_5d": -14.432341851696684,
         "relative_industry_5d": -12.637036242424177,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.7376947756541016,
@@ -10784,7 +10784,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -5.001579937940343,
+        "relative_market_5d": -5.000791891035794,
         "relative_industry_5d": -3.205486281763287,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.6250847294805592,
@@ -10812,7 +10812,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -0.5060573090646503,
+        "relative_market_5d": -0.5052692621601018,
         "relative_industry_5d": 0.7279577953322014,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.9284510237807075,
@@ -10840,7 +10840,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -8.990437011801038,
+        "relative_market_5d": -8.989648964896489,
         "relative_industry_5d": -7.194343355623983,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.25443918248428926,
@@ -10868,7 +10868,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -1.8884452445881272,
+        "relative_market_5d": -1.8876571976835788,
         "relative_industry_5d": -1.6654503265405407,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.6567029518561517,
@@ -10896,7 +10896,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -9.725721109987889,
+        "relative_market_5d": -9.724933063083341,
         "relative_industry_5d": -10.211946050096332,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -1.1844113001771002,
@@ -10924,7 +10924,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -9.62207830898903,
+        "relative_market_5d": -9.621290262084482,
         "relative_industry_5d": -7.825984652811974,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.25597137988844054,
@@ -10952,7 +10952,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -4.802236598353099,
+        "relative_market_5d": -4.8014485514485505,
         "relative_industry_5d": -3.5682214939562473,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.035772534219211366,
@@ -10980,7 +10980,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -0.26659814646621816,
+        "relative_market_5d": -0.2658100995616697,
         "relative_industry_5d": -0.22796613582202196,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -2.2575734951400803,
@@ -11008,7 +11008,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -4.086578910673749,
+        "relative_market_5d": -4.0857908637692,
         "relative_industry_5d": -3.5111685059118596,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.477063505285974,
@@ -11036,7 +11036,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -63.88877505989156,
+        "relative_market_5d": -63.88798701298701,
         "relative_industry_5d": -64.51950867052024,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -2.1972922354419393,
@@ -11064,7 +11064,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -0.27810627008262867,
+        "relative_market_5d": -0.2773182231780802,
         "relative_industry_5d": 0.5633658605400549,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -1.0348034090496263,
@@ -11092,7 +11092,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -5.586649553818685,
+        "relative_market_5d": -5.585861506914136,
         "relative_industry_5d": -4.625641712534179,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.29721237488229946,
@@ -11120,7 +11120,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -2.6172233357536214,
+        "relative_market_5d": -2.6164352888490727,
         "relative_industry_5d": -1.6562154944691154,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.4148507497012734,
@@ -11148,7 +11148,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -12.905332556252553,
+        "relative_market_5d": -12.904544509348003,
         "relative_industry_5d": -11.109238900075496,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.2400136512602844,
@@ -11176,7 +11176,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -10.752968143465052,
+        "relative_market_5d": -10.752180096560505,
         "relative_industry_5d": -10.612888281903354,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.30024644531666395,
@@ -11204,7 +11204,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -8.248714818927711,
+        "relative_market_5d": -8.247926772023163,
         "relative_industry_5d": -7.2877069776432055,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.3736111734759478,
@@ -11232,7 +11232,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -8.41255147813405,
+        "relative_market_5d": -8.411763431229502,
         "relative_industry_5d": -7.178536373737199,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.47540320504186284,
@@ -11260,7 +11260,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -6.637785613981268,
+        "relative_market_5d": -6.636997567076719,
         "relative_industry_5d": -6.599153603337071,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.17217104826266696,
@@ -11288,7 +11288,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -6.4994209929059075,
+        "relative_market_5d": -6.498632946001359,
         "relative_industry_5d": -5.538413151621402,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.3659430412177284,
@@ -11316,7 +11316,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -9.247108393224885,
+        "relative_market_5d": -9.246320346320335,
         "relative_industry_5d": -7.451014737047829,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.7707547857555841,
@@ -11344,7 +11344,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -4.698960245076739,
+        "relative_market_5d": -4.69817219817219,
         "relative_industry_5d": -3.737952403792233,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.7692852623004632,
@@ -11372,7 +11372,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -4.037584583701076,
+        "relative_market_5d": -4.036796536796527,
         "relative_industry_5d": -3.196112453078392,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.8946888326045316,
@@ -11400,7 +11400,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -9.423684969801455,
+        "relative_market_5d": -9.422896922896907,
         "relative_industry_5d": -8.46267712851695,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -1.2164544481451467,
@@ -11428,7 +11428,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -6.9161976709278985,
+        "relative_market_5d": -6.91540962402335,
         "relative_industry_5d": -5.955189829643393,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.5036099727457338,
@@ -11456,7 +11456,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -5.8927619266833045,
+        "relative_market_5d": -5.891973879778756,
         "relative_industry_5d": -4.931754085398799,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.38913747376726293,
@@ -11484,7 +11484,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -12.766787108084316,
+        "relative_market_5d": -12.765999061179766,
         "relative_industry_5d": -12.54379219003673,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -2.471251706696512,
@@ -11512,7 +11512,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 1.3744904847554695,
+        "relative_market_5d": 1.375278531660018,
         "relative_industry_5d": null,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.032577746623899735,
@@ -11543,7 +11543,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 1.0475721734685195,
+        "relative_market_5d": 1.048360220373068,
         "relative_industry_5d": null,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.8973795934227167,
@@ -11574,7 +11574,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 3.3645907711205068,
+        "relative_market_5d": 3.3653788180250555,
         "relative_industry_5d": null,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.43493801576838437,
@@ -11605,7 +11605,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 1.5150315244705725,
+        "relative_market_5d": 1.515819571375121,
         "relative_industry_5d": 1.5592029121722584,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -1.0627083347683435,
@@ -11635,7 +11635,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 8.68294625158386,
+        "relative_market_5d": 8.68373429848841,
         "relative_industry_5d": 8.69756420668451,
         "volume_breakout_20d": true,
         "institutional_intensity_5d": null,
@@ -11665,7 +11665,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": -0.9091238971008664,
+        "relative_market_5d": -0.9083358501963179,
         "relative_industry_5d": -1.0281129567957459,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.37025482688551586,
@@ -11695,7 +11695,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 4.140071093954606,
+        "relative_market_5d": 4.140859140859154,
         "relative_industry_5d": 4.154689049055254,
         "volume_breakout_20d": true,
         "institutional_intensity_5d": 1.0134586960250211,
@@ -11725,7 +11725,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 7.528478461235194,
+        "relative_market_5d": 7.5292665081397425,
         "relative_industry_5d": 2.6138292162863674,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 1.3541669468942408,
@@ -11755,7 +11755,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 3.1387448340076505,
+        "relative_market_5d": 3.139532880912199,
         "relative_industry_5d": -1.775904410941176,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 3.476966351758686,
@@ -11785,7 +11785,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 3.829689985701151,
+        "relative_market_5d": 3.8304780326056997,
         "relative_industry_5d": -1.0849592592476753,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.27386226029109917,
@@ -11815,7 +11815,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 2.3518965818994984,
+        "relative_market_5d": 2.352684628804047,
         "relative_industry_5d": -2.562752663049328,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 3.58908099303717,
@@ -11845,7 +11845,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 4.914649244948826,
+        "relative_market_5d": 4.915437291853375,
         "relative_industry_5d": 0.0,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 1.1161966932959742,
@@ -11875,7 +11875,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 3.349427485177375,
+        "relative_market_5d": 3.350215532081924,
         "relative_industry_5d": null,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": null,
@@ -11907,7 +11907,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 9.802995126443854,
+        "relative_market_5d": 9.803783173348403,
         "relative_industry_5d": 4.888345881495027,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 1.2598829769274602,
@@ -11937,7 +11937,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 5.000113828997327,
+        "relative_market_5d": 5.000901875901875,
         "relative_industry_5d": 0.08546458404850021,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.22843660760660148,
@@ -11967,7 +11967,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 9.490964276601327,
+        "relative_market_5d": 9.491752323505875,
         "relative_industry_5d": 4.5763150316525,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 1.070233645566324,
@@ -11997,7 +11997,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 12.547293642398532,
+        "relative_market_5d": 12.548081689303082,
         "relative_industry_5d": 7.632644397449706,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 1.3318938294567393,
@@ -12027,7 +12027,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 12.873321714301984,
+        "relative_market_5d": 12.874109761206533,
         "relative_industry_5d": 7.958672469353157,
         "volume_breakout_20d": true,
         "institutional_intensity_5d": 1.1787965145616632,
@@ -12057,7 +12057,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 9.548724940108439,
+        "relative_market_5d": 9.549512987012989,
         "relative_industry_5d": 4.634075695159613,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 1.6351022840643754,
@@ -12087,7 +12087,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 3.287054815627105,
+        "relative_market_5d": 3.2878428625316536,
         "relative_industry_5d": -1.6275944293217215,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 2.273011021388089,
@@ -12117,7 +12117,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 11.15289160677511,
+        "relative_market_5d": 11.15367965367966,
         "relative_industry_5d": 6.238242361826284,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 1.5242558356162592,
@@ -12147,7 +12147,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 4.888740663378882,
+        "relative_market_5d": 4.889528710283431,
         "relative_industry_5d": -0.025908581569944467,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 3.229656942558849,
@@ -12177,7 +12177,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 8.149541523023036,
+        "relative_market_5d": 8.150329569927584,
         "relative_industry_5d": 3.2348922780742084,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 2.1813172704417854,
@@ -12207,7 +12207,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 6.697405064332035,
+        "relative_market_5d": 6.698193111236583,
         "relative_industry_5d": 1.7827558193832083,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 1.425549687285191,
@@ -12237,7 +12237,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 8.91645749824797,
+        "relative_market_5d": 8.917245545152518,
         "relative_industry_5d": 4.001808253299144,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 2.186333164930658,
@@ -12267,7 +12267,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 7.7863408149635935,
+        "relative_market_5d": 7.787128861868142,
         "relative_industry_5d": 2.871691570014767,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 3.038151655294077,
@@ -12297,7 +12297,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 6.030779395553992,
+        "relative_market_5d": 6.031567442458541,
         "relative_industry_5d": 1.1161301506051657,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 2.357033414767465,
@@ -12327,7 +12327,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 4.61977025012435,
+        "relative_market_5d": 4.620558297028898,
         "relative_industry_5d": -0.29487899482447677,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": -0.34869431736327533,
@@ -12357,7 +12357,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 37.81341388020061,
+        "relative_market_5d": 37.81420192710516,
         "relative_industry_5d": 38.0364087982482,
         "volume_breakout_20d": true,
         "institutional_intensity_5d": null,
@@ -12387,7 +12387,7 @@
         "us": 44.915438011071764
       },
       "details": {
-        "relative_market_5d": 4.079039311365934,
+        "relative_market_5d": 4.0798273582704825,
         "relative_industry_5d": 5.231562553212454,
         "volume_breakout_20d": false,
         "institutional_intensity_5d": 0.4718111849166154,

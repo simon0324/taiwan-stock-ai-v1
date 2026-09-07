@@ -1,6 +1,6 @@
 {
   "rules_version": "us-overnight-1",
-  "as_of": "2026-09-06T10:59:54.256048+08:00",
+  "as_of": "2026-09-07T08:07:27.879060+08:00",
   "market_date": "2026-09-04",
   "us_market_date": "2026-09-04",
   "source_status": "正常",
@@ -2420,20 +2420,6 @@
       ]
     },
     {
-      "code": "4763",
-      "name": "材料*-KY",
-      "original_score": 60.81060606060606,
-      "us_score": 44.915438011071764,
-      "us_adjustment": -0.5084561988928238,
-      "weighted_score": 59.221089255652636,
-      "semiconductor_evidence": null,
-      "components": [
-        "S&P 500",
-        "Nasdaq",
-        "VIX（反向）"
-      ]
-    },
-    {
       "code": "1409",
       "name": "新纖",
       "original_score": 60.71969696969696,
@@ -2608,6 +2594,20 @@
       "us_score": 44.915438011071764,
       "us_adjustment": -0.5084561988928238,
       "weighted_score": 58.32790743747081,
+      "semiconductor_evidence": null,
+      "components": [
+        "S&P 500",
+        "Nasdaq",
+        "VIX（反向）"
+      ]
+    },
+    {
+      "code": "4763",
+      "name": "材料*-KY",
+      "original_score": 59.81060606060606,
+      "us_score": 44.915438011071764,
+      "us_adjustment": -0.5084561988928238,
+      "weighted_score": 58.32108925565264,
       "semiconductor_evidence": null,
       "components": [
         "S&P 500",
@@ -3312,6 +3312,20 @@
       ]
     },
     {
+      "code": "2880",
+      "name": "華南金",
+      "original_score": 55.901515151515156,
+      "us_score": 44.915438011071764,
+      "us_adjustment": -0.5084561988928238,
+      "weighted_score": 54.80290743747082,
+      "semiconductor_evidence": null,
+      "components": [
+        "S&P 500",
+        "Nasdaq",
+        "VIX（反向）"
+      ]
+    },
+    {
       "code": "2489",
       "name": "瑞軒",
       "original_score": 55.81060606060606,
@@ -3444,20 +3458,6 @@
       "us_score": 44.915438011071764,
       "us_adjustment": -0.5084561988928238,
       "weighted_score": 53.97108925565263,
-      "semiconductor_evidence": null,
-      "components": [
-        "S&P 500",
-        "Nasdaq",
-        "VIX（反向）"
-      ]
-    },
-    {
-      "code": "2880",
-      "name": "華南金",
-      "original_score": 54.901515151515156,
-      "us_score": 44.915438011071764,
-      "us_adjustment": -0.5084561988928238,
-      "weighted_score": 53.902907437470816,
       "semiconductor_evidence": null,
       "components": [
         "S&P 500",
@@ -3858,20 +3858,6 @@
       ]
     },
     {
-      "code": "2891",
-      "name": "中信金",
-      "original_score": 52.65151515151515,
-      "us_score": 44.915438011071764,
-      "us_adjustment": -0.5084561988928238,
-      "weighted_score": 51.87790743747081,
-      "semiconductor_evidence": null,
-      "components": [
-        "S&P 500",
-        "Nasdaq",
-        "VIX（反向）"
-      ]
-    },
-    {
       "code": "3533",
       "name": "嘉澤",
       "original_score": 52.553030303030305,
@@ -4046,6 +4032,20 @@
       "us_score": 44.915438011071764,
       "us_adjustment": -0.5084561988928238,
       "weighted_score": 51.080180164743545,
+      "semiconductor_evidence": null,
+      "components": [
+        "S&P 500",
+        "Nasdaq",
+        "VIX（反向）"
+      ]
+    },
+    {
+      "code": "2891",
+      "name": "中信金",
+      "original_score": 51.65151515151515,
+      "us_score": 44.915438011071764,
+      "us_adjustment": -0.5084561988928238,
+      "weighted_score": 50.97790743747081,
       "semiconductor_evidence": null,
       "components": [
         "S&P 500",
@@ -4684,20 +4684,6 @@
       ]
     },
     {
-      "code": "3035",
-      "name": "智原",
-      "original_score": 47.196969696969695,
-      "us_score": 44.915438011071764,
-      "us_adjustment": -0.5084561988928238,
-      "weighted_score": 46.968816528379904,
-      "semiconductor_evidence": null,
-      "components": [
-        "S&P 500",
-        "Nasdaq",
-        "VIX（反向）"
-      ]
-    },
-    {
       "code": "4927",
       "name": "泰鼎-KY",
       "original_score": 47.1060606060606,
@@ -4844,6 +4830,20 @@
       "us_score": 44.915438011071764,
       "us_adjustment": -0.5084561988928238,
       "weighted_score": 46.102907437470805,
+      "semiconductor_evidence": null,
+      "components": [
+        "S&P 500",
+        "Nasdaq",
+        "VIX（反向）"
+      ]
+    },
+    {
+      "code": "3035",
+      "name": "智原",
+      "original_score": 46.196969696969695,
+      "us_score": 44.915438011071764,
+      "us_adjustment": -0.5084561988928238,
+      "weighted_score": 46.068816528379905,
       "semiconductor_evidence": null,
       "components": [
         "S&P 500",
