@@ -1,6 +1,6 @@
 {
   "rules_version": "global-rules-1",
-  "as_of": "2026-09-07T08:07:27.299697+08:00",
+  "as_of": "2026-09-08T08:34:30.593689+08:00",
   "sources": [
     {
       "source": "中央通訊社・國際",
@@ -14,6 +14,139 @@
     }
   ],
   "events": [
+    {
+      "id": "a2dc002b974967a6884369ce",
+      "title": "荷莫茲海峽航運風險未減　國際油價小升",
+      "url": "https://www.cna.com.tw/news/afe/202609080009.aspx",
+      "source": "中央通訊社・產經",
+      "published_at": "2026-09-08T06:13:24+08:00",
+      "first_seen_at": "2026-09-08T08:34:30.593689+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "能源供應",
+          "industry": "能源、石化、航空與運輸",
+          "possible_benefit": "若能源售價上升且成本可控，部分上游企業可能受益。",
+          "possible_risk": "若燃料成本提高，未避險的用能企業可能承壓。",
+          "verify_next": "核對價格方向、持續性、庫存、避險與成本轉嫁，油價下跌時可能相反。"
+        },
+        {
+          "category": "衝突／航運",
+          "industry": "航運、物流、能源與出口產業",
+          "possible_benefit": "若供給受限推升運價，部分運輸商可能受益。",
+          "possible_risk": "繞航、保險、交期與燃料成本也可能增加。",
+          "verify_next": "核對事件是否已發生、航線曝險與實際成本，不把衝突直接當買進訊號。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
+    {
+      "id": "39cccb47bde726b90caabd2f",
+      "title": "美國加拿大貿易戰再升溫　川普揚言封殺飛機製造商龐巴迪",
+      "url": "https://www.cna.com.tw/news/aopl/202609080004.aspx",
+      "source": "中央通訊社・國際",
+      "published_at": "2026-09-08T02:59:10+08:00",
+      "first_seen_at": "2026-09-08T08:34:30.593689+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "關稅／貿易",
+          "industry": "出口製造、電子、機械",
+          "possible_benefit": "若關稅下降或訂單轉移，部分出口商可能受益。",
+          "possible_risk": "若成本提高且無法轉嫁，利潤可能承壓。",
+          "verify_next": "核對原產地、稅率、生效日與企業產地；不能將降稅與加稅視為同方向。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
+    {
+      "id": "47b619c6d75f15907ac85d88",
+      "title": "國際油價攀升引通膨疑慮　歐洲股市收盤走勢分歧",
+      "url": "https://www.cna.com.tw/news/afe/202609080002.aspx",
+      "source": "中央通訊社・產經",
+      "published_at": "2026-09-08T01:00:03+08:00",
+      "first_seen_at": "2026-09-08T08:34:30.593689+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "能源供應",
+          "industry": "能源、石化、航空與運輸",
+          "possible_benefit": "若能源售價上升且成本可控，部分上游企業可能受益。",
+          "possible_risk": "若燃料成本提高，未避險的用能企業可能承壓。",
+          "verify_next": "核對價格方向、持續性、庫存、避險與成本轉嫁，油價下跌時可能相反。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
+    {
+      "id": "38db97a75109cac98a612503",
+      "title": "俄烏戰爭帶動捷克軍工業熱潮  出口連4年創新高",
+      "url": "https://www.cna.com.tw/news/aopl/202609070305.aspx",
+      "source": "中央通訊社・國際",
+      "published_at": "2026-09-07T22:44:39+08:00",
+      "first_seen_at": "2026-09-08T08:34:30.593689+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "衝突／航運",
+          "industry": "航運、物流、能源與出口產業",
+          "possible_benefit": "若供給受限推升運價，部分運輸商可能受益。",
+          "possible_risk": "繞航、保險、交期與燃料成本也可能增加。",
+          "verify_next": "核對事件是否已發生、航線曝險與實際成本，不把衝突直接當買進訊號。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
+    {
+      "id": "645a6f07281d767e1eba0132",
+      "title": "伊朗警告韓國勿參與荷莫茲海峽行動　否則後果嚴重",
+      "url": "https://www.cna.com.tw/news/aopl/202609070287.aspx",
+      "source": "中央通訊社・國際",
+      "published_at": "2026-09-07T20:47:55+08:00",
+      "first_seen_at": "2026-09-08T08:34:30.593689+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "衝突／航運",
+          "industry": "航運、物流、能源與出口產業",
+          "possible_benefit": "若供給受限推升運價，部分運輸商可能受益。",
+          "possible_risk": "繞航、保險、交期與燃料成本也可能增加。",
+          "verify_next": "核對事件是否已發生、航線曝險與實際成本，不把衝突直接當買進訊號。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
+    {
+      "id": "ba114e07ed979623e74f4d9f",
+      "title": "美伊戰爭擾亂油品供應　美國柴油均價創新高",
+      "url": "https://www.cna.com.tw/news/aopl/202609070270.aspx",
+      "source": "中央通訊社・產經",
+      "published_at": "2026-09-07T19:46:18+08:00",
+      "first_seen_at": "2026-09-08T08:34:30.593689+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "衝突／航運",
+          "industry": "航運、物流、能源與出口產業",
+          "possible_benefit": "若供給受限推升運價，部分運輸商可能受益。",
+          "possible_risk": "繞航、保險、交期與燃料成本也可能增加。",
+          "verify_next": "核對事件是否已發生、航線曝險與實際成本，不把衝突直接當買進訊號。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
     {
       "id": "67f874cee2e112cfa7a38978",
       "title": "與美特使會談後　澤倫斯基：目前看來冬天仍得繼續戰爭",

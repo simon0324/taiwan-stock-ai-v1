@@ -1,5 +1,5 @@
 {
-  "market_date": "2026-09-04",
+  "market_date": "2026-09-07",
   "rules_version": 2,
   "legacy_count": 20,
   "summary": {
@@ -7,13 +7,13 @@
       "completed": 0,
       "win_rate": null,
       "average_return": null,
-      "signals": 0
+      "signals": 1
     },
     "with_eps": {
       "completed": 0,
       "win_rate": null,
       "average_return": null,
-      "signals": 0
+      "signals": 1
     }
   },
   "records": [
@@ -280,6 +280,96 @@
       "score": 90.00453514739229,
       "status": "waiting_entry",
       "legacy_unverified": true
+    },
+    {
+      "signal_date": "2026-09-07",
+      "variant": "revenue_only",
+      "rank": 1,
+      "code": "7711",
+      "name": "永擎",
+      "score": 98.32579185520362,
+      "status": "waiting_entry"
+    },
+    {
+      "signal_date": "2026-09-07",
+      "variant": "revenue_only",
+      "rank": 2,
+      "code": "2305",
+      "name": "全友",
+      "score": 97.36425339366515,
+      "status": "waiting_entry"
+    },
+    {
+      "signal_date": "2026-09-07",
+      "variant": "revenue_only",
+      "rank": 3,
+      "code": "3055",
+      "name": "蔚華科",
+      "score": 95.32805429864254,
+      "status": "waiting_entry"
+    },
+    {
+      "signal_date": "2026-09-07",
+      "variant": "revenue_only",
+      "rank": 4,
+      "code": "6672",
+      "name": "騰輝電子-KY",
+      "score": 94.37782805429865,
+      "status": "waiting_entry"
+    },
+    {
+      "signal_date": "2026-09-07",
+      "variant": "revenue_only",
+      "rank": 5,
+      "code": "2465",
+      "name": "麗臺",
+      "score": 94.1289592760181,
+      "status": "waiting_entry"
+    },
+    {
+      "signal_date": "2026-09-07",
+      "variant": "with_eps",
+      "rank": 1,
+      "code": "7711",
+      "name": "永擎",
+      "score": 97.0316742081448,
+      "status": "waiting_entry"
+    },
+    {
+      "signal_date": "2026-09-07",
+      "variant": "with_eps",
+      "rank": 2,
+      "code": "3006",
+      "name": "晶豪科",
+      "score": 89.88235294117648,
+      "status": "waiting_entry"
+    },
+    {
+      "signal_date": "2026-09-07",
+      "variant": "with_eps",
+      "rank": 3,
+      "code": "6672",
+      "name": "騰輝電子-KY",
+      "score": 89.30316742081449,
+      "status": "waiting_entry"
+    },
+    {
+      "signal_date": "2026-09-07",
+      "variant": "with_eps",
+      "rank": 4,
+      "code": "8996",
+      "name": "高力",
+      "score": 88.64253393665159,
+      "status": "waiting_entry"
+    },
+    {
+      "signal_date": "2026-09-07",
+      "variant": "with_eps",
+      "rank": 5,
+      "code": "4770",
+      "name": "上品",
+      "score": 88.289592760181,
+      "status": "waiting_entry"
     }
   ]
 }
