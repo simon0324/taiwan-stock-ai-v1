@@ -1,1 +1,334 @@
-[]
+[
+  {
+    "market_date": "2026-09-08",
+    "observed_at": "2026-09-08T19:46:20.321177+08:00",
+    "rules_version": "events-1",
+    "sources": [
+      {
+        "source": "證交所・公司重大訊息",
+        "status": "ok",
+        "invalid_rows": 0
+      },
+      {
+        "source": "中央通訊社・產經",
+        "status": "ok",
+        "invalid_rows": 0
+      },
+      {
+        "source": "中央通訊社・科技",
+        "status": "ok",
+        "invalid_rows": 0
+      }
+    ],
+    "original": [
+      {
+        "code": "3006",
+        "name": "晶豪科",
+        "price": 298.5,
+        "avg_value": 4178602921.15,
+        "revenue": 491.0617601014743,
+        "eps": 27.58,
+        "foreign": 0,
+        "momentum": 7.181328545780974,
+        "volume_ratio": 1.2896844504471037,
+        "trend": 100.0,
+        "atr": 19.785714285714285,
+        "atr_pct": 6.628379995214166,
+        "news": 1,
+        "stable": 92.78329571106096,
+        "growth": 94.1038374717833,
+        "strong": 90.9097065462754,
+        "overall": 92.59894657637322,
+        "entry_low": 297.0075,
+        "entry_high": 299.99249999999995,
+        "fixed_stop": 283.575,
+        "fixed_target": 322.38,
+        "dynamic_stop": 268.82142857142856,
+        "dynamic_target": 357.8571428571429,
+        "risk_flags": [
+          "波動偏高"
+        ]
+      },
+      {
+        "code": "6515",
+        "name": "穎崴",
+        "price": 7700.0,
+        "avg_value": 3214585784.75,
+        "revenue": 155.5707799746721,
+        "eps": 38.24,
+        "foreign": 0,
+        "momentum": 11.432706222865407,
+        "volume_ratio": 1.9008861760630293,
+        "trend": 100.0,
+        "atr": 416.7857142857143,
+        "atr_pct": 5.412801484230056,
+        "news": 0,
+        "stable": 92.0316027088036,
+        "growth": 92.40406320541761,
+        "strong": 91.6704288939052,
+        "overall": 92.03536493604213,
+        "entry_low": 7661.5,
+        "entry_high": 7738.499999999999,
+        "fixed_stop": 7315.0,
+        "fixed_target": 8316.0,
+        "dynamic_stop": 7074.821428571428,
+        "dynamic_target": 8950.357142857143,
+        "risk_flags": [
+          "波動偏高"
+        ]
+      },
+      {
+        "code": "3167",
+        "name": "大量",
+        "price": 938.0,
+        "avg_value": 3705665876.5,
+        "revenue": 152.87141417726988,
+        "eps": 9.26,
+        "foreign": 0,
+        "momentum": 17.25000000000001,
+        "volume_ratio": 4.034951230714392,
+        "trend": 100.0,
+        "atr": 67.21428571428571,
+        "atr_pct": 7.165702101736217,
+        "news": 0,
+        "stable": 89.7178329571106,
+        "growth": 89.4469525959368,
+        "strong": 92.313769751693,
+        "overall": 90.49285176824681,
+        "entry_low": 933.31,
+        "entry_high": 942.6899999999999,
+        "fixed_stop": 891.0999999999999,
+        "fixed_target": 1013.0400000000001,
+        "dynamic_stop": 844.2,
+        "dynamic_target": 1125.6,
+        "risk_flags": [
+          "波動偏高",
+          "短線漲幅偏大",
+          "爆量"
+        ]
+      },
+      {
+        "code": "4967",
+        "name": "十銓",
+        "price": 280.5,
+        "avg_value": 1326831567.55,
+        "revenue": 98.74936839745938,
+        "eps": 53.44,
+        "foreign": 0,
+        "momentum": 1.6304347826086918,
+        "volume_ratio": 1.5246524603988723,
+        "trend": 100.0,
+        "atr": 9.535714285714286,
+        "atr_pct": 3.399541634835753,
+        "news": 0,
+        "stable": 90.80135440180585,
+        "growth": 89.59367945823928,
+        "strong": 86.90744920993228,
+        "overall": 89.10082768999247,
+        "entry_low": 279.0975,
+        "entry_high": 281.9025,
+        "fixed_stop": 266.47499999999997,
+        "fixed_target": 302.94,
+        "dynamic_stop": 266.19642857142856,
+        "dynamic_target": 309.1071428571429,
+        "risk_flags": [
+          "一般"
+        ]
+      },
+      {
+        "code": "7610",
+        "name": "聯友金屬-創",
+        "price": 2065.0,
+        "avg_value": 1156384432.5,
+        "revenue": 721.9912796850527,
+        "eps": 25.37,
+        "foreign": 0,
+        "momentum": 28.660436137071656,
+        "volume_ratio": 4.389530728138715,
+        "trend": 66.66666666666666,
+        "atr": 139.28571428571428,
+        "atr_pct": 6.74507090971982,
+        "news": 0,
+        "stable": 86.8209179834462,
+        "growth": 88.49887133182844,
+        "strong": 90.95560571858542,
+        "overall": 88.75846501128667,
+        "entry_low": 2054.675,
+        "entry_high": 2075.325,
+        "fixed_stop": 1961.75,
+        "fixed_target": 2230.2000000000003,
+        "dynamic_stop": 1858.5,
+        "dynamic_target": 2478.0,
+        "risk_flags": [
+          "波動偏高",
+          "短線漲幅偏大",
+          "爆量"
+        ]
+      }
+    ],
+    "message": [
+      {
+        "code": "3006",
+        "name": "晶豪科",
+        "original_score": 92.59894657637322,
+        "message_score": 50.0,
+        "score": 88.3390519187359,
+        "evidence_status": "未知／未達門檻",
+        "contributions": [
+          {
+            "category": "訂單",
+            "points": 0.0
+          },
+          {
+            "category": "新聞話題",
+            "points": 0.0
+          },
+          {
+            "category": "龍頭地位",
+            "points": 0.0
+          },
+          {
+            "category": "專利技術",
+            "points": 0.0
+          }
+        ],
+        "events": [
+          {
+            "id": "99a52775602d920eaa9b1fef",
+            "code": "3006",
+            "title": "代子公司誠風投資（股）公司公告取得有價證券",
+            "published_at": "2026-09-04T15:51:52+08:00",
+            "first_seen_at": "2026-09-05T11:36:38.452842+08:00",
+            "source": "證交所・公司重大訊息",
+            "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+            "official": true,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+          },
+          {
+            "id": "9287aa762150f63845d3ca9b",
+            "code": "3006",
+            "title": "公告本公司發行國內第二次有擔保轉換公司債案向金管會\r\n申請延長募集期間，業經金管會准予備查",
+            "published_at": "2026-09-04T15:44:13+08:00",
+            "first_seen_at": "2026-09-05T11:36:38.452842+08:00",
+            "source": "證交所・公司重大訊息",
+            "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+            "official": true,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+          }
+        ]
+      },
+      {
+        "code": "6515",
+        "name": "穎崴",
+        "original_score": 92.03536493604213,
+        "message_score": 50.0,
+        "score": 87.83182844243792,
+        "evidence_status": "未知／未達門檻",
+        "contributions": [
+          {
+            "category": "訂單",
+            "points": 0.0
+          },
+          {
+            "category": "新聞話題",
+            "points": 0.0
+          },
+          {
+            "category": "龍頭地位",
+            "points": 0.0
+          },
+          {
+            "category": "專利技術",
+            "points": 0.0
+          }
+        ],
+        "events": []
+      },
+      {
+        "code": "3167",
+        "name": "大量",
+        "original_score": 90.49285176824681,
+        "message_score": 50.0,
+        "score": 86.44356659142213,
+        "evidence_status": "未知／未達門檻",
+        "contributions": [
+          {
+            "category": "訂單",
+            "points": 0.0
+          },
+          {
+            "category": "新聞話題",
+            "points": 0.0
+          },
+          {
+            "category": "龍頭地位",
+            "points": 0.0
+          },
+          {
+            "category": "專利技術",
+            "points": 0.0
+          }
+        ],
+        "events": []
+      },
+      {
+        "code": "4967",
+        "name": "十銓",
+        "original_score": 89.10082768999247,
+        "message_score": 50.0,
+        "score": 85.19074492099323,
+        "evidence_status": "未知／未達門檻",
+        "contributions": [
+          {
+            "category": "訂單",
+            "points": 0.0
+          },
+          {
+            "category": "新聞話題",
+            "points": 0.0
+          },
+          {
+            "category": "龍頭地位",
+            "points": 0.0
+          },
+          {
+            "category": "專利技術",
+            "points": 0.0
+          }
+        ],
+        "events": []
+      },
+      {
+        "code": "7610",
+        "name": "聯友金屬-創",
+        "original_score": 88.75846501128667,
+        "message_score": 50.0,
+        "score": 84.88261851015801,
+        "evidence_status": "未知／未達門檻",
+        "contributions": [
+          {
+            "category": "訂單",
+            "points": 0.0
+          },
+          {
+            "category": "新聞話題",
+            "points": 0.0
+          },
+          {
+            "category": "龍頭地位",
+            "points": 0.0
+          },
+          {
+            "category": "專利技術",
+            "points": 0.0
+          }
+        ],
+        "events": []
+      }
+    ]
+  }
+]

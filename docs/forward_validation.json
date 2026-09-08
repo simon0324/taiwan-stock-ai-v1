@@ -1,5 +1,5 @@
 {
-  "market_date": "2026-09-07",
+  "market_date": "2026-09-08",
   "rules_version": 2,
   "legacy_count": 20,
   "summary": {
@@ -7,13 +7,13 @@
       "completed": 0,
       "win_rate": null,
       "average_return": null,
-      "signals": 1
+      "signals": 2
     },
     "with_eps": {
       "completed": 0,
       "win_rate": null,
       "average_return": null,
-      "signals": 1
+      "signals": 2
     }
   },
   "records": [
@@ -288,7 +288,12 @@
       "code": "7711",
       "name": "永擎",
       "score": 98.32579185520362,
-      "status": "waiting_entry"
+      "status": "active",
+      "last_processed_date": "2026-09-08",
+      "entry_date": "2026-09-08",
+      "entry_price": 594.0,
+      "shares": 168,
+      "held_days": 0
     },
     {
       "signal_date": "2026-09-07",
@@ -297,7 +302,12 @@
       "code": "2305",
       "name": "全友",
       "score": 97.36425339366515,
-      "status": "waiting_entry"
+      "status": "active",
+      "last_processed_date": "2026-09-08",
+      "entry_date": "2026-09-08",
+      "entry_price": 33.2,
+      "shares": 3012,
+      "held_days": 0
     },
     {
       "signal_date": "2026-09-07",
@@ -306,7 +316,12 @@
       "code": "3055",
       "name": "蔚華科",
       "score": 95.32805429864254,
-      "status": "waiting_entry"
+      "status": "active",
+      "last_processed_date": "2026-09-08",
+      "entry_date": "2026-09-08",
+      "entry_price": 146.0,
+      "shares": 684,
+      "held_days": 0
     },
     {
       "signal_date": "2026-09-07",
@@ -315,7 +330,12 @@
       "code": "6672",
       "name": "騰輝電子-KY",
       "score": 94.37782805429865,
-      "status": "waiting_entry"
+      "status": "active",
+      "last_processed_date": "2026-09-08",
+      "entry_date": "2026-09-08",
+      "entry_price": 294.0,
+      "shares": 340,
+      "held_days": 0
     },
     {
       "signal_date": "2026-09-07",
@@ -324,7 +344,12 @@
       "code": "2465",
       "name": "麗臺",
       "score": 94.1289592760181,
-      "status": "waiting_entry"
+      "status": "active",
+      "last_processed_date": "2026-09-08",
+      "entry_date": "2026-09-08",
+      "entry_price": 96.9,
+      "shares": 1031,
+      "held_days": 0
     },
     {
       "signal_date": "2026-09-07",
@@ -333,7 +358,12 @@
       "code": "7711",
       "name": "永擎",
       "score": 97.0316742081448,
-      "status": "waiting_entry"
+      "status": "active",
+      "last_processed_date": "2026-09-08",
+      "entry_date": "2026-09-08",
+      "entry_price": 594.0,
+      "shares": 168,
+      "held_days": 0
     },
     {
       "signal_date": "2026-09-07",
@@ -342,7 +372,12 @@
       "code": "3006",
       "name": "晶豪科",
       "score": 89.88235294117648,
-      "status": "waiting_entry"
+      "status": "active",
+      "last_processed_date": "2026-09-08",
+      "entry_date": "2026-09-08",
+      "entry_price": 298.5,
+      "shares": 335,
+      "held_days": 0
     },
     {
       "signal_date": "2026-09-07",
@@ -351,7 +386,12 @@
       "code": "6672",
       "name": "騰輝電子-KY",
       "score": 89.30316742081449,
-      "status": "waiting_entry"
+      "status": "active",
+      "last_processed_date": "2026-09-08",
+      "entry_date": "2026-09-08",
+      "entry_price": 294.0,
+      "shares": 340,
+      "held_days": 0
     },
     {
       "signal_date": "2026-09-07",
@@ -360,7 +400,12 @@
       "code": "8996",
       "name": "高力",
       "score": 88.64253393665159,
-      "status": "waiting_entry"
+      "status": "active",
+      "last_processed_date": "2026-09-08",
+      "entry_date": "2026-09-08",
+      "entry_price": 1225.0,
+      "shares": 81,
+      "held_days": 0
     },
     {
       "signal_date": "2026-09-07",
@@ -369,6 +414,101 @@
       "code": "4770",
       "name": "上品",
       "score": 88.289592760181,
+      "status": "active",
+      "last_processed_date": "2026-09-08",
+      "entry_date": "2026-09-08",
+      "entry_price": 234.0,
+      "shares": 427,
+      "held_days": 0
+    },
+    {
+      "signal_date": "2026-09-08",
+      "variant": "revenue_only",
+      "rank": 1,
+      "code": "2305",
+      "name": "全友",
+      "score": 98.35214446952595,
+      "status": "waiting_entry"
+    },
+    {
+      "signal_date": "2026-09-08",
+      "variant": "revenue_only",
+      "rank": 2,
+      "code": "3167",
+      "name": "大量",
+      "score": 98.19413092550789,
+      "status": "waiting_entry"
+    },
+    {
+      "signal_date": "2026-09-08",
+      "variant": "revenue_only",
+      "rank": 3,
+      "code": "3055",
+      "name": "蔚華科",
+      "score": 97.8781038374718,
+      "status": "waiting_entry"
+    },
+    {
+      "signal_date": "2026-09-08",
+      "variant": "revenue_only",
+      "rank": 4,
+      "code": "6515",
+      "name": "穎崴",
+      "score": 96.59142212189616,
+      "status": "waiting_entry"
+    },
+    {
+      "signal_date": "2026-09-08",
+      "variant": "revenue_only",
+      "rank": 5,
+      "code": "3006",
+      "name": "晶豪科",
+      "score": 95.72234762979684,
+      "status": "waiting_entry"
+    },
+    {
+      "signal_date": "2026-09-08",
+      "variant": "with_eps",
+      "rank": 1,
+      "code": "6515",
+      "name": "穎崴",
+      "score": 96.7313769751693,
+      "status": "waiting_entry"
+    },
+    {
+      "signal_date": "2026-09-08",
+      "variant": "with_eps",
+      "rank": 2,
+      "code": "3006",
+      "name": "晶豪科",
+      "score": 95.67494356659142,
+      "status": "waiting_entry"
+    },
+    {
+      "signal_date": "2026-09-08",
+      "variant": "with_eps",
+      "rank": 3,
+      "code": "3167",
+      "name": "大量",
+      "score": 95.57562076749436,
+      "status": "waiting_entry"
+    },
+    {
+      "signal_date": "2026-09-08",
+      "variant": "with_eps",
+      "rank": 4,
+      "code": "4967",
+      "name": "十銓",
+      "score": 91.53047404063206,
+      "status": "waiting_entry"
+    },
+    {
+      "signal_date": "2026-09-08",
+      "variant": "with_eps",
+      "rank": 5,
+      "code": "7610",
+      "name": "聯友金屬-創",
+      "score": 90.77200902934538,
       "status": "waiting_entry"
     }
   ]

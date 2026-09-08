@@ -1,6 +1,6 @@
 {
   "rules_version": "global-rules-1",
-  "as_of": "2026-09-08T08:34:30.593689+08:00",
+  "as_of": "2026-09-08T19:46:27.761760+08:00",
   "sources": [
     {
       "source": "中央通訊社・國際",
@@ -14,6 +14,27 @@
     }
   ],
   "events": [
+    {
+      "id": "e0c26efb8344da5ed1544120",
+      "title": "市場對美聯準會升息預期提高　亞股多收跌",
+      "url": "https://www.cna.com.tw/news/afe/202609080276.aspx",
+      "source": "中央通訊社・產經",
+      "published_at": "2026-09-08T18:32:06+08:00",
+      "first_seen_at": "2026-09-08T19:46:27.761760+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "利率政策",
+          "industry": "金融、負債敏感與出口產業",
+          "possible_benefit": "若融資成本下降，負債敏感企業可能改善。",
+          "possible_risk": "若利差收窄或匯率不利，部分企業可能承壓。",
+          "verify_next": "核對實際決議與預期、幣別及企業負債結構。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
     {
       "id": "a2dc002b974967a6884369ce",
       "title": "荷莫茲海峽航運風險未減　國際油價小升",
