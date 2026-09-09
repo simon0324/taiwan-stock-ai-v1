@@ -6,23 +6,78 @@
     "picks": [
       {
         "code": "2449",
-        "name": "京元電子"
+        "name": "京元電子",
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "3037",
-        "name": "欣興"
+        "name": "欣興",
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "3711",
-        "name": "日月光投控"
+        "name": "日月光投控",
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "3583",
-        "name": "辛耘"
+        "name": "辛耘",
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "1560",
-        "name": "中砂"
+        "name": "中砂",
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       }
     ]
   }

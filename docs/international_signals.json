@@ -30,7 +30,18 @@
         "dynamic_target": 357.8571428571429,
         "risk_flags": [
           "波動偏高"
-        ]
+        ],
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "6515",
@@ -58,7 +69,18 @@
         "dynamic_target": 8950.357142857143,
         "risk_flags": [
           "波動偏高"
-        ]
+        ],
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "3167",
@@ -88,7 +110,18 @@
           "波動偏高",
           "短線漲幅偏大",
           "爆量"
-        ]
+        ],
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "4967",
@@ -116,7 +149,18 @@
         "dynamic_target": 309.1071428571429,
         "risk_flags": [
           "一般"
-        ]
+        ],
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "7610",
@@ -146,7 +190,18 @@
           "波動偏高",
           "短線漲幅偏大",
           "爆量"
-        ]
+        ],
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       }
     ],
     "weighted": [
@@ -158,7 +213,18 @@
         "event_adjustment": 0.0,
         "weighted_score": 88.3390519187359,
         "company_evidence": null,
-        "events": []
+        "events": [],
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "6515",
@@ -168,7 +234,18 @@
         "event_adjustment": 0.0,
         "weighted_score": 87.83182844243792,
         "company_evidence": null,
-        "events": []
+        "events": [],
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "3167",
@@ -178,7 +255,18 @@
         "event_adjustment": 0.0,
         "weighted_score": 86.44356659142213,
         "company_evidence": null,
-        "events": []
+        "events": [],
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "4967",
@@ -188,7 +276,18 @@
         "event_adjustment": 0.0,
         "weighted_score": 85.19074492099323,
         "company_evidence": null,
-        "events": []
+        "events": [],
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "7610",
@@ -198,8 +297,20 @@
         "event_adjustment": 0.0,
         "weighted_score": 84.88261851015801,
         "company_evidence": null,
-        "events": []
+        "events": [],
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       }
-    ]
+    ],
+    "tracking_status": "tracking"
   }
 ]

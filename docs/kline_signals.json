@@ -7,27 +7,82 @@
       {
         "code": "6669",
         "name": "緯穎",
-        "predicted_up_probability": 52.632
+        "predicted_up_probability": 52.632,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "6781",
         "name": "AES-KY",
-        "predicted_up_probability": 52.128
+        "predicted_up_probability": 52.128,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "8114",
         "name": "振樺電",
-        "predicted_up_probability": 51.792
+        "predicted_up_probability": 51.792,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "3028",
         "name": "增你強",
-        "predicted_up_probability": 51.792
+        "predicted_up_probability": 51.792,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "3022",
         "name": "威強電",
-        "predicted_up_probability": 51.736
+        "predicted_up_probability": 51.736,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       }
     ]
   }
