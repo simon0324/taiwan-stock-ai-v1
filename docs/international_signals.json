@@ -312,5 +312,205 @@
       }
     ],
     "tracking_status": "tracking"
+  },
+  {
+    "rules_version": "international-1",
+    "market_date": "2026-09-10",
+    "observed_at": "2026-09-10T19:52:18.273850+08:00",
+    "original": [
+      {
+        "code": "7610",
+        "name": "聯友金屬-創",
+        "price": 2035.0,
+        "avg_value": 1339600582.75,
+        "revenue": 721.9912796850527,
+        "eps": 25.37,
+        "foreign": 0,
+        "momentum": 22.96072507552871,
+        "volume_ratio": 1.5410277485563448,
+        "trend": 100.0,
+        "atr": 134.28571428571428,
+        "atr_pct": 6.598806598806599,
+        "news": 0,
+        "stable": 92.56880733944953,
+        "growth": 93.2683486238532,
+        "strong": 92.48853211009174,
+        "overall": 92.77522935779815,
+        "entry_low": 2024.825,
+        "entry_high": 2045.1749999999997,
+        "fixed_stop": 1933.25,
+        "fixed_target": 2197.8,
+        "dynamic_stop": 1833.5714285714287,
+        "dynamic_target": 2437.8571428571427,
+        "risk_flags": [
+          "波動偏高",
+          "短線漲幅偏大"
+        ]
+      },
+      {
+        "code": "3006",
+        "name": "晶豪科",
+        "price": 312.0,
+        "avg_value": 4740347351.55,
+        "revenue": 491.0617601014743,
+        "eps": 27.58,
+        "foreign": 0,
+        "momentum": 12.635379061371843,
+        "volume_ratio": 1.715310500472348,
+        "trend": 100.0,
+        "atr": 20.285714285714285,
+        "atr_pct": 6.501831501831501,
+        "news": 0,
+        "stable": 92.77522935779817,
+        "growth": 92.99311926605505,
+        "strong": 91.96100917431194,
+        "overall": 92.57645259938839,
+        "entry_low": 310.44,
+        "entry_high": 313.55999999999995,
+        "fixed_stop": 296.4,
+        "fixed_target": 336.96000000000004,
+        "dynamic_stop": 281.57142857142856,
+        "dynamic_target": 372.8571428571429,
+        "risk_flags": [
+          "波動偏高"
+        ]
+      },
+      {
+        "code": "3443",
+        "name": "創意",
+        "price": 6225.0,
+        "avg_value": 12242048184.75,
+        "revenue": 158.38135946958366,
+        "eps": 23.89,
+        "foreign": 0,
+        "momentum": 7.3275862068965525,
+        "volume_ratio": 0.9154751056249718,
+        "trend": 100.0,
+        "atr": 375.0,
+        "atr_pct": 6.024096385542169,
+        "news": 0,
+        "stable": 89.46100917431194,
+        "growth": 90.83715596330276,
+        "strong": 86.39908256880733,
+        "overall": 88.89908256880734,
+        "entry_low": 6193.875,
+        "entry_high": 6256.124999999999,
+        "fixed_stop": 5913.75,
+        "fixed_target": 6723.0,
+        "dynamic_stop": 5662.5,
+        "dynamic_target": 7350.0,
+        "risk_flags": [
+          "波動偏高"
+        ]
+      },
+      {
+        "code": "6531",
+        "name": "愛普*",
+        "price": 1030.0,
+        "avg_value": 3543909436.15,
+        "revenue": 144.57112219849168,
+        "eps": 8.33,
+        "foreign": 0,
+        "momentum": 12.938596491228061,
+        "volume_ratio": 1.8656056141159694,
+        "trend": 100.0,
+        "atr": 60.357142857142854,
+        "atr_pct": 5.859916782246879,
+        "news": 0,
+        "stable": 88.23394495412845,
+        "growth": 88.0848623853211,
+        "strong": 90.24082568807339,
+        "overall": 88.85321100917433,
+        "entry_low": 1024.85,
+        "entry_high": 1035.1499999999999,
+        "fixed_stop": 978.5,
+        "fixed_target": 1112.4,
+        "dynamic_stop": 939.4642857142858,
+        "dynamic_target": 1211.0714285714284,
+        "risk_flags": [
+          "波動偏高"
+        ]
+      },
+      {
+        "code": "6196",
+        "name": "帆宣",
+        "price": 535.0,
+        "avg_value": 691622851.25,
+        "revenue": 101.35495918973473,
+        "eps": 13.26,
+        "foreign": 0,
+        "momentum": 7.000000000000006,
+        "volume_ratio": 1.1108824594378235,
+        "trend": 100.0,
+        "atr": 21.928571428571427,
+        "atr_pct": 4.098798397863819,
+        "news": 0,
+        "stable": 88.01605504587157,
+        "growth": 88.2454128440367,
+        "strong": 86.81192660550458,
+        "overall": 87.69113149847095,
+        "entry_low": 532.325,
+        "entry_high": 537.675,
+        "fixed_stop": 508.25,
+        "fixed_target": 577.8000000000001,
+        "dynamic_stop": 502.1071428571429,
+        "dynamic_target": 600.7857142857142,
+        "risk_flags": [
+          "一般"
+        ]
+      }
+    ],
+    "weighted": [
+      {
+        "code": "7610",
+        "name": "聯友金屬-創",
+        "original_score": 92.77522935779815,
+        "event_score": 50,
+        "event_adjustment": 0.0,
+        "weighted_score": 88.49770642201834,
+        "company_evidence": null,
+        "events": []
+      },
+      {
+        "code": "3006",
+        "name": "晶豪科",
+        "original_score": 92.57645259938839,
+        "event_score": 50,
+        "event_adjustment": 0.0,
+        "weighted_score": 88.31880733944955,
+        "company_evidence": null,
+        "events": []
+      },
+      {
+        "code": "3443",
+        "name": "創意",
+        "original_score": 88.89908256880734,
+        "event_score": 50,
+        "event_adjustment": 0.0,
+        "weighted_score": 85.00917431192661,
+        "company_evidence": null,
+        "events": []
+      },
+      {
+        "code": "6531",
+        "name": "愛普*",
+        "original_score": 88.85321100917433,
+        "event_score": 50,
+        "event_adjustment": 0.0,
+        "weighted_score": 84.9678899082569,
+        "company_evidence": null,
+        "events": []
+      },
+      {
+        "code": "6196",
+        "name": "帆宣",
+        "original_score": 87.69113149847095,
+        "event_score": 50,
+        "event_adjustment": 0.0,
+        "weighted_score": 83.92201834862387,
+        "company_evidence": null,
+        "events": []
+      }
+    ]
   }
 ]

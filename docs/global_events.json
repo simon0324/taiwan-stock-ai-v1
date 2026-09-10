@@ -1,6 +1,6 @@
 {
   "rules_version": "global-rules-1",
-  "as_of": "2026-09-10T08:22:46.348148+08:00",
+  "as_of": "2026-09-10T19:52:17.990340+08:00",
   "sources": [
     {
       "source": "中央通訊社・國際",
@@ -14,6 +14,69 @@
     }
   ],
   "events": [
+    {
+      "id": "e58ffb51b6aba06982f69249",
+      "title": "葉門軍方消息人士：叛軍奪下紅海戰略港市控制權",
+      "url": "https://www.cna.com.tw/news/aopl/202609100268.aspx",
+      "source": "中央通訊社・國際",
+      "published_at": "2026-09-10T18:01:30+08:00",
+      "first_seen_at": "2026-09-10T19:52:17.990340+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "衝突／航運",
+          "industry": "航運、物流、能源與出口產業",
+          "possible_benefit": "若供給受限推升運價，部分運輸商可能受益。",
+          "possible_risk": "繞航、保險、交期與燃料成本也可能增加。",
+          "verify_next": "核對事件是否已發生、航線曝險與實際成本，不把衝突直接當買進訊號。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
+    {
+      "id": "734f8c4cbd35f9eaa44a66c8",
+      "title": "油價飆漲引發通膨和升息疑慮　亞股多收黑",
+      "url": "https://www.cna.com.tw/news/afe/202609100261.aspx",
+      "source": "中央通訊社・產經",
+      "published_at": "2026-09-10T17:50:15+08:00",
+      "first_seen_at": "2026-09-10T19:52:17.990340+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "能源供應",
+          "industry": "能源、石化、航空與運輸",
+          "possible_benefit": "若能源售價上升且成本可控，部分上游企業可能受益。",
+          "possible_risk": "若燃料成本提高，未避險的用能企業可能承壓。",
+          "verify_next": "核對價格方向、持續性、庫存、避險與成本轉嫁，油價下跌時可能相反。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
+    {
+      "id": "79ee60168a6cb5f80cb3d0f7",
+      "title": "葉門叛軍：遭沙烏地新一輪空襲　通報約40起攻擊",
+      "url": "https://www.cna.com.tw/news/aopl/202609100192.aspx",
+      "source": "中央通訊社・國際",
+      "published_at": "2026-09-10T15:51:45+08:00",
+      "first_seen_at": "2026-09-10T19:52:17.990340+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "衝突／航運",
+          "industry": "航運、物流、能源與出口產業",
+          "possible_benefit": "若供給受限推升運價，部分運輸商可能受益。",
+          "possible_risk": "繞航、保險、交期與燃料成本也可能增加。",
+          "verify_next": "核對事件是否已發生、航線曝險與實際成本，不把衝突直接當買進訊號。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
     {
       "id": "a976d52d01e7fdb31c2a6758",
       "title": "美俄元首通話　川普：普丁盼達成協議結束俄烏戰爭",

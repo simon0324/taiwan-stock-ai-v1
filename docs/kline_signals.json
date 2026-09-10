@@ -85,5 +85,37 @@
         }
       }
     ]
+  },
+  {
+    "rules_version": "kline-probability-1",
+    "market_date": "2026-09-10",
+    "observed_at": "2026-09-10T19:52:51.287272+08:00",
+    "picks": [
+      {
+        "code": "4912",
+        "name": "聯德控股-KY",
+        "predicted_up_probability": 52.32
+      },
+      {
+        "code": "5607",
+        "name": "遠雄港",
+        "predicted_up_probability": 51.778666666666666
+      },
+      {
+        "code": "6669",
+        "name": "緯穎",
+        "predicted_up_probability": 51.624
+      },
+      {
+        "code": "8112",
+        "name": "至上",
+        "predicted_up_probability": 51.624
+      },
+      {
+        "code": "6177",
+        "name": "達麗",
+        "predicted_up_probability": 51.23733333333333
+      }
+    ]
   }
 ]
