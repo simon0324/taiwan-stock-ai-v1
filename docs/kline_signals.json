@@ -94,27 +94,82 @@
       {
         "code": "4912",
         "name": "聯德控股-KY",
-        "predicted_up_probability": 52.32
+        "predicted_up_probability": 52.32,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "5607",
         "name": "遠雄港",
-        "predicted_up_probability": 51.778666666666666
+        "predicted_up_probability": 51.778666666666666,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "6669",
         "name": "緯穎",
-        "predicted_up_probability": 51.624
+        "predicted_up_probability": 51.624,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "8112",
         "name": "至上",
-        "predicted_up_probability": 51.624
+        "predicted_up_probability": 51.624,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "6177",
         "name": "達麗",
-        "predicted_up_probability": 51.23733333333333
+        "predicted_up_probability": 51.23733333333333,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       }
     ]
   }

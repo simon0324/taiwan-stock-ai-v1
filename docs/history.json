@@ -368,7 +368,7 @@
     "name": "聯友金屬-創",
     "entry_price": 2035.0,
     "latest_price": 2035.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-09-10"
@@ -379,7 +379,7 @@
     "name": "晶豪科",
     "entry_price": 312.0,
     "latest_price": 312.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-09-10"
@@ -390,7 +390,7 @@
     "name": "創意",
     "entry_price": 6225.0,
     "latest_price": 6225.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-09-10"

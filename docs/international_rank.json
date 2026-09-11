@@ -1,9 +1,19 @@
 {
   "rules_version": "international-1",
   "market_date": "2026-09-10",
-  "as_of": "2026-09-10T19:52:18.273850+08:00",
+  "as_of": "2026-09-11T08:18:34.853240+08:00",
   "source_status": "正常",
   "ranking": [
+    {
+      "code": "3006",
+      "name": "晶豪科",
+      "original_score": 93.57645259938839,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 89.21880733944955,
+      "company_evidence": null,
+      "events": []
+    },
     {
       "code": "7610",
       "name": "聯友金屬-創",
@@ -15,22 +25,12 @@
       "events": []
     },
     {
-      "code": "3006",
-      "name": "晶豪科",
-      "original_score": 92.57645259938839,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 88.31880733944955,
-      "company_evidence": null,
-      "events": []
-    },
-    {
       "code": "3443",
       "name": "創意",
-      "original_score": 88.89908256880734,
+      "original_score": 91.89908256880734,
       "event_score": 50,
       "event_adjustment": 0.0,
-      "weighted_score": 85.00917431192661,
+      "weighted_score": 87.70917431192662,
       "company_evidence": null,
       "events": []
     },
@@ -75,6 +75,16 @@
       "events": []
     },
     {
+      "code": "3711",
+      "name": "日月光投控",
+      "original_score": 83.97859327217127,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 80.58073394495415,
+      "company_evidence": null,
+      "events": []
+    },
+    {
       "code": "3017",
       "name": "奇鋐",
       "original_score": 83.76146788990826,
@@ -101,16 +111,6 @@
       "event_score": 50,
       "event_adjustment": 0.0,
       "weighted_score": 79.3532110091743,
-      "company_evidence": null,
-      "events": []
-    },
-    {
-      "code": "3711",
-      "name": "日月光投控",
-      "original_score": 81.97859327217127,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 78.78073394495414,
       "company_evidence": null,
       "events": []
     },
@@ -165,6 +165,16 @@
       "events": []
     },
     {
+      "code": "3702",
+      "name": "大聯大",
+      "original_score": 80.82415902140673,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 77.74174311926606,
+      "company_evidence": null,
+      "events": []
+    },
+    {
       "code": "6416",
       "name": "瑞祺電通",
       "original_score": 80.75688073394495,
@@ -215,16 +225,6 @@
       "events": []
     },
     {
-      "code": "3702",
-      "name": "大聯大",
-      "original_score": 79.82415902140673,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 76.84174311926606,
-      "company_evidence": null,
-      "events": []
-    },
-    {
       "code": "2492",
       "name": "華新科",
       "original_score": 79.72477064220183,
@@ -245,6 +245,16 @@
       "events": []
     },
     {
+      "code": "2330",
+      "name": "台積電",
+      "original_score": 78.82874617737002,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 75.94587155963302,
+      "company_evidence": null,
+      "events": []
+    },
+    {
       "code": "7769",
       "name": "鴻勁",
       "original_score": 78.55504587155963,
@@ -261,26 +271,6 @@
       "event_score": 50,
       "event_adjustment": 0.0,
       "weighted_score": 75.68577981651377,
-      "company_evidence": null,
-      "events": []
-    },
-    {
-      "code": "3231",
-      "name": "緯創",
-      "original_score": 78.41743119266056,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 75.5756880733945,
-      "company_evidence": null,
-      "events": []
-    },
-    {
-      "code": "2408",
-      "name": "南亞科",
-      "original_score": 78.40519877675841,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 75.56467889908257,
       "company_evidence": null,
       "events": []
     },
@@ -315,12 +305,12 @@
       "events": []
     },
     {
-      "code": "2330",
-      "name": "台積電",
-      "original_score": 77.82874617737002,
+      "code": "1303",
+      "name": "南亞",
+      "original_score": 77.65137614678899,
       "event_score": 50,
       "event_adjustment": 0.0,
-      "weighted_score": 75.04587155963303,
+      "weighted_score": 74.8862385321101,
       "company_evidence": null,
       "events": []
     },
@@ -331,6 +321,16 @@
       "event_score": 50,
       "event_adjustment": 0.0,
       "weighted_score": 74.70183486238533,
+      "company_evidence": null,
+      "events": []
+    },
+    {
+      "code": "2327",
+      "name": "國巨*",
+      "original_score": 77.36850152905198,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 74.63165137614679,
       "company_evidence": null,
       "events": []
     },
@@ -385,26 +385,6 @@
       "events": []
     },
     {
-      "code": "1303",
-      "name": "南亞",
-      "original_score": 76.65137614678899,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 73.9862385321101,
-      "company_evidence": null,
-      "events": []
-    },
-    {
-      "code": "2327",
-      "name": "國巨*",
-      "original_score": 76.36850152905198,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 73.73165137614679,
-      "company_evidence": null,
-      "events": []
-    },
-    {
       "code": "3653",
       "name": "健策",
       "original_score": 76.25382262996942,
@@ -425,12 +405,32 @@
       "events": []
     },
     {
+      "code": "2357",
+      "name": "華碩",
+      "original_score": 75.96941896024464,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 73.37247706422018,
+      "company_evidence": null,
+      "events": []
+    },
+    {
       "code": "2316",
       "name": "楠梓電",
       "original_score": 75.45107033639145,
       "event_score": 50,
       "event_adjustment": 0.0,
       "weighted_score": 72.90596330275231,
+      "company_evidence": null,
+      "events": []
+    },
+    {
+      "code": "2408",
+      "name": "南亞科",
+      "original_score": 75.40519877675841,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 72.86467889908258,
       "company_evidence": null,
       "events": []
     },
@@ -455,16 +455,6 @@
       "events": []
     },
     {
-      "code": "2357",
-      "name": "華碩",
-      "original_score": 74.96941896024464,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 72.47247706422017,
-      "company_evidence": null,
-      "events": []
-    },
-    {
       "code": "4961",
       "name": "天鈺",
       "original_score": 74.80122324159022,
@@ -485,32 +475,22 @@
       "events": []
     },
     {
-      "code": "3036",
-      "name": "文曄",
-      "original_score": 73.85168195718656,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 71.46651376146791,
-      "company_evidence": null,
-      "events": []
-    },
-    {
-      "code": "6139",
-      "name": "亞翔",
-      "original_score": 73.50764525993884,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 71.15688073394496,
-      "company_evidence": null,
-      "events": []
-    },
-    {
       "code": "2454",
       "name": "聯發科",
-      "original_score": 73.45565749235475,
+      "original_score": 74.45565749235475,
       "event_score": 50,
       "event_adjustment": 0.0,
-      "weighted_score": 71.11009174311927,
+      "weighted_score": 72.01009174311928,
+      "company_evidence": null,
+      "events": []
+    },
+    {
+      "code": "3231",
+      "name": "緯創",
+      "original_score": 74.41743119266056,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 71.97568807339451,
       "company_evidence": null,
       "events": []
     },
@@ -525,12 +505,32 @@
       "events": []
     },
     {
+      "code": "3036",
+      "name": "文曄",
+      "original_score": 72.85168195718656,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 70.5665137614679,
+      "company_evidence": null,
+      "events": []
+    },
+    {
       "code": "3090",
       "name": "日電貿",
       "original_score": 72.65290519877676,
       "event_score": 50,
       "event_adjustment": 0.0,
       "weighted_score": 70.38761467889908,
+      "company_evidence": null,
+      "events": []
+    },
+    {
+      "code": "6139",
+      "name": "亞翔",
+      "original_score": 72.50764525993884,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 70.25688073394495,
       "company_evidence": null,
       "events": []
     },
@@ -571,6 +571,16 @@
       "event_score": 50,
       "event_adjustment": 0.0,
       "weighted_score": 70.0229357798165,
+      "company_evidence": null,
+      "events": []
+    },
+    {
+      "code": "2449",
+      "name": "京元電子",
+      "original_score": 72.1697247706422,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 69.95275229357799,
       "company_evidence": null,
       "events": []
     },
@@ -625,12 +635,12 @@
       "events": []
     },
     {
-      "code": "2449",
-      "name": "京元電子",
-      "original_score": 71.1697247706422,
+      "code": "3715",
+      "name": "定穎投控",
+      "original_score": 71.50305810397555,
       "event_score": 50,
       "event_adjustment": 0.0,
-      "weighted_score": 69.05275229357798,
+      "weighted_score": 69.35275229357799,
       "company_evidence": null,
       "events": []
     },
@@ -675,22 +685,22 @@
       "events": []
     },
     {
+      "code": "7788",
+      "name": "松川精密",
+      "original_score": 70.37308868501529,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 68.33577981651376,
+      "company_evidence": null,
+      "events": []
+    },
+    {
       "code": "3034",
       "name": "聯詠",
       "original_score": 70.22935779816514,
       "event_score": 50,
       "event_adjustment": 0.0,
       "weighted_score": 68.20642201834863,
-      "company_evidence": null,
-      "events": []
-    },
-    {
-      "code": "2383",
-      "name": "台光電",
-      "original_score": 70.21253822629969,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 68.19128440366973,
       "company_evidence": null,
       "events": []
     },
@@ -705,12 +715,12 @@
       "events": []
     },
     {
-      "code": "6239",
-      "name": "力成",
-      "original_score": 69.98318042813456,
+      "code": "2885",
+      "name": "元大金",
+      "original_score": 70.03516819571865,
       "event_score": 50,
       "event_adjustment": 0.0,
-      "weighted_score": 67.98486238532111,
+      "weighted_score": 68.03165137614678,
       "company_evidence": null,
       "events": []
     },
@@ -725,16 +735,6 @@
       "events": []
     },
     {
-      "code": "3715",
-      "name": "定穎投控",
-      "original_score": 69.50305810397555,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 67.552752293578,
-      "company_evidence": null,
-      "events": []
-    },
-    {
       "code": "3037",
       "name": "欣興",
       "original_score": 69.3960244648318,
@@ -745,22 +745,22 @@
       "events": []
     },
     {
-      "code": "7788",
-      "name": "松川精密",
-      "original_score": 69.37308868501529,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 67.43577981651376,
-      "company_evidence": null,
-      "events": []
-    },
-    {
       "code": "6214",
       "name": "精誠",
       "original_score": 69.30428134556574,
       "event_score": 50,
       "event_adjustment": 0.0,
       "weighted_score": 67.37385321100916,
+      "company_evidence": null,
+      "events": []
+    },
+    {
+      "code": "2383",
+      "name": "台光電",
+      "original_score": 69.21253822629969,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 67.29128440366972,
       "company_evidence": null,
       "events": []
     },
@@ -791,6 +791,16 @@
       "event_score": 50,
       "event_adjustment": 0.0,
       "weighted_score": 67.14678899082568,
+      "company_evidence": null,
+      "events": []
+    },
+    {
+      "code": "6239",
+      "name": "力成",
+      "original_score": 68.98318042813456,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 67.0848623853211,
       "company_evidence": null,
       "events": []
     },
@@ -835,32 +845,12 @@
       "events": []
     },
     {
-      "code": "2885",
-      "name": "元大金",
-      "original_score": 68.03516819571865,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 66.2316513761468,
-      "company_evidence": null,
-      "events": []
-    },
-    {
       "code": "4576",
       "name": "大銀微系統",
       "original_score": 68.01987767584097,
       "event_score": 50,
       "event_adjustment": 0.0,
       "weighted_score": 66.21788990825688,
-      "company_evidence": null,
-      "events": []
-    },
-    {
-      "code": "2308",
-      "name": "台達電",
-      "original_score": 67.8348623853211,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 66.051376146789,
       "company_evidence": null,
       "events": []
     },
@@ -895,16 +885,6 @@
       "events": []
     },
     {
-      "code": "4977",
-      "name": "眾達-KY",
-      "original_score": 67.4525993883792,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 65.70733944954128,
-      "company_evidence": null,
-      "events": []
-    },
-    {
       "code": "2030",
       "name": "彰源",
       "original_score": 67.30886850152905,
@@ -921,6 +901,26 @@
       "event_score": 50,
       "event_adjustment": 0.0,
       "weighted_score": 65.44724770642202,
+      "company_evidence": null,
+      "events": []
+    },
+    {
+      "code": "2308",
+      "name": "台達電",
+      "original_score": 66.8348623853211,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 65.15137614678899,
+      "company_evidence": null,
+      "events": []
+    },
+    {
+      "code": "8150",
+      "name": "南茂",
+      "original_score": 66.7645259938838,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 65.08807339449541,
       "company_evidence": null,
       "events": []
     },
@@ -955,22 +955,22 @@
       "events": []
     },
     {
+      "code": "4977",
+      "name": "眾達-KY",
+      "original_score": 66.4525993883792,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 64.80733944954127,
+      "company_evidence": null,
+      "events": []
+    },
+    {
       "code": "6177",
       "name": "達麗",
       "original_score": 66.26146788990826,
       "event_score": 50,
       "event_adjustment": 0.0,
       "weighted_score": 64.63532110091744,
-      "company_evidence": null,
-      "events": []
-    },
-    {
-      "code": "6285",
-      "name": "啟碁",
-      "original_score": 66.2217125382263,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 64.59954128440367,
       "company_evidence": null,
       "events": []
     },
@@ -995,16 +995,6 @@
       "events": []
     },
     {
-      "code": "8150",
-      "name": "南茂",
-      "original_score": 65.7645259938838,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 64.18807339449542,
-      "company_evidence": null,
-      "events": []
-    },
-    {
       "code": "2465",
       "name": "麗臺",
       "original_score": 65.57339449541284,
@@ -1025,6 +1015,16 @@
       "events": []
     },
     {
+      "code": "6285",
+      "name": "啟碁",
+      "original_score": 65.2217125382263,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 63.69954128440367,
+      "company_evidence": null,
+      "events": []
+    },
+    {
       "code": "6706",
       "name": "惠特",
       "original_score": 65.05351681957187,
@@ -1041,6 +1041,16 @@
       "event_score": 50,
       "event_adjustment": 0.0,
       "weighted_score": 63.54816513761468,
+      "company_evidence": null,
+      "events": []
+    },
+    {
+      "code": "2890",
+      "name": "永豐金",
+      "original_score": 64.98318042813456,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 63.48486238532111,
       "company_evidence": null,
       "events": []
     },
@@ -1115,16 +1125,6 @@
       "events": []
     },
     {
-      "code": "2890",
-      "name": "永豐金",
-      "original_score": 63.98318042813455,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 62.584862385321095,
-      "company_evidence": null,
-      "events": []
-    },
-    {
       "code": "3413",
       "name": "京鼎",
       "original_score": 63.97553516819571,
@@ -1161,16 +1161,6 @@
       "event_score": 50,
       "event_adjustment": 0.0,
       "weighted_score": 62.399082568807344,
-      "company_evidence": null,
-      "events": []
-    },
-    {
-      "code": "1503",
-      "name": "士電",
-      "original_score": 63.759938837920494,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 62.383944954128445,
       "company_evidence": null,
       "events": []
     },
@@ -1245,22 +1235,22 @@
       "events": []
     },
     {
-      "code": "3023",
-      "name": "信邦",
-      "original_score": 62.995412844036686,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 61.69587155963302,
-      "company_evidence": null,
-      "events": []
-    },
-    {
       "code": "1608",
       "name": "華榮",
       "original_score": 62.935779816513765,
       "event_score": 50,
       "event_adjustment": 0.0,
       "weighted_score": 61.64220183486239,
+      "company_evidence": null,
+      "events": []
+    },
+    {
+      "code": "1609",
+      "name": "大亞",
+      "original_score": 62.842507645259936,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 61.55825688073394,
       "company_evidence": null,
       "events": []
     },
@@ -1281,6 +1271,16 @@
       "event_score": 50,
       "event_adjustment": 0.0,
       "weighted_score": 61.51146788990826,
+      "company_evidence": null,
+      "events": []
+    },
+    {
+      "code": "1503",
+      "name": "士電",
+      "original_score": 62.759938837920494,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 61.48394495412845,
       "company_evidence": null,
       "events": []
     },
@@ -1355,12 +1355,12 @@
       "events": []
     },
     {
-      "code": "1609",
-      "name": "大亞",
-      "original_score": 61.842507645259936,
+      "code": "3023",
+      "name": "信邦",
+      "original_score": 61.995412844036686,
       "event_score": 50,
       "event_adjustment": 0.0,
-      "weighted_score": 60.658256880733944,
+      "weighted_score": 60.79587155963302,
       "company_evidence": null,
       "events": []
     },
@@ -1475,12 +1475,12 @@
       "events": []
     },
     {
-      "code": "2338",
-      "name": "光罩",
-      "original_score": 60.53363914373089,
+      "code": "2834",
+      "name": "臺企銀",
+      "original_score": 60.418960244648325,
       "event_score": 50,
       "event_adjustment": 0.0,
-      "weighted_score": 59.4802752293578,
+      "weighted_score": 59.37706422018349,
       "company_evidence": null,
       "events": []
     },
@@ -1515,12 +1515,12 @@
       "events": []
     },
     {
-      "code": "6005",
-      "name": "群益證",
-      "original_score": 59.776758409785934,
+      "code": "2338",
+      "name": "光罩",
+      "original_score": 59.53363914373089,
       "event_score": 50,
       "event_adjustment": 0.0,
-      "weighted_score": 58.79908256880734,
+      "weighted_score": 58.5802752293578,
       "company_evidence": null,
       "events": []
     },
@@ -1531,16 +1531,6 @@
       "event_score": 50,
       "event_adjustment": 0.0,
       "weighted_score": 58.52522935779817,
-      "company_evidence": null,
-      "events": []
-    },
-    {
-      "code": "2834",
-      "name": "臺企銀",
-      "original_score": 59.418960244648325,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 58.47706422018349,
       "company_evidence": null,
       "events": []
     },
@@ -1585,6 +1575,26 @@
       "events": []
     },
     {
+      "code": "2412",
+      "name": "中華電",
+      "original_score": 58.9434250764526,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 58.04908256880734,
+      "company_evidence": null,
+      "events": []
+    },
+    {
+      "code": "6005",
+      "name": "群益證",
+      "original_score": 58.776758409785934,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 57.899082568807344,
+      "company_evidence": null,
+      "events": []
+    },
+    {
       "code": "5607",
       "name": "遠雄港",
       "original_score": 58.75382262996941,
@@ -1605,22 +1615,22 @@
       "events": []
     },
     {
-      "code": "2883",
-      "name": "凱基金",
-      "original_score": 58.54587155963302,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 57.69128440366972,
-      "company_evidence": null,
-      "events": []
-    },
-    {
       "code": "6658",
       "name": "聯策",
       "original_score": 58.47859327217125,
       "event_score": 50,
       "event_adjustment": 0.0,
       "weighted_score": 57.63073394495413,
+      "company_evidence": null,
+      "events": []
+    },
+    {
+      "code": "6781",
+      "name": "AES-KY",
+      "original_score": 58.35474006116208,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 57.519266055045875,
       "company_evidence": null,
       "events": []
     },
@@ -1665,16 +1675,6 @@
       "events": []
     },
     {
-      "code": "1477",
-      "name": "聚陽",
-      "original_score": 58.26299694189603,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 57.43669724770643,
-      "company_evidence": null,
-      "events": []
-    },
-    {
       "code": "8210",
       "name": "勤誠",
       "original_score": 58.218654434250766,
@@ -1691,16 +1691,6 @@
       "event_score": 50,
       "event_adjustment": 0.0,
       "weighted_score": 57.17660550458716,
-      "company_evidence": null,
-      "events": []
-    },
-    {
-      "code": "2412",
-      "name": "中華電",
-      "original_score": 57.9434250764526,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 57.14908256880734,
       "company_evidence": null,
       "events": []
     },
@@ -1735,6 +1725,16 @@
       "events": []
     },
     {
+      "code": "3045",
+      "name": "台灣大",
+      "original_score": 57.840978593272176,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 57.05688073394496,
+      "company_evidence": null,
+      "events": []
+    },
+    {
       "code": "4916",
       "name": "事欣科",
       "original_score": 57.64525993883792,
@@ -1755,12 +1755,32 @@
       "events": []
     },
     {
-      "code": "6781",
-      "name": "AES-KY",
-      "original_score": 57.35474006116208,
+      "code": "2880",
+      "name": "華南金",
+      "original_score": 57.550458715596335,
       "event_score": 50,
       "event_adjustment": 0.0,
-      "weighted_score": 56.61926605504588,
+      "weighted_score": 56.795412844036704,
+      "company_evidence": null,
+      "events": []
+    },
+    {
+      "code": "2883",
+      "name": "凱基金",
+      "original_score": 57.54587155963302,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 56.79128440366972,
+      "company_evidence": null,
+      "events": []
+    },
+    {
+      "code": "6670",
+      "name": "復盛應用",
+      "original_score": 57.33792048929664,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 56.60412844036698,
       "company_evidence": null,
       "events": []
     },
@@ -1771,6 +1791,16 @@
       "event_score": 50,
       "event_adjustment": 0.0,
       "weighted_score": 56.5848623853211,
+      "company_evidence": null,
+      "events": []
+    },
+    {
+      "code": "1477",
+      "name": "聚陽",
+      "original_score": 57.26299694189603,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 56.53669724770643,
       "company_evidence": null,
       "events": []
     },
@@ -1791,16 +1821,6 @@
       "event_score": 50,
       "event_adjustment": 0.0,
       "weighted_score": 56.45412844036697,
-      "company_evidence": null,
-      "events": []
-    },
-    {
-      "code": "6669",
-      "name": "緯穎",
-      "original_score": 56.97859327217125,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 56.28073394495413,
       "company_evidence": null,
       "events": []
     },
@@ -1845,6 +1865,16 @@
       "events": []
     },
     {
+      "code": "4904",
+      "name": "遠傳",
+      "original_score": 56.848623853211016,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 56.16376146788991,
+      "company_evidence": null,
+      "events": []
+    },
+    {
       "code": "2801",
       "name": "彰銀",
       "original_score": 56.7737003058104,
@@ -1865,32 +1895,12 @@
       "events": []
     },
     {
-      "code": "2880",
-      "name": "華南金",
-      "original_score": 56.550458715596335,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 55.895412844036706,
-      "company_evidence": null,
-      "events": []
-    },
-    {
       "code": "3532",
       "name": "台勝科",
       "original_score": 56.521406727828754,
       "event_score": 50,
       "event_adjustment": 0.0,
       "weighted_score": 55.86926605504588,
-      "company_evidence": null,
-      "events": []
-    },
-    {
-      "code": "6670",
-      "name": "復盛應用",
-      "original_score": 56.33792048929664,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 55.70412844036698,
       "company_evidence": null,
       "events": []
     },
@@ -1955,12 +1965,12 @@
       "events": []
     },
     {
-      "code": "1736",
-      "name": "喬山",
-      "original_score": 55.969418960244646,
+      "code": "6669",
+      "name": "緯穎",
+      "original_score": 55.97859327217125,
       "event_score": 50,
       "event_adjustment": 0.0,
-      "weighted_score": 55.372477064220185,
+      "weighted_score": 55.38073394495413,
       "company_evidence": null,
       "events": []
     },
@@ -1975,22 +1985,12 @@
       "events": []
     },
     {
-      "code": "4904",
-      "name": "遠傳",
-      "original_score": 55.848623853211016,
+      "code": "2392",
+      "name": "正崴",
+      "original_score": 55.784403669724774,
       "event_score": 50,
       "event_adjustment": 0.0,
-      "weighted_score": 55.263761467889914,
-      "company_evidence": null,
-      "events": []
-    },
-    {
-      "code": "3045",
-      "name": "台灣大",
-      "original_score": 55.840978593272176,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 55.25688073394496,
+      "weighted_score": 55.205963302752295,
       "company_evidence": null,
       "events": []
     },
@@ -2011,16 +2011,6 @@
       "event_score": 50,
       "event_adjustment": 0.0,
       "weighted_score": 54.8302752293578,
-      "company_evidence": null,
-      "events": []
-    },
-    {
-      "code": "6830",
-      "name": "汎銓",
-      "original_score": 55.327217125382255,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 54.79449541284403,
       "company_evidence": null,
       "events": []
     },
@@ -2055,6 +2045,16 @@
       "events": []
     },
     {
+      "code": "1736",
+      "name": "喬山",
+      "original_score": 54.969418960244646,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 54.47247706422018,
+      "company_evidence": null,
+      "events": []
+    },
+    {
       "code": "3665",
       "name": "貿聯-KY",
       "original_score": 54.85474006116208,
@@ -2071,6 +2071,16 @@
       "event_score": 50,
       "event_adjustment": 0.0,
       "weighted_score": 54.217889908256886,
+      "company_evidence": null,
+      "events": []
+    },
+    {
+      "code": "1904",
+      "name": "正隆",
+      "original_score": 54.58562691131499,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 54.12706422018349,
       "company_evidence": null,
       "events": []
     },
@@ -2101,6 +2111,26 @@
       "event_score": 50,
       "event_adjustment": 0.0,
       "weighted_score": 53.9151376146789,
+      "company_evidence": null,
+      "events": []
+    },
+    {
+      "code": "6409",
+      "name": "旭隼",
+      "original_score": 54.340978593272176,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 53.90688073394496,
+      "company_evidence": null,
+      "events": []
+    },
+    {
+      "code": "6830",
+      "name": "汎銓",
+      "original_score": 54.327217125382255,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 53.89449541284403,
       "company_evidence": null,
       "events": []
     },
@@ -2185,16 +2215,6 @@
       "events": []
     },
     {
-      "code": "2392",
-      "name": "正崴",
-      "original_score": 53.784403669724774,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 53.4059633027523,
-      "company_evidence": null,
-      "events": []
-    },
-    {
       "code": "2027",
       "name": "大成鋼",
       "original_score": 53.730886850152906,
@@ -2211,16 +2231,6 @@
       "event_score": 50,
       "event_adjustment": 0.0,
       "weighted_score": 53.28211009174312,
-      "company_evidence": null,
-      "events": []
-    },
-    {
-      "code": "1904",
-      "name": "正隆",
-      "original_score": 53.58562691131499,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 53.22706422018349,
       "company_evidence": null,
       "events": []
     },
@@ -2265,16 +2275,6 @@
       "events": []
     },
     {
-      "code": "6409",
-      "name": "旭隼",
-      "original_score": 53.340978593272176,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 53.00688073394496,
-      "company_evidence": null,
-      "events": []
-    },
-    {
       "code": "3305",
       "name": "昇貿",
       "original_score": 53.21865443425076,
@@ -2301,16 +2301,6 @@
       "event_score": 50,
       "event_adjustment": 0.0,
       "weighted_score": 52.793577981651374,
-      "company_evidence": null,
-      "events": []
-    },
-    {
-      "code": "4938",
-      "name": "和碩",
-      "original_score": 52.97859327217125,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 52.68073394495413,
       "company_evidence": null,
       "events": []
     },
@@ -2385,16 +2375,6 @@
       "events": []
     },
     {
-      "code": "2887",
-      "name": "台新新光金",
-      "original_score": 52.59021406727829,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 52.331192660550464,
-      "company_evidence": null,
-      "events": []
-    },
-    {
       "code": "6753",
       "name": "龍德造船",
       "original_score": 52.576452599388375,
@@ -2431,6 +2411,16 @@
       "event_score": 50,
       "event_adjustment": 0.0,
       "weighted_score": 52.22935779816513,
+      "company_evidence": null,
+      "events": []
+    },
+    {
+      "code": "8028",
+      "name": "昇陽半導體",
+      "original_score": 52.43730886850153,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 52.19357798165138,
       "company_evidence": null,
       "events": []
     },
@@ -2505,12 +2495,12 @@
       "events": []
     },
     {
-      "code": "2889",
-      "name": "國票金",
-      "original_score": 51.78746177370031,
+      "code": "2356",
+      "name": "英業達",
+      "original_score": 51.90978593272172,
       "event_score": 50,
       "event_adjustment": 0.0,
-      "weighted_score": 51.60871559633028,
+      "weighted_score": 51.71880733944955,
       "company_evidence": null,
       "events": []
     },
@@ -2535,6 +2525,16 @@
       "events": []
     },
     {
+      "code": "5871",
+      "name": "中租-KY",
+      "original_score": 51.672782874617745,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 51.50550458715597,
+      "company_evidence": null,
+      "events": []
+    },
+    {
       "code": "3576",
       "name": "聯合再生",
       "original_score": 51.59785932721713,
@@ -2545,12 +2545,12 @@
       "events": []
     },
     {
-      "code": "8028",
-      "name": "昇陽半導體",
-      "original_score": 51.43730886850153,
+      "code": "2887",
+      "name": "台新新光金",
+      "original_score": 51.59021406727829,
       "event_score": 50,
       "event_adjustment": 0.0,
-      "weighted_score": 51.29357798165138,
+      "weighted_score": 51.43119266055046,
       "company_evidence": null,
       "events": []
     },
@@ -2631,12 +2631,12 @@
       "events": []
     },
     {
-      "code": "2356",
-      "name": "英業達",
-      "original_score": 50.90978593272172,
+      "code": "4938",
+      "name": "和碩",
+      "original_score": 50.97859327217125,
       "event_score": 50,
       "event_adjustment": 0.0,
-      "weighted_score": 50.81880733944955,
+      "weighted_score": 50.88073394495413,
       "company_evidence": null,
       "events": []
     },
@@ -2661,22 +2661,22 @@
       "events": []
     },
     {
+      "code": "2889",
+      "name": "國票金",
+      "original_score": 50.78746177370031,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 50.70871559633028,
+      "company_evidence": null,
+      "events": []
+    },
+    {
       "code": "2009",
       "name": "第一銅",
       "original_score": 50.741590214067266,
       "event_score": 50,
       "event_adjustment": 0.0,
       "weighted_score": 50.66743119266054,
-      "company_evidence": null,
-      "events": []
-    },
-    {
-      "code": "5871",
-      "name": "中租-KY",
-      "original_score": 50.672782874617745,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 50.60550458715597,
       "company_evidence": null,
       "events": []
     },
@@ -2741,37 +2741,14 @@
       "events": []
     },
     {
-      "code": "2610",
-      "name": "華航",
-      "original_score": 51.91743119266055,
-      "event_score": 29.274288388049154,
-      "event_adjustment": -2.0725711611950848,
-      "weighted_score": 49.65311691219941,
-      "company_evidence": {
-        "factor": "fuel",
-        "name": "華航",
-        "url": "https://calec.china-airlines.com/csr/en/management_risk.html",
-        "evidence": "公司風險管理說明將燃油列為主要成本及國際經濟敏感風險。",
-        "risk": "原油非航空燃油；需求、匯率、避險及票價轉嫁可能抵銷成本效果。"
-      },
-      "events": [
-        {
-          "event_id": "e8acb84397d73f484656f810",
-          "title": "美伊衝突再起　歐股收跌油價走高",
-          "url": "https://www.cna.com.tw/news/afe/202609100002.aspx",
-          "published_at": "2026-09-10T00:23:43+08:00",
-          "points": -20.725711611950846,
-          "inference": "成本提高／運價下降的條件式偏空推論"
-        },
-        {
-          "event_id": "47b619c6d75f15907ac85d88",
-          "title": "國際油價攀升引通膨疑慮　歐洲股市收盤走勢分歧",
-          "url": "https://www.cna.com.tw/news/afe/202609080002.aspx",
-          "published_at": "2026-09-08T01:00:03+08:00",
-          "points": -13.132717373781638,
-          "inference": "成本提高／運價下降的條件式偏空推論"
-        }
-      ]
+      "code": "2353",
+      "name": "宏碁",
+      "original_score": 49.58562691131498,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 49.627064220183485,
+      "company_evidence": null,
+      "events": []
     },
     {
       "code": "3008",
@@ -2864,6 +2841,39 @@
       "events": []
     },
     {
+      "code": "2610",
+      "name": "華航",
+      "original_score": 50.91743119266055,
+      "event_score": 31.61317361494347,
+      "event_adjustment": -1.8386826385056532,
+      "weighted_score": 48.98700543488884,
+      "company_evidence": {
+        "factor": "fuel",
+        "name": "華航",
+        "url": "https://calec.china-airlines.com/csr/en/management_risk.html",
+        "evidence": "公司風險管理說明將燃油列為主要成本及國際經濟敏感風險。",
+        "risk": "原油非航空燃油；需求、匯率、避險及票價轉嫁可能抵銷成本效果。"
+      },
+      "events": [
+        {
+          "event_id": "e8acb84397d73f484656f810",
+          "title": "美伊衝突再起　歐股收跌油價走高",
+          "url": "https://www.cna.com.tw/news/afe/202609100002.aspx",
+          "published_at": "2026-09-10T00:23:43+08:00",
+          "points": -18.38682638505653,
+          "inference": "成本提高／運價下降的條件式偏空推論"
+        },
+        {
+          "event_id": "47b619c6d75f15907ac85d88",
+          "title": "國際油價攀升引通膨疑慮　歐洲股市收盤走勢分歧",
+          "url": "https://www.cna.com.tw/news/afe/202609080002.aspx",
+          "published_at": "2026-09-08T01:00:03+08:00",
+          "points": -11.650697396392548,
+          "inference": "成本提高／運價下降的條件式偏空推論"
+        }
+      ]
+    },
+    {
       "code": "6782",
       "name": "視陽",
       "original_score": 48.792048929663615,
@@ -2914,22 +2924,12 @@
       "events": []
     },
     {
-      "code": "2353",
-      "name": "宏碁",
-      "original_score": 48.58562691131498,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 48.727064220183486,
-      "company_evidence": null,
-      "events": []
-    },
-    {
       "code": "2618",
       "name": "長榮航",
       "original_score": 50.63455657492355,
-      "event_score": 29.274288388049154,
-      "event_adjustment": -2.0725711611950848,
-      "weighted_score": 48.49852975623611,
+      "event_score": 31.61317361494347,
+      "event_adjustment": -1.8386826385056532,
+      "weighted_score": 48.73241827892554,
       "company_evidence": {
         "factor": "fuel",
         "name": "長榮航",
@@ -2943,7 +2943,7 @@
           "title": "美伊衝突再起　歐股收跌油價走高",
           "url": "https://www.cna.com.tw/news/afe/202609100002.aspx",
           "published_at": "2026-09-10T00:23:43+08:00",
-          "points": -20.725711611950846,
+          "points": -18.38682638505653,
           "inference": "成本提高／運價下降的條件式偏空推論"
         },
         {
@@ -2951,7 +2951,7 @@
           "title": "國際油價攀升引通膨疑慮　歐洲股市收盤走勢分歧",
           "url": "https://www.cna.com.tw/news/afe/202609080002.aspx",
           "published_at": "2026-09-08T01:00:03+08:00",
-          "points": -13.132717373781638,
+          "points": -11.650697396392548,
           "inference": "成本提高／運價下降的條件式偏空推論"
         }
       ]
@@ -3117,6 +3117,16 @@
       "events": []
     },
     {
+      "code": "2897",
+      "name": "王道銀行",
+      "original_score": 46.77217125382263,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 47.094954128440364,
+      "company_evidence": null,
+      "events": []
+    },
+    {
       "code": "6438",
       "name": "迅得",
       "original_score": 46.72018348623853,
@@ -3173,6 +3183,16 @@
       "event_score": 50,
       "event_adjustment": 0.0,
       "weighted_score": 46.88990825688074,
+      "company_evidence": null,
+      "events": []
+    },
+    {
+      "code": "2891",
+      "name": "中信金",
+      "original_score": 46.53363914373089,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 46.8802752293578,
       "company_evidence": null,
       "events": []
     },
@@ -3247,32 +3267,12 @@
       "events": []
     },
     {
-      "code": "2897",
-      "name": "王道銀行",
-      "original_score": 45.77217125382263,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 46.194954128440365,
-      "company_evidence": null,
-      "events": []
-    },
-    {
       "code": "8454",
       "name": "富邦媒",
       "original_score": 45.68042813455657,
       "event_score": 50,
       "event_adjustment": 0.0,
       "weighted_score": 46.112385321100916,
-      "company_evidence": null,
-      "events": []
-    },
-    {
-      "code": "2891",
-      "name": "中信金",
-      "original_score": 45.53363914373089,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 45.9802752293578,
       "company_evidence": null,
       "events": []
     },
@@ -3287,6 +3287,26 @@
       "events": []
     },
     {
+      "code": "1718",
+      "name": "中纖",
+      "original_score": 45.50305810397554,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 45.95275229357799,
+      "company_evidence": null,
+      "events": []
+    },
+    {
+      "code": "3149",
+      "name": "正達",
+      "original_score": 45.37308868501529,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 45.835779816513764,
+      "company_evidence": null,
+      "events": []
+    },
+    {
       "code": "1727",
       "name": "中華化",
       "original_score": 45.18348623853211,
@@ -3297,22 +3317,22 @@
       "events": []
     },
     {
-      "code": "6890",
-      "name": "來億-KY",
-      "original_score": 45.14373088685016,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 45.629357798165145,
-      "company_evidence": null,
-      "events": []
-    },
-    {
       "code": "0050",
       "name": "元大台灣50",
       "original_score": 45.0,
       "event_score": 50,
       "event_adjustment": 0.0,
       "weighted_score": 45.5,
+      "company_evidence": null,
+      "events": []
+    },
+    {
+      "code": "4906",
+      "name": "正文",
+      "original_score": 44.99847094801223,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 45.49862385321101,
       "company_evidence": null,
       "events": []
     },
@@ -3357,16 +3377,6 @@
       "events": []
     },
     {
-      "code": "1718",
-      "name": "中纖",
-      "original_score": 44.50305810397554,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 45.05275229357799,
-      "company_evidence": null,
-      "events": []
-    },
-    {
       "code": "2915",
       "name": "潤泰全",
       "original_score": 44.48012232415903,
@@ -3377,32 +3387,22 @@
       "events": []
     },
     {
-      "code": "3149",
-      "name": "正達",
-      "original_score": 44.37308868501529,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 44.935779816513765,
-      "company_evidence": null,
-      "events": []
-    },
-    {
-      "code": "1216",
-      "name": "統一",
-      "original_score": 44.31804281345566,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 44.8862385321101,
-      "company_evidence": null,
-      "events": []
-    },
-    {
       "code": "5292",
       "name": "華懋",
       "original_score": 44.304281345565755,
       "event_score": 50,
       "event_adjustment": 0.0,
       "weighted_score": 44.873853211009184,
+      "company_evidence": null,
+      "events": []
+    },
+    {
+      "code": "6890",
+      "name": "來億-KY",
+      "original_score": 44.14373088685016,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 44.72935779816514,
       "company_evidence": null,
       "events": []
     },
@@ -3433,16 +3433,6 @@
       "event_score": 50,
       "event_adjustment": 0.0,
       "weighted_score": 44.63302752293578,
-      "company_evidence": null,
-      "events": []
-    },
-    {
-      "code": "4906",
-      "name": "正文",
-      "original_score": 43.99847094801223,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 44.59862385321101,
       "company_evidence": null,
       "events": []
     },
@@ -3557,6 +3547,16 @@
       "events": []
     },
     {
+      "code": "1216",
+      "name": "統一",
+      "original_score": 43.31804281345566,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 43.9862385321101,
+      "company_evidence": null,
+      "events": []
+    },
+    {
       "code": "6831",
       "name": "邁科",
       "original_score": 43.310397553516815,
@@ -3567,32 +3567,12 @@
       "events": []
     },
     {
-      "code": "8070",
-      "name": "長華*",
-      "original_score": 43.01834862385321,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 43.71651376146789,
-      "company_evidence": null,
-      "events": []
-    },
-    {
       "code": "2493",
       "name": "揚博",
       "original_score": 42.98929663608563,
       "event_score": 50,
       "event_adjustment": 0.0,
       "weighted_score": 43.69036697247707,
-      "company_evidence": null,
-      "events": []
-    },
-    {
-      "code": "2474",
-      "name": "可成",
-      "original_score": 42.949541284403665,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 43.6545871559633,
       "company_evidence": null,
       "events": []
     },
@@ -3633,16 +3613,6 @@
       "event_score": 50,
       "event_adjustment": 0.0,
       "weighted_score": 43.408256880733944,
-      "company_evidence": null,
-      "events": []
-    },
-    {
-      "code": "2845",
-      "name": "遠東銀",
-      "original_score": 42.63608562691132,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 43.372477064220185,
       "company_evidence": null,
       "events": []
     },
@@ -3697,6 +3667,26 @@
       "events": []
     },
     {
+      "code": "8070",
+      "name": "長華*",
+      "original_score": 42.01834862385321,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 42.81651376146789,
+      "company_evidence": null,
+      "events": []
+    },
+    {
+      "code": "2474",
+      "name": "可成",
+      "original_score": 41.94954128440367,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 42.75458715596331,
+      "company_evidence": null,
+      "events": []
+    },
+    {
       "code": "2851",
       "name": "中再保",
       "original_score": 41.88837920489297,
@@ -3727,12 +3717,12 @@
       "events": []
     },
     {
-      "code": "2633",
-      "name": "台灣高鐵",
-      "original_score": 41.672782874617745,
+      "code": "2845",
+      "name": "遠東銀",
+      "original_score": 41.63608562691132,
       "event_score": 50,
       "event_adjustment": 0.0,
-      "weighted_score": 42.50550458715597,
+      "weighted_score": 42.472477064220186,
       "company_evidence": null,
       "events": []
     },
@@ -3767,16 +3757,6 @@
       "events": []
     },
     {
-      "code": "9910",
-      "name": "豐泰",
-      "original_score": 40.8776758409786,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 41.789908256880736,
-      "company_evidence": null,
-      "events": []
-    },
-    {
       "code": "1101",
       "name": "台泥",
       "original_score": 40.848623853211016,
@@ -3797,22 +3777,32 @@
       "events": []
     },
     {
+      "code": "2633",
+      "name": "台灣高鐵",
+      "original_score": 40.672782874617745,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 41.60550458715597,
+      "company_evidence": null,
+      "events": []
+    },
+    {
+      "code": "9904",
+      "name": "寶成",
+      "original_score": 40.59480122324159,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 41.53532110091743,
+      "company_evidence": null,
+      "events": []
+    },
+    {
       "code": "2105",
       "name": "正新",
       "original_score": 40.28287461773701,
       "event_score": 50,
       "event_adjustment": 0.0,
       "weighted_score": 41.25458715596331,
-      "company_evidence": null,
-      "events": []
-    },
-    {
-      "code": "9941",
-      "name": "裕融",
-      "original_score": 39.944954128440365,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 40.950458715596326,
       "company_evidence": null,
       "events": []
     },
@@ -3827,12 +3817,12 @@
       "events": []
     },
     {
-      "code": "6472",
-      "name": "保瑞",
-      "original_score": 39.776758409785934,
+      "code": "9910",
+      "name": "豐泰",
+      "original_score": 39.8776758409786,
       "event_score": 50,
       "event_adjustment": 0.0,
-      "weighted_score": 40.79908256880734,
+      "weighted_score": 40.88990825688074,
       "company_evidence": null,
       "events": []
     },
@@ -3843,16 +3833,6 @@
       "event_score": 50,
       "event_adjustment": 0.0,
       "weighted_score": 40.72477064220183,
-      "company_evidence": null,
-      "events": []
-    },
-    {
-      "code": "9904",
-      "name": "寶成",
-      "original_score": 39.59480122324159,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 40.63532110091743,
       "company_evidence": null,
       "events": []
     },
@@ -3907,6 +3887,36 @@
       "events": []
     },
     {
+      "code": "6719",
+      "name": "力智",
+      "original_score": 38.95107033639144,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 40.055963302752296,
+      "company_evidence": null,
+      "events": []
+    },
+    {
+      "code": "9941",
+      "name": "裕融",
+      "original_score": 38.944954128440365,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 40.05045871559633,
+      "company_evidence": null,
+      "events": []
+    },
+    {
+      "code": "6472",
+      "name": "保瑞",
+      "original_score": 38.776758409785934,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 39.899082568807344,
+      "company_evidence": null,
+      "events": []
+    },
+    {
       "code": "4919",
       "name": "新唐",
       "original_score": 38.57798165137615,
@@ -3933,16 +3943,6 @@
       "event_score": 50,
       "event_adjustment": 0.0,
       "weighted_score": 39.16284403669725,
-      "company_evidence": null,
-      "events": []
-    },
-    {
-      "code": "6719",
-      "name": "力智",
-      "original_score": 37.95107033639144,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 39.1559633027523,
       "company_evidence": null,
       "events": []
     },
@@ -4107,6 +4107,16 @@
       "events": []
     },
     {
+      "code": "2323",
+      "name": "中環",
+      "original_score": 35.325688073394495,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 36.793119266055044,
+      "company_evidence": null,
+      "events": []
+    },
+    {
       "code": "1314",
       "name": "中石化",
       "original_score": 34.98318042813455,
@@ -4157,22 +4167,22 @@
       "events": []
     },
     {
-      "code": "2323",
-      "name": "中環",
-      "original_score": 34.325688073394495,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 35.893119266055045,
-      "company_evidence": null,
-      "events": []
-    },
-    {
       "code": "1810",
       "name": "和成",
       "original_score": 34.31957186544343,
       "event_score": 50,
       "event_adjustment": 0.0,
       "weighted_score": 35.887614678899084,
+      "company_evidence": null,
+      "events": []
+    },
+    {
+      "code": "1536",
+      "name": "和大",
+      "original_score": 34.17125382262997,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 35.754128440366976,
       "company_evidence": null,
       "events": []
     },
@@ -4213,16 +4223,6 @@
       "event_score": 50,
       "event_adjustment": 0.0,
       "weighted_score": 34.07798165137615,
-      "company_evidence": null,
-      "events": []
-    },
-    {
-      "code": "1536",
-      "name": "和大",
-      "original_score": 32.17125382262997,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 33.95412844036697,
       "company_evidence": null,
       "events": []
     },
