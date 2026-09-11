@@ -1,6 +1,6 @@
 {
   "rules_version": "global-rules-1",
-  "as_of": "2026-09-11T08:18:34.405512+08:00",
+  "as_of": "2026-09-11T19:51:23.066724+08:00",
   "sources": [
     {
       "source": "中央通訊社・國際",
@@ -14,6 +14,132 @@
     }
   ],
   "events": [
+    {
+      "id": "423a5e6aef7941a0b282ed75",
+      "title": "油價飆漲引發通膨升息疑慮大增　亞股普遍挫低",
+      "url": "https://www.cna.com.tw/news/afe/202609110269.aspx",
+      "source": "中央通訊社・產經",
+      "published_at": "2026-09-11T18:33:22+08:00",
+      "first_seen_at": "2026-09-11T19:51:23.066724+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "能源供應",
+          "industry": "能源、石化、航空與運輸",
+          "possible_benefit": "若能源售價上升且成本可控，部分上游企業可能受益。",
+          "possible_risk": "若燃料成本提高，未避險的用能企業可能承壓。",
+          "verify_next": "核對價格方向、持續性、庫存、避險與成本轉嫁，油價下跌時可能相反。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
+    {
+      "id": "fdb32eaabc1231d95662a755",
+      "title": "關稅淡化及經濟成長帶動　業者樂觀看待車市",
+      "url": "https://www.cna.com.tw/news/afe/202609110218.aspx",
+      "source": "中央通訊社・產經",
+      "published_at": "2026-09-11T17:01:30+08:00",
+      "first_seen_at": "2026-09-11T19:51:23.066724+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "關稅／貿易",
+          "industry": "出口製造、電子、機械",
+          "possible_benefit": "若關稅下降或訂單轉移，部分出口商可能受益。",
+          "possible_risk": "若成本提高且無法轉嫁，利潤可能承壓。",
+          "verify_next": "核對原產地、稅率、生效日與企業產地；不能將降稅與加稅視為同方向。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
+    {
+      "id": "7d0c16d8452689bc99623cb2",
+      "title": "美加貿易戰升級  加拿大民眾忍高物價堅定抗美",
+      "url": "https://www.cna.com.tw/news/aopl/202609110204.aspx",
+      "source": "中央通訊社・國際",
+      "published_at": "2026-09-11T16:36:00+08:00",
+      "first_seen_at": "2026-09-11T19:51:23.066724+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "關稅／貿易",
+          "industry": "出口製造、電子、機械",
+          "possible_benefit": "若關稅下降或訂單轉移，部分出口商可能受益。",
+          "possible_risk": "若成本提高且無法轉嫁，利潤可能承壓。",
+          "verify_next": "核對原產地、稅率、生效日與企業產地；不能將降稅與加稅視為同方向。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
+    {
+      "id": "ee147091e48d5ff5686c9b46",
+      "title": "美國要求出兵荷莫茲　韓國謹慎研議外長稱尚無定論",
+      "url": "https://www.cna.com.tw/news/aopl/202609110181.aspx",
+      "source": "中央通訊社・國際",
+      "published_at": "2026-09-11T15:56:11+08:00",
+      "first_seen_at": "2026-09-11T19:51:23.066724+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "衝突／航運",
+          "industry": "航運、物流、能源與出口產業",
+          "possible_benefit": "若供給受限推升運價，部分運輸商可能受益。",
+          "possible_risk": "繞航、保險、交期與燃料成本也可能增加。",
+          "verify_next": "核對事件是否已發生、航線曝險與實際成本，不把衝突直接當買進訊號。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
+    {
+      "id": "a41df22b69b52e737a9baafc",
+      "title": "川普拒絕沙烏地王儲要求　不願對青年運動發動空襲",
+      "url": "https://www.cna.com.tw/news/aopl/202609110179.aspx",
+      "source": "中央通訊社・國際",
+      "published_at": "2026-09-11T15:48:07+08:00",
+      "first_seen_at": "2026-09-11T19:51:23.066724+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "衝突／航運",
+          "industry": "航運、物流、能源與出口產業",
+          "possible_benefit": "若供給受限推升運價，部分運輸商可能受益。",
+          "possible_risk": "繞航、保險、交期與燃料成本也可能增加。",
+          "verify_next": "核對事件是否已發生、航線曝險與實際成本，不把衝突直接當買進訊號。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
+    {
+      "id": "264728f8825a56edc4b8315b",
+      "title": "港媒：美戰爭部中國事務官員將率團出席北京香山論壇",
+      "url": "https://www.cna.com.tw/news/acn/202609110174.aspx",
+      "source": "中央通訊社・國際",
+      "published_at": "2026-09-11T15:41:56+08:00",
+      "first_seen_at": "2026-09-11T19:51:23.066724+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "衝突／航運",
+          "industry": "航運、物流、能源與出口產業",
+          "possible_benefit": "若供給受限推升運價，部分運輸商可能受益。",
+          "possible_risk": "繞航、保險、交期與燃料成本也可能增加。",
+          "verify_next": "核對事件是否已發生、航線曝險與實際成本，不把衝突直接當買進訊號。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
     {
       "id": "8e90ff58fe5a48727b3e44fc",
       "title": "受油價飆漲拖累　美股收黑",

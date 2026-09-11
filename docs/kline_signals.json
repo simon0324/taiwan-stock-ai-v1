@@ -172,5 +172,37 @@
         }
       }
     ]
+  },
+  {
+    "rules_version": "kline-probability-1",
+    "market_date": "2026-09-11",
+    "observed_at": "2026-09-11T19:52:09.799000+08:00",
+    "picks": [
+      {
+        "code": "5284",
+        "name": "jpp-KY",
+        "predicted_up_probability": 52.922666666666665
+      },
+      {
+        "code": "7750",
+        "name": "新代",
+        "predicted_up_probability": 52.648666666666664
+      },
+      {
+        "code": "7711",
+        "name": "永擎",
+        "predicted_up_probability": 52.55733333333333
+      },
+      {
+        "code": "6781",
+        "name": "AES-KY",
+        "predicted_up_probability": 52.55733333333333
+      },
+      {
+        "code": "2345",
+        "name": "智邦",
+        "predicted_up_probability": 52.192
+      }
+    ]
   }
 ]

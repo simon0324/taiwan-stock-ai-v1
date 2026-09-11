@@ -158,5 +158,54 @@
       }
     ],
     "tracking_status": "tracking"
+  },
+  {
+    "rules_version": "unified-1",
+    "market_date": "2026-09-11",
+    "observed_at": "2026-09-11T19:51:25.175519+08:00",
+    "original": [
+      {
+        "code": "3443",
+        "name": "創意"
+      },
+      {
+        "code": "6531",
+        "name": "愛普*"
+      },
+      {
+        "code": "3006",
+        "name": "晶豪科"
+      },
+      {
+        "code": "4967",
+        "name": "十銓"
+      },
+      {
+        "code": "7610",
+        "name": "聯友金屬-創"
+      }
+    ],
+    "unified": [
+      {
+        "code": "3443",
+        "name": "創意"
+      },
+      {
+        "code": "6531",
+        "name": "愛普*"
+      },
+      {
+        "code": "3006",
+        "name": "晶豪科"
+      },
+      {
+        "code": "4967",
+        "name": "十銓"
+      },
+      {
+        "code": "7610",
+        "name": "聯友金屬-創"
+      }
+    ]
   }
 ]

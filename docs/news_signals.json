@@ -673,5 +673,400 @@
         "events": []
       }
     ]
+  },
+  {
+    "market_date": "2026-09-11",
+    "observed_at": "2026-09-11T19:51:16.499029+08:00",
+    "rules_version": "events-1",
+    "sources": [
+      {
+        "source": "證交所・公司重大訊息",
+        "status": "ok",
+        "invalid_rows": 0
+      },
+      {
+        "source": "中央通訊社・產經",
+        "status": "ok",
+        "invalid_rows": 0
+      },
+      {
+        "source": "中央通訊社・科技",
+        "status": "ok",
+        "invalid_rows": 0
+      }
+    ],
+    "original": [
+      {
+        "code": "3443",
+        "name": "創意",
+        "price": 6120.0,
+        "avg_value": 11942642204.25,
+        "revenue": 158.38135946958366,
+        "eps": 23.89,
+        "foreign": 0,
+        "momentum": 5.335628227194489,
+        "volume_ratio": 0.7570959964606778,
+        "trend": 100.0,
+        "atr": 368.92857142857144,
+        "atr_pct": 6.028244631185808,
+        "news": 3,
+        "stable": 91.1118881118881,
+        "growth": 94.07226107226107,
+        "strong": 87.34731934731934,
+        "overall": 90.84382284382285,
+        "entry_low": 6089.4,
+        "entry_high": 6150.599999999999,
+        "fixed_stop": 5814.0,
+        "fixed_target": 6609.6,
+        "dynamic_stop": 5566.607142857143,
+        "dynamic_target": 7226.785714285714,
+        "risk_flags": [
+          "波動偏高"
+        ]
+      },
+      {
+        "code": "6531",
+        "name": "愛普*",
+        "price": 988.0,
+        "avg_value": 3696978364.0,
+        "revenue": 144.57112219849168,
+        "eps": 8.33,
+        "foreign": 0,
+        "momentum": 8.452250274423712,
+        "volume_ratio": 1.0584094473212882,
+        "trend": 100.0,
+        "atr": 59.785714285714285,
+        "atr_pct": 6.051185656448814,
+        "news": 0,
+        "stable": 86.68997668997669,
+        "growth": 88.1002331002331,
+        "strong": 87.34265734265735,
+        "overall": 87.37762237762239,
+        "entry_low": 983.06,
+        "entry_high": 992.9399999999999,
+        "fixed_stop": 938.5999999999999,
+        "fixed_target": 1067.04,
+        "dynamic_stop": 898.3214285714286,
+        "dynamic_target": 1167.357142857143,
+        "risk_flags": [
+          "波動偏高"
+        ]
+      },
+      {
+        "code": "3006",
+        "name": "晶豪科",
+        "price": 290.5,
+        "avg_value": 4982942136.2,
+        "revenue": 491.0617601014743,
+        "eps": 27.58,
+        "foreign": 0,
+        "momentum": 4.308797127468589,
+        "volume_ratio": 1.2009358367872913,
+        "trend": 66.66666666666666,
+        "atr": 20.321428571428573,
+        "atr_pct": 6.995328251782642,
+        "news": 1,
+        "stable": 86.2097902097902,
+        "growth": 88.56410256410257,
+        "strong": 87.06060606060606,
+        "overall": 87.27816627816628,
+        "entry_low": 289.0475,
+        "entry_high": 291.9525,
+        "fixed_stop": 275.97499999999997,
+        "fixed_target": 313.74,
+        "dynamic_stop": 261.45,
+        "dynamic_target": 348.6,
+        "risk_flags": [
+          "波動偏高"
+        ]
+      },
+      {
+        "code": "4967",
+        "name": "十銓",
+        "price": 280.5,
+        "avg_value": 1290499942.45,
+        "revenue": 98.74936839745938,
+        "eps": 53.44,
+        "foreign": 0,
+        "momentum": 1.6304347826086918,
+        "volume_ratio": 0.6656012447154991,
+        "trend": 100.0,
+        "atr": 8.714285714285714,
+        "atr_pct": 3.106697224344283,
+        "news": 0,
+        "stable": 87.05128205128204,
+        "growth": 89.96503496503496,
+        "strong": 79.61538461538461,
+        "overall": 85.54390054390053,
+        "entry_low": 279.0975,
+        "entry_high": 281.9025,
+        "fixed_stop": 266.47499999999997,
+        "fixed_target": 302.94,
+        "dynamic_stop": 267.42857142857144,
+        "dynamic_target": 306.6428571428571,
+        "risk_flags": [
+          "一般"
+        ]
+      },
+      {
+        "code": "7610",
+        "name": "聯友金屬-創",
+        "price": 1975.0,
+        "avg_value": 1373595841.25,
+        "revenue": 721.9912796850527,
+        "eps": 25.37,
+        "foreign": 0,
+        "momentum": 8.516483516483508,
+        "volume_ratio": 0.8479764607761403,
+        "trend": 66.66666666666666,
+        "atr": 128.92857142857142,
+        "atr_pct": 6.528028933092224,
+        "news": 0,
+        "stable": 83.55477855477855,
+        "growth": 88.006993006993,
+        "strong": 84.03263403263405,
+        "overall": 85.1981351981352,
+        "entry_low": 1965.125,
+        "entry_high": 1984.8749999999998,
+        "fixed_stop": 1876.25,
+        "fixed_target": 2133.0,
+        "dynamic_stop": 1781.607142857143,
+        "dynamic_target": 2361.785714285714,
+        "risk_flags": [
+          "波動偏高"
+        ]
+      }
+    ],
+    "message": [
+      {
+        "code": "3443",
+        "name": "創意",
+        "original_score": 90.84382284382285,
+        "message_score": 50.0,
+        "score": 86.75944055944056,
+        "evidence_status": "未知／未達門檻",
+        "contributions": [
+          {
+            "category": "訂單",
+            "points": 0.0
+          },
+          {
+            "category": "新聞話題",
+            "points": 0.0
+          },
+          {
+            "category": "龍頭地位",
+            "points": 0.0
+          },
+          {
+            "category": "專利技術",
+            "points": 0.0
+          }
+        ],
+        "events": [
+          {
+            "id": "a64d370bda05d447c43d1d3a",
+            "code": "3443",
+            "title": "本公司受邀參加2026 BofA Asia Pacific Conference",
+            "published_at": "2026-09-10T14:16:57+08:00",
+            "first_seen_at": "2026-09-11T08:18:31.329595+08:00",
+            "source": "證交所・公司重大訊息",
+            "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+            "official": true,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+          },
+          {
+            "id": "d2c73aeb03273343066f13f8",
+            "code": "3443",
+            "title": "本公司受邀參加第一金證券法人論壇",
+            "published_at": "2026-09-10T14:16:22+08:00",
+            "first_seen_at": "2026-09-11T08:18:31.329595+08:00",
+            "source": "證交所・公司重大訊息",
+            "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+            "official": true,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+          },
+          {
+            "id": "58d38ed79b461886a3066832",
+            "code": "3443",
+            "title": "本公司受邀參加UBS Taiwan Summit 2026",
+            "published_at": "2026-09-10T14:15:54+08:00",
+            "first_seen_at": "2026-09-11T08:18:31.329595+08:00",
+            "source": "證交所・公司重大訊息",
+            "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+            "official": true,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+          }
+        ]
+      },
+      {
+        "code": "6531",
+        "name": "愛普*",
+        "original_score": 87.37762237762239,
+        "message_score": 50.0,
+        "score": 83.63986013986015,
+        "evidence_status": "未知／未達門檻",
+        "contributions": [
+          {
+            "category": "訂單",
+            "points": 0.0
+          },
+          {
+            "category": "新聞話題",
+            "points": 0.0
+          },
+          {
+            "category": "龍頭地位",
+            "points": 0.0
+          },
+          {
+            "category": "專利技術",
+            "points": 0.0
+          }
+        ],
+        "events": []
+      },
+      {
+        "code": "3006",
+        "name": "晶豪科",
+        "original_score": 87.27816627816628,
+        "message_score": 50.0,
+        "score": 83.55034965034966,
+        "evidence_status": "未知／未達門檻",
+        "contributions": [
+          {
+            "category": "訂單",
+            "points": 0.0
+          },
+          {
+            "category": "新聞話題",
+            "points": 0.0
+          },
+          {
+            "category": "龍頭地位",
+            "points": 0.0
+          },
+          {
+            "category": "專利技術",
+            "points": 0.0
+          }
+        ],
+        "events": [
+          {
+            "id": "eac400b41e3e45a2470a3f60",
+            "code": "3006",
+            "title": "公告本公司國內第二次有擔保轉換公司債完成訂價",
+            "published_at": "2026-09-10T14:36:23+08:00",
+            "first_seen_at": "2026-09-11T08:18:31.329595+08:00",
+            "source": "證交所・公司重大訊息",
+            "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+            "official": true,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+          },
+          {
+            "id": "99a52775602d920eaa9b1fef",
+            "code": "3006",
+            "title": "代子公司誠風投資（股）公司公告取得有價證券",
+            "published_at": "2026-09-04T15:51:52+08:00",
+            "first_seen_at": "2026-09-05T11:36:38.452842+08:00",
+            "source": "證交所・公司重大訊息",
+            "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+            "official": true,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+          },
+          {
+            "id": "9287aa762150f63845d3ca9b",
+            "code": "3006",
+            "title": "公告本公司發行國內第二次有擔保轉換公司債案向金管會\r\n申請延長募集期間，業經金管會准予備查",
+            "published_at": "2026-09-04T15:44:13+08:00",
+            "first_seen_at": "2026-09-05T11:36:38.452842+08:00",
+            "source": "證交所・公司重大訊息",
+            "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+            "official": true,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+          }
+        ]
+      },
+      {
+        "code": "4967",
+        "name": "十銓",
+        "original_score": 85.54390054390053,
+        "message_score": 50.0,
+        "score": 81.98951048951048,
+        "evidence_status": "未知／未達門檻",
+        "contributions": [
+          {
+            "category": "訂單",
+            "points": 0.0
+          },
+          {
+            "category": "新聞話題",
+            "points": 0.0
+          },
+          {
+            "category": "龍頭地位",
+            "points": 0.0
+          },
+          {
+            "category": "專利技術",
+            "points": 0.0
+          }
+        ],
+        "events": []
+      },
+      {
+        "code": "7610",
+        "name": "聯友金屬-創",
+        "original_score": 85.1981351981352,
+        "message_score": 50.0,
+        "score": 81.67832167832168,
+        "evidence_status": "未知／未達門檻",
+        "contributions": [
+          {
+            "category": "訂單",
+            "points": 0.0
+          },
+          {
+            "category": "新聞話題",
+            "points": 0.0
+          },
+          {
+            "category": "龍頭地位",
+            "points": 0.0
+          },
+          {
+            "category": "專利技術",
+            "points": 0.0
+          }
+        ],
+        "events": [
+          {
+            "id": "180a4642167ec3f0aeac3cd7",
+            "code": "7610",
+            "title": "本公司可轉換公司聯友金屬一創(代號:76101)近期達公布\r\n注意交易資訊標準，故公告相關訊息，以利投資人區別瞭解",
+            "published_at": "2026-09-08T15:22:59+08:00",
+            "first_seen_at": "2026-09-09T08:24:14.120206+08:00",
+            "source": "證交所・公司重大訊息",
+            "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+            "official": true,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+          }
+        ]
+      }
+    ]
   }
 ]
