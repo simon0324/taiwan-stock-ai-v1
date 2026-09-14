@@ -181,27 +181,82 @@
       {
         "code": "5284",
         "name": "jpp-KY",
-        "predicted_up_probability": 52.922666666666665
+        "predicted_up_probability": 52.922666666666665,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "7750",
         "name": "新代",
-        "predicted_up_probability": 52.648666666666664
+        "predicted_up_probability": 52.648666666666664,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "7711",
         "name": "永擎",
-        "predicted_up_probability": 52.55733333333333
+        "predicted_up_probability": 52.55733333333333,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "6781",
         "name": "AES-KY",
-        "predicted_up_probability": 52.55733333333333
+        "predicted_up_probability": 52.55733333333333,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "2345",
         "name": "智邦",
-        "predicted_up_probability": 52.192
+        "predicted_up_probability": 52.192,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       }
     ]
   }

@@ -15,8 +15,8 @@
     "code": "6933",
     "name": "AMAX-KY",
     "entry_price": 314.5,
-    "latest_price": 314.5,
-    "return_pct": 0.0,
+    "latest_price": 320.0,
+    "return_pct": 1.748807631160565,
     "age": 5,
     "status": "已完成",
     "last_update": "2026-09-11"
@@ -401,7 +401,7 @@
     "name": "創意",
     "entry_price": 6120.0,
     "latest_price": 6120.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-09-11"
@@ -412,7 +412,7 @@
     "name": "愛普*",
     "entry_price": 988.0,
     "latest_price": 988.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-09-11"
@@ -423,7 +423,7 @@
     "name": "晶豪科",
     "entry_price": 290.5,
     "latest_price": 290.5,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-09-11"
