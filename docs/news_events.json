@@ -1,5 +1,44 @@
 [
   {
+    "id": "836dba57ea485436b4a073cb",
+    "code": "2882",
+    "title": "國泰金上修台灣今年經濟成長率至11.6%　估央行不升息",
+    "published_at": "2026-09-14T17:50:32+08:00",
+    "first_seen_at": "2026-09-14T21:23:49.420332+08:00",
+    "source": "中央通訊社・產經",
+    "url": "https://www.cna.com.tw/news/afe/202609140222.aspx",
+    "official": false,
+    "category": "待查證",
+    "direction": 0,
+    "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+  },
+  {
+    "id": "ddfc4d06fbb121ea3056816d",
+    "code": "3045",
+    "title": "大眾電腦聯手台灣大　打造全台首座5G AI智慧地熱電廠",
+    "published_at": "2026-09-14T17:45:03+08:00",
+    "first_seen_at": "2026-09-14T21:23:49.420332+08:00",
+    "source": "中央通訊社・產經",
+    "url": "https://www.cna.com.tw/news/afe/202609140208.aspx",
+    "official": false,
+    "category": "待查證",
+    "direction": 0,
+    "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+  },
+  {
+    "id": "01aa32f89a695f1c8ab612cc",
+    "code": "2324",
+    "title": "仁寶結盟Exascale　在美打造新一代GPU驗證平台",
+    "published_at": "2026-09-14T17:35:54+08:00",
+    "first_seen_at": "2026-09-14T21:23:49.420332+08:00",
+    "source": "中央通訊社・產經",
+    "url": "https://www.cna.com.tw/news/afe/202609140204.aspx",
+    "official": false,
+    "category": "待查證",
+    "direction": 0,
+    "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+  },
+  {
     "id": "9dfc88b135635bfd71d8b285",
     "code": "2357",
     "title": "華碩布局次世代智慧醫療資訊平台　拚3年導入20家醫院",

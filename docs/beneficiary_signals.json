@@ -9,7 +9,12 @@
         "name": "京元電子",
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-09",
+            "exit_date": "2026-09-14",
+            "entry_price": 270.0,
+            "exit_price": 261.5,
+            "net_return_pct": -3.7192612666867406
           },
           "4": {
             "status": "waiting"
@@ -24,7 +29,12 @@
         "name": "欣興",
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-09",
+            "exit_date": "2026-09-14",
+            "entry_price": 993.0,
+            "exit_price": 970.0,
+            "net_return_pct": -2.891238670694864
           },
           "4": {
             "status": "waiting"
@@ -39,7 +49,12 @@
         "name": "日月光投控",
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-09",
+            "exit_date": "2026-09-14",
+            "entry_price": 640.0,
+            "exit_price": 612.0,
+            "net_return_pct": -4.939903846153846
           },
           "4": {
             "status": "waiting"
@@ -54,7 +69,12 @@
         "name": "辛耘",
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-09",
+            "exit_date": "2026-09-14",
+            "entry_price": 730.0,
+            "exit_price": 683.0,
+            "net_return_pct": -6.994359387590652
           },
           "4": {
             "status": "waiting"
@@ -69,7 +89,12 @@
         "name": "中砂",
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-09",
+            "exit_date": "2026-09-14",
+            "entry_price": 730.0,
+            "exit_price": 753.0,
+            "net_return_pct": 2.5523771152296533
           },
           "4": {
             "status": "waiting"
@@ -242,6 +267,33 @@
             "status": "waiting"
           }
         }
+      }
+    ]
+  },
+  {
+    "rules_version": "beneficiary-1",
+    "market_date": "2026-09-14",
+    "observed_at": "2026-09-14T21:25:14.497536+08:00",
+    "picks": [
+      {
+        "code": "3711",
+        "name": "日月光投控"
+      },
+      {
+        "code": "1560",
+        "name": "中砂"
+      },
+      {
+        "code": "2449",
+        "name": "京元電子"
+      },
+      {
+        "code": "3037",
+        "name": "欣興"
+      },
+      {
+        "code": "3583",
+        "name": "辛耘"
       }
     ]
   }

@@ -1,6 +1,6 @@
 {
   "rules_version": "global-rules-1",
-  "as_of": "2026-09-14T08:18:49.316918+08:00",
+  "as_of": "2026-09-14T21:23:51.662219+08:00",
   "sources": [
     {
       "source": "中央通訊社・國際",
@@ -14,6 +14,27 @@
     }
   ],
   "events": [
+    {
+      "id": "595da61fde8dea692e9a0f96",
+      "title": "葉門叛軍挺進紅海改變權力平衡　波灣國家面臨艱難抉擇",
+      "url": "https://www.cna.com.tw/news/aopl/202609140159.aspx",
+      "source": "中央通訊社・國際",
+      "published_at": "2026-09-14T15:52:16+08:00",
+      "first_seen_at": "2026-09-14T21:23:51.662219+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "衝突／航運",
+          "industry": "航運、物流、能源與出口產業",
+          "possible_benefit": "若供給受限推升運價，部分運輸商可能受益。",
+          "possible_risk": "繞航、保險、交期與燃料成本也可能增加。",
+          "verify_next": "核對事件是否已發生、航線曝險與實際成本，不把衝突直接當買進訊號。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
     {
       "id": "bb8a14186daa9a721f666e00",
       "title": "阿曼：伊朗與波灣國家荷莫茲海峽會談延期",
@@ -783,48 +804,6 @@
       "url": "https://www.cna.com.tw/news/aopl/202609070305.aspx",
       "source": "中央通訊社・國際",
       "published_at": "2026-09-07T22:44:39+08:00",
-      "first_seen_at": "2026-09-08T08:34:30.593689+08:00",
-      "certainty": "媒體標題報導；未獨立查證",
-      "channels": [
-        {
-          "category": "衝突／航運",
-          "industry": "航運、物流、能源與出口產業",
-          "possible_benefit": "若供給受限推升運價，部分運輸商可能受益。",
-          "possible_risk": "繞航、保險、交期與燃料成本也可能增加。",
-          "verify_next": "核對事件是否已發生、航線曝險與實際成本，不把衝突直接當買進訊號。"
-        }
-      ],
-      "beneficiary_stocks": [],
-      "adversely_affected_stocks": [],
-      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
-    },
-    {
-      "id": "645a6f07281d767e1eba0132",
-      "title": "伊朗警告韓國勿參與荷莫茲海峽行動　否則後果嚴重",
-      "url": "https://www.cna.com.tw/news/aopl/202609070287.aspx",
-      "source": "中央通訊社・國際",
-      "published_at": "2026-09-07T20:47:55+08:00",
-      "first_seen_at": "2026-09-08T08:34:30.593689+08:00",
-      "certainty": "媒體標題報導；未獨立查證",
-      "channels": [
-        {
-          "category": "衝突／航運",
-          "industry": "航運、物流、能源與出口產業",
-          "possible_benefit": "若供給受限推升運價，部分運輸商可能受益。",
-          "possible_risk": "繞航、保險、交期與燃料成本也可能增加。",
-          "verify_next": "核對事件是否已發生、航線曝險與實際成本，不把衝突直接當買進訊號。"
-        }
-      ],
-      "beneficiary_stocks": [],
-      "adversely_affected_stocks": [],
-      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
-    },
-    {
-      "id": "ba114e07ed979623e74f4d9f",
-      "title": "美伊戰爭擾亂油品供應　美國柴油均價創新高",
-      "url": "https://www.cna.com.tw/news/aopl/202609070270.aspx",
-      "source": "中央通訊社・產經",
-      "published_at": "2026-09-07T19:46:18+08:00",
       "first_seen_at": "2026-09-08T08:34:30.593689+08:00",
       "certainty": "媒體標題報導；未獨立查證",
       "channels": [

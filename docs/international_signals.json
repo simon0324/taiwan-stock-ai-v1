@@ -33,7 +33,12 @@
         ],
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-09",
+            "exit_date": "2026-09-14",
+            "entry_price": 306.5,
+            "exit_price": 270.5,
+            "net_return_pct": -12.278579495545237
           },
           "4": {
             "status": "waiting"
@@ -72,7 +77,12 @@
         ],
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-09",
+            "exit_date": "2026-09-14",
+            "entry_price": 7280.0,
+            "exit_price": 6600.0,
+            "net_return_pct": -9.883770076077768
           },
           "4": {
             "status": "waiting"
@@ -113,7 +123,12 @@
         ],
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-09",
+            "exit_date": "2026-09-14",
+            "entry_price": 900.0,
+            "exit_price": 810.0,
+            "net_return_pct": -10.54040404040404
           },
           "4": {
             "status": "waiting"
@@ -152,7 +167,12 @@
         ],
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-09",
+            "exit_date": "2026-09-14",
+            "entry_price": 281.5,
+            "exit_price": 273.5,
+            "net_return_pct": -3.4139145618207545
           },
           "4": {
             "status": "waiting"
@@ -193,7 +213,12 @@
         ],
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-09",
+            "exit_date": "2026-09-14",
+            "entry_price": 2030.0,
+            "exit_price": 1780.0,
+            "net_return_pct": -12.846084246506484
           },
           "4": {
             "status": "waiting"
@@ -216,7 +241,12 @@
         "events": [],
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-09",
+            "exit_date": "2026-09-14",
+            "entry_price": 306.5,
+            "exit_price": 270.5,
+            "net_return_pct": -12.278579495545237
           },
           "4": {
             "status": "waiting"
@@ -237,7 +267,12 @@
         "events": [],
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-09",
+            "exit_date": "2026-09-14",
+            "entry_price": 7280.0,
+            "exit_price": 6600.0,
+            "net_return_pct": -9.883770076077768
           },
           "4": {
             "status": "waiting"
@@ -258,7 +293,12 @@
         "events": [],
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-09",
+            "exit_date": "2026-09-14",
+            "entry_price": 900.0,
+            "exit_price": 810.0,
+            "net_return_pct": -10.54040404040404
           },
           "4": {
             "status": "waiting"
@@ -279,7 +319,12 @@
         "events": [],
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-09",
+            "exit_date": "2026-09-14",
+            "entry_price": 281.5,
+            "exit_price": 273.5,
+            "net_return_pct": -3.4139145618207545
           },
           "4": {
             "status": "waiting"
@@ -300,7 +345,12 @@
         "events": [],
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-09",
+            "exit_date": "2026-09-14",
+            "entry_price": 2030.0,
+            "exit_price": 1780.0,
+            "net_return_pct": -12.846084246506484
           },
           "4": {
             "status": "waiting"
@@ -933,5 +983,204 @@
       }
     ],
     "tracking_status": "tracking"
+  },
+  {
+    "rules_version": "international-1",
+    "market_date": "2026-09-14",
+    "observed_at": "2026-09-14T21:23:51.988758+08:00",
+    "original": [
+      {
+        "code": "3443",
+        "name": "創意",
+        "price": 6400.0,
+        "avg_value": 11850362259.75,
+        "revenue": 111.0204372171911,
+        "eps": 23.89,
+        "foreign": 0,
+        "momentum": 7.834877843302435,
+        "volume_ratio": 1.4065085213987059,
+        "trend": 100.0,
+        "atr": 394.64285714285717,
+        "atr_pct": 6.166294642857143,
+        "news": 0,
+        "stable": 90.43529411764706,
+        "growth": 90.47058823529412,
+        "strong": 91.24705882352941,
+        "overall": 90.71764705882352,
+        "entry_low": 6368.0,
+        "entry_high": 6431.999999999999,
+        "fixed_stop": 6080.0,
+        "fixed_target": 6912.0,
+        "dynamic_stop": 5808.035714285714,
+        "dynamic_target": 7583.9285714285725,
+        "risk_flags": [
+          "波動偏高"
+        ]
+      },
+      {
+        "code": "2855",
+        "name": "統一證",
+        "price": 52.9,
+        "avg_value": 200044475.0,
+        "revenue": 109.8769286098819,
+        "eps": 6.96,
+        "foreign": 0,
+        "momentum": 1.7307692307692246,
+        "volume_ratio": 1.5662357133332476,
+        "trend": 100.0,
+        "atr": 1.278571428571428,
+        "atr_pct": 2.4169592222522267,
+        "news": 0,
+        "stable": 86.32941176470588,
+        "growth": 85.08235294117647,
+        "strong": 87.30588235294118,
+        "overall": 86.23921568627452,
+        "entry_low": 52.6355,
+        "entry_high": 53.16449999999999,
+        "fixed_stop": 50.254999999999995,
+        "fixed_target": 57.132000000000005,
+        "dynamic_stop": 50.982142857142854,
+        "dynamic_target": 56.73571428571429,
+        "risk_flags": [
+          "一般"
+        ]
+      },
+      {
+        "code": "3044",
+        "name": "健鼎",
+        "price": 510.0,
+        "avg_value": 1540722961.95,
+        "revenue": 65.47995924001005,
+        "eps": 13.02,
+        "foreign": 0,
+        "momentum": 3.4482758620689724,
+        "volume_ratio": 0.9374205237858141,
+        "trend": 100.0,
+        "atr": 19.0,
+        "atr_pct": 3.7254901960784315,
+        "news": 0,
+        "stable": 84.97647058823529,
+        "growth": 85.14117647058823,
+        "strong": 85.04705882352941,
+        "overall": 85.05490196078432,
+        "entry_low": 507.45,
+        "entry_high": 512.55,
+        "fixed_stop": 484.5,
+        "fixed_target": 550.8000000000001,
+        "dynamic_stop": 481.5,
+        "dynamic_target": 567.0,
+        "risk_flags": [
+          "一般"
+        ]
+      },
+      {
+        "code": "6416",
+        "name": "瑞祺電通",
+        "price": 119.0,
+        "avg_value": 105957021.15,
+        "revenue": 109.34019768099115,
+        "eps": 2.9,
+        "foreign": 0,
+        "momentum": 19.238476953907814,
+        "volume_ratio": 2.751552410927702,
+        "trend": 100.0,
+        "atr": 4.614285714285714,
+        "atr_pct": 3.877551020408163,
+        "news": 0,
+        "stable": 80.28235294117647,
+        "growth": 79.85882352941175,
+        "strong": 88.08235294117648,
+        "overall": 82.74117647058823,
+        "entry_low": 118.405,
+        "entry_high": 119.59499999999998,
+        "fixed_stop": 113.05,
+        "fixed_target": 128.52,
+        "dynamic_stop": 112.07857142857142,
+        "dynamic_target": 132.84285714285716,
+        "risk_flags": [
+          "短線漲幅偏大"
+        ]
+      },
+      {
+        "code": "6214",
+        "name": "精誠",
+        "price": 187.5,
+        "avg_value": 444236923.7,
+        "revenue": 61.91075076871571,
+        "eps": 6.15,
+        "foreign": 0,
+        "momentum": 1.3513513513513598,
+        "volume_ratio": 1.0499529217769072,
+        "trend": 100.0,
+        "atr": 3.0714285714285716,
+        "atr_pct": 1.638095238095238,
+        "news": 0,
+        "stable": 81.89411764705883,
+        "growth": 80.71764705882353,
+        "strong": 83.21176470588235,
+        "overall": 81.94117647058823,
+        "entry_low": 186.5625,
+        "entry_high": 188.43749999999997,
+        "fixed_stop": 178.125,
+        "fixed_target": 202.5,
+        "dynamic_stop": 182.89285714285714,
+        "dynamic_target": 196.71428571428572,
+        "risk_flags": [
+          "一般"
+        ]
+      }
+    ],
+    "weighted": [
+      {
+        "code": "3443",
+        "name": "創意",
+        "original_score": 90.71764705882352,
+        "event_score": 50,
+        "event_adjustment": 0.0,
+        "weighted_score": 86.64588235294117,
+        "company_evidence": null,
+        "events": []
+      },
+      {
+        "code": "2855",
+        "name": "統一證",
+        "original_score": 86.23921568627452,
+        "event_score": 50,
+        "event_adjustment": 0.0,
+        "weighted_score": 82.61529411764707,
+        "company_evidence": null,
+        "events": []
+      },
+      {
+        "code": "3044",
+        "name": "健鼎",
+        "original_score": 85.05490196078432,
+        "event_score": 50,
+        "event_adjustment": 0.0,
+        "weighted_score": 81.5494117647059,
+        "company_evidence": null,
+        "events": []
+      },
+      {
+        "code": "6416",
+        "name": "瑞祺電通",
+        "original_score": 82.74117647058823,
+        "event_score": 50,
+        "event_adjustment": 0.0,
+        "weighted_score": 79.46705882352941,
+        "company_evidence": null,
+        "events": []
+      },
+      {
+        "code": "6214",
+        "name": "精誠",
+        "original_score": 81.94117647058823,
+        "event_score": 50,
+        "event_adjustment": 0.0,
+        "weighted_score": 78.74705882352941,
+        "company_evidence": null,
+        "events": []
+      }
+    ]
   }
 ]

@@ -318,5 +318,54 @@
       }
     ],
     "tracking_status": "tracking"
+  },
+  {
+    "rules_version": "unified-1",
+    "market_date": "2026-09-14",
+    "observed_at": "2026-09-14T21:23:53.249375+08:00",
+    "original": [
+      {
+        "code": "3443",
+        "name": "創意"
+      },
+      {
+        "code": "2855",
+        "name": "統一證"
+      },
+      {
+        "code": "3044",
+        "name": "健鼎"
+      },
+      {
+        "code": "6416",
+        "name": "瑞祺電通"
+      },
+      {
+        "code": "6214",
+        "name": "精誠"
+      }
+    ],
+    "unified": [
+      {
+        "code": "3443",
+        "name": "創意"
+      },
+      {
+        "code": "2855",
+        "name": "統一證"
+      },
+      {
+        "code": "3044",
+        "name": "健鼎"
+      },
+      {
+        "code": "6416",
+        "name": "瑞祺電通"
+      },
+      {
+        "code": "6214",
+        "name": "精誠"
+      }
+    ]
   }
 ]
