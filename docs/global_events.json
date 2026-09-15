@@ -1,6 +1,6 @@
 {
   "rules_version": "global-rules-1",
-  "as_of": "2026-09-15T08:45:48.642602+08:00",
+  "as_of": "2026-09-15T20:10:47.293272+08:00",
   "sources": [
     {
       "source": "中央通訊社・國際",
@@ -14,6 +14,48 @@
     }
   ],
   "events": [
+    {
+      "id": "c89ed9f052f7808cf0773f02",
+      "title": "油價續漲亞股收盤全倒　美債殖利率破5%衝上19年新高",
+      "url": "https://www.cna.com.tw/news/afe/202609150280.aspx",
+      "source": "中央通訊社・產經",
+      "published_at": "2026-09-15T18:07:29+08:00",
+      "first_seen_at": "2026-09-15T20:10:47.293272+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "能源供應",
+          "industry": "能源、石化、航空與運輸",
+          "possible_benefit": "若能源售價上升且成本可控，部分上游企業可能受益。",
+          "possible_risk": "若燃料成本提高，未避險的用能企業可能承壓。",
+          "verify_next": "核對價格方向、持續性、庫存、避險與成本轉嫁，油價下跌時可能相反。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
+    {
+      "id": "c75fa76ed3637459379cf464",
+      "title": "美調整對加新關稅範圍　新增起司摩托艇等正式生效",
+      "url": "https://www.cna.com.tw/news/aopl/202609150190.aspx",
+      "source": "中央通訊社・國際",
+      "published_at": "2026-09-15T15:43:15+08:00",
+      "first_seen_at": "2026-09-15T20:10:47.293272+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "關稅／貿易",
+          "industry": "出口製造、電子、機械",
+          "possible_benefit": "若關稅下降或訂單轉移，部分出口商可能受益。",
+          "possible_risk": "若成本提高且無法轉嫁，利潤可能承壓。",
+          "verify_next": "核對原產地、稅率、生效日與企業產地；不能將降稅與加稅視為同方向。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
     {
       "id": "508074f29a166083f7177453",
       "title": "沙烏地關閉重要油管帶來供應風險　國際油價續升",
@@ -806,27 +848,6 @@
           "possible_benefit": "若供給受限推升運價，部分運輸商可能受益。",
           "possible_risk": "繞航、保險、交期與燃料成本也可能增加。",
           "verify_next": "核對事件是否已發生、航線曝險與實際成本，不把衝突直接當買進訊號。"
-        }
-      ],
-      "beneficiary_stocks": [],
-      "adversely_affected_stocks": [],
-      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
-    },
-    {
-      "id": "e0c26efb8344da5ed1544120",
-      "title": "市場對美聯準會升息預期提高　亞股多收跌",
-      "url": "https://www.cna.com.tw/news/afe/202609080276.aspx",
-      "source": "中央通訊社・產經",
-      "published_at": "2026-09-08T18:32:06+08:00",
-      "first_seen_at": "2026-09-08T19:46:27.761760+08:00",
-      "certainty": "媒體標題報導；未獨立查證",
-      "channels": [
-        {
-          "category": "利率政策",
-          "industry": "金融、負債敏感與出口產業",
-          "possible_benefit": "若融資成本下降，負債敏感企業可能改善。",
-          "possible_risk": "若利差收窄或匯率不利，部分企業可能承壓。",
-          "verify_next": "核對實際決議與預期、幣別及企業負債結構。"
         }
       ],
       "beneficiary_stocks": [],

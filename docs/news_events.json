@@ -1,5 +1,57 @@
 [
   {
+    "id": "4aabe243a1a52ebf80bd5f11",
+    "code": "2330",
+    "title": "從消去法選電機系到解題　魏哲家談台積電工程師日常",
+    "published_at": "2026-09-15T17:25:40+08:00",
+    "first_seen_at": "2026-09-15T20:10:44.456414+08:00",
+    "source": "中央通訊社・產經",
+    "url": "https://www.cna.com.tw/news/afe/202609150258.aspx",
+    "official": false,
+    "category": "待查證",
+    "direction": 0,
+    "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+  },
+  {
+    "id": "e84e4eb09731535d24f3677c",
+    "code": "2330",
+    "title": "台積電等3檔個股9/16除息　影響台股指數56.59點",
+    "published_at": "2026-09-15T17:17:06+08:00",
+    "first_seen_at": "2026-09-15T20:10:44.456414+08:00",
+    "source": "中央通訊社・產經",
+    "url": "https://www.cna.com.tw/news/afe/202609150242.aspx",
+    "official": false,
+    "category": "待查證",
+    "direction": 0,
+    "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+  },
+  {
+    "id": "ea7996e5155970dc5e92bdf2",
+    "code": "6770",
+    "title": "外資賣超626億元　調節力積電、加碼金融及電信股",
+    "published_at": "2026-09-15T16:58:47+08:00",
+    "first_seen_at": "2026-09-15T20:10:44.456414+08:00",
+    "source": "中央通訊社・產經",
+    "url": "https://www.cna.com.tw/news/afe/202609150233.aspx",
+    "official": false,
+    "category": "待查證",
+    "direction": 0,
+    "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+  },
+  {
+    "id": "f136c8670749229deab4375a",
+    "code": "3045",
+    "title": "虛擬資產滲透率僅5%　台灣大布局民眾與法人市場",
+    "published_at": "2026-09-15T16:55:45+08:00",
+    "first_seen_at": "2026-09-15T20:10:44.456414+08:00",
+    "source": "中央通訊社・產經",
+    "url": "https://www.cna.com.tw/news/afe/202609150232.aspx",
+    "official": false,
+    "category": "待查證",
+    "direction": 0,
+    "reason": "含推測、否認或澄清語句，僅列入觀察"
+  },
+  {
     "id": "823b504bdea6beeb12653630",
     "code": "2330",
     "title": "費半挫近6%、台積電ADR跌3.52%　台股估震盪",

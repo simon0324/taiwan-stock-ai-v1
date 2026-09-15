@@ -478,5 +478,54 @@
       }
     ],
     "tracking_status": "tracking"
+  },
+  {
+    "rules_version": "unified-1",
+    "market_date": "2026-09-15",
+    "observed_at": "2026-09-15T20:10:49.637920+08:00",
+    "original": [
+      {
+        "code": "3443",
+        "name": "創意"
+      },
+      {
+        "code": "6214",
+        "name": "精誠"
+      },
+      {
+        "code": "6416",
+        "name": "瑞祺電通"
+      },
+      {
+        "code": "3036",
+        "name": "文曄"
+      },
+      {
+        "code": "6861",
+        "name": "睿生光電"
+      }
+    ],
+    "unified": [
+      {
+        "code": "3443",
+        "name": "創意"
+      },
+      {
+        "code": "6214",
+        "name": "精誠"
+      },
+      {
+        "code": "6416",
+        "name": "瑞祺電通"
+      },
+      {
+        "code": "3036",
+        "name": "文曄"
+      },
+      {
+        "code": "6861",
+        "name": "睿生光電"
+      }
+    ]
   }
 ]

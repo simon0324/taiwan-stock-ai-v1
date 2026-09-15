@@ -18,7 +18,12 @@
             "net_return_pct": -2.9400921658986174
           },
           "4": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-09",
+            "exit_date": "2026-09-15",
+            "entry_price": 2325.0,
+            "exit_price": 2315.0,
+            "net_return_pct": -1.0138248847926268
           },
           "5": {
             "status": "waiting"
@@ -39,7 +44,12 @@
             "net_return_pct": -6.84739259932354
           },
           "4": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-09",
+            "exit_date": "2026-09-15",
+            "entry_price": 1065.0,
+            "exit_price": 982.0,
+            "net_return_pct": -8.343682164672623
           },
           "5": {
             "status": "waiting"
@@ -60,7 +70,12 @@
             "net_return_pct": -0.8614119534697153
           },
           "4": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-09",
+            "exit_date": "2026-09-15",
+            "entry_price": 180.0,
+            "exit_price": 176.0,
+            "net_return_pct": -2.7978339350180503
           },
           "5": {
             "status": "waiting"
@@ -81,7 +96,12 @@
             "net_return_pct": -1.869364856742136
           },
           "4": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-09",
+            "exit_date": "2026-09-15",
+            "entry_price": 62.0,
+            "exit_price": 60.7,
+            "net_return_pct": -2.6718092566619918
           },
           "5": {
             "status": "waiting"
@@ -102,7 +122,12 @@
             "net_return_pct": -0.003505591418312208
           },
           "4": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-09",
+            "exit_date": "2026-09-15",
+            "entry_price": 85.7,
+            "exit_price": 85.2,
+            "net_return_pct": -1.165358747201787
           },
           "5": {
             "status": "waiting"
@@ -369,6 +394,38 @@
             "status": "waiting"
           }
         }
+      }
+    ]
+  },
+  {
+    "rules_version": "kline-probability-1",
+    "market_date": "2026-09-15",
+    "observed_at": "2026-09-15T20:11:20.949006+08:00",
+    "picks": [
+      {
+        "code": "3661",
+        "name": "世芯-KY",
+        "predicted_up_probability": 53.938
+      },
+      {
+        "code": "6515",
+        "name": "穎崴",
+        "predicted_up_probability": 53.34133333333333
+      },
+      {
+        "code": "7822",
+        "name": "倍利科",
+        "predicted_up_probability": 53.222
+      },
+      {
+        "code": "7610",
+        "name": "聯友金屬-創",
+        "predicted_up_probability": 53.102666666666664
+      },
+      {
+        "code": "2368",
+        "name": "金像電",
+        "predicted_up_probability": 52.864
       }
     ]
   }

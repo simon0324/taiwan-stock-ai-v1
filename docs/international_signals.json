@@ -41,7 +41,12 @@
             "net_return_pct": -12.278579495545237
           },
           "4": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-09",
+            "exit_date": "2026-09-15",
+            "entry_price": 306.5,
+            "exit_price": 264.0,
+            "net_return_pct": -14.389258376207806
           },
           "5": {
             "status": "waiting"
@@ -85,7 +90,12 @@
             "net_return_pct": -9.883770076077768
           },
           "4": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-09",
+            "exit_date": "2026-09-15",
+            "entry_price": 7280.0,
+            "exit_price": 6310.0,
+            "net_return_pct": -13.850380388841927
           },
           "5": {
             "status": "waiting"
@@ -131,7 +141,12 @@
             "net_return_pct": -10.54040404040404
           },
           "4": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-09",
+            "exit_date": "2026-09-15",
+            "entry_price": 900.0,
+            "exit_price": 792.0,
+            "net_return_pct": -12.531313131313132
           },
           "5": {
             "status": "waiting"
@@ -175,7 +190,12 @@
             "net_return_pct": -3.4139145618207545
           },
           "4": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-09",
+            "exit_date": "2026-09-15",
+            "entry_price": 281.5,
+            "exit_price": 266.0,
+            "net_return_pct": -6.066170936568625
           },
           "5": {
             "status": "waiting"
@@ -221,7 +241,12 @@
             "net_return_pct": -12.846084246506484
           },
           "4": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-09",
+            "exit_date": "2026-09-15",
+            "entry_price": 2030.0,
+            "exit_price": 1655.0,
+            "net_return_pct": -18.976575852015685
           },
           "5": {
             "status": "waiting"
@@ -249,7 +274,12 @@
             "net_return_pct": -12.278579495545237
           },
           "4": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-09",
+            "exit_date": "2026-09-15",
+            "entry_price": 306.5,
+            "exit_price": 264.0,
+            "net_return_pct": -14.389258376207806
           },
           "5": {
             "status": "waiting"
@@ -275,7 +305,12 @@
             "net_return_pct": -9.883770076077768
           },
           "4": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-09",
+            "exit_date": "2026-09-15",
+            "entry_price": 7280.0,
+            "exit_price": 6310.0,
+            "net_return_pct": -13.850380388841927
           },
           "5": {
             "status": "waiting"
@@ -301,7 +336,12 @@
             "net_return_pct": -10.54040404040404
           },
           "4": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-09",
+            "exit_date": "2026-09-15",
+            "entry_price": 900.0,
+            "exit_price": 792.0,
+            "net_return_pct": -12.531313131313132
           },
           "5": {
             "status": "waiting"
@@ -327,7 +367,12 @@
             "net_return_pct": -3.4139145618207545
           },
           "4": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-09",
+            "exit_date": "2026-09-15",
+            "entry_price": 281.5,
+            "exit_price": 266.0,
+            "net_return_pct": -6.066170936568625
           },
           "5": {
             "status": "waiting"
@@ -353,7 +398,12 @@
             "net_return_pct": -12.846084246506484
           },
           "4": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-09",
+            "exit_date": "2026-09-15",
+            "entry_price": 2030.0,
+            "exit_price": 1655.0,
+            "net_return_pct": -18.976575852015685
           },
           "5": {
             "status": "waiting"
@@ -1293,5 +1343,206 @@
       }
     ],
     "tracking_status": "tracking"
+  },
+  {
+    "rules_version": "international-1",
+    "market_date": "2026-09-15",
+    "observed_at": "2026-09-15T20:10:47.840833+08:00",
+    "original": [
+      {
+        "code": "3443",
+        "name": "創意",
+        "price": 6035.0,
+        "avg_value": 11834866858.5,
+        "revenue": 111.0204372171911,
+        "eps": 23.89,
+        "foreign": 0,
+        "momentum": 1.2583892617449743,
+        "volume_ratio": 1.1506996071712503,
+        "trend": 66.66666666666666,
+        "atr": 385.0,
+        "atr_pct": 6.379453189726594,
+        "news": 0,
+        "stable": 83.20238095238095,
+        "growth": 84.08333333333334,
+        "strong": 83.95238095238096,
+        "overall": 83.74603174603175,
+        "entry_low": 6004.825,
+        "entry_high": 6065.174999999999,
+        "fixed_stop": 5733.25,
+        "fixed_target": 6517.8,
+        "dynamic_stop": 5457.5,
+        "dynamic_target": 7190.0,
+        "risk_flags": [
+          "波動偏高"
+        ]
+      },
+      {
+        "code": "6214",
+        "name": "精誠",
+        "price": 190.0,
+        "avg_value": 430451090.3,
+        "revenue": 61.91075076871571,
+        "eps": 6.15,
+        "foreign": 0,
+        "momentum": 2.7027027027026973,
+        "volume_ratio": 1.5011333286428894,
+        "trend": 100.0,
+        "atr": 3.4642857142857144,
+        "atr_pct": 1.8233082706766917,
+        "news": 0,
+        "stable": 82.52380952380952,
+        "growth": 81.4047619047619,
+        "strong": 85.92857142857143,
+        "overall": 83.28571428571428,
+        "entry_low": 189.05,
+        "entry_high": 190.95,
+        "fixed_stop": 180.5,
+        "fixed_target": 205.20000000000002,
+        "dynamic_stop": 184.80357142857142,
+        "dynamic_target": 200.39285714285717,
+        "risk_flags": [
+          "一般"
+        ]
+      },
+      {
+        "code": "6416",
+        "name": "瑞祺電通",
+        "price": 118.0,
+        "avg_value": 118336929.5,
+        "revenue": 109.34019768099115,
+        "eps": 2.9,
+        "foreign": 0,
+        "momentum": 11.848341232227488,
+        "volume_ratio": 2.3698366282184127,
+        "trend": 100.0,
+        "atr": 4.878571428571428,
+        "atr_pct": 4.134382566585956,
+        "news": 0,
+        "stable": 80.30952380952382,
+        "growth": 79.94047619047619,
+        "strong": 87.8452380952381,
+        "overall": 82.6984126984127,
+        "entry_low": 117.41,
+        "entry_high": 118.58999999999999,
+        "fixed_stop": 112.1,
+        "fixed_target": 127.44000000000001,
+        "dynamic_stop": 110.68214285714286,
+        "dynamic_target": 132.63571428571427,
+        "risk_flags": [
+          "一般"
+        ]
+      },
+      {
+        "code": "3036",
+        "name": "文曄",
+        "price": 192.5,
+        "avg_value": 1450162044.75,
+        "revenue": 98.21291582397657,
+        "eps": 13.0,
+        "foreign": 0,
+        "momentum": 1.58311345646438,
+        "volume_ratio": 0.9632709696527865,
+        "trend": 66.66666666666666,
+        "atr": 5.321428571428571,
+        "atr_pct": 2.764378478664193,
+        "news": 0,
+        "stable": 80.51190476190476,
+        "growth": 81.95238095238095,
+        "strong": 82.17857142857143,
+        "overall": 81.54761904761905,
+        "entry_low": 191.5375,
+        "entry_high": 193.46249999999998,
+        "fixed_stop": 182.875,
+        "fixed_target": 207.9,
+        "dynamic_stop": 184.51785714285714,
+        "dynamic_target": 208.46428571428572,
+        "risk_flags": [
+          "一般"
+        ]
+      },
+      {
+        "code": "6861",
+        "name": "睿生光電",
+        "price": 228.0,
+        "avg_value": 178489752.75,
+        "revenue": 52.47437428070515,
+        "eps": 4.44,
+        "foreign": 0,
+        "momentum": 16.62404092071612,
+        "volume_ratio": 5.109295659551526,
+        "trend": 100.0,
+        "atr": 14.107142857142858,
+        "atr_pct": 6.18734335839599,
+        "news": 0,
+        "stable": 79.42857142857142,
+        "growth": 78.03571428571428,
+        "strong": 87.01190476190476,
+        "overall": 81.49206349206348,
+        "entry_low": 226.85999999999999,
+        "entry_high": 229.14,
+        "fixed_stop": 216.6,
+        "fixed_target": 246.24,
+        "dynamic_stop": 206.83928571428572,
+        "dynamic_target": 270.32142857142856,
+        "risk_flags": [
+          "波動偏高",
+          "短線漲幅偏大",
+          "爆量"
+        ]
+      }
+    ],
+    "weighted": [
+      {
+        "code": "3443",
+        "name": "創意",
+        "original_score": 83.74603174603175,
+        "event_score": 50,
+        "event_adjustment": 0.0,
+        "weighted_score": 80.37142857142858,
+        "company_evidence": null,
+        "events": []
+      },
+      {
+        "code": "6214",
+        "name": "精誠",
+        "original_score": 83.28571428571428,
+        "event_score": 50,
+        "event_adjustment": 0.0,
+        "weighted_score": 79.95714285714286,
+        "company_evidence": null,
+        "events": []
+      },
+      {
+        "code": "6416",
+        "name": "瑞祺電通",
+        "original_score": 82.6984126984127,
+        "event_score": 50,
+        "event_adjustment": 0.0,
+        "weighted_score": 79.42857142857143,
+        "company_evidence": null,
+        "events": []
+      },
+      {
+        "code": "3036",
+        "name": "文曄",
+        "original_score": 81.54761904761905,
+        "event_score": 50,
+        "event_adjustment": 0.0,
+        "weighted_score": 78.39285714285715,
+        "company_evidence": null,
+        "events": []
+      },
+      {
+        "code": "6861",
+        "name": "睿生光電",
+        "original_score": 81.49206349206348,
+        "event_score": 50,
+        "event_adjustment": 0.0,
+        "weighted_score": 78.34285714285713,
+        "company_evidence": null,
+        "events": []
+      }
+    ]
   }
 ]
