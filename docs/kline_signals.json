@@ -405,27 +405,82 @@
       {
         "code": "3661",
         "name": "世芯-KY",
-        "predicted_up_probability": 53.938
+        "predicted_up_probability": 53.938,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "6515",
         "name": "穎崴",
-        "predicted_up_probability": 53.34133333333333
+        "predicted_up_probability": 53.34133333333333,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "7822",
         "name": "倍利科",
-        "predicted_up_probability": 53.222
+        "predicted_up_probability": 53.222,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "7610",
         "name": "聯友金屬-創",
-        "predicted_up_probability": 53.102666666666664
+        "predicted_up_probability": 53.102666666666664,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "2368",
         "name": "金像電",
-        "predicted_up_probability": 52.864
+        "predicted_up_probability": 52.864,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       }
     ]
   }

@@ -467,7 +467,7 @@
     "name": "創意",
     "entry_price": 6035.0,
     "latest_price": 6035.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-09-15"
@@ -478,7 +478,7 @@
     "name": "精誠",
     "entry_price": 190.0,
     "latest_price": 190.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-09-15"
@@ -489,7 +489,7 @@
     "name": "瑞祺電通",
     "entry_price": 118.0,
     "latest_price": 118.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-09-15"
