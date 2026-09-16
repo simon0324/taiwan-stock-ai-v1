@@ -9,7 +9,12 @@
         "name": "聯友金屬-創",
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-11",
+            "exit_date": "2026-09-16",
+            "entry_price": 1975.0,
+            "exit_price": 1730.0,
+            "net_return_pct": -12.935696202531647
           },
           "4": {
             "status": "waiting"
@@ -24,7 +29,12 @@
         "name": "晶豪科",
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-11",
+            "exit_date": "2026-09-16",
+            "entry_price": 290.5,
+            "exit_price": 281.0,
+            "net_return_pct": -3.840267358480151
           },
           "4": {
             "status": "waiting"
@@ -39,7 +49,12 @@
         "name": "創意",
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-11",
+            "exit_date": "2026-09-16",
+            "entry_price": 6120.0,
+            "exit_price": 6170.0,
+            "net_return_pct": 0.2277369281045752
           },
           "4": {
             "status": "waiting"
@@ -54,7 +69,12 @@
         "name": "愛普*",
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-11",
+            "exit_date": "2026-09-16",
+            "entry_price": 988.0,
+            "exit_price": 949.0,
+            "net_return_pct": -4.515573014791357
           },
           "4": {
             "status": "waiting"
@@ -69,7 +89,12 @@
         "name": "帆宣",
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-11",
+            "exit_date": "2026-09-16",
+            "entry_price": 511.0,
+            "exit_price": 521.0,
+            "net_return_pct": 1.3628380751668423
           },
           "4": {
             "status": "waiting"
@@ -86,7 +111,12 @@
         "name": "聯友金屬-創",
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-11",
+            "exit_date": "2026-09-16",
+            "entry_price": 1975.0,
+            "exit_price": 1730.0,
+            "net_return_pct": -12.935696202531647
           },
           "4": {
             "status": "waiting"
@@ -101,7 +131,12 @@
         "name": "晶豪科",
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-11",
+            "exit_date": "2026-09-16",
+            "entry_price": 290.5,
+            "exit_price": 281.0,
+            "net_return_pct": -3.840267358480151
           },
           "4": {
             "status": "waiting"
@@ -116,7 +151,12 @@
         "name": "創意",
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-11",
+            "exit_date": "2026-09-16",
+            "entry_price": 6120.0,
+            "exit_price": 6170.0,
+            "net_return_pct": 0.2277369281045752
           },
           "4": {
             "status": "waiting"
@@ -131,7 +171,12 @@
         "name": "愛普*",
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-11",
+            "exit_date": "2026-09-16",
+            "entry_price": 988.0,
+            "exit_price": 949.0,
+            "net_return_pct": -4.515573014791357
           },
           "4": {
             "status": "waiting"
@@ -146,7 +191,12 @@
         "name": "帆宣",
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-11",
+            "exit_date": "2026-09-16",
+            "entry_price": 511.0,
+            "exit_price": 521.0,
+            "net_return_pct": 1.3628380751668423
           },
           "4": {
             "status": "waiting"
@@ -638,5 +688,54 @@
       }
     ],
     "tracking_status": "tracking"
+  },
+  {
+    "rules_version": "unified-1",
+    "market_date": "2026-09-16",
+    "observed_at": "2026-09-16T20:06:20.308389+08:00",
+    "original": [
+      {
+        "code": "6672",
+        "name": "騰輝電子-KY"
+      },
+      {
+        "code": "3044",
+        "name": "健鼎"
+      },
+      {
+        "code": "6214",
+        "name": "精誠"
+      },
+      {
+        "code": "2382",
+        "name": "廣達"
+      },
+      {
+        "code": "6861",
+        "name": "睿生光電"
+      }
+    ],
+    "unified": [
+      {
+        "code": "6672",
+        "name": "騰輝電子-KY"
+      },
+      {
+        "code": "3044",
+        "name": "健鼎"
+      },
+      {
+        "code": "6214",
+        "name": "精誠"
+      },
+      {
+        "code": "2382",
+        "name": "廣達"
+      },
+      {
+        "code": "6861",
+        "name": "睿生光電"
+      }
+    ]
   }
 ]
