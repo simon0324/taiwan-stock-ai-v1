@@ -1,6 +1,6 @@
 {
   "rules_version": "global-rules-1",
-  "as_of": "2026-09-17T08:44:29.045637+08:00",
+  "as_of": "2026-09-17T20:09:44.963093+08:00",
   "sources": [
     {
       "source": "中央通訊社・國際",
@@ -14,6 +14,174 @@
     }
   ],
   "events": [
+    {
+      "id": "7daf625f41e076a1417d164d",
+      "title": "聯準會升息展現抗通膨決心　亞股多收高",
+      "url": "https://www.cna.com.tw/news/afe/202609170255.aspx",
+      "source": "中央通訊社・產經",
+      "published_at": "2026-09-17T17:37:58+08:00",
+      "first_seen_at": "2026-09-17T20:09:44.963093+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "利率政策",
+          "industry": "金融、負債敏感與出口產業",
+          "possible_benefit": "若融資成本下降，負債敏感企業可能改善。",
+          "possible_risk": "若利差收窄或匯率不利，部分企業可能承壓。",
+          "verify_next": "核對實際決議與預期、幣別及企業負債結構。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
+    {
+      "id": "5dae154196298d415375a399",
+      "title": "聯準會升息新加坡銀行資本受矚  分析指體質穩風險可控",
+      "url": "https://www.cna.com.tw/news/aopl/202609170247.aspx",
+      "source": "中央通訊社・產經",
+      "published_at": "2026-09-17T17:26:41+08:00",
+      "first_seen_at": "2026-09-17T20:09:44.963093+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "利率政策",
+          "industry": "金融、負債敏感與出口產業",
+          "possible_benefit": "若融資成本下降，負債敏感企業可能改善。",
+          "possible_risk": "若利差收窄或匯率不利，部分企業可能承壓。",
+          "verify_next": "核對實際決議與預期、幣別及企業負債結構。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
+    {
+      "id": "a80890e998492a6b28c0c792",
+      "title": "Fed升息1碼市場關注美最新經濟數據　日股收高",
+      "url": "https://www.cna.com.tw/news/afe/202609170176.aspx",
+      "source": "中央通訊社・產經",
+      "published_at": "2026-09-17T15:15:09+08:00",
+      "first_seen_at": "2026-09-17T20:09:44.963093+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "利率政策",
+          "industry": "金融、負債敏感與出口產業",
+          "possible_benefit": "若融資成本下降，負債敏感企業可能改善。",
+          "possible_risk": "若利差收窄或匯率不利，部分企業可能承壓。",
+          "verify_next": "核對實際決議與預期、幣別及企業負債結構。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
+    {
+      "id": "cf3042893ba587a145b0ff98",
+      "title": "聯準會升息加上房貸利率逼近7%　南加州買家縮手屋主惜售",
+      "url": "https://www.cna.com.tw/news/aopl/202609170153.aspx",
+      "source": "中央通訊社・國際",
+      "published_at": "2026-09-17T14:24:19+08:00",
+      "first_seen_at": "2026-09-17T20:09:44.963093+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "利率政策",
+          "industry": "金融、負債敏感與出口產業",
+          "possible_benefit": "若融資成本下降，負債敏感企業可能改善。",
+          "possible_risk": "若利差收窄或匯率不利，部分企業可能承壓。",
+          "verify_next": "核對實際決議與預期、幣別及企業負債結構。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
+    {
+      "id": "e6c5fdc1d6cc2c16f508a6cb",
+      "title": "美眾院通過法案　授權川普對中國課徵100%關稅",
+      "url": "https://www.cna.com.tw/news/aopl/202609170131.aspx",
+      "source": "中央通訊社・國際",
+      "published_at": "2026-09-17T13:39:32+08:00",
+      "first_seen_at": "2026-09-17T20:09:44.963093+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "關稅／貿易",
+          "industry": "出口製造、電子、機械",
+          "possible_benefit": "若關稅下降或訂單轉移，部分出口商可能受益。",
+          "possible_risk": "若成本提高且無法轉嫁，利潤可能承壓。",
+          "verify_next": "核對原產地、稅率、生效日與企業產地；不能將降稅與加稅視為同方向。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
+    {
+      "id": "0f8d640d9a74c05fbae3a685",
+      "title": "川習會登場在即　美中關稅戰局勢盤點",
+      "url": "https://www.cna.com.tw/news/aopl/202609170113.aspx",
+      "source": "中央通訊社・國際",
+      "published_at": "2026-09-17T12:59:51+08:00",
+      "first_seen_at": "2026-09-17T20:09:44.963093+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "關稅／貿易",
+          "industry": "出口製造、電子、機械",
+          "possible_benefit": "若關稅下降或訂單轉移，部分出口商可能受益。",
+          "possible_risk": "若成本提高且無法轉嫁，利潤可能承壓。",
+          "verify_next": "核對原產地、稅率、生效日與企業產地；不能將降稅與加稅視為同方向。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
+    {
+      "id": "32ba8a1e0813c1b2501d052f",
+      "title": "川普盼美伊戰爭近尾聲　傳下週與波灣6國領袖會商",
+      "url": "https://www.cna.com.tw/news/aopl/202609170099.aspx",
+      "source": "中央通訊社・國際",
+      "published_at": "2026-09-17T12:42:21+08:00",
+      "first_seen_at": "2026-09-17T20:09:44.963093+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "衝突／航運",
+          "industry": "航運、物流、能源與出口產業",
+          "possible_benefit": "若供給受限推升運價，部分運輸商可能受益。",
+          "possible_risk": "繞航、保險、交期與燃料成本也可能增加。",
+          "verify_next": "核對事件是否已發生、航線曝險與實際成本，不把衝突直接當買進訊號。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
+    {
+      "id": "5a6a8f938a5c3021925e9a86",
+      "title": "聯準會升息1碼聲明全文：經濟穩健擴張、通膨壓力仍高",
+      "url": "https://www.cna.com.tw/news/aopl/202609170049.aspx",
+      "source": "中央通訊社・國際",
+      "published_at": "2026-09-17T10:46:34+08:00",
+      "first_seen_at": "2026-09-17T20:09:44.963093+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "利率政策",
+          "industry": "金融、負債敏感與出口產業",
+          "possible_benefit": "若融資成本下降，負債敏感企業可能改善。",
+          "possible_risk": "若利差收窄或匯率不利，部分企業可能承壓。",
+          "verify_next": "核對實際決議與預期、幣別及企業負債結構。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
     {
       "id": "a44c7b7701639011bdb6806f",
       "title": "聯準會升息1碼　川普籲利率降至1%以下",
@@ -974,69 +1142,6 @@
           "possible_benefit": "若能源售價上升且成本可控，部分上游企業可能受益。",
           "possible_risk": "若燃料成本提高，未避險的用能企業可能承壓。",
           "verify_next": "核對價格方向、持續性、庫存、避險與成本轉嫁，油價下跌時可能相反。"
-        }
-      ],
-      "beneficiary_stocks": [],
-      "adversely_affected_stocks": [],
-      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
-    },
-    {
-      "id": "e58ffb51b6aba06982f69249",
-      "title": "葉門軍方消息人士：叛軍奪下紅海戰略港市控制權",
-      "url": "https://www.cna.com.tw/news/aopl/202609100268.aspx",
-      "source": "中央通訊社・國際",
-      "published_at": "2026-09-10T18:01:30+08:00",
-      "first_seen_at": "2026-09-10T19:52:17.990340+08:00",
-      "certainty": "媒體標題報導；未獨立查證",
-      "channels": [
-        {
-          "category": "衝突／航運",
-          "industry": "航運、物流、能源與出口產業",
-          "possible_benefit": "若供給受限推升運價，部分運輸商可能受益。",
-          "possible_risk": "繞航、保險、交期與燃料成本也可能增加。",
-          "verify_next": "核對事件是否已發生、航線曝險與實際成本，不把衝突直接當買進訊號。"
-        }
-      ],
-      "beneficiary_stocks": [],
-      "adversely_affected_stocks": [],
-      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
-    },
-    {
-      "id": "734f8c4cbd35f9eaa44a66c8",
-      "title": "油價飆漲引發通膨和升息疑慮　亞股多收黑",
-      "url": "https://www.cna.com.tw/news/afe/202609100261.aspx",
-      "source": "中央通訊社・產經",
-      "published_at": "2026-09-10T17:50:15+08:00",
-      "first_seen_at": "2026-09-10T19:52:17.990340+08:00",
-      "certainty": "媒體標題報導；未獨立查證",
-      "channels": [
-        {
-          "category": "能源供應",
-          "industry": "能源、石化、航空與運輸",
-          "possible_benefit": "若能源售價上升且成本可控，部分上游企業可能受益。",
-          "possible_risk": "若燃料成本提高，未避險的用能企業可能承壓。",
-          "verify_next": "核對價格方向、持續性、庫存、避險與成本轉嫁，油價下跌時可能相反。"
-        }
-      ],
-      "beneficiary_stocks": [],
-      "adversely_affected_stocks": [],
-      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
-    },
-    {
-      "id": "79ee60168a6cb5f80cb3d0f7",
-      "title": "葉門叛軍：遭沙烏地新一輪空襲　通報約40起攻擊",
-      "url": "https://www.cna.com.tw/news/aopl/202609100192.aspx",
-      "source": "中央通訊社・國際",
-      "published_at": "2026-09-10T15:51:45+08:00",
-      "first_seen_at": "2026-09-10T19:52:17.990340+08:00",
-      "certainty": "媒體標題報導；未獨立查證",
-      "channels": [
-        {
-          "category": "衝突／航運",
-          "industry": "航運、物流、能源與出口產業",
-          "possible_benefit": "若供給受限推升運價，部分運輸商可能受益。",
-          "possible_risk": "繞航、保險、交期與燃料成本也可能增加。",
-          "verify_next": "核對事件是否已發生、航線曝險與實際成本，不把衝突直接當買進訊號。"
         }
       ],
       "beneficiary_stocks": [],
