@@ -500,7 +500,7 @@
     "name": "騰輝電子-KY",
     "entry_price": 304.0,
     "latest_price": 304.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-09-16"
@@ -511,7 +511,7 @@
     "name": "健鼎",
     "entry_price": 504.0,
     "latest_price": 504.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-09-16"
@@ -522,7 +522,7 @@
     "name": "精誠",
     "entry_price": 191.0,
     "latest_price": 191.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-09-16"

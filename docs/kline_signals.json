@@ -542,27 +542,82 @@
       {
         "code": "6515",
         "name": "穎崴",
-        "predicted_up_probability": 53.46666666666667
+        "predicted_up_probability": 53.46666666666667,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "7822",
         "name": "倍利科",
-        "predicted_up_probability": 53.06666666666666
+        "predicted_up_probability": 53.06666666666666,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "6669",
         "name": "緯穎",
-        "predicted_up_probability": 52.53333333333333
+        "predicted_up_probability": 52.53333333333333,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "7750",
         "name": "新代",
-        "predicted_up_probability": 52.4
+        "predicted_up_probability": 52.4,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "3653",
         "name": "健策",
-        "predicted_up_probability": 52.266666666666666
+        "predicted_up_probability": 52.266666666666666,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       }
     ]
   }
