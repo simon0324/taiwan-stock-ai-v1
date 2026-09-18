@@ -9,7 +9,12 @@
         "name": "創意",
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-15",
+            "exit_date": "2026-09-18",
+            "entry_price": 6035.0,
+            "exit_price": 7150.0,
+            "net_return_pct": 17.808616404308204
           },
           "4": {
             "status": "waiting"
@@ -24,7 +29,12 @@
         "name": "統一證",
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-15",
+            "exit_date": "2026-09-18",
+            "entry_price": 51.5,
+            "exit_price": 53.3,
+            "net_return_pct": 2.894987325538283
           },
           "4": {
             "status": "waiting"
@@ -39,7 +49,12 @@
         "name": "健鼎",
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-15",
+            "exit_date": "2026-09-18",
+            "entry_price": 490.5,
+            "exit_price": 518.0,
+            "net_return_pct": 4.996911766921257
           },
           "4": {
             "status": "waiting"
@@ -54,7 +69,12 @@
         "name": "瑞祺電通",
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-15",
+            "exit_date": "2026-09-18",
+            "entry_price": 118.0,
+            "exit_price": 120.0,
+            "net_return_pct": 1.1018952598469367
           },
           "4": {
             "status": "waiting"
@@ -69,7 +89,12 @@
         "name": "精誠",
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-15",
+            "exit_date": "2026-09-18",
+            "entry_price": 190.0,
+            "exit_price": 194.5,
+            "net_return_pct": 1.772932330827068
           },
           "4": {
             "status": "waiting"
@@ -86,7 +111,12 @@
         "name": "聯詠",
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-15",
+            "exit_date": "2026-09-18",
+            "entry_price": 541.0,
+            "exit_price": 558.0,
+            "net_return_pct": 2.5435988105762277
           },
           "4": {
             "status": "waiting"
@@ -101,7 +131,12 @@
         "name": "中華電",
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-15",
+            "exit_date": "2026-09-18",
+            "entry_price": 143.5,
+            "exit_price": 145.5,
+            "net_return_pct": 0.8031484220289273
           },
           "4": {
             "status": "waiting"
@@ -116,7 +151,12 @@
         "name": "億豐",
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-15",
+            "exit_date": "2026-09-18",
+            "entry_price": 382.0,
+            "exit_price": 370.0,
+            "net_return_pct": -3.7130649335018355
           },
           "4": {
             "status": "waiting"
@@ -131,7 +171,12 @@
         "name": "健鼎",
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-15",
+            "exit_date": "2026-09-18",
+            "entry_price": 490.5,
+            "exit_price": 518.0,
+            "net_return_pct": 4.996911766921257
           },
           "4": {
             "status": "waiting"
@@ -146,7 +191,12 @@
         "name": "天鈺",
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-15",
+            "exit_date": "2026-09-18",
+            "entry_price": 178.5,
+            "exit_price": 183.5,
+            "net_return_pct": 2.203815336510275
           },
           "4": {
             "status": "waiting"

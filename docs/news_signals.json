@@ -2625,5 +2625,481 @@
         "events": []
       }
     ]
+  },
+  {
+    "market_date": "2026-09-18",
+    "observed_at": "2026-09-18T19:52:01.647230+08:00",
+    "rules_version": "events-1",
+    "sources": [
+      {
+        "source": "證交所・公司重大訊息",
+        "status": "ok",
+        "invalid_rows": 0
+      },
+      {
+        "source": "中央通訊社・產經",
+        "status": "ok",
+        "invalid_rows": 0
+      },
+      {
+        "source": "中央通訊社・科技",
+        "status": "ok",
+        "invalid_rows": 0
+      }
+    ],
+    "original": [
+      {
+        "code": "6691",
+        "name": "洋基工程",
+        "price": 650.0,
+        "avg_value": 347143936.2,
+        "revenue": 213.69818881487726,
+        "eps": 17.46,
+        "foreign": 0,
+        "momentum": 6.732348111658459,
+        "volume_ratio": 2.4972196043215806,
+        "trend": 100.0,
+        "atr": 19.357142857142858,
+        "atr_pct": 2.978021978021978,
+        "news": 1,
+        "stable": 91.80760095011877,
+        "growth": 91.0,
+        "strong": 88.68408551068885,
+        "overall": 90.4972288202692,
+        "entry_low": 646.75,
+        "entry_high": 653.2499999999999,
+        "fixed_stop": 617.5,
+        "fixed_target": 702.0,
+        "dynamic_stop": 620.9642857142857,
+        "dynamic_target": 708.0714285714287,
+        "risk_flags": [
+          "一般"
+        ]
+      },
+      {
+        "code": "3443",
+        "name": "創意",
+        "price": 7150.0,
+        "avg_value": 11638832270.75,
+        "revenue": 111.0204372171911,
+        "eps": 23.89,
+        "foreign": 0,
+        "momentum": 16.830065359477132,
+        "volume_ratio": 1.6362091751987111,
+        "trend": 100.0,
+        "atr": 392.5,
+        "atr_pct": 5.489510489510489,
+        "news": 0,
+        "stable": 88.44418052256532,
+        "growth": 90.45130641330167,
+        "strong": 86.91211401425178,
+        "overall": 88.60253365003958,
+        "entry_low": 7114.25,
+        "entry_high": 7185.749999999999,
+        "fixed_stop": 6792.5,
+        "fixed_target": 7722.000000000001,
+        "dynamic_stop": 6561.25,
+        "dynamic_target": 8327.5,
+        "risk_flags": [
+          "波動偏高",
+          "短線漲幅偏大"
+        ]
+      },
+      {
+        "code": "3702",
+        "name": "大聯大",
+        "price": 114.5,
+        "avg_value": 1057776577.85,
+        "revenue": 80.45926827221638,
+        "eps": 8.42,
+        "foreign": 0,
+        "momentum": 7.511737089201875,
+        "volume_ratio": 1.6071649227244231,
+        "trend": 100.0,
+        "atr": 3.135714285714286,
+        "atr_pct": 2.7386150966936995,
+        "news": 1,
+        "stable": 84.4916864608076,
+        "growth": 84.91923990498813,
+        "strong": 83.10213776722091,
+        "overall": 84.1710213776722,
+        "entry_low": 113.9275,
+        "entry_high": 115.07249999999999,
+        "fixed_stop": 108.77499999999999,
+        "fixed_target": 123.66000000000001,
+        "dynamic_stop": 109.79642857142858,
+        "dynamic_target": 123.90714285714284,
+        "risk_flags": [
+          "一般"
+        ]
+      },
+      {
+        "code": "6196",
+        "name": "帆宣",
+        "price": 540.0,
+        "avg_value": 768201348.35,
+        "revenue": 83.88589994276812,
+        "eps": 13.26,
+        "foreign": 0,
+        "momentum": 5.675146771037176,
+        "volume_ratio": 1.4589863886692305,
+        "trend": 100.0,
+        "atr": 22.142857142857142,
+        "atr_pct": 4.1005291005291005,
+        "news": 0,
+        "stable": 85.0,
+        "growth": 85.42755344418052,
+        "strong": 80.58194774346794,
+        "overall": 83.66983372921615,
+        "entry_low": 537.3,
+        "entry_high": 542.6999999999999,
+        "fixed_stop": 513.0,
+        "fixed_target": 583.2,
+        "dynamic_stop": 506.7857142857143,
+        "dynamic_target": 606.4285714285714,
+        "risk_flags": [
+          "一般"
+        ]
+      },
+      {
+        "code": "7769",
+        "name": "鴻勁",
+        "price": 6540.0,
+        "avg_value": 5713576139.65,
+        "revenue": 91.58397305250298,
+        "eps": 56.14,
+        "foreign": 0,
+        "momentum": 3.645007923930277,
+        "volume_ratio": 3.7854582509028947,
+        "trend": 66.66666666666666,
+        "atr": 353.57142857142856,
+        "atr_pct": 5.406290956749673,
+        "news": 0,
+        "stable": 84.59224069675376,
+        "growth": 82.83847980997625,
+        "strong": 82.6880443388757,
+        "overall": 83.3729216152019,
+        "entry_low": 6507.3,
+        "entry_high": 6572.699999999999,
+        "fixed_stop": 6213.0,
+        "fixed_target": 7063.200000000001,
+        "dynamic_stop": 6009.642857142857,
+        "dynamic_target": 7600.714285714286,
+        "risk_flags": [
+          "波動偏高",
+          "爆量"
+        ]
+      }
+    ],
+    "message": [
+      {
+        "code": "6691",
+        "name": "洋基工程",
+        "original_score": 90.4972288202692,
+        "message_score": 50.0,
+        "score": 86.44750593824229,
+        "evidence_status": "未知／未達門檻",
+        "contributions": [
+          {
+            "category": "訂單",
+            "points": 0.0
+          },
+          {
+            "category": "新聞話題",
+            "points": 0.0
+          },
+          {
+            "category": "龍頭地位",
+            "points": 0.0
+          },
+          {
+            "category": "專利技術",
+            "points": 0.0
+          }
+        ],
+        "events": [
+          {
+            "id": "ff338c727ca3762cc815fdc8",
+            "code": "6691",
+            "title": "公告本公司受邀參加富邦綜合證券舉辦之法人說明會",
+            "published_at": "2026-09-17T15:19:09+08:00",
+            "first_seen_at": "2026-09-18T08:32:35.377850+08:00",
+            "source": "證交所・公司重大訊息",
+            "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+            "official": true,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+          }
+        ]
+      },
+      {
+        "code": "3443",
+        "name": "創意",
+        "original_score": 88.60253365003958,
+        "message_score": 50.0,
+        "score": 84.74228028503562,
+        "evidence_status": "未知／未達門檻",
+        "contributions": [
+          {
+            "category": "訂單",
+            "points": 0.0
+          },
+          {
+            "category": "新聞話題",
+            "points": 0.0
+          },
+          {
+            "category": "龍頭地位",
+            "points": 0.0
+          },
+          {
+            "category": "專利技術",
+            "points": 0.0
+          }
+        ],
+        "events": [
+          {
+            "id": "a64d370bda05d447c43d1d3a",
+            "code": "3443",
+            "title": "本公司受邀參加2026 BofA Asia Pacific Conference",
+            "published_at": "2026-09-10T14:16:57+08:00",
+            "first_seen_at": "2026-09-11T08:18:31.329595+08:00",
+            "source": "證交所・公司重大訊息",
+            "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+            "official": true,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+          },
+          {
+            "id": "d2c73aeb03273343066f13f8",
+            "code": "3443",
+            "title": "本公司受邀參加第一金證券法人論壇",
+            "published_at": "2026-09-10T14:16:22+08:00",
+            "first_seen_at": "2026-09-11T08:18:31.329595+08:00",
+            "source": "證交所・公司重大訊息",
+            "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+            "official": true,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+          },
+          {
+            "id": "58d38ed79b461886a3066832",
+            "code": "3443",
+            "title": "本公司受邀參加UBS Taiwan Summit 2026",
+            "published_at": "2026-09-10T14:15:54+08:00",
+            "first_seen_at": "2026-09-11T08:18:31.329595+08:00",
+            "source": "證交所・公司重大訊息",
+            "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+            "official": true,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+          }
+        ]
+      },
+      {
+        "code": "3702",
+        "name": "大聯大",
+        "original_score": 84.1710213776722,
+        "message_score": 50.0,
+        "score": 80.75391923990499,
+        "evidence_status": "未知／未達門檻",
+        "contributions": [
+          {
+            "category": "訂單",
+            "points": 0.0
+          },
+          {
+            "category": "新聞話題",
+            "points": 0.0
+          },
+          {
+            "category": "龍頭地位",
+            "points": 0.0
+          },
+          {
+            "category": "專利技術",
+            "points": 0.0
+          }
+        ],
+        "events": [
+          {
+            "id": "504845d2d12c072da4fdf226",
+            "code": "3702",
+            "title": "代子公司-世平興業(股)公司公告董事會決議\r\n115年第二季股利分派情形",
+            "published_at": "2026-09-17T17:11:47+08:00",
+            "first_seen_at": "2026-09-18T08:32:35.377850+08:00",
+            "source": "證交所・公司重大訊息",
+            "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+            "official": true,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+          },
+          {
+            "id": "c19ae837637e246b636d74a7",
+            "code": "3702",
+            "title": "代子公司振遠科技(股)公司依公開發行公司資金貸與及背書\r\n保證處理準則第二十五條第一項第三款公告",
+            "published_at": "2026-09-15T18:12:54+08:00",
+            "first_seen_at": "2026-09-16T08:35:57.247494+08:00",
+            "source": "證交所・公司重大訊息",
+            "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+            "official": true,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+          },
+          {
+            "id": "93c60a9b4fa09d41a1bc4c3c",
+            "code": "3702",
+            "title": "代子公司-友尚(股)公司、詮鼎科技(股)公司公告\r\n董事會決議115年第二季股利分派情形",
+            "published_at": "2026-09-15T14:59:20+08:00",
+            "first_seen_at": "2026-09-16T08:35:57.247494+08:00",
+            "source": "證交所・公司重大訊息",
+            "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+            "official": true,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+          },
+          {
+            "id": "aa88afdc0ea46b7db0937e40",
+            "code": "3702",
+            "title": "代子公司WPI INTERNATIONAL (HONG KONG) LIMITED\r\n公告例行性股東常會重要決議事項",
+            "published_at": "2026-09-15T14:58:58+08:00",
+            "first_seen_at": "2026-09-16T08:35:57.247494+08:00",
+            "source": "證交所・公司重大訊息",
+            "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+            "official": true,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+          },
+          {
+            "id": "52b042cf1c2743f9a558684a",
+            "code": "3702",
+            "title": "公告本公司受邀參加瑞銀證券(UBS)於9/15舉辦之UBS Taiwan Summit 2026",
+            "published_at": "2026-09-14T13:58:25+08:00",
+            "first_seen_at": "2026-09-15T08:45:42.818043+08:00",
+            "source": "證交所・公司重大訊息",
+            "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+            "official": true,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+          },
+          {
+            "id": "7f8903b538326c1406b9f5fd",
+            "code": "3702",
+            "title": "大聯大前8月營收1.06兆元年增逾6成　首度破兆",
+            "published_at": "2026-09-10T16:36:40+08:00",
+            "first_seen_at": "2026-09-10T19:52:15.257972+08:00",
+            "source": "中央通訊社・產經",
+            "url": "https://www.cna.com.tw/news/afe/202609100218.aspx",
+            "official": false,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+          },
+          {
+            "id": "d6d5334e53169f6c7bac5a8e",
+            "code": "3702",
+            "title": "公告本公司115年8月份自結合併營收",
+            "published_at": "2026-09-10T14:22:03+08:00",
+            "first_seen_at": "2026-09-11T08:18:31.329595+08:00",
+            "source": "證交所・公司重大訊息",
+            "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+            "official": true,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+          }
+        ]
+      },
+      {
+        "code": "6196",
+        "name": "帆宣",
+        "original_score": 83.66983372921615,
+        "message_score": 50.0,
+        "score": 80.30285035629454,
+        "evidence_status": "未知／未達門檻",
+        "contributions": [
+          {
+            "category": "訂單",
+            "points": 0.0
+          },
+          {
+            "category": "新聞話題",
+            "points": 0.0
+          },
+          {
+            "category": "龍頭地位",
+            "points": 0.0
+          },
+          {
+            "category": "專利技術",
+            "points": 0.0
+          }
+        ],
+        "events": []
+      },
+      {
+        "code": "7769",
+        "name": "鴻勁",
+        "original_score": 83.3729216152019,
+        "message_score": 50.0,
+        "score": 80.03562945368172,
+        "evidence_status": "未知／未達門檻",
+        "contributions": [
+          {
+            "category": "訂單",
+            "points": 0.0
+          },
+          {
+            "category": "新聞話題",
+            "points": 0.0
+          },
+          {
+            "category": "龍頭地位",
+            "points": 0.0
+          },
+          {
+            "category": "專利技術",
+            "points": 0.0
+          }
+        ],
+        "events": [
+          {
+            "id": "c7afda1479258cdc4437e6b5",
+            "code": "7769",
+            "title": "公告本公司受邀參加瑞銀證券(UBS)舉辦之UBS Taiwan Summit 2026",
+            "published_at": "2026-09-15T18:33:54+08:00",
+            "first_seen_at": "2026-09-16T08:35:57.247494+08:00",
+            "source": "證交所・公司重大訊息",
+            "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+            "official": true,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+          },
+          {
+            "id": "a4fc9632406ff5d2b49bde1a",
+            "code": "7769",
+            "title": "本公司代子公司Top Vintage International Ltd.公告取得固定收益證券",
+            "published_at": "2026-09-14T18:38:31+08:00",
+            "first_seen_at": "2026-09-15T08:45:42.818043+08:00",
+            "source": "證交所・公司重大訊息",
+            "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+            "official": true,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+          }
+        ]
+      }
+    ]
   }
 ]
