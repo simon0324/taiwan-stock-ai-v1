@@ -679,27 +679,82 @@
       {
         "code": "6515",
         "name": "穎崴",
-        "predicted_up_probability": 54.56733333333334
+        "predicted_up_probability": 54.56733333333334,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "3661",
         "name": "世芯-KY",
-        "predicted_up_probability": 53.536
+        "predicted_up_probability": 53.536,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "6531",
         "name": "愛普*",
-        "predicted_up_probability": 53.388666666666666
+        "predicted_up_probability": 53.388666666666666,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "2345",
         "name": "智邦",
-        "predicted_up_probability": 53.388666666666666
+        "predicted_up_probability": 53.388666666666666,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "6669",
         "name": "緯穎",
-        "predicted_up_probability": 53.094
+        "predicted_up_probability": 53.094,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       }
     ]
   }

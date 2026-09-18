@@ -533,7 +533,7 @@
     "name": "創意",
     "entry_price": 6500.0,
     "latest_price": 6500.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-09-17"
@@ -544,7 +544,7 @@
     "name": "文曄",
     "entry_price": 204.0,
     "latest_price": 204.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-09-17"
@@ -555,7 +555,7 @@
     "name": "研華",
     "entry_price": 686.0,
     "latest_price": 686.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-09-17"
