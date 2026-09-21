@@ -1,6 +1,6 @@
 {
   "rules_version": "global-rules-1",
-  "as_of": "2026-09-21T08:20:53.403789+08:00",
+  "as_of": "2026-09-21T21:23:32.152856+08:00",
   "sources": [
     {
       "source": "中央通訊社・國際",
@@ -14,6 +14,27 @@
     }
   ],
   "events": [
+    {
+      "id": "fabd586ac694686b84b81c7c",
+      "title": "汽車業關注美製車零關稅政策　估明年台灣車市小幅成長",
+      "url": "https://www.cna.com.tw/news/afe/202609210197.aspx",
+      "source": "中央通訊社・產經",
+      "published_at": "2026-09-21T17:16:15+08:00",
+      "first_seen_at": "2026-09-21T21:23:32.152856+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "關稅／貿易",
+          "industry": "出口製造、電子、機械",
+          "possible_benefit": "若關稅下降或訂單轉移，部分出口商可能受益。",
+          "possible_risk": "若成本提高且無法轉嫁，利潤可能承壓。",
+          "verify_next": "核對原產地、稅率、生效日與企業產地；不能將降稅與加稅視為同方向。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
     {
       "id": "56a1772403eb1404ebf632de",
       "title": "官方統計：中東戰爭期間伊朗經濟萎縮逾10%",
@@ -876,48 +897,6 @@
           "possible_benefit": "若能源售價上升且成本可控，部分上游企業可能受益。",
           "possible_risk": "若燃料成本提高，未避險的用能企業可能承壓。",
           "verify_next": "核對價格方向、持續性、庫存、避險與成本轉嫁，油價下跌時可能相反。"
-        }
-      ],
-      "beneficiary_stocks": [],
-      "adversely_affected_stocks": [],
-      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
-    },
-    {
-      "id": "def997273e51c89a047b22ba",
-      "title": "Fed利率決策與參院法案表決近　比特幣動能受關注",
-      "url": "https://www.cna.com.tw/news/aopl/202609140274.aspx",
-      "source": "中央通訊社・國際",
-      "published_at": "2026-09-14T21:07:26+08:00",
-      "first_seen_at": "2026-09-15T08:45:48.642602+08:00",
-      "certainty": "媒體標題報導；未獨立查證",
-      "channels": [
-        {
-          "category": "利率政策",
-          "industry": "金融、負債敏感與出口產業",
-          "possible_benefit": "若融資成本下降，負債敏感企業可能改善。",
-          "possible_risk": "若利差收窄或匯率不利，部分企業可能承壓。",
-          "verify_next": "核對實際決議與預期、幣別及企業負債結構。"
-        }
-      ],
-      "beneficiary_stocks": [],
-      "adversely_affected_stocks": [],
-      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
-    },
-    {
-      "id": "595da61fde8dea692e9a0f96",
-      "title": "葉門叛軍挺進紅海改變權力平衡　波灣國家面臨艱難抉擇",
-      "url": "https://www.cna.com.tw/news/aopl/202609140159.aspx",
-      "source": "中央通訊社・國際",
-      "published_at": "2026-09-14T15:52:16+08:00",
-      "first_seen_at": "2026-09-14T21:23:51.662219+08:00",
-      "certainty": "媒體標題報導；未獨立查證",
-      "channels": [
-        {
-          "category": "衝突／航運",
-          "industry": "航運、物流、能源與出口產業",
-          "possible_benefit": "若供給受限推升運價，部分運輸商可能受益。",
-          "possible_risk": "繞航、保險、交期與燃料成本也可能增加。",
-          "verify_next": "核對事件是否已發生、航線曝險與實際成本，不把衝突直接當買進訊號。"
         }
       ],
       "beneficiary_stocks": [],
