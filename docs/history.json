@@ -566,7 +566,7 @@
     "name": "洋基工程",
     "entry_price": 650.0,
     "latest_price": 650.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-09-18"
@@ -577,7 +577,7 @@
     "name": "創意",
     "entry_price": 7150.0,
     "latest_price": 7150.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-09-18"
@@ -588,7 +588,7 @@
     "name": "大聯大",
     "entry_price": 114.5,
     "latest_price": 114.5,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-09-18"
@@ -599,7 +599,7 @@
     "name": "帆宣",
     "entry_price": 540.0,
     "latest_price": 540.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-09-18"
@@ -610,7 +610,7 @@
     "name": "鴻勁",
     "entry_price": 6540.0,
     "latest_price": 6540.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-09-18"

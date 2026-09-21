@@ -1,6 +1,6 @@
 {
   "rules_version": "global-rules-1",
-  "as_of": "2026-09-18T19:52:05.453712+08:00",
+  "as_of": "2026-09-21T08:20:53.403789+08:00",
   "sources": [
     {
       "source": "中央通訊社・國際",
@@ -14,6 +14,111 @@
     }
   ],
   "events": [
+    {
+      "id": "56a1772403eb1404ebf632de",
+      "title": "官方統計：中東戰爭期間伊朗經濟萎縮逾10%",
+      "url": "https://www.cna.com.tw/news/aopl/202609210009.aspx",
+      "source": "中央通訊社・國際",
+      "published_at": "2026-09-21T05:35:22+08:00",
+      "first_seen_at": "2026-09-21T08:20:53.403789+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "衝突／航運",
+          "industry": "航運、物流、能源與出口產業",
+          "possible_benefit": "若供給受限推升運價，部分運輸商可能受益。",
+          "possible_risk": "繞航、保險、交期與燃料成本也可能增加。",
+          "verify_next": "核對事件是否已發生、航線曝險與實際成本，不把衝突直接當買進訊號。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
+    {
+      "id": "b377b69638c70338d9d7a514",
+      "title": "伊朗：已就重新開放荷莫茲海峽向美方傳達條件",
+      "url": "https://www.cna.com.tw/news/aopl/202609210004.aspx",
+      "source": "中央通訊社・國際",
+      "published_at": "2026-09-21T02:10:08+08:00",
+      "first_seen_at": "2026-09-21T08:20:53.403789+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "衝突／航運",
+          "industry": "航運、物流、能源與出口產業",
+          "possible_benefit": "若供給受限推升運價，部分運輸商可能受益。",
+          "possible_risk": "繞航、保險、交期與燃料成本也可能增加。",
+          "verify_next": "核對事件是否已發生、航線曝險與實際成本，不把衝突直接當買進訊號。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
+    {
+      "id": "b226fba78c40d07e79a46088",
+      "title": "中東戰爭推升能源成本　法國柴油均價再創歷史新高",
+      "url": "https://www.cna.com.tw/news/aopl/202609200206.aspx",
+      "source": "中央通訊社・國際",
+      "published_at": "2026-09-20T21:33:19+08:00",
+      "first_seen_at": "2026-09-21T08:20:53.403789+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "衝突／航運",
+          "industry": "航運、物流、能源與出口產業",
+          "possible_benefit": "若供給受限推升運價，部分運輸商可能受益。",
+          "possible_risk": "繞航、保險、交期與燃料成本也可能增加。",
+          "verify_next": "核對事件是否已發生、航線曝險與實際成本，不把衝突直接當買進訊號。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
+    {
+      "id": "b7b805d12f502c55d1adb475",
+      "title": "台塑石化：21日油價不調整",
+      "url": "https://www.cna.com.tw/news/afe/202609200096.aspx",
+      "source": "中央通訊社・產經",
+      "published_at": "2026-09-20T14:06:16+08:00",
+      "first_seen_at": "2026-09-21T08:20:53.403789+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "能源供應",
+          "industry": "能源、石化、航空與運輸",
+          "possible_benefit": "若能源售價上升且成本可控，部分上游企業可能受益。",
+          "possible_risk": "若燃料成本提高，未避險的用能企業可能承壓。",
+          "verify_next": "核對價格方向、持續性、庫存、避險與成本轉嫁，油價下跌時可能相反。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
+    {
+      "id": "1b948c02d022c7c23ba24b92",
+      "title": "中油：21日起汽柴油價格不調整　95無鉛維持32.7元",
+      "url": "https://www.cna.com.tw/news/ahel/202609190175.aspx",
+      "source": "中央通訊社・產經",
+      "published_at": "2026-09-19T17:16:16+08:00",
+      "first_seen_at": "2026-09-21T08:20:53.403789+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "能源供應",
+          "industry": "能源、石化、航空與運輸",
+          "possible_benefit": "若能源售價上升且成本可控，部分上游企業可能受益。",
+          "possible_risk": "若燃料成本提高，未避險的用能企業可能承壓。",
+          "verify_next": "核對價格方向、持續性、庫存、避險與成本轉嫁，油價下跌時可能相反。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
     {
       "id": "31881b3ca00d8de8e2597648",
       "title": "油價回落緩解通膨疑慮  亞股追隨美股多收紅",
@@ -813,90 +918,6 @@
           "possible_benefit": "若供給受限推升運價，部分運輸商可能受益。",
           "possible_risk": "繞航、保險、交期與燃料成本也可能增加。",
           "verify_next": "核對事件是否已發生、航線曝險與實際成本，不把衝突直接當買進訊號。"
-        }
-      ],
-      "beneficiary_stocks": [],
-      "adversely_affected_stocks": [],
-      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
-    },
-    {
-      "id": "bb8a14186daa9a721f666e00",
-      "title": "阿曼：伊朗與波灣國家荷莫茲海峽會談延期",
-      "url": "https://www.cna.com.tw/news/aopl/202609140008.aspx",
-      "source": "中央通訊社・國際",
-      "published_at": "2026-09-14T04:57:41+08:00",
-      "first_seen_at": "2026-09-14T08:18:49.316918+08:00",
-      "certainty": "媒體標題報導；未獨立查證",
-      "channels": [
-        {
-          "category": "衝突／航運",
-          "industry": "航運、物流、能源與出口產業",
-          "possible_benefit": "若供給受限推升運價，部分運輸商可能受益。",
-          "possible_risk": "繞航、保險、交期與燃料成本也可能增加。",
-          "verify_next": "核對事件是否已發生、航線曝險與實際成本，不把衝突直接當買進訊號。"
-        }
-      ],
-      "beneficiary_stocks": [],
-      "adversely_affected_stocks": [],
-      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
-    },
-    {
-      "id": "ac2593fe55411528e2dcf4f9",
-      "title": "聯準會決策前夕　川普：美國利率應該全球最低",
-      "url": "https://www.cna.com.tw/news/aopl/202609140004.aspx",
-      "source": "中央通訊社・國際",
-      "published_at": "2026-09-14T02:44:25+08:00",
-      "first_seen_at": "2026-09-14T08:18:49.316918+08:00",
-      "certainty": "媒體標題報導；未獨立查證",
-      "channels": [
-        {
-          "category": "利率政策",
-          "industry": "金融、負債敏感與出口產業",
-          "possible_benefit": "若融資成本下降，負債敏感企業可能改善。",
-          "possible_risk": "若利差收窄或匯率不利，部分企業可能承壓。",
-          "verify_next": "核對實際決議與預期、幣別及企業負債結構。"
-        }
-      ],
-      "beneficiary_stocks": [],
-      "adversely_affected_stocks": [],
-      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
-    },
-    {
-      "id": "c023a2e523fa4ced108abe97",
-      "title": "油價飆漲通膨壓力籠罩　全球主要央行今年決策一次看",
-      "url": "https://www.cna.com.tw/news/aopl/202609130127.aspx",
-      "source": "中央通訊社・產經",
-      "published_at": "2026-09-13T17:10:15+08:00",
-      "first_seen_at": "2026-09-14T08:18:49.316918+08:00",
-      "certainty": "媒體標題報導；未獨立查證",
-      "channels": [
-        {
-          "category": "能源供應",
-          "industry": "能源、石化、航空與運輸",
-          "possible_benefit": "若能源售價上升且成本可控，部分上游企業可能受益。",
-          "possible_risk": "若燃料成本提高，未避險的用能企業可能承壓。",
-          "verify_next": "核對價格方向、持續性、庫存、避險與成本轉嫁，油價下跌時可能相反。"
-        }
-      ],
-      "beneficiary_stocks": [],
-      "adversely_affected_stocks": [],
-      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
-    },
-    {
-      "id": "5b8ca6afb943373eb29af97b",
-      "title": "美國聯準會將召開利率會議　華許公信力面臨考驗",
-      "url": "https://www.cna.com.tw/news/aopl/202609130103.aspx",
-      "source": "中央通訊社・產經",
-      "published_at": "2026-09-13T15:30:23+08:00",
-      "first_seen_at": "2026-09-14T08:18:49.316918+08:00",
-      "certainty": "媒體標題報導；未獨立查證",
-      "channels": [
-        {
-          "category": "利率政策",
-          "industry": "金融、負債敏感與出口產業",
-          "possible_benefit": "若融資成本下降，負債敏感企業可能改善。",
-          "possible_risk": "若利差收窄或匯率不利，部分企業可能承壓。",
-          "verify_next": "核對實際決議與預期、幣別及企業負債結構。"
         }
       ],
       "beneficiary_stocks": [],

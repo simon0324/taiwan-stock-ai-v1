@@ -1,7 +1,7 @@
 {
   "rules_version": "beneficiary-1",
   "market_date": "2026-09-18",
-  "as_of": "2026-09-18T19:52:54.674006+08:00",
+  "as_of": "2026-09-21T08:21:35.587741+08:00",
   "ranking": [
     {
       "code": "3711",
@@ -15,7 +15,7 @@
       "source": "https://ase.aseglobal.com/VIPack/",
       "components": {
         "evidence": 85,
-        "quality": 73.87173396674584,
+        "quality": 73.75296912114014,
         "pullback": 55.0,
         "reversal": 66.66666666666666,
         "foreign": null
@@ -23,7 +23,7 @@
       "drawdown_20d_pct": -1.8461538461538418,
       "revenue_yoy_pct": 45.65918579706578,
       "eps": 8.04,
-      "observation_score": 72.83474091668866,
+      "observation_score": 72.80175068179818,
       "foreign_data_available": false
     },
     {
@@ -37,7 +37,7 @@
       "source": "https://www.kinik.com.tw/",
       "components": {
         "evidence": 65,
-        "quality": 63.18289786223278,
+        "quality": 63.064133016627075,
         "pullback": 55.0,
         "reversal": 100.0,
         "foreign": null
@@ -45,7 +45,7 @@
       "drawdown_20d_pct": 0.0,
       "revenue_yoy_pct": 30.37794617921122,
       "eps": 6.44,
-      "observation_score": 70.60636051728689,
+      "observation_score": 70.57337028239641,
       "foreign_data_available": false
     },
     {
@@ -60,7 +60,7 @@
       "source": "https://www.kyec.com.tw/Upfiles/EDUp/files/%E8%82%A1%E6%9D%B1%E6%9C%83/20250527%E8%AD%B0%E4%BA%8B%E9%8C%84%28%E8%8B%B1%E6%96%87AGM%29.pdf",
       "components": {
         "evidence": 90,
-        "quality": 56.76959619952494,
+        "quality": 56.650831353919244,
         "pullback": 55.0,
         "reversal": 66.66666666666666,
         "foreign": null
@@ -68,7 +68,7 @@
       "drawdown_20d_pct": 0.0,
       "revenue_yoy_pct": 31.577957840545338,
       "eps": 3.91,
-      "observation_score": 69.75081375912728,
+      "observation_score": 69.71782352423683,
       "foreign_data_available": false
     },
     {
@@ -83,7 +83,7 @@
       "source": "https://investoredu.twse.com.tw/FileSystem/FileUpload/101afb1f-e736-40f2-a62a-95864b34b35f.pdf",
       "components": {
         "evidence": 80,
-        "quality": 80.52256532066508,
+        "quality": 80.40380047505938,
         "pullback": 65.0,
         "reversal": 33.33333333333333,
         "foreign": null
@@ -91,7 +91,7 @@
       "drawdown_20d_pct": -16.86440677966101,
       "revenue_yoy_pct": 56.25723917867715,
       "eps": 11.7,
-      "observation_score": 67.27478666314771,
+      "observation_score": 67.24179642825723,
       "foreign_data_available": false
     },
     {
@@ -105,7 +105,7 @@
       "source": "https://www.twse.com.tw/staticFiles/news/event/ff808081786812360178c8ed241a0132.pdf",
       "components": {
         "evidence": 75,
-        "quality": 59.50118764845606,
+        "quality": 59.38242280285036,
         "pullback": 100.0,
         "reversal": 33.33333333333333,
         "foreign": null
@@ -113,7 +113,7 @@
       "drawdown_20d_pct": -9.184993531694696,
       "revenue_yoy_pct": 18.057239217229007,
       "eps": 9.16,
-      "observation_score": 65.60218175420076,
+      "observation_score": 65.56919151931028,
       "foreign_data_available": false
     },
     {
@@ -149,7 +149,7 @@
       "source": "https://www.pti.com.tw/",
       "components": {
         "evidence": 60,
-        "quality": 57.71971496437055,
+        "quality": 57.60095011876484,
         "pullback": 55.0,
         "reversal": 33.33333333333333,
         "foreign": null
@@ -157,7 +157,7 @@
       "drawdown_20d_pct": -1.0452961672473893,
       "revenue_yoy_pct": 24.459768182447533,
       "eps": 5.5,
-      "observation_score": 52.60732823084367,
+      "observation_score": 52.574337995953194,
       "foreign_data_available": false
     }
   ],

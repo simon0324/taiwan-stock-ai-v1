@@ -841,27 +841,82 @@
       {
         "code": "6669",
         "name": "緯穎",
-        "predicted_up_probability": 52.903999999999996
+        "predicted_up_probability": 52.903999999999996,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "2383",
         "name": "台光電",
-        "predicted_up_probability": 52.742666666666665
+        "predicted_up_probability": 52.742666666666665,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "6446",
         "name": "藥華藥",
-        "predicted_up_probability": 51.936
+        "predicted_up_probability": 51.936,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "6834",
         "name": "天二科技",
-        "predicted_up_probability": 51.61333333333333
+        "predicted_up_probability": 51.61333333333333,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "2489",
         "name": "瑞軒",
-        "predicted_up_probability": 51.452
+        "predicted_up_probability": 51.452,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       }
     ]
   }
