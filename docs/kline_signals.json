@@ -1003,27 +1003,82 @@
       {
         "code": "7711",
         "name": "永擎",
-        "predicted_up_probability": 52.980666666666664
+        "predicted_up_probability": 52.980666666666664,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "6515",
         "name": "穎崴",
-        "predicted_up_probability": 52.80533333333334
+        "predicted_up_probability": 52.80533333333334,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "6669",
         "name": "緯穎",
-        "predicted_up_probability": 51.75333333333333
+        "predicted_up_probability": 51.75333333333333,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "2383",
         "name": "台光電",
-        "predicted_up_probability": 51.75333333333333
+        "predicted_up_probability": 51.75333333333333,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "1709",
         "name": "和益",
-        "predicted_up_probability": 51.40266666666667
+        "predicted_up_probability": 51.40266666666667,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       }
     ]
   }

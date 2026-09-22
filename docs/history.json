@@ -246,8 +246,8 @@
     "code": "8996",
     "name": "高力",
     "entry_price": 1240.0,
-    "latest_price": 1235.0,
-    "return_pct": -0.40322580645161255,
+    "latest_price": 1505.0,
+    "return_pct": 21.370967741935477,
     "age": 5,
     "status": "已完成",
     "last_update": "2026-09-21"
@@ -621,7 +621,7 @@
     "name": "創意",
     "entry_price": 7615.0,
     "latest_price": 7615.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-09-21"
@@ -632,7 +632,7 @@
     "name": "統一證",
     "entry_price": 57.3,
     "latest_price": 57.3,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-09-21"
@@ -643,7 +643,7 @@
     "name": "洋基工程",
     "entry_price": 632.0,
     "latest_price": 632.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-09-21"
@@ -654,7 +654,7 @@
     "name": "致茂",
     "entry_price": 2375.0,
     "latest_price": 2375.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-09-21"
@@ -665,7 +665,7 @@
     "name": "文曄",
     "entry_price": 206.5,
     "latest_price": 206.5,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-09-21"
