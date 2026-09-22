@@ -1,6 +1,6 @@
 {
   "rules_version": "global-rules-1",
-  "as_of": "2026-09-22T08:59:05.944248+08:00",
+  "as_of": "2026-09-22T20:04:11.756611+08:00",
   "sources": [
     {
       "source": "中央通訊社・國際",
@@ -14,6 +14,90 @@
     }
   ],
   "events": [
+    {
+      "id": "5c18f4b48539e5304485b21e",
+      "title": "葉門戰火再起釀154死　恐逾萬人跨紅海逃往吉布地",
+      "url": "https://www.cna.com.tw/news/aopl/202609220290.aspx",
+      "source": "中央通訊社・國際",
+      "published_at": "2026-09-22T18:53:50+08:00",
+      "first_seen_at": "2026-09-22T20:04:11.756611+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "衝突／航運",
+          "industry": "航運、物流、能源與出口產業",
+          "possible_benefit": "若供給受限推升運價，部分運輸商可能受益。",
+          "possible_risk": "繞航、保險、交期與燃料成本也可能增加。",
+          "verify_next": "核對事件是否已發生、航線曝險與實際成本，不把衝突直接當買進訊號。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
+    {
+      "id": "247616636cbee81403614412",
+      "title": "伊朗拋橄欖枝：美降軍事壓力　7天內重開荷莫茲海峽",
+      "url": "https://www.cna.com.tw/news/aopl/202609220274.aspx",
+      "source": "中央通訊社・國際",
+      "published_at": "2026-09-22T18:01:15+08:00",
+      "first_seen_at": "2026-09-22T20:04:11.756611+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "衝突／航運",
+          "industry": "航運、物流、能源與出口產業",
+          "possible_benefit": "若供給受限推升運價，部分運輸商可能受益。",
+          "possible_risk": "繞航、保險、交期與燃料成本也可能增加。",
+          "verify_next": "核對事件是否已發生、航線曝險與實際成本，不把衝突直接當買進訊號。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
+    {
+      "id": "ba77256be6a8831b27223616",
+      "title": "馬克宏會晤川普　聚焦紅海局勢與烏克蘭能源停火",
+      "url": "https://www.cna.com.tw/news/aopl/202609220161.aspx",
+      "source": "中央通訊社・國際",
+      "published_at": "2026-09-22T14:07:10+08:00",
+      "first_seen_at": "2026-09-22T20:04:11.756611+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "衝突／航運",
+          "industry": "航運、物流、能源與出口產業",
+          "possible_benefit": "若供給受限推升運價，部分運輸商可能受益。",
+          "possible_risk": "繞航、保險、交期與燃料成本也可能增加。",
+          "verify_next": "核對事件是否已發生、航線曝險與實際成本，不把衝突直接當買進訊號。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
+    {
+      "id": "867f262ca93cfb1a33ce6f8d",
+      "title": "伊朗外長抵紐約出席聯大　戰爭爆發後訪美最高層官員",
+      "url": "https://www.cna.com.tw/news/aopl/202609220120.aspx",
+      "source": "中央通訊社・國際",
+      "published_at": "2026-09-22T12:46:40+08:00",
+      "first_seen_at": "2026-09-22T20:04:11.756611+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "衝突／航運",
+          "industry": "航運、物流、能源與出口產業",
+          "possible_benefit": "若供給受限推升運價，部分運輸商可能受益。",
+          "possible_risk": "繞航、保險、交期與燃料成本也可能增加。",
+          "verify_next": "核對事件是否已發生、航線曝險與實際成本，不把衝突直接當買進訊號。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
     {
       "id": "1b3eec4c14fa0fcfdb223f2f",
       "title": "國際油價重跌　美股收漲那斯達克指數創歷史新高",
@@ -841,48 +925,6 @@
           "possible_benefit": "若能源售價上升且成本可控，部分上游企業可能受益。",
           "possible_risk": "若燃料成本提高，未避險的用能企業可能承壓。",
           "verify_next": "核對價格方向、持續性、庫存、避險與成本轉嫁，油價下跌時可能相反。"
-        }
-      ],
-      "beneficiary_stocks": [],
-      "adversely_affected_stocks": [],
-      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
-    },
-    {
-      "id": "c89ed9f052f7808cf0773f02",
-      "title": "油價續漲亞股收盤全倒　美債殖利率破5%衝上19年新高",
-      "url": "https://www.cna.com.tw/news/afe/202609150280.aspx",
-      "source": "中央通訊社・產經",
-      "published_at": "2026-09-15T18:07:29+08:00",
-      "first_seen_at": "2026-09-15T20:10:47.293272+08:00",
-      "certainty": "媒體標題報導；未獨立查證",
-      "channels": [
-        {
-          "category": "能源供應",
-          "industry": "能源、石化、航空與運輸",
-          "possible_benefit": "若能源售價上升且成本可控，部分上游企業可能受益。",
-          "possible_risk": "若燃料成本提高，未避險的用能企業可能承壓。",
-          "verify_next": "核對價格方向、持續性、庫存、避險與成本轉嫁，油價下跌時可能相反。"
-        }
-      ],
-      "beneficiary_stocks": [],
-      "adversely_affected_stocks": [],
-      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
-    },
-    {
-      "id": "c75fa76ed3637459379cf464",
-      "title": "美調整對加新關稅範圍　新增起司摩托艇等正式生效",
-      "url": "https://www.cna.com.tw/news/aopl/202609150190.aspx",
-      "source": "中央通訊社・國際",
-      "published_at": "2026-09-15T15:43:15+08:00",
-      "first_seen_at": "2026-09-15T20:10:47.293272+08:00",
-      "certainty": "媒體標題報導；未獨立查證",
-      "channels": [
-        {
-          "category": "關稅／貿易",
-          "industry": "出口製造、電子、機械",
-          "possible_benefit": "若關稅下降或訂單轉移，部分出口商可能受益。",
-          "possible_risk": "若成本提高且無法轉嫁，利潤可能承壓。",
-          "verify_next": "核對原產地、稅率、生效日與企業產地；不能將降稅與加稅視為同方向。"
         }
       ],
       "beneficiary_stocks": [],
