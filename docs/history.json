@@ -676,7 +676,7 @@
     "name": "致茂",
     "entry_price": 2440.0,
     "latest_price": 2440.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-09-22"
@@ -687,7 +687,7 @@
     "name": "高力",
     "entry_price": 1655.0,
     "latest_price": 1655.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-09-22"
@@ -698,7 +698,7 @@
     "name": "統一證",
     "entry_price": 56.9,
     "latest_price": 56.9,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-09-22"
@@ -709,7 +709,7 @@
     "name": "健鼎",
     "entry_price": 539.0,
     "latest_price": 539.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-09-22"
@@ -720,7 +720,7 @@
     "name": "洋基工程",
     "entry_price": 635.0,
     "latest_price": 635.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-09-22"

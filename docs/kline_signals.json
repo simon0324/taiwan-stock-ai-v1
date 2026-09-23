@@ -1165,27 +1165,82 @@
       {
         "code": "6669",
         "name": "緯穎",
-        "predicted_up_probability": 57.76266666666667
+        "predicted_up_probability": 57.76266666666667,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "1727",
         "name": "中華化",
-        "predicted_up_probability": 53.218666666666664
+        "predicted_up_probability": 53.218666666666664,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "7711",
         "name": "永擎",
-        "predicted_up_probability": 53.218666666666664
+        "predicted_up_probability": 53.218666666666664,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "2033",
         "name": "佳大",
-        "predicted_up_probability": 53.029333333333334
+        "predicted_up_probability": 53.029333333333334,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "1560",
         "name": "中砂",
-        "predicted_up_probability": 51.704
+        "predicted_up_probability": 51.704,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       }
     ]
   }
