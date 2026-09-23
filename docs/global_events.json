@@ -1,6 +1,6 @@
 {
   "rules_version": "global-rules-1",
-  "as_of": "2026-09-23T08:47:17.766839+08:00",
+  "as_of": "2026-09-23T20:15:23.951155+08:00",
   "sources": [
     {
       "source": "中央通訊社・國際",
@@ -14,6 +14,27 @@
     }
   ],
   "events": [
+    {
+      "id": "e7b1b71c809239ec9174571f",
+      "title": "川普稱美伊會談油價應聲下跌　亞股走勢不一",
+      "url": "https://www.cna.com.tw/news/afe/202609230288.aspx",
+      "source": "中央通訊社・產經",
+      "published_at": "2026-09-23T18:02:59+08:00",
+      "first_seen_at": "2026-09-23T20:15:23.951155+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "能源供應",
+          "industry": "能源、石化、航空與運輸",
+          "possible_benefit": "若能源售價上升且成本可控，部分上游企業可能受益。",
+          "possible_risk": "若燃料成本提高，未避險的用能企業可能承壓。",
+          "verify_next": "核對價格方向、持續性、庫存、避險與成本轉嫁，油價下跌時可能相反。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
     {
       "id": "a199c6b7cb312417e274a48f",
       "title": "義大利道路業年度大展　聚焦數位化、環保、油價衝擊",
@@ -862,48 +883,6 @@
           "possible_benefit": "若能源售價上升且成本可控，部分上游企業可能受益。",
           "possible_risk": "若燃料成本提高，未避險的用能企業可能承壓。",
           "verify_next": "核對價格方向、持續性、庫存、避險與成本轉嫁，油價下跌時可能相反。"
-        }
-      ],
-      "beneficiary_stocks": [],
-      "adversely_affected_stocks": [],
-      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
-    },
-    {
-      "id": "c9f305b07417a0500c73fd65",
-      "title": "原油價格飆升　日本8月貿易逆差逾1.1兆日圓",
-      "url": "https://www.cna.com.tw/news/aopl/202609160261.aspx",
-      "source": "中央通訊社・國際",
-      "published_at": "2026-09-16T17:17:08+08:00",
-      "first_seen_at": "2026-09-16T20:06:17.997591+08:00",
-      "certainty": "媒體標題報導；未獨立查證",
-      "channels": [
-        {
-          "category": "能源供應",
-          "industry": "能源、石化、航空與運輸",
-          "possible_benefit": "若能源售價上升且成本可控，部分上游企業可能受益。",
-          "possible_risk": "若燃料成本提高，未避險的用能企業可能承壓。",
-          "verify_next": "核對價格方向、持續性、庫存、避險與成本轉嫁，油價下跌時可能相反。"
-        }
-      ],
-      "beneficiary_stocks": [],
-      "adversely_affected_stocks": [],
-      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
-    },
-    {
-      "id": "245595f262a7a30a6e55a4f2",
-      "title": "伊朗企圖奪無人艇　美軍荷莫茲海峽開火摧毀2小船",
-      "url": "https://www.cna.com.tw/news/aopl/202609160191.aspx",
-      "source": "中央通訊社・國際",
-      "published_at": "2026-09-16T15:18:37+08:00",
-      "first_seen_at": "2026-09-16T20:06:17.997591+08:00",
-      "certainty": "媒體標題報導；未獨立查證",
-      "channels": [
-        {
-          "category": "衝突／航運",
-          "industry": "航運、物流、能源與出口產業",
-          "possible_benefit": "若供給受限推升運價，部分運輸商可能受益。",
-          "possible_risk": "繞航、保險、交期與燃料成本也可能增加。",
-          "verify_next": "核對事件是否已發生、航線曝險與實際成本，不把衝突直接當買進訊號。"
         }
       ],
       "beneficiary_stocks": [],
