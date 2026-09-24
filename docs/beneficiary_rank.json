@@ -1,7 +1,7 @@
 {
   "rules_version": "beneficiary-1",
   "market_date": "2026-09-23",
-  "as_of": "2026-09-23T20:15:51.955278+08:00",
+  "as_of": "2026-09-24T08:39:41.270342+08:00",
   "ranking": [
     {
       "code": "3037",
@@ -149,7 +149,7 @@
       "source": "https://www.twse.com.tw/staticFiles/news/event/ff808081786812360178c8ed241a0132.pdf",
       "components": {
         "evidence": 75,
-        "quality": 59.69626168224299,
+        "quality": 59.813084112149525,
         "pullback": 100.0,
         "reversal": 33.33333333333333,
         "foreign": null
@@ -157,7 +157,7 @@
       "drawdown_20d_pct": -10.60802069857697,
       "revenue_yoy_pct": 18.057239217229007,
       "eps": 9.16,
-      "observation_score": 65.65636898580824,
+      "observation_score": 65.68881966078227,
       "foreign_data_available": false
     }
   ],

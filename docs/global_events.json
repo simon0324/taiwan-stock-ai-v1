@@ -1,6 +1,6 @@
 {
   "rules_version": "global-rules-1",
-  "as_of": "2026-09-23T20:15:23.951155+08:00",
+  "as_of": "2026-09-24T08:39:09.955311+08:00",
   "sources": [
     {
       "source": "中央通訊社・國際",
@@ -14,6 +14,90 @@
     }
   ],
   "events": [
+    {
+      "id": "d2e2cfdfffd9d888bbc72b71",
+      "title": "國際油價走高　布倫特原油回升至100美元以上",
+      "url": "https://www.cna.com.tw/news/afe/202609240016.aspx",
+      "source": "中央通訊社・產經",
+      "published_at": "2026-09-24T04:57:40+08:00",
+      "first_seen_at": "2026-09-24T08:39:09.955311+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "能源供應",
+          "industry": "能源、石化、航空與運輸",
+          "possible_benefit": "若能源售價上升且成本可控，部分上游企業可能受益。",
+          "possible_risk": "若燃料成本提高，未避險的用能企業可能承壓。",
+          "verify_next": "核對價格方向、持續性、庫存、避險與成本轉嫁，油價下跌時可能相反。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
+    {
+      "id": "faaf3072315088a467f19635",
+      "title": "國際油價與美債殖利率齊揚　美股收低",
+      "url": "https://www.cna.com.tw/news/afe/202609240015.aspx",
+      "source": "中央通訊社・產經",
+      "published_at": "2026-09-24T04:47:38+08:00",
+      "first_seen_at": "2026-09-24T08:39:09.955311+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "能源供應",
+          "industry": "能源、石化、航空與運輸",
+          "possible_benefit": "若能源售價上升且成本可控，部分上游企業可能受益。",
+          "possible_risk": "若燃料成本提高，未避險的用能企業可能承壓。",
+          "verify_next": "核對價格方向、持續性、庫存、避險與成本轉嫁，油價下跌時可能相反。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
+    {
+      "id": "95a06c11c4c4f25fcde98560",
+      "title": "澤倫斯基：普丁動用47國戰士投入俄烏戰爭",
+      "url": "https://www.cna.com.tw/news/aopl/202609240011.aspx",
+      "source": "中央通訊社・國際",
+      "published_at": "2026-09-24T03:10:28+08:00",
+      "first_seen_at": "2026-09-24T08:39:09.955311+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "衝突／航運",
+          "industry": "航運、物流、能源與出口產業",
+          "possible_benefit": "若供給受限推升運價，部分運輸商可能受益。",
+          "possible_risk": "繞航、保險、交期與燃料成本也可能增加。",
+          "verify_next": "核對事件是否已發生、航線曝險與實際成本，不把衝突直接當買進訊號。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
+    {
+      "id": "81cd60ada7906bafafe6bef7",
+      "title": "市場評估美伊協議可能性　歐股收跌油價走高",
+      "url": "https://www.cna.com.tw/news/afe/202609240003.aspx",
+      "source": "中央通訊社・產經",
+      "published_at": "2026-09-24T00:30:08+08:00",
+      "first_seen_at": "2026-09-24T08:39:09.955311+08:00",
+      "certainty": "推測／待確認",
+      "channels": [
+        {
+          "category": "能源供應",
+          "industry": "能源、石化、航空與運輸",
+          "possible_benefit": "若能源售價上升且成本可控，部分上游企業可能受益。",
+          "possible_risk": "若燃料成本提高，未避險的用能企業可能承壓。",
+          "verify_next": "核對價格方向、持續性、庫存、避險與成本轉嫁，油價下跌時可能相反。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
     {
       "id": "e7b1b71c809239ec9174571f",
       "title": "川普稱美伊會談油價應聲下跌　亞股走勢不一",
@@ -645,244 +729,6 @@
           "possible_benefit": "若融資成本下降，負債敏感企業可能改善。",
           "possible_risk": "若利差收窄或匯率不利，部分企業可能承壓。",
           "verify_next": "核對實際決議與預期、幣別及企業負債結構。"
-        }
-      ],
-      "beneficiary_stocks": [],
-      "adversely_affected_stocks": [],
-      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
-    },
-    {
-      "id": "a44c7b7701639011bdb6806f",
-      "title": "聯準會升息1碼　川普籲利率降至1%以下",
-      "url": "https://www.cna.com.tw/news/aopl/202609170016.aspx",
-      "source": "中央通訊社・國際",
-      "published_at": "2026-09-17T05:45:17+08:00",
-      "first_seen_at": "2026-09-17T08:44:29.045637+08:00",
-      "certainty": "媒體標題報導；未獨立查證",
-      "channels": [
-        {
-          "category": "利率政策",
-          "industry": "金融、負債敏感與出口產業",
-          "possible_benefit": "若融資成本下降，負債敏感企業可能改善。",
-          "possible_risk": "若利差收窄或匯率不利，部分企業可能承壓。",
-          "verify_next": "核對實際決議與預期、幣別及企業負債結構。"
-        }
-      ],
-      "beneficiary_stocks": [],
-      "adversely_affected_stocks": [],
-      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
-    },
-    {
-      "id": "19c3f2ade8ba4ef8c5c75b44",
-      "title": "中東供應中斷緩解　國際油價回落",
-      "url": "https://www.cna.com.tw/news/afe/202609170014.aspx",
-      "source": "中央通訊社・產經",
-      "published_at": "2026-09-17T04:58:12+08:00",
-      "first_seen_at": "2026-09-17T08:44:29.045637+08:00",
-      "certainty": "媒體標題報導；未獨立查證",
-      "channels": [
-        {
-          "category": "能源供應",
-          "industry": "能源、石化、航空與運輸",
-          "possible_benefit": "若能源售價上升且成本可控，部分上游企業可能受益。",
-          "possible_risk": "若燃料成本提高，未避險的用能企業可能承壓。",
-          "verify_next": "核對價格方向、持續性、庫存、避險與成本轉嫁，油價下跌時可能相反。"
-        }
-      ],
-      "beneficiary_stocks": [],
-      "adversely_affected_stocks": [],
-      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
-    },
-    {
-      "id": "9ef95d97ad0251dd801b7ffb",
-      "title": "聯準會3年多以來首度升息  美股收低道瓊跌逾600點",
-      "url": "https://www.cna.com.tw/news/afe/202609170013.aspx",
-      "source": "中央通訊社・產經",
-      "published_at": "2026-09-17T04:47:10+08:00",
-      "first_seen_at": "2026-09-17T08:44:29.045637+08:00",
-      "certainty": "媒體標題報導；未獨立查證",
-      "channels": [
-        {
-          "category": "利率政策",
-          "industry": "金融、負債敏感與出口產業",
-          "possible_benefit": "若融資成本下降，負債敏感企業可能改善。",
-          "possible_risk": "若利差收窄或匯率不利，部分企業可能承壓。",
-          "verify_next": "核對實際決議與預期、幣別及企業負債結構。"
-        }
-      ],
-      "beneficiary_stocks": [],
-      "adversely_affected_stocks": [],
-      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
-    },
-    {
-      "id": "8a42c15355f9cbd33a4a183b",
-      "title": "華許獲川普任命仍頂住降息施壓　聯準會決定再掀波瀾",
-      "url": "https://www.cna.com.tw/news/aopl/202609170012.aspx",
-      "source": "中央通訊社・國際",
-      "published_at": "2026-09-17T04:24:07+08:00",
-      "first_seen_at": "2026-09-17T08:44:29.045637+08:00",
-      "certainty": "媒體標題報導；未獨立查證",
-      "channels": [
-        {
-          "category": "利率政策",
-          "industry": "金融、負債敏感與出口產業",
-          "possible_benefit": "若融資成本下降，負債敏感企業可能改善。",
-          "possible_risk": "若利差收窄或匯率不利，部分企業可能承壓。",
-          "verify_next": "核對實際決議與預期、幣別及企業負債結構。"
-        }
-      ],
-      "beneficiary_stocks": [],
-      "adversely_affected_stocks": [],
-      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
-    },
-    {
-      "id": "5280e7072156869790d5bfc2",
-      "title": "聯準會升息抗通膨頂住川普壓力  白宮批：令人遺憾",
-      "url": "https://www.cna.com.tw/news/aopl/202609170010.aspx",
-      "source": "中央通訊社・國際",
-      "published_at": "2026-09-17T04:03:02+08:00",
-      "first_seen_at": "2026-09-17T08:44:29.045637+08:00",
-      "certainty": "媒體標題報導；未獨立查證",
-      "channels": [
-        {
-          "category": "利率政策",
-          "industry": "金融、負債敏感與出口產業",
-          "possible_benefit": "若融資成本下降，負債敏感企業可能改善。",
-          "possible_risk": "若利差收窄或匯率不利，部分企業可能承壓。",
-          "verify_next": "核對實際決議與預期、幣別及企業負債結構。"
-        }
-      ],
-      "beneficiary_stocks": [],
-      "adversely_affected_stocks": [],
-      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
-    },
-    {
-      "id": "1f7f5c287d29dee3c2827931",
-      "title": "聯準會2023年以來首升息　華許：物價穩定是首要之務",
-      "url": "https://www.cna.com.tw/news/aopl/202609170009.aspx",
-      "source": "中央通訊社・國際",
-      "published_at": "2026-09-17T03:32:00+08:00",
-      "first_seen_at": "2026-09-17T08:44:29.045637+08:00",
-      "certainty": "媒體標題報導；未獨立查證",
-      "channels": [
-        {
-          "category": "利率政策",
-          "industry": "金融、負債敏感與出口產業",
-          "possible_benefit": "若融資成本下降，負債敏感企業可能改善。",
-          "possible_risk": "若利差收窄或匯率不利，部分企業可能承壓。",
-          "verify_next": "核對實際決議與預期、幣別及企業負債結構。"
-        }
-      ],
-      "beneficiary_stocks": [],
-      "adversely_affected_stocks": [],
-      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
-    },
-    {
-      "id": "2b2e4e4a6fecb1a01c3c492d",
-      "title": "聯準會打通膨　市場預期升息至明年中",
-      "url": "https://www.cna.com.tw/news/aopl/202609170008.aspx",
-      "source": "中央通訊社・國際",
-      "published_at": "2026-09-17T03:03:57+08:00",
-      "first_seen_at": "2026-09-17T08:44:29.045637+08:00",
-      "certainty": "媒體標題報導；未獨立查證",
-      "channels": [
-        {
-          "category": "利率政策",
-          "industry": "金融、負債敏感與出口產業",
-          "possible_benefit": "若融資成本下降，負債敏感企業可能改善。",
-          "possible_risk": "若利差收窄或匯率不利，部分企業可能承壓。",
-          "verify_next": "核對實際決議與預期、幣別及企業負債結構。"
-        }
-      ],
-      "beneficiary_stocks": [],
-      "adversely_affected_stocks": [],
-      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
-    },
-    {
-      "id": "f4dc9f2c987f48f033a21d83",
-      "title": "聯準會升息1碼　2023年以來首度調升利率",
-      "url": "https://www.cna.com.tw/news/aopl/202609170006.aspx",
-      "source": "中央通訊社・國際",
-      "published_at": "2026-09-17T02:07:52+08:00",
-      "first_seen_at": "2026-09-17T08:44:29.045637+08:00",
-      "certainty": "媒體標題報導；未獨立查證",
-      "channels": [
-        {
-          "category": "利率政策",
-          "industry": "金融、負債敏感與出口產業",
-          "possible_benefit": "若融資成本下降，負債敏感企業可能改善。",
-          "possible_risk": "若利差收窄或匯率不利，部分企業可能承壓。",
-          "verify_next": "核對實際決議與預期、幣別及企業負債結構。"
-        }
-      ],
-      "beneficiary_stocks": [],
-      "adversely_affected_stocks": [],
-      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
-    },
-    {
-      "id": "77b0cfc0c9141fb9442b7159",
-      "title": "市場靜待聯準會利率決策　歐股收高油價跌",
-      "url": "https://www.cna.com.tw/news/afe/202609170003.aspx",
-      "source": "中央通訊社・產經",
-      "published_at": "2026-09-17T00:21:44+08:00",
-      "first_seen_at": "2026-09-17T08:44:29.045637+08:00",
-      "certainty": "媒體標題報導；未獨立查證",
-      "channels": [
-        {
-          "category": "利率政策",
-          "industry": "金融、負債敏感與出口產業",
-          "possible_benefit": "若融資成本下降，負債敏感企業可能改善。",
-          "possible_risk": "若利差收窄或匯率不利，部分企業可能承壓。",
-          "verify_next": "核對實際決議與預期、幣別及企業負債結構。"
-        },
-        {
-          "category": "能源供應",
-          "industry": "能源、石化、航空與運輸",
-          "possible_benefit": "若能源售價上升且成本可控，部分上游企業可能受益。",
-          "possible_risk": "若燃料成本提高，未避險的用能企業可能承壓。",
-          "verify_next": "核對價格方向、持續性、庫存、避險與成本轉嫁，油價下跌時可能相反。"
-        }
-      ],
-      "beneficiary_stocks": [],
-      "adversely_affected_stocks": [],
-      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
-    },
-    {
-      "id": "1a07a9f4529a39eec56762c7",
-      "title": "市場預估聯準會將升息　美股早盤漲跌互見",
-      "url": "https://www.cna.com.tw/news/afe/202609160376.aspx",
-      "source": "中央通訊社・產經",
-      "published_at": "2026-09-16T22:32:20+08:00",
-      "first_seen_at": "2026-09-17T08:44:29.045637+08:00",
-      "certainty": "媒體標題報導；未獨立查證",
-      "channels": [
-        {
-          "category": "利率政策",
-          "industry": "金融、負債敏感與出口產業",
-          "possible_benefit": "若融資成本下降，負債敏感企業可能改善。",
-          "possible_risk": "若利差收窄或匯率不利，部分企業可能承壓。",
-          "verify_next": "核對實際決議與預期、幣別及企業負債結構。"
-        }
-      ],
-      "beneficiary_stocks": [],
-      "adversely_affected_stocks": [],
-      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
-    },
-    {
-      "id": "05ffb64bd17927c06054b3af",
-      "title": "油價居高不下　美國8月零售銷售月增1.2%超預期",
-      "url": "https://www.cna.com.tw/news/aopl/202609160373.aspx",
-      "source": "中央通訊社・國際",
-      "published_at": "2026-09-16T22:26:14+08:00",
-      "first_seen_at": "2026-09-17T08:44:29.045637+08:00",
-      "certainty": "媒體標題報導；未獨立查證",
-      "channels": [
-        {
-          "category": "能源供應",
-          "industry": "能源、石化、航空與運輸",
-          "possible_benefit": "若能源售價上升且成本可控，部分上游企業可能受益。",
-          "possible_risk": "若燃料成本提高，未避險的用能企業可能承壓。",
-          "verify_next": "核對價格方向、持續性、庫存、避險與成本轉嫁，油價下跌時可能相反。"
         }
       ],
       "beneficiary_stocks": [],

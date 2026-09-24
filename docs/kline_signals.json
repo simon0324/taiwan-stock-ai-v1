@@ -1327,27 +1327,82 @@
       {
         "code": "6669",
         "name": "緯穎",
-        "predicted_up_probability": 56.303333333333335
+        "predicted_up_probability": 56.303333333333335,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "3661",
         "name": "世芯-KY",
-        "predicted_up_probability": 52.64333333333333
+        "predicted_up_probability": 52.64333333333333,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "8271",
         "name": "宇瞻",
-        "predicted_up_probability": 52.03333333333333
+        "predicted_up_probability": 52.03333333333333,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "6426",
         "name": "統新",
-        "predicted_up_probability": 51.83
+        "predicted_up_probability": 51.83,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "6446",
         "name": "藥華藥",
-        "predicted_up_probability": 51.626666666666665
+        "predicted_up_probability": 51.626666666666665,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       }
     ]
   }

@@ -731,7 +731,7 @@
     "name": "創意",
     "entry_price": 8385.0,
     "latest_price": 8385.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-09-23"
@@ -742,7 +742,7 @@
     "name": "致茂",
     "entry_price": 2325.0,
     "latest_price": 2325.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-09-23"
@@ -753,7 +753,7 @@
     "name": "漢唐",
     "entry_price": 1250.0,
     "latest_price": 1250.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-09-23"
@@ -764,7 +764,7 @@
     "name": "高力",
     "entry_price": 1540.0,
     "latest_price": 1540.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-09-23"
@@ -775,7 +775,7 @@
     "name": "大量",
     "entry_price": 890.0,
     "latest_price": 890.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-09-23"
