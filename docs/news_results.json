@@ -1,7 +1,7 @@
 {
   "rules_version": "events-1",
   "market_date": "2026-09-24",
-  "as_of": "2026-09-25T08:39:13.628762+08:00",
+  "as_of": "2026-09-25T20:17:53.213619+08:00",
   "sources": [
     {
       "source": "證交所・公司重大訊息",
@@ -2160,6 +2160,19 @@
         }
       ],
       "events": [
+        {
+          "id": "7cd11a7a48b57dc10c9dd4f8",
+          "code": "2330",
+          "title": "台積電赴美投資核准達440億美元　經部：預期持續送件審查",
+          "published_at": "2026-09-25T09:28:48+08:00",
+          "first_seen_at": "2026-09-25T20:17:53.213619+08:00",
+          "source": "中央通訊社・產經",
+          "url": "https://www.cna.com.tw/news/afe/202609250036.aspx",
+          "official": false,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
         {
           "id": "03caf491d7df3cfcfa7ff723",
           "code": "2330",
@@ -5602,21 +5615,7 @@
           "points": 0.0
         }
       ],
-      "events": [
-        {
-          "id": "9dfc88b135635bfd71d8b285",
-          "code": "2357",
-          "title": "華碩布局次世代智慧醫療資訊平台　拚3年導入20家醫院",
-          "published_at": "2026-09-11T16:48:21+08:00",
-          "first_seen_at": "2026-09-11T19:51:16.499029+08:00",
-          "source": "中央通訊社・產經",
-          "url": "https://www.cna.com.tw/news/afe/202609110214.aspx",
-          "official": false,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        }
-      ]
+      "events": []
     },
     {
       "code": "6206",
@@ -14976,6 +14975,19 @@
           "title": "代台灣人壽公告核准投資\r\nOak Hill Capital Partners VII (Offshore), L.P.",
           "published_at": "2026-09-24T18:06:26+08:00",
           "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "04024d92e9d669fe4e0d06b1",
+          "code": "2891",
+          "title": "代子公司中國信託商業銀行公告授信資產之轉讓",
+          "published_at": "2026-09-24T17:59:10+08:00",
+          "first_seen_at": "2026-09-25T20:17:53.213619+08:00",
           "source": "證交所・公司重大訊息",
           "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
           "official": true,

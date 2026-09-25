@@ -1,6 +1,6 @@
 {
   "rules_version": "global-rules-1",
-  "as_of": "2026-09-25T08:39:16.300047+08:00",
+  "as_of": "2026-09-25T20:17:56.707195+08:00",
   "sources": [
     {
       "source": "中央通訊社・國際",
@@ -603,69 +603,6 @@
           "possible_benefit": "若能源售價上升且成本可控，部分上游企業可能受益。",
           "possible_risk": "若燃料成本提高，未避險的用能企業可能承壓。",
           "verify_next": "核對價格方向、持續性、庫存、避險與成本轉嫁，油價下跌時可能相反。"
-        }
-      ],
-      "beneficiary_stocks": [],
-      "adversely_affected_stocks": [],
-      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
-    },
-    {
-      "id": "31881b3ca00d8de8e2597648",
-      "title": "油價回落緩解通膨疑慮  亞股追隨美股多收紅",
-      "url": "https://www.cna.com.tw/news/afe/202609180195.aspx",
-      "source": "中央通訊社・產經",
-      "published_at": "2026-09-18T16:50:17+08:00",
-      "first_seen_at": "2026-09-18T19:52:05.453712+08:00",
-      "certainty": "媒體標題報導；未獨立查證",
-      "channels": [
-        {
-          "category": "能源供應",
-          "industry": "能源、石化、航空與運輸",
-          "possible_benefit": "若能源售價上升且成本可控，部分上游企業可能受益。",
-          "possible_risk": "若燃料成本提高，未避險的用能企業可能承壓。",
-          "verify_next": "核對價格方向、持續性、庫存、避險與成本轉嫁，油價下跌時可能相反。"
-        }
-      ],
-      "beneficiary_stocks": [],
-      "adversely_affected_stocks": [],
-      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
-    },
-    {
-      "id": "b47ea4ec5543356136fb950e",
-      "title": "李在明表態不介入中東戰爭  支持川普與北韓對話",
-      "url": "https://www.cna.com.tw/news/aopl/202609180148.aspx",
-      "source": "中央通訊社・國際",
-      "published_at": "2026-09-18T15:15:37+08:00",
-      "first_seen_at": "2026-09-18T19:52:05.453712+08:00",
-      "certainty": "媒體標題報導；未獨立查證",
-      "channels": [
-        {
-          "category": "衝突／航運",
-          "industry": "航運、物流、能源與出口產業",
-          "possible_benefit": "若供給受限推升運價，部分運輸商可能受益。",
-          "possible_risk": "繞航、保險、交期與燃料成本也可能增加。",
-          "verify_next": "核對事件是否已發生、航線曝險與實際成本，不把衝突直接當買進訊號。"
-        }
-      ],
-      "beneficiary_stocks": [],
-      "adversely_affected_stocks": [],
-      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
-    },
-    {
-      "id": "80f5ed55773dcb8ad4742dee",
-      "title": "川習會下週華府登場　貿易AI美伊戰爭議題成焦點",
-      "url": "https://www.cna.com.tw/news/aopl/202609180118.aspx",
-      "source": "中央通訊社・國際",
-      "published_at": "2026-09-18T13:39:31+08:00",
-      "first_seen_at": "2026-09-18T19:52:05.453712+08:00",
-      "certainty": "媒體標題報導；未獨立查證",
-      "channels": [
-        {
-          "category": "衝突／航運",
-          "industry": "航運、物流、能源與出口產業",
-          "possible_benefit": "若供給受限推升運價，部分運輸商可能受益。",
-          "possible_risk": "繞航、保險、交期與燃料成本也可能增加。",
-          "verify_next": "核對事件是否已發生、航線曝險與實際成本，不把衝突直接當買進訊號。"
         }
       ],
       "beneficiary_stocks": [],
