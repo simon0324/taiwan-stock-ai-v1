@@ -1,7 +1,7 @@
 {
   "rules_version": "events-1",
   "market_date": "2026-09-24",
-  "as_of": "2026-09-25T20:17:53.213619+08:00",
+  "as_of": "2026-09-28T08:58:23.658196+08:00",
   "sources": [
     {
       "source": "證交所・公司重大訊息",
@@ -803,151 +803,6 @@
       "events": []
     },
     {
-      "code": "3711",
-      "name": "日月光投控",
-      "original_score": 81.17610062893083,
-      "message_score": 50.0,
-      "score": 78.05849056603775,
-      "evidence_status": "未知／未達門檻",
-      "contributions": [
-        {
-          "category": "訂單",
-          "points": 0.0
-        },
-        {
-          "category": "新聞話題",
-          "points": 0.0
-        },
-        {
-          "category": "龍頭地位",
-          "points": 0.0
-        },
-        {
-          "category": "專利技術",
-          "points": 0.0
-        }
-      ],
-      "events": [
-        {
-          "id": "ed377f864e4e6653df4fd098",
-          "code": "3711",
-          "title": "代子公司矽品精密工業(股)公司公告取得營業用機器設備達十億元",
-          "published_at": "2026-09-24T17:29:59+08:00",
-          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "87e32dd033078c49ce93c70c",
-          "code": "3711",
-          "title": "代子公司日月光半導體製造(股)公司公告\r\n向長頂工程股份有限公司取得供營業用之廠務工程",
-          "published_at": "2026-09-23T16:35:58+08:00",
-          "first_seen_at": "2026-09-24T08:39:06.911066+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "027b9de446912162e21969c4",
-          "code": "3711",
-          "title": "代子公司台灣福雷電子(股)公司公告\r\n向銓興營造股份有限公司取得供營業用之廠務工程",
-          "published_at": "2026-09-23T16:35:38+08:00",
-          "first_seen_at": "2026-09-24T08:39:06.911066+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "39ffc0b8684d27f8e131e500",
-          "code": "3711",
-          "title": "公告本公司將受邀參加「CLSA Flagship Investors Forum」之法說訊息",
-          "published_at": "2026-09-21T14:00:12+08:00",
-          "first_seen_at": "2026-09-22T08:58:58.235416+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "e698b00229c678f8e70fc5d5",
-          "code": "3711",
-          "title": "代子公司日月光半導體製造(股)公司公告\r\n向聖暉工程科技(股)公司取得供營業用之廠務設備及工程",
-          "published_at": "2026-09-17T17:11:31+08:00",
-          "first_seen_at": "2026-09-18T08:32:35.377850+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "66807dcdec6e976db50bfe56",
-          "code": "3711",
-          "title": "代子公司日月光半導體製造(股)公司公告\r\n向萬潤科技股份有限公司取得供營業用之機器設備",
-          "published_at": "2026-09-16T17:22:24+08:00",
-          "first_seen_at": "2026-09-17T08:44:23.506673+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "92d5c1cf5a08809b4e0dacc3",
-          "code": "3711",
-          "title": "代子公司台灣福雷電子(股)公司公告\r\n向加旺系統科技股份有限公司取得供營業用之廠務工程",
-          "published_at": "2026-09-15T16:51:59+08:00",
-          "first_seen_at": "2026-09-16T08:35:57.247494+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "b39c6b0e1e5f17dde71c81f1",
-          "code": "3711",
-          "title": "代子公司矽品精密工業(股)公司公告取得廠務工程",
-          "published_at": "2026-09-14T16:05:05+08:00",
-          "first_seen_at": "2026-09-15T08:45:42.818043+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "bd7dcf44b42c833a89c73911",
-          "code": "3711",
-          "title": "公告本公司將受邀參加「UBS Taiwan Summit 2026」之法說訊息",
-          "published_at": "2026-09-14T14:01:23+08:00",
-          "first_seen_at": "2026-09-15T08:45:42.818043+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        }
-      ]
-    },
-    {
       "code": "6861",
       "name": "睿生光電",
       "original_score": 81.04559748427674,
@@ -973,73 +828,6 @@
         }
       ],
       "events": []
-    },
-    {
-      "code": "3044",
-      "name": "健鼎",
-      "original_score": 80.874213836478,
-      "message_score": 50.0,
-      "score": 77.78679245283021,
-      "evidence_status": "未知／未達門檻",
-      "contributions": [
-        {
-          "category": "訂單",
-          "points": 0.0
-        },
-        {
-          "category": "新聞話題",
-          "points": 0.0
-        },
-        {
-          "category": "龍頭地位",
-          "points": 0.0
-        },
-        {
-          "category": "專利技術",
-          "points": 0.0
-        }
-      ],
-      "events": [
-        {
-          "id": "04b63be3176edb392aaef5d7",
-          "code": "3044",
-          "title": "代本公司之子公司健鼎(無錫)電子有限公司\r\n公告其新增資金貸與金額達新台幣一千萬以\r\n上且達本公司最近期財務報表淨值百分之二以上。",
-          "published_at": "2026-09-24T16:21:16+08:00",
-          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "f2737e88f089ee3d8e50046c",
-          "code": "3044",
-          "title": "澄清115/09/21經濟日報B03版報導",
-          "published_at": "2026-09-21T11:28:25+08:00",
-          "first_seen_at": "2026-09-22T08:58:58.235416+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "含推測、否認或澄清語句，僅列入觀察"
-        },
-        {
-          "id": "8203f9c0fb0ea14da038b8bd",
-          "code": "3044",
-          "title": "健鼎受邀參加瑞銀證券 2026 Taiwan Summit",
-          "published_at": "2026-09-15T15:03:52+08:00",
-          "first_seen_at": "2026-09-16T08:35:57.247494+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        }
-      ]
     },
     {
       "code": "8996",
@@ -1219,6 +1007,73 @@
       "events": []
     },
     {
+      "code": "3044",
+      "name": "健鼎",
+      "original_score": 79.874213836478,
+      "message_score": 50.0,
+      "score": 76.8867924528302,
+      "evidence_status": "未知／未達門檻",
+      "contributions": [
+        {
+          "category": "訂單",
+          "points": 0.0
+        },
+        {
+          "category": "新聞話題",
+          "points": 0.0
+        },
+        {
+          "category": "龍頭地位",
+          "points": 0.0
+        },
+        {
+          "category": "專利技術",
+          "points": 0.0
+        }
+      ],
+      "events": [
+        {
+          "id": "04b63be3176edb392aaef5d7",
+          "code": "3044",
+          "title": "代本公司之子公司健鼎(無錫)電子有限公司\r\n公告其新增資金貸與金額達新台幣一千萬以\r\n上且達本公司最近期財務報表淨值百分之二以上。",
+          "published_at": "2026-09-24T16:21:16+08:00",
+          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "f2737e88f089ee3d8e50046c",
+          "code": "3044",
+          "title": "澄清115/09/21經濟日報B03版報導",
+          "published_at": "2026-09-21T11:28:25+08:00",
+          "first_seen_at": "2026-09-22T08:58:58.235416+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "含推測、否認或澄清語句，僅列入觀察"
+        },
+        {
+          "id": "8203f9c0fb0ea14da038b8bd",
+          "code": "3044",
+          "title": "健鼎受邀參加瑞銀證券 2026 Taiwan Summit",
+          "published_at": "2026-09-15T15:03:52+08:00",
+          "first_seen_at": "2026-09-16T08:35:57.247494+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        }
+      ]
+    },
+    {
       "code": "6526",
       "name": "達發",
       "original_score": 79.09591194968554,
@@ -1354,11 +1209,11 @@
       "events": []
     },
     {
-      "code": "6285",
-      "name": "啟碁",
-      "original_score": 78.02830188679246,
+      "code": "3711",
+      "name": "日月光投控",
+      "original_score": 78.17610062893083,
       "message_score": 50.0,
-      "score": 75.22547169811322,
+      "score": 75.35849056603774,
       "evidence_status": "未知／未達門檻",
       "contributions": [
         {
@@ -1380,10 +1235,10 @@
       ],
       "events": [
         {
-          "id": "8e5cae3e645665dbb753aefe",
-          "code": "6285",
-          "title": "代子公司NEWEB VIETNAM CO., LTD.公告以租地委建方式興建不動產",
-          "published_at": "2026-09-24T14:48:59+08:00",
+          "id": "ed377f864e4e6653df4fd098",
+          "code": "3711",
+          "title": "代子公司矽品精密工業(股)公司公告取得營業用機器設備達十億元",
+          "published_at": "2026-09-24T17:29:59+08:00",
           "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
           "source": "證交所・公司重大訊息",
           "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
@@ -1393,11 +1248,11 @@
           "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
         },
         {
-          "id": "f55d820c0c80c13c5cea4643",
-          "code": "6285",
-          "title": "公告本公司國內第四次及第五次無擔保轉換公司債\r\n代收價款行庫及存儲專戶行庫",
-          "published_at": "2026-09-22T16:44:43+08:00",
-          "first_seen_at": "2026-09-23T08:47:14.557621+08:00",
+          "id": "87e32dd033078c49ce93c70c",
+          "code": "3711",
+          "title": "代子公司日月光半導體製造(股)公司公告\r\n向長頂工程股份有限公司取得供營業用之廠務工程",
+          "published_at": "2026-09-23T16:35:58+08:00",
+          "first_seen_at": "2026-09-24T08:39:06.911066+08:00",
           "source": "證交所・公司重大訊息",
           "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
           "official": true,
@@ -1406,10 +1261,23 @@
           "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
         },
         {
-          "id": "1de1467ccdde9317f9e4b5eb",
-          "code": "6285",
-          "title": "公告本公司委任股務代理機構業經\r\n臺灣集中保管結算所股份有限公司准予備查",
-          "published_at": "2026-09-21T15:00:05+08:00",
+          "id": "027b9de446912162e21969c4",
+          "code": "3711",
+          "title": "代子公司台灣福雷電子(股)公司公告\r\n向銓興營造股份有限公司取得供營業用之廠務工程",
+          "published_at": "2026-09-23T16:35:38+08:00",
+          "first_seen_at": "2026-09-24T08:39:06.911066+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "39ffc0b8684d27f8e131e500",
+          "code": "3711",
+          "title": "公告本公司將受邀參加「CLSA Flagship Investors Forum」之法說訊息",
+          "published_at": "2026-09-21T14:00:12+08:00",
           "first_seen_at": "2026-09-22T08:58:58.235416+08:00",
           "source": "證交所・公司重大訊息",
           "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
@@ -1419,11 +1287,63 @@
           "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
         },
         {
-          "id": "4cce7d161e65cb2cb64b14e9",
-          "code": "6285",
-          "title": "代重要子公司NeWeb Holding Corporation公告\r\n董事會決議通過盈餘匯回",
-          "published_at": "2026-09-21T14:59:35+08:00",
-          "first_seen_at": "2026-09-22T08:58:58.235416+08:00",
+          "id": "e698b00229c678f8e70fc5d5",
+          "code": "3711",
+          "title": "代子公司日月光半導體製造(股)公司公告\r\n向聖暉工程科技(股)公司取得供營業用之廠務設備及工程",
+          "published_at": "2026-09-17T17:11:31+08:00",
+          "first_seen_at": "2026-09-18T08:32:35.377850+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "66807dcdec6e976db50bfe56",
+          "code": "3711",
+          "title": "代子公司日月光半導體製造(股)公司公告\r\n向萬潤科技股份有限公司取得供營業用之機器設備",
+          "published_at": "2026-09-16T17:22:24+08:00",
+          "first_seen_at": "2026-09-17T08:44:23.506673+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "92d5c1cf5a08809b4e0dacc3",
+          "code": "3711",
+          "title": "代子公司台灣福雷電子(股)公司公告\r\n向加旺系統科技股份有限公司取得供營業用之廠務工程",
+          "published_at": "2026-09-15T16:51:59+08:00",
+          "first_seen_at": "2026-09-16T08:35:57.247494+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "b39c6b0e1e5f17dde71c81f1",
+          "code": "3711",
+          "title": "代子公司矽品精密工業(股)公司公告取得廠務工程",
+          "published_at": "2026-09-14T16:05:05+08:00",
+          "first_seen_at": "2026-09-15T08:45:42.818043+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "bd7dcf44b42c833a89c73911",
+          "code": "3711",
+          "title": "公告本公司將受邀參加「UBS Taiwan Summit 2026」之法說訊息",
+          "published_at": "2026-09-14T14:01:23+08:00",
+          "first_seen_at": "2026-09-15T08:45:42.818043+08:00",
           "source": "證交所・公司重大訊息",
           "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
           "official": true,
@@ -1624,11 +1544,11 @@
       ]
     },
     {
-      "code": "2379",
-      "name": "瑞昱",
-      "original_score": 77.06918238993711,
+      "code": "6285",
+      "name": "啟碁",
+      "original_score": 77.02830188679246,
       "message_score": 50.0,
-      "score": 74.3622641509434,
+      "score": 74.32547169811322,
       "evidence_status": "未知／未達門檻",
       "contributions": [
         {
@@ -1650,11 +1570,50 @@
       ],
       "events": [
         {
-          "id": "15b3841f1a41bdecc4c01bfa",
-          "code": "2379",
-          "title": "代重要子公司REALTEK SINGAPORE PTE. LTD.\r\n公告董事會決議發放股利",
-          "published_at": "2026-09-24T17:30:58+08:00",
+          "id": "8e5cae3e645665dbb753aefe",
+          "code": "6285",
+          "title": "代子公司NEWEB VIETNAM CO., LTD.公告以租地委建方式興建不動產",
+          "published_at": "2026-09-24T14:48:59+08:00",
           "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "f55d820c0c80c13c5cea4643",
+          "code": "6285",
+          "title": "公告本公司國內第四次及第五次無擔保轉換公司債\r\n代收價款行庫及存儲專戶行庫",
+          "published_at": "2026-09-22T16:44:43+08:00",
+          "first_seen_at": "2026-09-23T08:47:14.557621+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "1de1467ccdde9317f9e4b5eb",
+          "code": "6285",
+          "title": "公告本公司委任股務代理機構業經\r\n臺灣集中保管結算所股份有限公司准予備查",
+          "published_at": "2026-09-21T15:00:05+08:00",
+          "first_seen_at": "2026-09-22T08:58:58.235416+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "4cce7d161e65cb2cb64b14e9",
+          "code": "6285",
+          "title": "代重要子公司NeWeb Holding Corporation公告\r\n董事會決議通過盈餘匯回",
+          "published_at": "2026-09-21T14:59:35+08:00",
+          "first_seen_at": "2026-09-22T08:58:58.235416+08:00",
           "source": "證交所・公司重大訊息",
           "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
           "official": true,
@@ -1827,6 +1786,47 @@
       ]
     },
     {
+      "code": "2379",
+      "name": "瑞昱",
+      "original_score": 76.06918238993711,
+      "message_score": 50.0,
+      "score": 73.4622641509434,
+      "evidence_status": "未知／未達門檻",
+      "contributions": [
+        {
+          "category": "訂單",
+          "points": 0.0
+        },
+        {
+          "category": "新聞話題",
+          "points": 0.0
+        },
+        {
+          "category": "龍頭地位",
+          "points": 0.0
+        },
+        {
+          "category": "專利技術",
+          "points": 0.0
+        }
+      ],
+      "events": [
+        {
+          "id": "15b3841f1a41bdecc4c01bfa",
+          "code": "2379",
+          "title": "代重要子公司REALTEK SINGAPORE PTE. LTD.\r\n公告董事會決議發放股利",
+          "published_at": "2026-09-24T17:30:58+08:00",
+          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        }
+      ]
+    },
+    {
       "code": "2059",
       "name": "川湖",
       "original_score": 76.0377358490566,
@@ -1908,99 +1908,6 @@
       "events": []
     },
     {
-      "code": "3016",
-      "name": "嘉晶",
-      "original_score": 75.74056603773585,
-      "message_score": 50.0,
-      "score": 73.16650943396226,
-      "evidence_status": "未知／未達門檻",
-      "contributions": [
-        {
-          "category": "訂單",
-          "points": 0.0
-        },
-        {
-          "category": "新聞話題",
-          "points": 0.0
-        },
-        {
-          "category": "龍頭地位",
-          "points": 0.0
-        },
-        {
-          "category": "專利技術",
-          "points": 0.0
-        }
-      ],
-      "events": [
-        {
-          "id": "dbfbf0bf0b2c691aee0e556c",
-          "code": "3016",
-          "title": "本公司可轉換公司債嘉晶五(代號:30165)近期達公布注意\r\n交易資訊標準，故公告相關訊息，以利投資人區別瞭解",
-          "published_at": "2026-09-24T16:20:17+08:00",
-          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "2390052784b15b9b9969c7cc",
-          "code": "3016",
-          "title": "澄清媒體相關報導",
-          "published_at": "2026-09-23T11:12:54+08:00",
-          "first_seen_at": "2026-09-24T08:39:06.911066+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "含推測、否認或澄清語句，僅列入觀察"
-        },
-        {
-          "id": "80f5eefcb3466d0461037977",
-          "code": "3016",
-          "title": "嘉晶搶進AI電源管理和光通訊　今年營收估增逾35%",
-          "published_at": "2026-09-22T18:57:54+08:00",
-          "first_seen_at": "2026-09-22T20:04:08.750475+08:00",
-          "source": "中央通訊社・產經",
-          "url": "https://www.cna.com.tw/news/afe/202609220292.aspx",
-          "official": false,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "570b583bf29cacd27f65093c",
-          "code": "3016",
-          "title": "本公司115年度現金增資收足股款暨增資基準日",
-          "published_at": "2026-09-17T13:41:00+08:00",
-          "first_seen_at": "2026-09-18T08:32:35.377850+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "666065fb99294e9734ae996e",
-          "code": "3016",
-          "title": "本公司115年現金增資催繳公告",
-          "published_at": "2026-09-14T13:32:21+08:00",
-          "first_seen_at": "2026-09-15T08:45:42.818043+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        }
-      ]
-    },
-    {
       "code": "2327",
       "name": "國巨*",
       "original_score": 75.69182389937107,
@@ -2058,73 +1965,6 @@
           "title": "本公司受邀參加由Bank of America舉辦之\r\n\"2026 Asia Pacific Conference\"",
           "published_at": "2026-09-16T14:05:59+08:00",
           "first_seen_at": "2026-09-17T08:44:23.506673+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        }
-      ]
-    },
-    {
-      "code": "1727",
-      "name": "中華化",
-      "original_score": 75.25471698113208,
-      "message_score": 50.0,
-      "score": 72.72924528301887,
-      "evidence_status": "未知／未達門檻",
-      "contributions": [
-        {
-          "category": "訂單",
-          "points": 0.0
-        },
-        {
-          "category": "新聞話題",
-          "points": 0.0
-        },
-        {
-          "category": "龍頭地位",
-          "points": 0.0
-        },
-        {
-          "category": "專利技術",
-          "points": 0.0
-        }
-      ],
-      "events": [
-        {
-          "id": "fd92aa3468e221aa31602bad",
-          "code": "1727",
-          "title": "因本公司有價證券於集中交易市場達公布注意交易資訊\r\n標準，故公布相關財務業務等重大訊息，以利投資人區別瞭解",
-          "published_at": "2026-09-24T15:00:12+08:00",
-          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "40c0f88b15e7c049f6713859",
-          "code": "1727",
-          "title": "公告本公司國內第二次無擔保轉換公司債代收價款\r\n及存儲專戶行庫",
-          "published_at": "2026-09-24T14:58:21+08:00",
-          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "eedfd001b84ec53c78943074",
-          "code": "1727",
-          "title": "本公司訂定現金增資認股基準日等相關事宜",
-          "published_at": "2026-09-23T16:08:00+08:00",
-          "first_seen_at": "2026-09-24T08:39:06.911066+08:00",
           "source": "證交所・公司重大訊息",
           "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
           "official": true,
@@ -2360,6 +2200,99 @@
         }
       ],
       "events": []
+    },
+    {
+      "code": "3016",
+      "name": "嘉晶",
+      "original_score": 74.74056603773585,
+      "message_score": 50.0,
+      "score": 72.26650943396227,
+      "evidence_status": "未知／未達門檻",
+      "contributions": [
+        {
+          "category": "訂單",
+          "points": 0.0
+        },
+        {
+          "category": "新聞話題",
+          "points": 0.0
+        },
+        {
+          "category": "龍頭地位",
+          "points": 0.0
+        },
+        {
+          "category": "專利技術",
+          "points": 0.0
+        }
+      ],
+      "events": [
+        {
+          "id": "dbfbf0bf0b2c691aee0e556c",
+          "code": "3016",
+          "title": "本公司可轉換公司債嘉晶五(代號:30165)近期達公布注意\r\n交易資訊標準，故公告相關訊息，以利投資人區別瞭解",
+          "published_at": "2026-09-24T16:20:17+08:00",
+          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "2390052784b15b9b9969c7cc",
+          "code": "3016",
+          "title": "澄清媒體相關報導",
+          "published_at": "2026-09-23T11:12:54+08:00",
+          "first_seen_at": "2026-09-24T08:39:06.911066+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "含推測、否認或澄清語句，僅列入觀察"
+        },
+        {
+          "id": "80f5eefcb3466d0461037977",
+          "code": "3016",
+          "title": "嘉晶搶進AI電源管理和光通訊　今年營收估增逾35%",
+          "published_at": "2026-09-22T18:57:54+08:00",
+          "first_seen_at": "2026-09-22T20:04:08.750475+08:00",
+          "source": "中央通訊社・產經",
+          "url": "https://www.cna.com.tw/news/afe/202609220292.aspx",
+          "official": false,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "570b583bf29cacd27f65093c",
+          "code": "3016",
+          "title": "本公司115年度現金增資收足股款暨增資基準日",
+          "published_at": "2026-09-17T13:41:00+08:00",
+          "first_seen_at": "2026-09-18T08:32:35.377850+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "666065fb99294e9734ae996e",
+          "code": "3016",
+          "title": "本公司115年現金增資催繳公告",
+          "published_at": "2026-09-14T13:32:21+08:00",
+          "first_seen_at": "2026-09-15T08:45:42.818043+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        }
+      ]
     },
     {
       "code": "6902",
@@ -2708,6 +2641,73 @@
         }
       ],
       "events": []
+    },
+    {
+      "code": "1727",
+      "name": "中華化",
+      "original_score": 73.25471698113208,
+      "message_score": 50.0,
+      "score": 70.92924528301887,
+      "evidence_status": "未知／未達門檻",
+      "contributions": [
+        {
+          "category": "訂單",
+          "points": 0.0
+        },
+        {
+          "category": "新聞話題",
+          "points": 0.0
+        },
+        {
+          "category": "龍頭地位",
+          "points": 0.0
+        },
+        {
+          "category": "專利技術",
+          "points": 0.0
+        }
+      ],
+      "events": [
+        {
+          "id": "fd92aa3468e221aa31602bad",
+          "code": "1727",
+          "title": "因本公司有價證券於集中交易市場達公布注意交易資訊\r\n標準，故公布相關財務業務等重大訊息，以利投資人區別瞭解",
+          "published_at": "2026-09-24T15:00:12+08:00",
+          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "40c0f88b15e7c049f6713859",
+          "code": "1727",
+          "title": "公告本公司國內第二次無擔保轉換公司債代收價款\r\n及存儲專戶行庫",
+          "published_at": "2026-09-24T14:58:21+08:00",
+          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "eedfd001b84ec53c78943074",
+          "code": "1727",
+          "title": "本公司訂定現金增資認股基準日等相關事宜",
+          "published_at": "2026-09-23T16:08:00+08:00",
+          "first_seen_at": "2026-09-24T08:39:06.911066+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        }
+      ]
     },
     {
       "code": "3055",
@@ -3440,138 +3440,6 @@
       "events": []
     },
     {
-      "code": "2317",
-      "name": "鴻海",
-      "original_score": 69.81603773584906,
-      "message_score": 50.0,
-      "score": 67.83443396226416,
-      "evidence_status": "未知／未達門檻",
-      "contributions": [
-        {
-          "category": "訂單",
-          "points": 0.0
-        },
-        {
-          "category": "新聞話題",
-          "points": 0.0
-        },
-        {
-          "category": "龍頭地位",
-          "points": 0.0
-        },
-        {
-          "category": "專利技術",
-          "points": 0.0
-        }
-      ],
-      "events": [
-        {
-          "id": "83c7c7f32868bf6b944f9a1f",
-          "code": "2317",
-          "title": "代子公司HCM International Company公告董事會決議預計處分Figure \r\nTechnology Solutions, Inc.股份",
-          "published_at": "2026-09-24T17:37:37+08:00",
-          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "含推測、否認或澄清語句，僅列入觀察"
-        },
-        {
-          "id": "c8ce335cdc2a23747316ad6b",
-          "code": "2317",
-          "title": "代子公司準時達國際供應鏈管理有限公司公告取得上海印華國際貨運代理有限公司股權",
-          "published_at": "2026-09-24T17:37:16+08:00",
-          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "907f0e24711f441925d2ce48",
-          "code": "2317",
-          "title": "代子公司Joyspeed Global Cargo (China) Limited公告處分上海印華國際貨運代理\r\n有限公司股權",
-          "published_at": "2026-09-24T17:36:45+08:00",
-          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "c9b11d01bdb51a6463fd35f7",
-          "code": "2317",
-          "title": "本公司董事會決議發行無擔保普通公司債",
-          "published_at": "2026-09-22T17:10:17+08:00",
-          "first_seen_at": "2026-09-23T08:47:14.557621+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "739537634b1e9d8f371ed1c7",
-          "code": "2317",
-          "title": "代重要子公司Foxconn (Far East)Limited - Cayman\r\n公告董事會決議發放現金股利",
-          "published_at": "2026-09-17T17:19:34+08:00",
-          "first_seen_at": "2026-09-18T08:32:35.377850+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "71cdd23cc2941c434e8d8b03",
-          "code": "2317",
-          "title": "代重要子公司Best Behaviour Holdings Limited - BVI\r\n公告董事會決議發放現金股利",
-          "published_at": "2026-09-17T17:19:20+08:00",
-          "first_seen_at": "2026-09-18T08:32:35.377850+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "f6e07156e63cd511d3f8902f",
-          "code": "2317",
-          "title": "代重要子公司Best Behaviour Holdings Limited-BVI公告\r\n董事會決議現金減資",
-          "published_at": "2026-09-15T17:37:13+08:00",
-          "first_seen_at": "2026-09-16T08:35:57.247494+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "3be1e2aa3fb437a7c840b73d",
-          "code": "2317",
-          "title": "代子公司富聯裕展科技（深圳）有限公司公告取得廠房之使用權資產",
-          "published_at": "2026-09-14T17:24:13+08:00",
-          "first_seen_at": "2026-09-15T08:45:42.818043+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        }
-      ]
-    },
-    {
       "code": "2472",
       "name": "立隆電",
       "original_score": 69.72484276729561,
@@ -3732,60 +3600,6 @@
         }
       ],
       "events": []
-    },
-    {
-      "code": "6472",
-      "name": "保瑞",
-      "original_score": 68.58647798742138,
-      "message_score": 50.0,
-      "score": 66.72783018867923,
-      "evidence_status": "未知／未達門檻",
-      "contributions": [
-        {
-          "category": "訂單",
-          "points": 0.0
-        },
-        {
-          "category": "新聞話題",
-          "points": 0.0
-        },
-        {
-          "category": "龍頭地位",
-          "points": 0.0
-        },
-        {
-          "category": "專利技術",
-          "points": 0.0
-        }
-      ],
-      "events": [
-        {
-          "id": "04175f35598d7911bffe0bc8",
-          "code": "6472",
-          "title": "代重要子公司保盛藥業股份有限公司公告處分不動產(補充說明115年9月7日公告)",
-          "published_at": "2026-09-24T19:25:02+08:00",
-          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "e172c943ce46bc213dc35a76",
-          "code": "6472",
-          "title": "公告本公司辦理限制員工權利新股註銷減資變更登記完成",
-          "published_at": "2026-09-16T19:30:42+08:00",
-          "first_seen_at": "2026-09-17T08:44:23.506673+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        }
-      ]
     },
     {
       "code": "2316",
@@ -4229,47 +4043,6 @@
       "events": []
     },
     {
-      "code": "3034",
-      "name": "聯詠",
-      "original_score": 68.03616352201257,
-      "message_score": 50.0,
-      "score": 66.23254716981131,
-      "evidence_status": "未知／未達門檻",
-      "contributions": [
-        {
-          "category": "訂單",
-          "points": 0.0
-        },
-        {
-          "category": "新聞話題",
-          "points": 0.0
-        },
-        {
-          "category": "龍頭地位",
-          "points": 0.0
-        },
-        {
-          "category": "專利技術",
-          "points": 0.0
-        }
-      ],
-      "events": [
-        {
-          "id": "01c2d9ffa90456784321341e",
-          "code": "3034",
-          "title": "公告本公司限制員工權利新股之增資基準日",
-          "published_at": "2026-09-24T15:00:49+08:00",
-          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        }
-      ]
-    },
-    {
       "code": "4551",
       "name": "智伸科",
       "original_score": 68.03459119496857,
@@ -4295,138 +4068,6 @@
         }
       ],
       "events": []
-    },
-    {
-      "code": "2885",
-      "name": "元大金",
-      "original_score": 67.8993710691824,
-      "message_score": 50.0,
-      "score": 66.10943396226415,
-      "evidence_status": "未知／未達門檻",
-      "contributions": [
-        {
-          "category": "訂單",
-          "points": 0.0
-        },
-        {
-          "category": "新聞話題",
-          "points": 0.0
-        },
-        {
-          "category": "龍頭地位",
-          "points": 0.0
-        },
-        {
-          "category": "專利技術",
-          "points": 0.0
-        }
-      ],
-      "events": [
-        {
-          "id": "d417ee78f53ff1479d709ec7",
-          "code": "2885",
-          "title": "元大金控代子公司元大銀行公告董事會決議通過臺中崇德\r\n大樓依「都市危險及老舊建築物加速重建條例」辦理危老重建。",
-          "published_at": "2026-09-24T16:27:49+08:00",
-          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "f4951849bf77f9f78edb0bce",
-          "code": "2885",
-          "title": "元大金控代子公司元大商業銀行公告董事會決議，申請\r\n115年度第二次無擔保主順位金融債券循環發行額度\r\n新臺幣壹佰億元整",
-          "published_at": "2026-09-24T16:08:55+08:00",
-          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "464925befa4f14c3fe8dc588",
-          "code": "2885",
-          "title": "元大金控代子公司元大證券公告董事會通過對關係人\r\n捐贈事宜",
-          "published_at": "2026-09-24T15:11:06+08:00",
-          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "545094fa486f27a01b839a24",
-          "code": "2885",
-          "title": "元大金控代子公司元大證券\r\n公告新任薪資報酬委員會成員",
-          "published_at": "2026-09-24T15:06:33+08:00",
-          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "4f8a05bcf385293f255d2d23",
-          "code": "2885",
-          "title": "元大金控代子公司元大人壽公告董事會代行股東臨時會\r\n重要決議事項(通過修正取得或處分資產處理程序部分內容)",
-          "published_at": "2026-09-22T14:00:10+08:00",
-          "first_seen_at": "2026-09-23T08:47:14.557621+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "160119af759bbaa41bd486b4",
-          "code": "2885",
-          "title": "元大金控公告向元大銀行原租賃取得使用權資產範圍調整",
-          "published_at": "2026-09-21T18:17:41+08:00",
-          "first_seen_at": "2026-09-22T08:58:58.235416+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "5879788e64253003dd093380",
-          "code": "2885",
-          "title": "公告本公司擬於民國115年9月18日受邀參加第一金證券舉行之線上投資人會議",
-          "published_at": "2026-09-15T15:08:11+08:00",
-          "first_seen_at": "2026-09-16T08:35:57.247494+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "含推測、否認或澄清語句，僅列入觀察"
-        },
-        {
-          "id": "a6bcca0b60fab7705c215809",
-          "code": "2885",
-          "title": "元大金控代子公司元大證金公告\r\n財務主管及會計主管異動",
-          "published_at": "2026-09-14T14:45:34+08:00",
-          "first_seen_at": "2026-09-15T08:45:42.818043+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        }
-      ]
     },
     {
       "code": "2492",
@@ -4564,6 +4205,60 @@
       ]
     },
     {
+      "code": "6472",
+      "name": "保瑞",
+      "original_score": 67.58647798742138,
+      "message_score": 50.0,
+      "score": 65.82783018867923,
+      "evidence_status": "未知／未達門檻",
+      "contributions": [
+        {
+          "category": "訂單",
+          "points": 0.0
+        },
+        {
+          "category": "新聞話題",
+          "points": 0.0
+        },
+        {
+          "category": "龍頭地位",
+          "points": 0.0
+        },
+        {
+          "category": "專利技術",
+          "points": 0.0
+        }
+      ],
+      "events": [
+        {
+          "id": "04175f35598d7911bffe0bc8",
+          "code": "6472",
+          "title": "代重要子公司保盛藥業股份有限公司公告處分不動產(補充說明115年9月7日公告)",
+          "published_at": "2026-09-24T19:25:02+08:00",
+          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "e172c943ce46bc213dc35a76",
+          "code": "6472",
+          "title": "公告本公司辦理限制員工權利新股註銷減資變更登記完成",
+          "published_at": "2026-09-16T19:30:42+08:00",
+          "first_seen_at": "2026-09-17T08:44:23.506673+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        }
+      ]
+    },
+    {
       "code": "6257",
       "name": "矽格",
       "original_score": 67.38207547169812,
@@ -4686,6 +4381,47 @@
       "events": []
     },
     {
+      "code": "3034",
+      "name": "聯詠",
+      "original_score": 67.03616352201257,
+      "message_score": 50.0,
+      "score": 65.3325471698113,
+      "evidence_status": "未知／未達門檻",
+      "contributions": [
+        {
+          "category": "訂單",
+          "points": 0.0
+        },
+        {
+          "category": "新聞話題",
+          "points": 0.0
+        },
+        {
+          "category": "龍頭地位",
+          "points": 0.0
+        },
+        {
+          "category": "專利技術",
+          "points": 0.0
+        }
+      ],
+      "events": [
+        {
+          "id": "01c2d9ffa90456784321341e",
+          "code": "3034",
+          "title": "公告本公司限制員工權利新股之增資基準日",
+          "published_at": "2026-09-24T15:00:49+08:00",
+          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        }
+      ]
+    },
+    {
       "code": "2006",
       "name": "東和鋼鐵",
       "original_score": 67.0125786163522,
@@ -4711,6 +4447,138 @@
         }
       ],
       "events": []
+    },
+    {
+      "code": "2317",
+      "name": "鴻海",
+      "original_score": 66.81603773584906,
+      "message_score": 50.0,
+      "score": 65.13443396226415,
+      "evidence_status": "未知／未達門檻",
+      "contributions": [
+        {
+          "category": "訂單",
+          "points": 0.0
+        },
+        {
+          "category": "新聞話題",
+          "points": 0.0
+        },
+        {
+          "category": "龍頭地位",
+          "points": 0.0
+        },
+        {
+          "category": "專利技術",
+          "points": 0.0
+        }
+      ],
+      "events": [
+        {
+          "id": "83c7c7f32868bf6b944f9a1f",
+          "code": "2317",
+          "title": "代子公司HCM International Company公告董事會決議預計處分Figure \r\nTechnology Solutions, Inc.股份",
+          "published_at": "2026-09-24T17:37:37+08:00",
+          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "含推測、否認或澄清語句，僅列入觀察"
+        },
+        {
+          "id": "c8ce335cdc2a23747316ad6b",
+          "code": "2317",
+          "title": "代子公司準時達國際供應鏈管理有限公司公告取得上海印華國際貨運代理有限公司股權",
+          "published_at": "2026-09-24T17:37:16+08:00",
+          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "907f0e24711f441925d2ce48",
+          "code": "2317",
+          "title": "代子公司Joyspeed Global Cargo (China) Limited公告處分上海印華國際貨運代理\r\n有限公司股權",
+          "published_at": "2026-09-24T17:36:45+08:00",
+          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "c9b11d01bdb51a6463fd35f7",
+          "code": "2317",
+          "title": "本公司董事會決議發行無擔保普通公司債",
+          "published_at": "2026-09-22T17:10:17+08:00",
+          "first_seen_at": "2026-09-23T08:47:14.557621+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "739537634b1e9d8f371ed1c7",
+          "code": "2317",
+          "title": "代重要子公司Foxconn (Far East)Limited - Cayman\r\n公告董事會決議發放現金股利",
+          "published_at": "2026-09-17T17:19:34+08:00",
+          "first_seen_at": "2026-09-18T08:32:35.377850+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "71cdd23cc2941c434e8d8b03",
+          "code": "2317",
+          "title": "代重要子公司Best Behaviour Holdings Limited - BVI\r\n公告董事會決議發放現金股利",
+          "published_at": "2026-09-17T17:19:20+08:00",
+          "first_seen_at": "2026-09-18T08:32:35.377850+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "f6e07156e63cd511d3f8902f",
+          "code": "2317",
+          "title": "代重要子公司Best Behaviour Holdings Limited-BVI公告\r\n董事會決議現金減資",
+          "published_at": "2026-09-15T17:37:13+08:00",
+          "first_seen_at": "2026-09-16T08:35:57.247494+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "3be1e2aa3fb437a7c840b73d",
+          "code": "2317",
+          "title": "代子公司富聯裕展科技（深圳）有限公司公告取得廠房之使用權資產",
+          "published_at": "2026-09-14T17:24:13+08:00",
+          "first_seen_at": "2026-09-15T08:45:42.818043+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        }
+      ]
     },
     {
       "code": "2303",
@@ -5065,60 +4933,6 @@
       ]
     },
     {
-      "code": "6505",
-      "name": "台塑化",
-      "original_score": 65.45754716981132,
-      "message_score": 50.0,
-      "score": 63.91179245283019,
-      "evidence_status": "未知／未達門檻",
-      "contributions": [
-        {
-          "category": "訂單",
-          "points": 0.0
-        },
-        {
-          "category": "新聞話題",
-          "points": 0.0
-        },
-        {
-          "category": "龍頭地位",
-          "points": 0.0
-        },
-        {
-          "category": "專利技術",
-          "points": 0.0
-        }
-      ],
-      "events": [
-        {
-          "id": "db25f8a86409593dcea57551",
-          "code": "6505",
-          "title": "公告本公司取得其他固定資產",
-          "published_at": "2026-09-24T16:57:59+08:00",
-          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "dff7923cf0115c14674c237b",
-          "code": "6505",
-          "title": "公告本公司受邀參加永豐金證券2026年第三季產業高峰論壇",
-          "published_at": "2026-09-15T15:42:47+08:00",
-          "first_seen_at": "2026-09-16T08:35:57.247494+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        }
-      ]
-    },
-    {
       "code": "2464",
       "name": "盟立",
       "original_score": 65.44025157232704,
@@ -5457,73 +5271,6 @@
       "events": []
     },
     {
-      "code": "4961",
-      "name": "天鈺",
-      "original_score": 64.57704402515724,
-      "message_score": 50.0,
-      "score": 63.11933962264151,
-      "evidence_status": "未知／未達門檻",
-      "contributions": [
-        {
-          "category": "訂單",
-          "points": 0.0
-        },
-        {
-          "category": "新聞話題",
-          "points": 0.0
-        },
-        {
-          "category": "龍頭地位",
-          "points": 0.0
-        },
-        {
-          "category": "專利技術",
-          "points": 0.0
-        }
-      ],
-      "events": [
-        {
-          "id": "31527c8ae66fb663d7ed4932",
-          "code": "4961",
-          "title": "代重要子公司恆豐有限公司公告董事會決議發放股利",
-          "published_at": "2026-09-24T15:12:28+08:00",
-          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "dc11ef9b0f0c022aed44f77d",
-          "code": "4961",
-          "title": "代重要子公司深圳天德鈺科技股份有限公司發佈關於召開\r\n2026年半年度業績說明會的公告",
-          "published_at": "2026-09-21T16:37:43+08:00",
-          "first_seen_at": "2026-09-22T08:58:58.235416+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "7aaff42955590b6495dd212f",
-          "code": "4961",
-          "title": "代重要子公司深圳天德鈺科技股份有限公司公告處分有價證券",
-          "published_at": "2026-09-14T19:51:41+08:00",
-          "first_seen_at": "2026-09-15T08:45:42.818043+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        }
-      ]
-    },
-    {
       "code": "3605",
       "name": "宏致",
       "original_score": 64.52044025157232,
@@ -5591,6 +5338,60 @@
       ]
     },
     {
+      "code": "6505",
+      "name": "台塑化",
+      "original_score": 64.45754716981132,
+      "message_score": 50.0,
+      "score": 63.01179245283019,
+      "evidence_status": "未知／未達門檻",
+      "contributions": [
+        {
+          "category": "訂單",
+          "points": 0.0
+        },
+        {
+          "category": "新聞話題",
+          "points": 0.0
+        },
+        {
+          "category": "龍頭地位",
+          "points": 0.0
+        },
+        {
+          "category": "專利技術",
+          "points": 0.0
+        }
+      ],
+      "events": [
+        {
+          "id": "db25f8a86409593dcea57551",
+          "code": "6505",
+          "title": "公告本公司取得其他固定資產",
+          "published_at": "2026-09-24T16:57:59+08:00",
+          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "dff7923cf0115c14674c237b",
+          "code": "6505",
+          "title": "公告本公司受邀參加永豐金證券2026年第三季產業高峰論壇",
+          "published_at": "2026-09-15T15:42:47+08:00",
+          "first_seen_at": "2026-09-16T08:35:57.247494+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        }
+      ]
+    },
+    {
       "code": "2357",
       "name": "華碩",
       "original_score": 64.36320754716981,
@@ -5615,7 +5416,21 @@
           "points": 0.0
         }
       ],
-      "events": []
+      "events": [
+        {
+          "id": "1fad32e1082486420e50bc41",
+          "code": "2357",
+          "title": "華碩微星亮相非洲動漫展　台灣電競品牌搶攻南非市場",
+          "published_at": "2026-09-27T19:22:36+08:00",
+          "first_seen_at": "2026-09-28T08:58:23.658196+08:00",
+          "source": "中央通訊社・產經",
+          "url": "https://www.cna.com.tw/news/afe/202609270174.aspx",
+          "official": false,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        }
+      ]
     },
     {
       "code": "6206",
@@ -5821,6 +5636,138 @@
       ]
     },
     {
+      "code": "2885",
+      "name": "元大金",
+      "original_score": 63.89937106918239,
+      "message_score": 50.0,
+      "score": 62.509433962264154,
+      "evidence_status": "未知／未達門檻",
+      "contributions": [
+        {
+          "category": "訂單",
+          "points": 0.0
+        },
+        {
+          "category": "新聞話題",
+          "points": 0.0
+        },
+        {
+          "category": "龍頭地位",
+          "points": 0.0
+        },
+        {
+          "category": "專利技術",
+          "points": 0.0
+        }
+      ],
+      "events": [
+        {
+          "id": "d417ee78f53ff1479d709ec7",
+          "code": "2885",
+          "title": "元大金控代子公司元大銀行公告董事會決議通過臺中崇德\r\n大樓依「都市危險及老舊建築物加速重建條例」辦理危老重建。",
+          "published_at": "2026-09-24T16:27:49+08:00",
+          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "f4951849bf77f9f78edb0bce",
+          "code": "2885",
+          "title": "元大金控代子公司元大商業銀行公告董事會決議，申請\r\n115年度第二次無擔保主順位金融債券循環發行額度\r\n新臺幣壹佰億元整",
+          "published_at": "2026-09-24T16:08:55+08:00",
+          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "464925befa4f14c3fe8dc588",
+          "code": "2885",
+          "title": "元大金控代子公司元大證券公告董事會通過對關係人\r\n捐贈事宜",
+          "published_at": "2026-09-24T15:11:06+08:00",
+          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "545094fa486f27a01b839a24",
+          "code": "2885",
+          "title": "元大金控代子公司元大證券\r\n公告新任薪資報酬委員會成員",
+          "published_at": "2026-09-24T15:06:33+08:00",
+          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "4f8a05bcf385293f255d2d23",
+          "code": "2885",
+          "title": "元大金控代子公司元大人壽公告董事會代行股東臨時會\r\n重要決議事項(通過修正取得或處分資產處理程序部分內容)",
+          "published_at": "2026-09-22T14:00:10+08:00",
+          "first_seen_at": "2026-09-23T08:47:14.557621+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "160119af759bbaa41bd486b4",
+          "code": "2885",
+          "title": "元大金控公告向元大銀行原租賃取得使用權資產範圍調整",
+          "published_at": "2026-09-21T18:17:41+08:00",
+          "first_seen_at": "2026-09-22T08:58:58.235416+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "5879788e64253003dd093380",
+          "code": "2885",
+          "title": "公告本公司擬於民國115年9月18日受邀參加第一金證券舉行之線上投資人會議",
+          "published_at": "2026-09-15T15:08:11+08:00",
+          "first_seen_at": "2026-09-16T08:35:57.247494+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "含推測、否認或澄清語句，僅列入觀察"
+        },
+        {
+          "id": "a6bcca0b60fab7705c215809",
+          "code": "2885",
+          "title": "元大金控代子公司元大證金公告\r\n財務主管及會計主管異動",
+          "published_at": "2026-09-14T14:45:34+08:00",
+          "first_seen_at": "2026-09-15T08:45:42.818043+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        }
+      ]
+    },
+    {
       "code": "6415",
       "name": "矽力*-KY",
       "original_score": 63.86006289308176,
@@ -5943,6 +5890,73 @@
       "events": []
     },
     {
+      "code": "4961",
+      "name": "天鈺",
+      "original_score": 63.57704402515724,
+      "message_score": 50.0,
+      "score": 62.21933962264152,
+      "evidence_status": "未知／未達門檻",
+      "contributions": [
+        {
+          "category": "訂單",
+          "points": 0.0
+        },
+        {
+          "category": "新聞話題",
+          "points": 0.0
+        },
+        {
+          "category": "龍頭地位",
+          "points": 0.0
+        },
+        {
+          "category": "專利技術",
+          "points": 0.0
+        }
+      ],
+      "events": [
+        {
+          "id": "31527c8ae66fb663d7ed4932",
+          "code": "4961",
+          "title": "代重要子公司恆豐有限公司公告董事會決議發放股利",
+          "published_at": "2026-09-24T15:12:28+08:00",
+          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "dc11ef9b0f0c022aed44f77d",
+          "code": "4961",
+          "title": "代重要子公司深圳天德鈺科技股份有限公司發佈關於召開\r\n2026年半年度業績說明會的公告",
+          "published_at": "2026-09-21T16:37:43+08:00",
+          "first_seen_at": "2026-09-22T08:58:58.235416+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "7aaff42955590b6495dd212f",
+          "code": "4961",
+          "title": "代重要子公司深圳天德鈺科技股份有限公司公告處分有價證券",
+          "published_at": "2026-09-14T19:51:41+08:00",
+          "first_seen_at": "2026-09-15T08:45:42.818043+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        }
+      ]
+    },
+    {
       "code": "1708",
       "name": "東鹼",
       "original_score": 63.56918238993709,
@@ -6051,142 +6065,6 @@
       "events": []
     },
     {
-      "code": "2354",
-      "name": "鴻準",
-      "original_score": 63.02044025157233,
-      "message_score": 50.0,
-      "score": 61.7183962264151,
-      "evidence_status": "未知／未達門檻",
-      "contributions": [
-        {
-          "category": "訂單",
-          "points": 0.0
-        },
-        {
-          "category": "新聞話題",
-          "points": 0.0
-        },
-        {
-          "category": "龍頭地位",
-          "points": 0.0
-        },
-        {
-          "category": "專利技術",
-          "points": 0.0
-        }
-      ],
-      "events": [
-        {
-          "id": "253e1cb07c447166ddd46908",
-          "code": "2354",
-          "title": "代子公司FTC Japan Co., Ltd.公告取得不動產",
-          "published_at": "2026-09-24T15:46:11+08:00",
-          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        }
-      ]
-    },
-    {
-      "code": "3003",
-      "name": "健和興",
-      "original_score": 62.863207547169814,
-      "message_score": 50.0,
-      "score": 61.57688679245283,
-      "evidence_status": "未知／未達門檻",
-      "contributions": [
-        {
-          "category": "訂單",
-          "points": 0.0
-        },
-        {
-          "category": "新聞話題",
-          "points": 0.0
-        },
-        {
-          "category": "龍頭地位",
-          "points": 0.0
-        },
-        {
-          "category": "專利技術",
-          "points": 0.0
-        }
-      ],
-      "events": [
-        {
-          "id": "c59c166ffc0527e9d29aa0bd",
-          "code": "3003",
-          "title": "更正背書保證資訊",
-          "published_at": "2026-09-24T15:33:31+08:00",
-          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "32a25a9df4c51931c293d175",
-          "code": "3003",
-          "title": "公告本公司115年08月份自結損益",
-          "published_at": "2026-09-15T16:46:20+08:00",
-          "first_seen_at": "2026-09-16T08:35:57.247494+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        }
-      ]
-    },
-    {
-      "code": "3717",
-      "name": "聯嘉投控",
-      "original_score": 62.76100628930817,
-      "message_score": 50.0,
-      "score": 61.48490566037736,
-      "evidence_status": "未知／未達門檻",
-      "contributions": [
-        {
-          "category": "訂單",
-          "points": 0.0
-        },
-        {
-          "category": "新聞話題",
-          "points": 0.0
-        },
-        {
-          "category": "龍頭地位",
-          "points": 0.0
-        },
-        {
-          "category": "專利技術",
-          "points": 0.0
-        }
-      ],
-      "events": [
-        {
-          "id": "9a1ae01d3f285fd3d2e97a43",
-          "code": "3717",
-          "title": "受邀參加德信綜合證券舉辦之法人說明會",
-          "published_at": "2026-09-24T22:21:45+08:00",
-          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        }
-      ]
-    },
-    {
       "code": "2615",
       "name": "萬海",
       "original_score": 62.75943396226415,
@@ -6266,60 +6144,6 @@
         }
       ],
       "events": []
-    },
-    {
-      "code": "6239",
-      "name": "力成",
-      "original_score": 62.20283018867925,
-      "message_score": 50.0,
-      "score": 60.982547169811326,
-      "evidence_status": "未知／未達門檻",
-      "contributions": [
-        {
-          "category": "訂單",
-          "points": 0.0
-        },
-        {
-          "category": "新聞話題",
-          "points": 0.0
-        },
-        {
-          "category": "龍頭地位",
-          "points": 0.0
-        },
-        {
-          "category": "專利技術",
-          "points": 0.0
-        }
-      ],
-      "events": [
-        {
-          "id": "c6a63806d142786676cf9df3",
-          "code": "6239",
-          "title": "公告本公司買回股份之&#12198;額達新台幣三億元以上",
-          "published_at": "2026-09-21T15:38:26+08:00",
-          "first_seen_at": "2026-09-22T08:58:58.235416+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "f95f688474934a0fe50e0140",
-          "code": "6239",
-          "title": "更正及補充115年8月7日公告本公司與Broadcom於新加坡共同設立\r\n面板級先進封裝業務製造之合資公司",
-          "published_at": "2026-09-15T18:05:23+08:00",
-          "first_seen_at": "2026-09-16T08:35:57.247494+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        }
-      ]
     },
     {
       "code": "6202",
@@ -6431,6 +6255,47 @@
       ]
     },
     {
+      "code": "2354",
+      "name": "鴻準",
+      "original_score": 62.02044025157233,
+      "message_score": 50.0,
+      "score": 60.818396226415096,
+      "evidence_status": "未知／未達門檻",
+      "contributions": [
+        {
+          "category": "訂單",
+          "points": 0.0
+        },
+        {
+          "category": "新聞話題",
+          "points": 0.0
+        },
+        {
+          "category": "龍頭地位",
+          "points": 0.0
+        },
+        {
+          "category": "專利技術",
+          "points": 0.0
+        }
+      ],
+      "events": [
+        {
+          "id": "253e1cb07c447166ddd46908",
+          "code": "2354",
+          "title": "代子公司FTC Japan Co., Ltd.公告取得不動產",
+          "published_at": "2026-09-24T15:46:11+08:00",
+          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        }
+      ]
+    },
+    {
       "code": "3090",
       "name": "日電貿",
       "original_score": 61.95754716981133,
@@ -6456,6 +6321,60 @@
         }
       ],
       "events": []
+    },
+    {
+      "code": "3003",
+      "name": "健和興",
+      "original_score": 61.863207547169814,
+      "message_score": 50.0,
+      "score": 60.676886792452834,
+      "evidence_status": "未知／未達門檻",
+      "contributions": [
+        {
+          "category": "訂單",
+          "points": 0.0
+        },
+        {
+          "category": "新聞話題",
+          "points": 0.0
+        },
+        {
+          "category": "龍頭地位",
+          "points": 0.0
+        },
+        {
+          "category": "專利技術",
+          "points": 0.0
+        }
+      ],
+      "events": [
+        {
+          "id": "c59c166ffc0527e9d29aa0bd",
+          "code": "3003",
+          "title": "更正背書保證資訊",
+          "published_at": "2026-09-24T15:33:31+08:00",
+          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "32a25a9df4c51931c293d175",
+          "code": "3003",
+          "title": "公告本公司115年08月份自結損益",
+          "published_at": "2026-09-15T16:46:20+08:00",
+          "first_seen_at": "2026-09-16T08:35:57.247494+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        }
+      ]
     },
     {
       "code": "3591",
@@ -6564,6 +6483,47 @@
         }
       ],
       "events": []
+    },
+    {
+      "code": "3717",
+      "name": "聯嘉投控",
+      "original_score": 61.76100628930817,
+      "message_score": 50.0,
+      "score": 60.58490566037735,
+      "evidence_status": "未知／未達門檻",
+      "contributions": [
+        {
+          "category": "訂單",
+          "points": 0.0
+        },
+        {
+          "category": "新聞話題",
+          "points": 0.0
+        },
+        {
+          "category": "龍頭地位",
+          "points": 0.0
+        },
+        {
+          "category": "專利技術",
+          "points": 0.0
+        }
+      ],
+      "events": [
+        {
+          "id": "9a1ae01d3f285fd3d2e97a43",
+          "code": "3717",
+          "title": "受邀參加德信綜合證券舉辦之法人說明會",
+          "published_at": "2026-09-24T22:21:45+08:00",
+          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        }
+      ]
     },
     {
       "code": "3535",
@@ -6780,6 +6740,60 @@
         }
       ],
       "events": []
+    },
+    {
+      "code": "6239",
+      "name": "力成",
+      "original_score": 61.20283018867925,
+      "message_score": 50.0,
+      "score": 60.08254716981133,
+      "evidence_status": "未知／未達門檻",
+      "contributions": [
+        {
+          "category": "訂單",
+          "points": 0.0
+        },
+        {
+          "category": "新聞話題",
+          "points": 0.0
+        },
+        {
+          "category": "龍頭地位",
+          "points": 0.0
+        },
+        {
+          "category": "專利技術",
+          "points": 0.0
+        }
+      ],
+      "events": [
+        {
+          "id": "c6a63806d142786676cf9df3",
+          "code": "6239",
+          "title": "公告本公司買回股份之&#12198;額達新台幣三億元以上",
+          "published_at": "2026-09-21T15:38:26+08:00",
+          "first_seen_at": "2026-09-22T08:58:58.235416+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "f95f688474934a0fe50e0140",
+          "code": "6239",
+          "title": "更正及補充115年8月7日公告本公司與Broadcom於新加坡共同設立\r\n面板級先進封裝業務製造之合資公司",
+          "published_at": "2026-09-15T18:05:23+08:00",
+          "first_seen_at": "2026-09-16T08:35:57.247494+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        }
+      ]
     },
     {
       "code": "1795",
@@ -7134,86 +7148,6 @@
           "title": "公告本公司現金減資換發股票作業計畫及減資換票基準日等\r\n相關事宜",
           "published_at": "2026-09-15T17:41:50+08:00",
           "first_seen_at": "2026-09-16T08:35:57.247494+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        }
-      ]
-    },
-    {
-      "code": "5284",
-      "name": "jpp-KY",
-      "original_score": 59.808176100628934,
-      "message_score": 50.0,
-      "score": 58.82735849056604,
-      "evidence_status": "未知／未達門檻",
-      "contributions": [
-        {
-          "category": "訂單",
-          "points": 0.0
-        },
-        {
-          "category": "新聞話題",
-          "points": 0.0
-        },
-        {
-          "category": "龍頭地位",
-          "points": 0.0
-        },
-        {
-          "category": "專利技術",
-          "points": 0.0
-        }
-      ],
-      "events": [
-        {
-          "id": "b78e3d9e10aff2ca4d5363af",
-          "code": "5284",
-          "title": "公告因應本公司完成現金增資擬對子公司經寶泰國投資案",
-          "published_at": "2026-09-24T17:37:08+08:00",
-          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "含推測、否認或澄清語句，僅列入觀察"
-        },
-        {
-          "id": "5c04eab9380d4ba7b70f00f1",
-          "code": "5284",
-          "title": "代重要子公司公告董事會決議2026年現金增資案",
-          "published_at": "2026-09-24T17:35:47+08:00",
-          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "1c45b9cb6c564f1793448cc9",
-          "code": "5284",
-          "title": "代重要子公司經寶泰國公告召開股東臨時會相關事宜。",
-          "published_at": "2026-09-24T17:34:18+08:00",
-          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "f2a7a1c667ba99adb8dbb003",
-          "code": "5284",
-          "title": "本公司115年度現金增資收足股款暨增資基準日公告",
-          "published_at": "2026-09-17T16:38:59+08:00",
-          "first_seen_at": "2026-09-18T08:32:35.377850+08:00",
           "source": "證交所・公司重大訊息",
           "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
           "official": true,
@@ -8091,6 +8025,86 @@
       "events": []
     },
     {
+      "code": "5284",
+      "name": "jpp-KY",
+      "original_score": 56.808176100628934,
+      "message_score": 50.0,
+      "score": 56.12735849056604,
+      "evidence_status": "未知／未達門檻",
+      "contributions": [
+        {
+          "category": "訂單",
+          "points": 0.0
+        },
+        {
+          "category": "新聞話題",
+          "points": 0.0
+        },
+        {
+          "category": "龍頭地位",
+          "points": 0.0
+        },
+        {
+          "category": "專利技術",
+          "points": 0.0
+        }
+      ],
+      "events": [
+        {
+          "id": "b78e3d9e10aff2ca4d5363af",
+          "code": "5284",
+          "title": "公告因應本公司完成現金增資擬對子公司經寶泰國投資案",
+          "published_at": "2026-09-24T17:37:08+08:00",
+          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "含推測、否認或澄清語句，僅列入觀察"
+        },
+        {
+          "id": "5c04eab9380d4ba7b70f00f1",
+          "code": "5284",
+          "title": "代重要子公司公告董事會決議2026年現金增資案",
+          "published_at": "2026-09-24T17:35:47+08:00",
+          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "1c45b9cb6c564f1793448cc9",
+          "code": "5284",
+          "title": "代重要子公司經寶泰國公告召開股東臨時會相關事宜。",
+          "published_at": "2026-09-24T17:34:18+08:00",
+          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "f2a7a1c667ba99adb8dbb003",
+          "code": "5284",
+          "title": "本公司115年度現金增資收足股款暨增資基準日公告",
+          "published_at": "2026-09-17T16:38:59+08:00",
+          "first_seen_at": "2026-09-18T08:32:35.377850+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        }
+      ]
+    },
+    {
       "code": "6271",
       "name": "同欣電",
       "original_score": 56.76886792452831,
@@ -8317,47 +8331,6 @@
         }
       ],
       "events": []
-    },
-    {
-      "code": "7765",
-      "name": "中華資安",
-      "original_score": 56.49528301886792,
-      "message_score": 50.0,
-      "score": 55.84575471698113,
-      "evidence_status": "未知／未達門檻",
-      "contributions": [
-        {
-          "category": "訂單",
-          "points": 0.0
-        },
-        {
-          "category": "新聞話題",
-          "points": 0.0
-        },
-        {
-          "category": "龍頭地位",
-          "points": 0.0
-        },
-        {
-          "category": "專利技術",
-          "points": 0.0
-        }
-      ],
-      "events": [
-        {
-          "id": "4ff0b7521d85b1c28a2e4ada",
-          "code": "7765",
-          "title": "本公司內部稽核主管異動",
-          "published_at": "2026-09-24T15:11:44+08:00",
-          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        }
-      ]
     },
     {
       "code": "1736",
@@ -8722,6 +8695,47 @@
         }
       ],
       "events": []
+    },
+    {
+      "code": "7765",
+      "name": "中華資安",
+      "original_score": 55.49528301886792,
+      "message_score": 50.0,
+      "score": 54.945754716981135,
+      "evidence_status": "未知／未達門檻",
+      "contributions": [
+        {
+          "category": "訂單",
+          "points": 0.0
+        },
+        {
+          "category": "新聞話題",
+          "points": 0.0
+        },
+        {
+          "category": "龍頭地位",
+          "points": 0.0
+        },
+        {
+          "category": "專利技術",
+          "points": 0.0
+        }
+      ],
+      "events": [
+        {
+          "id": "4ff0b7521d85b1c28a2e4ada",
+          "code": "7765",
+          "title": "本公司內部稽核主管異動",
+          "published_at": "2026-09-24T15:11:44+08:00",
+          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        }
+      ]
     },
     {
       "code": "6416",
@@ -10090,47 +10104,6 @@
       "events": []
     },
     {
-      "code": "8422",
-      "name": "可寧衛*",
-      "original_score": 51.51100628930817,
-      "message_score": 50.0,
-      "score": 51.35990566037736,
-      "evidence_status": "未知／未達門檻",
-      "contributions": [
-        {
-          "category": "訂單",
-          "points": 0.0
-        },
-        {
-          "category": "新聞話題",
-          "points": 0.0
-        },
-        {
-          "category": "龍頭地位",
-          "points": 0.0
-        },
-        {
-          "category": "專利技術",
-          "points": 0.0
-        }
-      ],
-      "events": [
-        {
-          "id": "1a5dbfaee35db5bcf7a9ecb4",
-          "code": "8422",
-          "title": "本公司受邀參加永豐金證券法&#12040;說明會",
-          "published_at": "2026-09-24T14:03:39+08:00",
-          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        }
-      ]
-    },
-    {
       "code": "2355",
       "name": "敬鵬",
       "original_score": 51.391509433962256,
@@ -10523,6 +10496,47 @@
       ]
     },
     {
+      "code": "8422",
+      "name": "可寧衛*",
+      "original_score": 50.51100628930817,
+      "message_score": 50.0,
+      "score": 50.45990566037735,
+      "evidence_status": "未知／未達門檻",
+      "contributions": [
+        {
+          "category": "訂單",
+          "points": 0.0
+        },
+        {
+          "category": "新聞話題",
+          "points": 0.0
+        },
+        {
+          "category": "龍頭地位",
+          "points": 0.0
+        },
+        {
+          "category": "專利技術",
+          "points": 0.0
+        }
+      ],
+      "events": [
+        {
+          "id": "1a5dbfaee35db5bcf7a9ecb4",
+          "code": "8422",
+          "title": "本公司受邀參加永豐金證券法&#12040;說明會",
+          "published_at": "2026-09-24T14:03:39+08:00",
+          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        }
+      ]
+    },
+    {
       "code": "4722",
       "name": "國精化",
       "original_score": 50.369496855345915,
@@ -10793,138 +10807,6 @@
       "events": []
     },
     {
-      "code": "2881",
-      "name": "富邦金",
-      "original_score": 49.58490566037735,
-      "message_score": 50.0,
-      "score": 49.62641509433962,
-      "evidence_status": "未知／未達門檻",
-      "contributions": [
-        {
-          "category": "訂單",
-          "points": 0.0
-        },
-        {
-          "category": "新聞話題",
-          "points": 0.0
-        },
-        {
-          "category": "龍頭地位",
-          "points": 0.0
-        },
-        {
-          "category": "專利技術",
-          "points": 0.0
-        }
-      ],
-      "events": [
-        {
-          "id": "823478e818029c599bf633d2",
-          "code": "2881",
-          "title": "富邦金控代子公司台北富邦銀行公告關係人捐贈案",
-          "published_at": "2026-09-24T17:05:02+08:00",
-          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "b2df1f661a9bb45767904d1e",
-          "code": "2881",
-          "title": "富邦金控代子公司富邦銀行(香港)有限公司公告取得資產基礎證券\r\n(補充115/9/21公告)",
-          "published_at": "2026-09-22T19:37:08+08:00",
-          "first_seen_at": "2026-09-23T08:47:14.557621+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "1601dfeafa9061008fafe827",
-          "code": "2881",
-          "title": "富邦金控代子公司富邦銀行(香港)有限公司公告取得資產基礎證券",
-          "published_at": "2026-09-21T17:59:55+08:00",
-          "first_seen_at": "2026-09-22T08:58:58.235416+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "406345988221e65dc6494df1",
-          "code": "2881",
-          "title": "公告本公司參加BofA Securities 2026 Asia Pacific Conference",
-          "published_at": "2026-09-21T17:13:52+08:00",
-          "first_seen_at": "2026-09-22T08:58:58.235416+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "2879f035f8a1afd8fcd9004f",
-          "code": "2881",
-          "title": "富邦金控代越南富邦產物保險責任有限公司\r\n公告內部稽核主管異動",
-          "published_at": "2026-09-16T15:39:48+08:00",
-          "first_seen_at": "2026-09-17T08:44:23.506673+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "25547913c92652f7b2ab8d69",
-          "code": "2881",
-          "title": "富邦金控代越南富邦產物保險責任有限公司\r\n公告財務主管異動",
-          "published_at": "2026-09-16T15:38:00+08:00",
-          "first_seen_at": "2026-09-17T08:44:23.506673+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "89eceb2a8c890eb18ca2477c",
-          "code": "2881",
-          "title": "富邦金控代子公司富邦證券公告取得「富邦人壽保險股份有限公司」之使用權資產",
-          "published_at": "2026-09-15T16:05:18+08:00",
-          "first_seen_at": "2026-09-16T08:35:57.247494+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "728b672dac62c131a23fa86c",
-          "code": "2881",
-          "title": "公告本公司暨主要子公司115年8月合併自結損益",
-          "published_at": "2026-09-15T15:30:26+08:00",
-          "first_seen_at": "2026-09-16T08:35:57.247494+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        }
-      ]
-    },
-    {
       "code": "6191",
       "name": "精成科",
       "original_score": 49.567610062893074,
@@ -11168,47 +11050,6 @@
       "events": []
     },
     {
-      "code": "1210",
-      "name": "大成",
-      "original_score": 48.822327044025165,
-      "message_score": 50.0,
-      "score": 48.94009433962265,
-      "evidence_status": "未知／未達門檻",
-      "contributions": [
-        {
-          "category": "訂單",
-          "points": 0.0
-        },
-        {
-          "category": "新聞話題",
-          "points": 0.0
-        },
-        {
-          "category": "龍頭地位",
-          "points": 0.0
-        },
-        {
-          "category": "專利技術",
-          "points": 0.0
-        }
-      ],
-      "events": [
-        {
-          "id": "39e41f0e146af03b33ea356e",
-          "code": "1210",
-          "title": "代重要子公司中一食品股份有限公司公告新建蛋品加工廠",
-          "published_at": "2026-09-24T16:17:12+08:00",
-          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        }
-      ]
-    },
-    {
       "code": "2426",
       "name": "鼎元",
       "original_score": 48.78930817610063,
@@ -11321,6 +11162,138 @@
           "title": "公告本公司董事會決議通過收購歐洲水泥建材事業股權事宜",
           "published_at": "2026-09-23T06:31:17+08:00",
           "first_seen_at": "2026-09-24T08:39:06.911066+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        }
+      ]
+    },
+    {
+      "code": "2881",
+      "name": "富邦金",
+      "original_score": 48.58490566037735,
+      "message_score": 50.0,
+      "score": 48.726415094339615,
+      "evidence_status": "未知／未達門檻",
+      "contributions": [
+        {
+          "category": "訂單",
+          "points": 0.0
+        },
+        {
+          "category": "新聞話題",
+          "points": 0.0
+        },
+        {
+          "category": "龍頭地位",
+          "points": 0.0
+        },
+        {
+          "category": "專利技術",
+          "points": 0.0
+        }
+      ],
+      "events": [
+        {
+          "id": "823478e818029c599bf633d2",
+          "code": "2881",
+          "title": "富邦金控代子公司台北富邦銀行公告關係人捐贈案",
+          "published_at": "2026-09-24T17:05:02+08:00",
+          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "b2df1f661a9bb45767904d1e",
+          "code": "2881",
+          "title": "富邦金控代子公司富邦銀行(香港)有限公司公告取得資產基礎證券\r\n(補充115/9/21公告)",
+          "published_at": "2026-09-22T19:37:08+08:00",
+          "first_seen_at": "2026-09-23T08:47:14.557621+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "1601dfeafa9061008fafe827",
+          "code": "2881",
+          "title": "富邦金控代子公司富邦銀行(香港)有限公司公告取得資產基礎證券",
+          "published_at": "2026-09-21T17:59:55+08:00",
+          "first_seen_at": "2026-09-22T08:58:58.235416+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "406345988221e65dc6494df1",
+          "code": "2881",
+          "title": "公告本公司參加BofA Securities 2026 Asia Pacific Conference",
+          "published_at": "2026-09-21T17:13:52+08:00",
+          "first_seen_at": "2026-09-22T08:58:58.235416+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "2879f035f8a1afd8fcd9004f",
+          "code": "2881",
+          "title": "富邦金控代越南富邦產物保險責任有限公司\r\n公告內部稽核主管異動",
+          "published_at": "2026-09-16T15:39:48+08:00",
+          "first_seen_at": "2026-09-17T08:44:23.506673+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "25547913c92652f7b2ab8d69",
+          "code": "2881",
+          "title": "富邦金控代越南富邦產物保險責任有限公司\r\n公告財務主管異動",
+          "published_at": "2026-09-16T15:38:00+08:00",
+          "first_seen_at": "2026-09-17T08:44:23.506673+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "89eceb2a8c890eb18ca2477c",
+          "code": "2881",
+          "title": "富邦金控代子公司富邦證券公告取得「富邦人壽保險股份有限公司」之使用權資產",
+          "published_at": "2026-09-15T16:05:18+08:00",
+          "first_seen_at": "2026-09-16T08:35:57.247494+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "728b672dac62c131a23fa86c",
+          "code": "2881",
+          "title": "公告本公司暨主要子公司115年8月合併自結損益",
+          "published_at": "2026-09-15T15:30:26+08:00",
+          "first_seen_at": "2026-09-16T08:35:57.247494+08:00",
           "source": "證交所・公司重大訊息",
           "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
           "official": true,
@@ -11572,6 +11545,47 @@
         }
       ],
       "events": []
+    },
+    {
+      "code": "1210",
+      "name": "大成",
+      "original_score": 47.822327044025165,
+      "message_score": 50.0,
+      "score": 48.04009433962265,
+      "evidence_status": "未知／未達門檻",
+      "contributions": [
+        {
+          "category": "訂單",
+          "points": 0.0
+        },
+        {
+          "category": "新聞話題",
+          "points": 0.0
+        },
+        {
+          "category": "龍頭地位",
+          "points": 0.0
+        },
+        {
+          "category": "專利技術",
+          "points": 0.0
+        }
+      ],
+      "events": [
+        {
+          "id": "39e41f0e146af03b33ea356e",
+          "code": "1210",
+          "title": "代重要子公司中一食品股份有限公司公告新建蛋品加工廠",
+          "published_at": "2026-09-24T16:17:12+08:00",
+          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        }
+      ]
     },
     {
       "code": "2646",
@@ -13156,73 +13170,6 @@
       ]
     },
     {
-      "code": "1477",
-      "name": "聚陽",
-      "original_score": 43.84591194968554,
-      "message_score": 50.0,
-      "score": 44.461320754716986,
-      "evidence_status": "未知／未達門檻",
-      "contributions": [
-        {
-          "category": "訂單",
-          "points": 0.0
-        },
-        {
-          "category": "新聞話題",
-          "points": 0.0
-        },
-        {
-          "category": "龍頭地位",
-          "points": 0.0
-        },
-        {
-          "category": "專利技術",
-          "points": 0.0
-        }
-      ],
-      "events": [
-        {
-          "id": "9d7ec9f3262ca0e33606bc61",
-          "code": "1477",
-          "title": "本公司受邀參加國票證券舉辦之法人說明會",
-          "published_at": "2026-09-24T15:05:43+08:00",
-          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "432973719a74fc307f8649e8",
-          "code": "1477",
-          "title": "本公司受邀參加BofA舉辦之「2026 Asia Pacific Conference」",
-          "published_at": "2026-09-21T15:59:41+08:00",
-          "first_seen_at": "2026-09-22T08:58:58.235416+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "b4ef73f452c74064ea5c0012",
-          "code": "1477",
-          "title": "本公司受邀參加永豐金證券舉辦之2026年第三季產業投資論壇",
-          "published_at": "2026-09-14T15:50:49+08:00",
-          "first_seen_at": "2026-09-15T08:45:42.818043+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        }
-      ]
-    },
-    {
       "code": "1514",
       "name": "亞力",
       "original_score": 43.83647798742138,
@@ -13519,6 +13466,19 @@
         }
       ],
       "events": [
+        {
+          "id": "a4958f4b0700260c683fd126",
+          "code": "1301",
+          "title": "台塑石化28日起汽柴油價格不調整",
+          "published_at": "2026-09-27T14:12:42+08:00",
+          "first_seen_at": "2026-09-28T08:58:23.658196+08:00",
+          "source": "中央通訊社・產經",
+          "url": "https://www.cna.com.tw/news/ahel/202609270095.aspx",
+          "official": false,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
         {
           "id": "c85f3e9be4fc0780c7de2185",
           "code": "1301",
@@ -13829,6 +13789,73 @@
       ]
     },
     {
+      "code": "1477",
+      "name": "聚陽",
+      "original_score": 42.84591194968554,
+      "message_score": 50.0,
+      "score": 43.56132075471698,
+      "evidence_status": "未知／未達門檻",
+      "contributions": [
+        {
+          "category": "訂單",
+          "points": 0.0
+        },
+        {
+          "category": "新聞話題",
+          "points": 0.0
+        },
+        {
+          "category": "龍頭地位",
+          "points": 0.0
+        },
+        {
+          "category": "專利技術",
+          "points": 0.0
+        }
+      ],
+      "events": [
+        {
+          "id": "9d7ec9f3262ca0e33606bc61",
+          "code": "1477",
+          "title": "本公司受邀參加國票證券舉辦之法人說明會",
+          "published_at": "2026-09-24T15:05:43+08:00",
+          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "432973719a74fc307f8649e8",
+          "code": "1477",
+          "title": "本公司受邀參加BofA舉辦之「2026 Asia Pacific Conference」",
+          "published_at": "2026-09-21T15:59:41+08:00",
+          "first_seen_at": "2026-09-22T08:58:58.235416+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "b4ef73f452c74064ea5c0012",
+          "code": "1477",
+          "title": "本公司受邀參加永豐金證券舉辦之2026年第三季產業投資論壇",
+          "published_at": "2026-09-14T15:50:49+08:00",
+          "first_seen_at": "2026-09-15T08:45:42.818043+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        }
+      ]
+    },
+    {
       "code": "6449",
       "name": "鈺邦",
       "original_score": 42.83018867924528,
@@ -13908,60 +13935,6 @@
         }
       ],
       "events": []
-    },
-    {
-      "code": "9933",
-      "name": "中鼎",
-      "original_score": 42.666666666666664,
-      "message_score": 50.0,
-      "score": 43.4,
-      "evidence_status": "未知／未達門檻",
-      "contributions": [
-        {
-          "category": "訂單",
-          "points": 0.0
-        },
-        {
-          "category": "新聞話題",
-          "points": 0.0
-        },
-        {
-          "category": "龍頭地位",
-          "points": 0.0
-        },
-        {
-          "category": "專利技術",
-          "points": 0.0
-        }
-      ],
-      "events": [
-        {
-          "id": "4736ad3f721ba2f74eed9916",
-          "code": "9933",
-          "title": "本公司代重要子公司俊鼎機械廠股份有限公司公告\r\n董事會決議發放115年第二季現金股利",
-          "published_at": "2026-09-24T15:45:38+08:00",
-          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "9d99c2741993dbb39e9494e0",
-          "code": "9933",
-          "title": "本公司代子公司中鼎海外有限公司公告新增\r\n資金貸與金額達公開發行公司資金貸與及背書保證處理準則\r\n第二十二條第一項第三款標準",
-          "published_at": "2026-09-14T15:54:21+08:00",
-          "first_seen_at": "2026-09-15T08:45:42.818043+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        }
-      ]
     },
     {
       "code": "1563",
@@ -14380,11 +14353,11 @@
       ]
     },
     {
-      "code": "1314",
-      "name": "中石化",
-      "original_score": 41.66981132075472,
+      "code": "9933",
+      "name": "中鼎",
+      "original_score": 41.666666666666664,
       "message_score": 50.0,
-      "score": 42.50283018867925,
+      "score": 42.5,
       "evidence_status": "未知／未達門檻",
       "contributions": [
         {
@@ -14406,10 +14379,10 @@
       ],
       "events": [
         {
-          "id": "96914ef3d395a01f77cbbcbe",
-          "code": "1314",
-          "title": "代重要子公司鼎越開發(股)公司公告董事會決議\r\n辦理現金增資發行新股",
-          "published_at": "2026-09-24T18:59:39+08:00",
+          "id": "4736ad3f721ba2f74eed9916",
+          "code": "9933",
+          "title": "本公司代重要子公司俊鼎機械廠股份有限公司公告\r\n董事會決議發放115年第二季現金股利",
+          "published_at": "2026-09-24T15:45:38+08:00",
           "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
           "source": "證交所・公司重大訊息",
           "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
@@ -14419,143 +14392,11 @@
           "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
         },
         {
-          "id": "4626206e8b32328bf53ba311",
-          "code": "1314",
-          "title": "公告重要子公司鼎越開發董事會通過與聯貸金融機構\r\n簽訂增補合約案",
-          "published_at": "2026-09-24T18:59:16+08:00",
-          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "ec83e67aaaef9b8ca4a9b173",
-          "code": "1314",
-          "title": "中石化資產活化拚轉型　鎖定AIDC、儲能與環保",
-          "published_at": "2026-09-17T14:30:24+08:00",
-          "first_seen_at": "2026-09-17T20:09:39.861040+08:00",
-          "source": "中央通訊社・產經",
-          "url": "https://www.cna.com.tw/news/afe/202609170155.aspx",
-          "official": false,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "ddbd08a248c9588777a274ba",
-          "code": "1314",
-          "title": "代重要子公司鼎越開發(股)公司公告接獲臺灣高等法院\r\n撤銷台北市松山區西松段三小段156地號土地扣押刑事裁定。",
-          "published_at": "2026-09-16T19:28:02+08:00",
-          "first_seen_at": "2026-09-17T08:44:23.506673+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        }
-      ]
-    },
-    {
-      "code": "2884",
-      "name": "玉山金",
-      "original_score": 41.66981132075472,
-      "message_score": 50.0,
-      "score": 42.50283018867925,
-      "evidence_status": "未知／未達門檻",
-      "contributions": [
-        {
-          "category": "訂單",
-          "points": 0.0
-        },
-        {
-          "category": "新聞話題",
-          "points": 0.0
-        },
-        {
-          "category": "龍頭地位",
-          "points": 0.0
-        },
-        {
-          "category": "專利技術",
-          "points": 0.0
-        }
-      ],
-      "events": [
-        {
-          "id": "59614ad061f9c461c1381151",
-          "code": "2884",
-          "title": "玉山金控代子公司三商美邦人壽公告私募發行普通股\r\n之現金增資基準日",
-          "published_at": "2026-09-24T16:49:16+08:00",
-          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "85a0c127c8f9aaea00e68f20",
-          "code": "2884",
-          "title": "玉山金控代子公司玉山投信發布內部稽核主管異動",
-          "published_at": "2026-09-24T15:55:00+08:00",
-          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "2c4d77def5ee555b3fae39ab",
-          "code": "2884",
-          "title": "玉山金控併購三商保代　公平會點頭通過",
-          "published_at": "2026-09-23T17:10:38+08:00",
-          "first_seen_at": "2026-09-23T20:15:18.590647+08:00",
-          "source": "中央通訊社・產經",
-          "url": "https://www.cna.com.tw/news/afe/202609230250.aspx",
-          "official": false,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "04d944abac9e16bbec3c69a3",
-          "code": "2884",
-          "title": "玉山金控代子公司玉山銀行公告捐贈予玉山志工基金會",
-          "published_at": "2026-09-21T14:03:51+08:00",
-          "first_seen_at": "2026-09-22T08:58:58.235416+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "733d3a351d3532679b8fc625",
-          "code": "2884",
-          "title": "玉山金控代子公司三商美邦人壽公告財務主管異動",
-          "published_at": "2026-09-15T17:18:16+08:00",
-          "first_seen_at": "2026-09-16T08:35:57.247494+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "70f6d36e816dc6723471b146",
-          "code": "2884",
-          "title": "玉山金控代子公司三商美邦人壽公告內部稽核主管異動",
-          "published_at": "2026-09-15T17:17:48+08:00",
-          "first_seen_at": "2026-09-16T08:35:57.247494+08:00",
+          "id": "9d99c2741993dbb39e9494e0",
+          "code": "9933",
+          "title": "本公司代子公司中鼎海外有限公司公告新增\r\n資金貸與金額達公開發行公司資金貸與及背書保證處理準則\r\n第二十二條第一項第三款標準",
+          "published_at": "2026-09-14T15:54:21+08:00",
+          "first_seen_at": "2026-09-15T08:45:42.818043+08:00",
           "source": "證交所・公司重大訊息",
           "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
           "official": true,
@@ -14918,11 +14759,1004 @@
       "events": []
     },
     {
+      "code": "6689",
+      "name": "伊雲谷",
+      "original_score": 40.01572327044025,
+      "message_score": 50.0,
+      "score": 41.014150943396224,
+      "evidence_status": "未知／未達門檻",
+      "contributions": [
+        {
+          "category": "訂單",
+          "points": 0.0
+        },
+        {
+          "category": "新聞話題",
+          "points": 0.0
+        },
+        {
+          "category": "龍頭地位",
+          "points": 0.0
+        },
+        {
+          "category": "專利技術",
+          "points": 0.0
+        }
+      ],
+      "events": []
+    },
+    {
+      "code": "1597",
+      "name": "直得",
+      "original_score": 39.9685534591195,
+      "message_score": 50.0,
+      "score": 40.97169811320755,
+      "evidence_status": "未知／未達門檻",
+      "contributions": [
+        {
+          "category": "訂單",
+          "points": 0.0
+        },
+        {
+          "category": "新聞話題",
+          "points": 0.0
+        },
+        {
+          "category": "龍頭地位",
+          "points": 0.0
+        },
+        {
+          "category": "專利技術",
+          "points": 0.0
+        }
+      ],
+      "events": []
+    },
+    {
+      "code": "3481",
+      "name": "群創",
+      "original_score": 39.874213836477985,
+      "message_score": 50.0,
+      "score": 40.886792452830186,
+      "evidence_status": "未知／未達門檻",
+      "contributions": [
+        {
+          "category": "訂單",
+          "points": 0.0
+        },
+        {
+          "category": "新聞話題",
+          "points": 0.0
+        },
+        {
+          "category": "龍頭地位",
+          "points": 0.0
+        },
+        {
+          "category": "專利技術",
+          "points": 0.0
+        }
+      ],
+      "events": [
+        {
+          "id": "70c355ac8b955fd3f2e09e7c",
+          "code": "3481",
+          "title": "代重要子公司Innolux Hong Kong Holding Limited\r\n公告股東會重要決議事項",
+          "published_at": "2026-09-14T14:47:20+08:00",
+          "first_seen_at": "2026-09-15T08:45:42.818043+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        }
+      ]
+    },
+    {
+      "code": "7799",
+      "name": "禾榮科",
+      "original_score": 39.86635220125786,
+      "message_score": 50.0,
+      "score": 40.87971698113208,
+      "evidence_status": "未知／未達門檻",
+      "contributions": [
+        {
+          "category": "訂單",
+          "points": 0.0
+        },
+        {
+          "category": "新聞話題",
+          "points": 0.0
+        },
+        {
+          "category": "龍頭地位",
+          "points": 0.0
+        },
+        {
+          "category": "專利技術",
+          "points": 0.0
+        }
+      ],
+      "events": []
+    },
+    {
+      "code": "1314",
+      "name": "中石化",
+      "original_score": 39.66981132075472,
+      "message_score": 50.0,
+      "score": 40.70283018867925,
+      "evidence_status": "未知／未達門檻",
+      "contributions": [
+        {
+          "category": "訂單",
+          "points": 0.0
+        },
+        {
+          "category": "新聞話題",
+          "points": 0.0
+        },
+        {
+          "category": "龍頭地位",
+          "points": 0.0
+        },
+        {
+          "category": "專利技術",
+          "points": 0.0
+        }
+      ],
+      "events": [
+        {
+          "id": "96914ef3d395a01f77cbbcbe",
+          "code": "1314",
+          "title": "代重要子公司鼎越開發(股)公司公告董事會決議\r\n辦理現金增資發行新股",
+          "published_at": "2026-09-24T18:59:39+08:00",
+          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "4626206e8b32328bf53ba311",
+          "code": "1314",
+          "title": "公告重要子公司鼎越開發董事會通過與聯貸金融機構\r\n簽訂增補合約案",
+          "published_at": "2026-09-24T18:59:16+08:00",
+          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "ec83e67aaaef9b8ca4a9b173",
+          "code": "1314",
+          "title": "中石化資產活化拚轉型　鎖定AIDC、儲能與環保",
+          "published_at": "2026-09-17T14:30:24+08:00",
+          "first_seen_at": "2026-09-17T20:09:39.861040+08:00",
+          "source": "中央通訊社・產經",
+          "url": "https://www.cna.com.tw/news/afe/202609170155.aspx",
+          "official": false,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "ddbd08a248c9588777a274ba",
+          "code": "1314",
+          "title": "代重要子公司鼎越開發(股)公司公告接獲臺灣高等法院\r\n撤銷台北市松山區西松段三小段156地號土地扣押刑事裁定。",
+          "published_at": "2026-09-16T19:28:02+08:00",
+          "first_seen_at": "2026-09-17T08:44:23.506673+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        }
+      ]
+    },
+    {
+      "code": "2884",
+      "name": "玉山金",
+      "original_score": 39.66981132075472,
+      "message_score": 50.0,
+      "score": 40.70283018867925,
+      "evidence_status": "未知／未達門檻",
+      "contributions": [
+        {
+          "category": "訂單",
+          "points": 0.0
+        },
+        {
+          "category": "新聞話題",
+          "points": 0.0
+        },
+        {
+          "category": "龍頭地位",
+          "points": 0.0
+        },
+        {
+          "category": "專利技術",
+          "points": 0.0
+        }
+      ],
+      "events": [
+        {
+          "id": "59614ad061f9c461c1381151",
+          "code": "2884",
+          "title": "玉山金控代子公司三商美邦人壽公告私募發行普通股\r\n之現金增資基準日",
+          "published_at": "2026-09-24T16:49:16+08:00",
+          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "85a0c127c8f9aaea00e68f20",
+          "code": "2884",
+          "title": "玉山金控代子公司玉山投信發布內部稽核主管異動",
+          "published_at": "2026-09-24T15:55:00+08:00",
+          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "2c4d77def5ee555b3fae39ab",
+          "code": "2884",
+          "title": "玉山金控併購三商保代　公平會點頭通過",
+          "published_at": "2026-09-23T17:10:38+08:00",
+          "first_seen_at": "2026-09-23T20:15:18.590647+08:00",
+          "source": "中央通訊社・產經",
+          "url": "https://www.cna.com.tw/news/afe/202609230250.aspx",
+          "official": false,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "04d944abac9e16bbec3c69a3",
+          "code": "2884",
+          "title": "玉山金控代子公司玉山銀行公告捐贈予玉山志工基金會",
+          "published_at": "2026-09-21T14:03:51+08:00",
+          "first_seen_at": "2026-09-22T08:58:58.235416+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "733d3a351d3532679b8fc625",
+          "code": "2884",
+          "title": "玉山金控代子公司三商美邦人壽公告財務主管異動",
+          "published_at": "2026-09-15T17:18:16+08:00",
+          "first_seen_at": "2026-09-16T08:35:57.247494+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "70f6d36e816dc6723471b146",
+          "code": "2884",
+          "title": "玉山金控代子公司三商美邦人壽公告內部稽核主管異動",
+          "published_at": "2026-09-15T17:17:48+08:00",
+          "first_seen_at": "2026-09-16T08:35:57.247494+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        }
+      ]
+    },
+    {
+      "code": "4585",
+      "name": "達明",
+      "original_score": 39.42610062893082,
+      "message_score": 50.0,
+      "score": 40.48349056603774,
+      "evidence_status": "未知／未達門檻",
+      "contributions": [
+        {
+          "category": "訂單",
+          "points": 0.0
+        },
+        {
+          "category": "新聞話題",
+          "points": 0.0
+        },
+        {
+          "category": "龍頭地位",
+          "points": 0.0
+        },
+        {
+          "category": "專利技術",
+          "points": 0.0
+        }
+      ],
+      "events": []
+    },
+    {
+      "code": "2883",
+      "name": "凱基金",
+      "original_score": 39.23742138364779,
+      "message_score": 50.0,
+      "score": 40.31367924528301,
+      "evidence_status": "未知／未達門檻",
+      "contributions": [
+        {
+          "category": "訂單",
+          "points": 0.0
+        },
+        {
+          "category": "新聞話題",
+          "points": 0.0
+        },
+        {
+          "category": "龍頭地位",
+          "points": 0.0
+        },
+        {
+          "category": "專利技術",
+          "points": 0.0
+        }
+      ],
+      "events": [
+        {
+          "id": "56588279fa33cca2d331d737",
+          "code": "2883",
+          "title": "代子公司凱基人壽公告取得台北市不動產",
+          "published_at": "2026-09-23T18:00:26+08:00",
+          "first_seen_at": "2026-09-24T08:39:06.911066+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "0194ae5c7e31f12b52cb7d3f",
+          "code": "2883",
+          "title": "代子公司凱基證券所屬之凱基期貨股份有限公司公告\r\n董事會決議通過發行有擔保暨無擔保次順位普通公司債",
+          "published_at": "2026-09-23T18:00:12+08:00",
+          "first_seen_at": "2026-09-24T08:39:06.911066+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "21a7a511e220149e093d3d1d",
+          "code": "2883",
+          "title": "代子公司凱基證券公告114年度股票股利配股基準日",
+          "published_at": "2026-09-22T16:37:54+08:00",
+          "first_seen_at": "2026-09-23T08:47:14.557621+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "caf31f14bc8a926ed5826b59",
+          "code": "2883",
+          "title": "代子公司開發資本所屬之資本管顧公告董事會決議參與\r\n投資ESMC基金",
+          "published_at": "2026-09-21T17:40:30+08:00",
+          "first_seen_at": "2026-09-22T08:58:58.235416+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "b6b1a11445ee7941059d1f20",
+          "code": "2883",
+          "title": "代子公司開發資本所屬之資本管顧及開發創投公告\r\n董事會決議參與投資中華開發豪覓基金",
+          "published_at": "2026-09-21T17:40:15+08:00",
+          "first_seen_at": "2026-09-22T08:58:58.235416+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        }
+      ]
+    },
+    {
+      "code": "5876",
+      "name": "上海商銀",
+      "original_score": 39.15094339622642,
+      "message_score": 50.0,
+      "score": 40.235849056603776,
+      "evidence_status": "未知／未達門檻",
+      "contributions": [
+        {
+          "category": "訂單",
+          "points": 0.0
+        },
+        {
+          "category": "新聞話題",
+          "points": 0.0
+        },
+        {
+          "category": "龍頭地位",
+          "points": 0.0
+        },
+        {
+          "category": "專利技術",
+          "points": 0.0
+        }
+      ],
+      "events": [
+        {
+          "id": "d28f18dbda8e4de85e024da2",
+          "code": "5876",
+          "title": "公告本行發行一百一十五年度第一期次順位金融債新臺幣30億元整\r\n(補充114/08/15公告)",
+          "published_at": "2026-09-24T15:10:36+08:00",
+          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        }
+      ]
+    },
+    {
+      "code": "1605",
+      "name": "華新",
+      "original_score": 39.009433962264154,
+      "message_score": 50.0,
+      "score": 40.10849056603774,
+      "evidence_status": "未知／未達門檻",
+      "contributions": [
+        {
+          "category": "訂單",
+          "points": 0.0
+        },
+        {
+          "category": "新聞話題",
+          "points": 0.0
+        },
+        {
+          "category": "龍頭地位",
+          "points": 0.0
+        },
+        {
+          "category": "專利技術",
+          "points": 0.0
+        }
+      ],
+      "events": []
+    },
+    {
+      "code": "2801",
+      "name": "彰銀",
+      "original_score": 38.60062893081761,
+      "message_score": 50.0,
+      "score": 39.740566037735846,
+      "evidence_status": "未知／未達門檻",
+      "contributions": [
+        {
+          "category": "訂單",
+          "points": 0.0
+        },
+        {
+          "category": "新聞話題",
+          "points": 0.0
+        },
+        {
+          "category": "龍頭地位",
+          "points": 0.0
+        },
+        {
+          "category": "專利技術",
+          "points": 0.0
+        }
+      ],
+      "events": [
+        {
+          "id": "43ea6865915e8fd757fb6004",
+          "code": "2801",
+          "title": "公告授信資產之轉讓",
+          "published_at": "2026-09-17T14:37:18+08:00",
+          "first_seen_at": "2026-09-18T08:32:35.377850+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        }
+      ]
+    },
+    {
+      "code": "1504",
+      "name": "東元",
+      "original_score": 38.569182389937104,
+      "message_score": 50.0,
+      "score": 39.7122641509434,
+      "evidence_status": "未知／未達門檻",
+      "contributions": [
+        {
+          "category": "訂單",
+          "points": 0.0
+        },
+        {
+          "category": "新聞話題",
+          "points": 0.0
+        },
+        {
+          "category": "龍頭地位",
+          "points": 0.0
+        },
+        {
+          "category": "專利技術",
+          "points": 0.0
+        }
+      ],
+      "events": []
+    },
+    {
+      "code": "2359",
+      "name": "所羅門",
+      "original_score": 38.246855345911946,
+      "message_score": 50.0,
+      "score": 39.42216981132075,
+      "evidence_status": "未知／未達門檻",
+      "contributions": [
+        {
+          "category": "訂單",
+          "points": 0.0
+        },
+        {
+          "category": "新聞話題",
+          "points": 0.0
+        },
+        {
+          "category": "龍頭地位",
+          "points": 0.0
+        },
+        {
+          "category": "專利技術",
+          "points": 0.0
+        }
+      ],
+      "events": []
+    },
+    {
+      "code": "2385",
+      "name": "群光",
+      "original_score": 38.191823899371066,
+      "message_score": 50.0,
+      "score": 39.37264150943396,
+      "evidence_status": "未知／未達門檻",
+      "contributions": [
+        {
+          "category": "訂單",
+          "points": 0.0
+        },
+        {
+          "category": "新聞話題",
+          "points": 0.0
+        },
+        {
+          "category": "龍頭地位",
+          "points": 0.0
+        },
+        {
+          "category": "專利技術",
+          "points": 0.0
+        }
+      ],
+      "events": []
+    },
+    {
+      "code": "2812",
+      "name": "台中銀",
+      "original_score": 38.168238993710695,
+      "message_score": 50.0,
+      "score": 39.35141509433963,
+      "evidence_status": "未知／未達門檻",
+      "contributions": [
+        {
+          "category": "訂單",
+          "points": 0.0
+        },
+        {
+          "category": "新聞話題",
+          "points": 0.0
+        },
+        {
+          "category": "龍頭地位",
+          "points": 0.0
+        },
+        {
+          "category": "專利技術",
+          "points": 0.0
+        }
+      ],
+      "events": []
+    },
+    {
+      "code": "2892",
+      "name": "第一金",
+      "original_score": 37.61006289308176,
+      "message_score": 50.0,
+      "score": 38.84905660377358,
+      "evidence_status": "未知／未達門檻",
+      "contributions": [
+        {
+          "category": "訂單",
+          "points": 0.0
+        },
+        {
+          "category": "新聞話題",
+          "points": 0.0
+        },
+        {
+          "category": "龍頭地位",
+          "points": 0.0
+        },
+        {
+          "category": "專利技術",
+          "points": 0.0
+        }
+      ],
+      "events": []
+    },
+    {
+      "code": "2886",
+      "name": "兆豐金",
+      "original_score": 37.27987421383647,
+      "message_score": 50.0,
+      "score": 38.55188679245283,
+      "evidence_status": "未知／未達門檻",
+      "contributions": [
+        {
+          "category": "訂單",
+          "points": 0.0
+        },
+        {
+          "category": "新聞話題",
+          "points": 0.0
+        },
+        {
+          "category": "龍頭地位",
+          "points": 0.0
+        },
+        {
+          "category": "專利技術",
+          "points": 0.0
+        }
+      ],
+      "events": [
+        {
+          "id": "0b5768e223070bd4adf2c038",
+          "code": "2886",
+          "title": "公告本公司之子公司兆豐國際證券投資信託(股)公司\r\n董事及監察人異動案",
+          "published_at": "2026-09-22T16:14:05+08:00",
+          "first_seen_at": "2026-09-23T08:47:14.557621+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "a828fa7b86afaa5b858d509c",
+          "code": "2886",
+          "title": "代本公司之子公司兆豐國際商業銀行補充公告發行\r\n115年度第1期無擔保一般順位金融債券，發行金額新臺幣壹拾\r\n伍億元整。",
+          "published_at": "2026-09-15T17:50:55+08:00",
+          "first_seen_at": "2026-09-16T08:35:57.247494+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "f444b1dafb5df6bcd40996d4",
+          "code": "2886",
+          "title": "代本公司之子公司兆豐期貨股份有限公司公告現金增資認股\r\n基準日相關事宜",
+          "published_at": "2026-09-15T17:46:46+08:00",
+          "first_seen_at": "2026-09-16T08:35:57.247494+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "f02cb8a0dcaaccae54ca1de4",
+          "code": "2886",
+          "title": "公告本公司暨主要子公司115年8月份自結合併盈餘",
+          "published_at": "2026-09-14T16:30:17+08:00",
+          "first_seen_at": "2026-09-15T08:45:42.818043+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        }
+      ]
+    },
+    {
+      "code": "4526",
+      "name": "東台",
+      "original_score": 36.9811320754717,
+      "message_score": 50.0,
+      "score": 38.28301886792453,
+      "evidence_status": "未知／未達門檻",
+      "contributions": [
+        {
+          "category": "訂單",
+          "points": 0.0
+        },
+        {
+          "category": "新聞話題",
+          "points": 0.0
+        },
+        {
+          "category": "龍頭地位",
+          "points": 0.0
+        },
+        {
+          "category": "專利技術",
+          "points": 0.0
+        }
+      ],
+      "events": []
+    },
+    {
+      "code": "9914",
+      "name": "美利達",
+      "original_score": 36.753144654088054,
+      "message_score": 50.0,
+      "score": 38.07783018867925,
+      "evidence_status": "未知／未達門檻",
+      "contributions": [
+        {
+          "category": "訂單",
+          "points": 0.0
+        },
+        {
+          "category": "新聞話題",
+          "points": 0.0
+        },
+        {
+          "category": "龍頭地位",
+          "points": 0.0
+        },
+        {
+          "category": "專利技術",
+          "points": 0.0
+        }
+      ],
+      "events": []
+    },
+    {
+      "code": "2880",
+      "name": "華南金",
+      "original_score": 36.39150943396226,
+      "message_score": 50.0,
+      "score": 37.75235849056604,
+      "evidence_status": "未知／未達門檻",
+      "contributions": [
+        {
+          "category": "訂單",
+          "points": 0.0
+        },
+        {
+          "category": "新聞話題",
+          "points": 0.0
+        },
+        {
+          "category": "龍頭地位",
+          "points": 0.0
+        },
+        {
+          "category": "專利技術",
+          "points": 0.0
+        }
+      ],
+      "events": [
+        {
+          "id": "619ad478ab654de76a4fb98b",
+          "code": "2880",
+          "title": "代子公司華南商業銀行(股)公司公告擬出售不良債權",
+          "published_at": "2026-09-24T17:22:42+08:00",
+          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "含推測、否認或澄清語句，僅列入觀察"
+        },
+        {
+          "id": "b26055eab712b32106715276",
+          "code": "2880",
+          "title": "代子公司華南商業銀行公告授信資產之轉讓補充說明",
+          "published_at": "2026-09-17T18:12:48+08:00",
+          "first_seen_at": "2026-09-18T08:32:35.377850+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "12fc034a34cb2a335831fb2d",
+          "code": "2880",
+          "title": "代子公司華南永昌證券投資信託股份有限公司公告陳人壽\r\n代理總經理職務",
+          "published_at": "2026-09-17T18:06:59+08:00",
+          "first_seen_at": "2026-09-18T08:32:35.377850+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        }
+      ]
+    },
+    {
+      "code": "2897",
+      "name": "王道銀行",
+      "original_score": 35.98270440251573,
+      "message_score": 50.0,
+      "score": 37.384433962264154,
+      "evidence_status": "未知／未達門檻",
+      "contributions": [
+        {
+          "category": "訂單",
+          "points": 0.0
+        },
+        {
+          "category": "新聞話題",
+          "points": 0.0
+        },
+        {
+          "category": "龍頭地位",
+          "points": 0.0
+        },
+        {
+          "category": "專利技術",
+          "points": 0.0
+        }
+      ],
+      "events": []
+    },
+    {
+      "code": "2002",
+      "name": "中鋼",
+      "original_score": 35.49528301886792,
+      "message_score": 50.0,
+      "score": 36.94575471698113,
+      "evidence_status": "未知／未達門檻",
+      "contributions": [
+        {
+          "category": "訂單",
+          "points": 0.0
+        },
+        {
+          "category": "新聞話題",
+          "points": 0.0
+        },
+        {
+          "category": "龍頭地位",
+          "points": 0.0
+        },
+        {
+          "category": "專利技術",
+          "points": 0.0
+        }
+      ],
+      "events": [
+        {
+          "id": "b7444ff631e914809cf46eeb",
+          "code": "2002",
+          "title": "代子公司超揚投資公司公告取得有價證券",
+          "published_at": "2026-09-24T17:15:58+08:00",
+          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "a5a356294cb9b03959f819aa",
+          "code": "2002",
+          "title": "公告本公司115年08月份自結合併營收及稅前損益",
+          "published_at": "2026-09-24T13:33:48+08:00",
+          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "8975379b9b2563d0684dc35a",
+          "code": "2002",
+          "title": "代子公司中鋼機械公司公告取得不動產使用權資產",
+          "published_at": "2026-09-23T15:56:04+08:00",
+          "first_seen_at": "2026-09-24T08:39:06.911066+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "04a610bdd83f4a299b246961",
+          "code": "2002",
+          "title": "中鋼再生料鋼材拓車用市場　前8月接單量年增約5成",
+          "published_at": "2026-09-22T17:09:07+08:00",
+          "first_seen_at": "2026-09-22T20:04:08.750475+08:00",
+          "source": "中央通訊社・產經",
+          "url": "https://www.cna.com.tw/news/afe/202609220243.aspx",
+          "official": false,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "2716abcbccf63662e76819e6",
+          "code": "2002",
+          "title": "本公司將參加國票證券舉辦之線上法人說明會",
+          "published_at": "2026-09-22T13:35:13+08:00",
+          "first_seen_at": "2026-09-23T08:47:14.557621+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        }
+      ]
+    },
+    {
       "code": "2891",
       "name": "中信金",
-      "original_score": 40.15723270440251,
+      "original_score": 35.15723270440251,
       "message_score": 50.0,
-      "score": 41.14150943396226,
+      "score": 36.641509433962256,
       "evidence_status": "未知／未達門檻",
       "contributions": [
         {
@@ -15232,893 +16066,6 @@
       ]
     },
     {
-      "code": "5876",
-      "name": "上海商銀",
-      "original_score": 40.15094339622642,
-      "message_score": 50.0,
-      "score": 41.135849056603774,
-      "evidence_status": "未知／未達門檻",
-      "contributions": [
-        {
-          "category": "訂單",
-          "points": 0.0
-        },
-        {
-          "category": "新聞話題",
-          "points": 0.0
-        },
-        {
-          "category": "龍頭地位",
-          "points": 0.0
-        },
-        {
-          "category": "專利技術",
-          "points": 0.0
-        }
-      ],
-      "events": [
-        {
-          "id": "d28f18dbda8e4de85e024da2",
-          "code": "5876",
-          "title": "公告本行發行一百一十五年度第一期次順位金融債新臺幣30億元整\r\n(補充114/08/15公告)",
-          "published_at": "2026-09-24T15:10:36+08:00",
-          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        }
-      ]
-    },
-    {
-      "code": "6689",
-      "name": "伊雲谷",
-      "original_score": 40.01572327044025,
-      "message_score": 50.0,
-      "score": 41.014150943396224,
-      "evidence_status": "未知／未達門檻",
-      "contributions": [
-        {
-          "category": "訂單",
-          "points": 0.0
-        },
-        {
-          "category": "新聞話題",
-          "points": 0.0
-        },
-        {
-          "category": "龍頭地位",
-          "points": 0.0
-        },
-        {
-          "category": "專利技術",
-          "points": 0.0
-        }
-      ],
-      "events": []
-    },
-    {
-      "code": "1597",
-      "name": "直得",
-      "original_score": 39.9685534591195,
-      "message_score": 50.0,
-      "score": 40.97169811320755,
-      "evidence_status": "未知／未達門檻",
-      "contributions": [
-        {
-          "category": "訂單",
-          "points": 0.0
-        },
-        {
-          "category": "新聞話題",
-          "points": 0.0
-        },
-        {
-          "category": "龍頭地位",
-          "points": 0.0
-        },
-        {
-          "category": "專利技術",
-          "points": 0.0
-        }
-      ],
-      "events": []
-    },
-    {
-      "code": "3481",
-      "name": "群創",
-      "original_score": 39.874213836477985,
-      "message_score": 50.0,
-      "score": 40.886792452830186,
-      "evidence_status": "未知／未達門檻",
-      "contributions": [
-        {
-          "category": "訂單",
-          "points": 0.0
-        },
-        {
-          "category": "新聞話題",
-          "points": 0.0
-        },
-        {
-          "category": "龍頭地位",
-          "points": 0.0
-        },
-        {
-          "category": "專利技術",
-          "points": 0.0
-        }
-      ],
-      "events": [
-        {
-          "id": "70c355ac8b955fd3f2e09e7c",
-          "code": "3481",
-          "title": "代重要子公司Innolux Hong Kong Holding Limited\r\n公告股東會重要決議事項",
-          "published_at": "2026-09-14T14:47:20+08:00",
-          "first_seen_at": "2026-09-15T08:45:42.818043+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        }
-      ]
-    },
-    {
-      "code": "7799",
-      "name": "禾榮科",
-      "original_score": 39.86635220125786,
-      "message_score": 50.0,
-      "score": 40.87971698113208,
-      "evidence_status": "未知／未達門檻",
-      "contributions": [
-        {
-          "category": "訂單",
-          "points": 0.0
-        },
-        {
-          "category": "新聞話題",
-          "points": 0.0
-        },
-        {
-          "category": "龍頭地位",
-          "points": 0.0
-        },
-        {
-          "category": "專利技術",
-          "points": 0.0
-        }
-      ],
-      "events": []
-    },
-    {
-      "code": "4585",
-      "name": "達明",
-      "original_score": 39.42610062893082,
-      "message_score": 50.0,
-      "score": 40.48349056603774,
-      "evidence_status": "未知／未達門檻",
-      "contributions": [
-        {
-          "category": "訂單",
-          "points": 0.0
-        },
-        {
-          "category": "新聞話題",
-          "points": 0.0
-        },
-        {
-          "category": "龍頭地位",
-          "points": 0.0
-        },
-        {
-          "category": "專利技術",
-          "points": 0.0
-        }
-      ],
-      "events": []
-    },
-    {
-      "code": "2883",
-      "name": "凱基金",
-      "original_score": 39.23742138364779,
-      "message_score": 50.0,
-      "score": 40.31367924528301,
-      "evidence_status": "未知／未達門檻",
-      "contributions": [
-        {
-          "category": "訂單",
-          "points": 0.0
-        },
-        {
-          "category": "新聞話題",
-          "points": 0.0
-        },
-        {
-          "category": "龍頭地位",
-          "points": 0.0
-        },
-        {
-          "category": "專利技術",
-          "points": 0.0
-        }
-      ],
-      "events": [
-        {
-          "id": "56588279fa33cca2d331d737",
-          "code": "2883",
-          "title": "代子公司凱基人壽公告取得台北市不動產",
-          "published_at": "2026-09-23T18:00:26+08:00",
-          "first_seen_at": "2026-09-24T08:39:06.911066+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "0194ae5c7e31f12b52cb7d3f",
-          "code": "2883",
-          "title": "代子公司凱基證券所屬之凱基期貨股份有限公司公告\r\n董事會決議通過發行有擔保暨無擔保次順位普通公司債",
-          "published_at": "2026-09-23T18:00:12+08:00",
-          "first_seen_at": "2026-09-24T08:39:06.911066+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "21a7a511e220149e093d3d1d",
-          "code": "2883",
-          "title": "代子公司凱基證券公告114年度股票股利配股基準日",
-          "published_at": "2026-09-22T16:37:54+08:00",
-          "first_seen_at": "2026-09-23T08:47:14.557621+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "caf31f14bc8a926ed5826b59",
-          "code": "2883",
-          "title": "代子公司開發資本所屬之資本管顧公告董事會決議參與\r\n投資ESMC基金",
-          "published_at": "2026-09-21T17:40:30+08:00",
-          "first_seen_at": "2026-09-22T08:58:58.235416+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "b6b1a11445ee7941059d1f20",
-          "code": "2883",
-          "title": "代子公司開發資本所屬之資本管顧及開發創投公告\r\n董事會決議參與投資中華開發豪覓基金",
-          "published_at": "2026-09-21T17:40:15+08:00",
-          "first_seen_at": "2026-09-22T08:58:58.235416+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        }
-      ]
-    },
-    {
-      "code": "1605",
-      "name": "華新",
-      "original_score": 39.009433962264154,
-      "message_score": 50.0,
-      "score": 40.10849056603774,
-      "evidence_status": "未知／未達門檻",
-      "contributions": [
-        {
-          "category": "訂單",
-          "points": 0.0
-        },
-        {
-          "category": "新聞話題",
-          "points": 0.0
-        },
-        {
-          "category": "龍頭地位",
-          "points": 0.0
-        },
-        {
-          "category": "專利技術",
-          "points": 0.0
-        }
-      ],
-      "events": []
-    },
-    {
-      "code": "2801",
-      "name": "彰銀",
-      "original_score": 38.60062893081761,
-      "message_score": 50.0,
-      "score": 39.740566037735846,
-      "evidence_status": "未知／未達門檻",
-      "contributions": [
-        {
-          "category": "訂單",
-          "points": 0.0
-        },
-        {
-          "category": "新聞話題",
-          "points": 0.0
-        },
-        {
-          "category": "龍頭地位",
-          "points": 0.0
-        },
-        {
-          "category": "專利技術",
-          "points": 0.0
-        }
-      ],
-      "events": [
-        {
-          "id": "43ea6865915e8fd757fb6004",
-          "code": "2801",
-          "title": "公告授信資產之轉讓",
-          "published_at": "2026-09-17T14:37:18+08:00",
-          "first_seen_at": "2026-09-18T08:32:35.377850+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        }
-      ]
-    },
-    {
-      "code": "1504",
-      "name": "東元",
-      "original_score": 38.569182389937104,
-      "message_score": 50.0,
-      "score": 39.7122641509434,
-      "evidence_status": "未知／未達門檻",
-      "contributions": [
-        {
-          "category": "訂單",
-          "points": 0.0
-        },
-        {
-          "category": "新聞話題",
-          "points": 0.0
-        },
-        {
-          "category": "龍頭地位",
-          "points": 0.0
-        },
-        {
-          "category": "專利技術",
-          "points": 0.0
-        }
-      ],
-      "events": []
-    },
-    {
-      "code": "2359",
-      "name": "所羅門",
-      "original_score": 38.246855345911946,
-      "message_score": 50.0,
-      "score": 39.42216981132075,
-      "evidence_status": "未知／未達門檻",
-      "contributions": [
-        {
-          "category": "訂單",
-          "points": 0.0
-        },
-        {
-          "category": "新聞話題",
-          "points": 0.0
-        },
-        {
-          "category": "龍頭地位",
-          "points": 0.0
-        },
-        {
-          "category": "專利技術",
-          "points": 0.0
-        }
-      ],
-      "events": []
-    },
-    {
-      "code": "2385",
-      "name": "群光",
-      "original_score": 38.191823899371066,
-      "message_score": 50.0,
-      "score": 39.37264150943396,
-      "evidence_status": "未知／未達門檻",
-      "contributions": [
-        {
-          "category": "訂單",
-          "points": 0.0
-        },
-        {
-          "category": "新聞話題",
-          "points": 0.0
-        },
-        {
-          "category": "龍頭地位",
-          "points": 0.0
-        },
-        {
-          "category": "專利技術",
-          "points": 0.0
-        }
-      ],
-      "events": []
-    },
-    {
-      "code": "2812",
-      "name": "台中銀",
-      "original_score": 38.168238993710695,
-      "message_score": 50.0,
-      "score": 39.35141509433963,
-      "evidence_status": "未知／未達門檻",
-      "contributions": [
-        {
-          "category": "訂單",
-          "points": 0.0
-        },
-        {
-          "category": "新聞話題",
-          "points": 0.0
-        },
-        {
-          "category": "龍頭地位",
-          "points": 0.0
-        },
-        {
-          "category": "專利技術",
-          "points": 0.0
-        }
-      ],
-      "events": []
-    },
-    {
-      "code": "2892",
-      "name": "第一金",
-      "original_score": 37.61006289308176,
-      "message_score": 50.0,
-      "score": 38.84905660377358,
-      "evidence_status": "未知／未達門檻",
-      "contributions": [
-        {
-          "category": "訂單",
-          "points": 0.0
-        },
-        {
-          "category": "新聞話題",
-          "points": 0.0
-        },
-        {
-          "category": "龍頭地位",
-          "points": 0.0
-        },
-        {
-          "category": "專利技術",
-          "points": 0.0
-        }
-      ],
-      "events": []
-    },
-    {
-      "code": "2002",
-      "name": "中鋼",
-      "original_score": 37.49528301886792,
-      "message_score": 50.0,
-      "score": 38.74575471698113,
-      "evidence_status": "未知／未達門檻",
-      "contributions": [
-        {
-          "category": "訂單",
-          "points": 0.0
-        },
-        {
-          "category": "新聞話題",
-          "points": 0.0
-        },
-        {
-          "category": "龍頭地位",
-          "points": 0.0
-        },
-        {
-          "category": "專利技術",
-          "points": 0.0
-        }
-      ],
-      "events": [
-        {
-          "id": "b7444ff631e914809cf46eeb",
-          "code": "2002",
-          "title": "代子公司超揚投資公司公告取得有價證券",
-          "published_at": "2026-09-24T17:15:58+08:00",
-          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "a5a356294cb9b03959f819aa",
-          "code": "2002",
-          "title": "公告本公司115年08月份自結合併營收及稅前損益",
-          "published_at": "2026-09-24T13:33:48+08:00",
-          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "8975379b9b2563d0684dc35a",
-          "code": "2002",
-          "title": "代子公司中鋼機械公司公告取得不動產使用權資產",
-          "published_at": "2026-09-23T15:56:04+08:00",
-          "first_seen_at": "2026-09-24T08:39:06.911066+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "04a610bdd83f4a299b246961",
-          "code": "2002",
-          "title": "中鋼再生料鋼材拓車用市場　前8月接單量年增約5成",
-          "published_at": "2026-09-22T17:09:07+08:00",
-          "first_seen_at": "2026-09-22T20:04:08.750475+08:00",
-          "source": "中央通訊社・產經",
-          "url": "https://www.cna.com.tw/news/afe/202609220243.aspx",
-          "official": false,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "2716abcbccf63662e76819e6",
-          "code": "2002",
-          "title": "本公司將參加國票證券舉辦之線上法人說明會",
-          "published_at": "2026-09-22T13:35:13+08:00",
-          "first_seen_at": "2026-09-23T08:47:14.557621+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        }
-      ]
-    },
-    {
-      "code": "2880",
-      "name": "華南金",
-      "original_score": 37.39150943396226,
-      "message_score": 50.0,
-      "score": 38.65235849056604,
-      "evidence_status": "未知／未達門檻",
-      "contributions": [
-        {
-          "category": "訂單",
-          "points": 0.0
-        },
-        {
-          "category": "新聞話題",
-          "points": 0.0
-        },
-        {
-          "category": "龍頭地位",
-          "points": 0.0
-        },
-        {
-          "category": "專利技術",
-          "points": 0.0
-        }
-      ],
-      "events": [
-        {
-          "id": "619ad478ab654de76a4fb98b",
-          "code": "2880",
-          "title": "代子公司華南商業銀行(股)公司公告擬出售不良債權",
-          "published_at": "2026-09-24T17:22:42+08:00",
-          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "含推測、否認或澄清語句，僅列入觀察"
-        },
-        {
-          "id": "b26055eab712b32106715276",
-          "code": "2880",
-          "title": "代子公司華南商業銀行公告授信資產之轉讓補充說明",
-          "published_at": "2026-09-17T18:12:48+08:00",
-          "first_seen_at": "2026-09-18T08:32:35.377850+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "12fc034a34cb2a335831fb2d",
-          "code": "2880",
-          "title": "代子公司華南永昌證券投資信託股份有限公司公告陳人壽\r\n代理總經理職務",
-          "published_at": "2026-09-17T18:06:59+08:00",
-          "first_seen_at": "2026-09-18T08:32:35.377850+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        }
-      ]
-    },
-    {
-      "code": "2886",
-      "name": "兆豐金",
-      "original_score": 37.27987421383647,
-      "message_score": 50.0,
-      "score": 38.55188679245283,
-      "evidence_status": "未知／未達門檻",
-      "contributions": [
-        {
-          "category": "訂單",
-          "points": 0.0
-        },
-        {
-          "category": "新聞話題",
-          "points": 0.0
-        },
-        {
-          "category": "龍頭地位",
-          "points": 0.0
-        },
-        {
-          "category": "專利技術",
-          "points": 0.0
-        }
-      ],
-      "events": [
-        {
-          "id": "0b5768e223070bd4adf2c038",
-          "code": "2886",
-          "title": "公告本公司之子公司兆豐國際證券投資信託(股)公司\r\n董事及監察人異動案",
-          "published_at": "2026-09-22T16:14:05+08:00",
-          "first_seen_at": "2026-09-23T08:47:14.557621+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "a828fa7b86afaa5b858d509c",
-          "code": "2886",
-          "title": "代本公司之子公司兆豐國際商業銀行補充公告發行\r\n115年度第1期無擔保一般順位金融債券，發行金額新臺幣壹拾\r\n伍億元整。",
-          "published_at": "2026-09-15T17:50:55+08:00",
-          "first_seen_at": "2026-09-16T08:35:57.247494+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "f444b1dafb5df6bcd40996d4",
-          "code": "2886",
-          "title": "代本公司之子公司兆豐期貨股份有限公司公告現金增資認股\r\n基準日相關事宜",
-          "published_at": "2026-09-15T17:46:46+08:00",
-          "first_seen_at": "2026-09-16T08:35:57.247494+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "f02cb8a0dcaaccae54ca1de4",
-          "code": "2886",
-          "title": "公告本公司暨主要子公司115年8月份自結合併盈餘",
-          "published_at": "2026-09-14T16:30:17+08:00",
-          "first_seen_at": "2026-09-15T08:45:42.818043+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        }
-      ]
-    },
-    {
-      "code": "4526",
-      "name": "東台",
-      "original_score": 36.9811320754717,
-      "message_score": 50.0,
-      "score": 38.28301886792453,
-      "evidence_status": "未知／未達門檻",
-      "contributions": [
-        {
-          "category": "訂單",
-          "points": 0.0
-        },
-        {
-          "category": "新聞話題",
-          "points": 0.0
-        },
-        {
-          "category": "龍頭地位",
-          "points": 0.0
-        },
-        {
-          "category": "專利技術",
-          "points": 0.0
-        }
-      ],
-      "events": []
-    },
-    {
-      "code": "9914",
-      "name": "美利達",
-      "original_score": 36.753144654088054,
-      "message_score": 50.0,
-      "score": 38.07783018867925,
-      "evidence_status": "未知／未達門檻",
-      "contributions": [
-        {
-          "category": "訂單",
-          "points": 0.0
-        },
-        {
-          "category": "新聞話題",
-          "points": 0.0
-        },
-        {
-          "category": "龍頭地位",
-          "points": 0.0
-        },
-        {
-          "category": "專利技術",
-          "points": 0.0
-        }
-      ],
-      "events": []
-    },
-    {
-      "code": "2897",
-      "name": "王道銀行",
-      "original_score": 35.98270440251573,
-      "message_score": 50.0,
-      "score": 37.384433962264154,
-      "evidence_status": "未知／未達門檻",
-      "contributions": [
-        {
-          "category": "訂單",
-          "points": 0.0
-        },
-        {
-          "category": "新聞話題",
-          "points": 0.0
-        },
-        {
-          "category": "龍頭地位",
-          "points": 0.0
-        },
-        {
-          "category": "專利技術",
-          "points": 0.0
-        }
-      ],
-      "events": []
-    },
-    {
-      "code": "1229",
-      "name": "聯華",
-      "original_score": 35.01729559748428,
-      "message_score": 50.0,
-      "score": 36.51556603773585,
-      "evidence_status": "未知／未達門檻",
-      "contributions": [
-        {
-          "category": "訂單",
-          "points": 0.0
-        },
-        {
-          "category": "新聞話題",
-          "points": 0.0
-        },
-        {
-          "category": "龍頭地位",
-          "points": 0.0
-        },
-        {
-          "category": "專利技術",
-          "points": 0.0
-        }
-      ],
-      "events": [
-        {
-          "id": "030906fabfdc5f19d40ea937",
-          "code": "1229",
-          "title": "本公司受邀參加凱基證券舉辦之線上法人說明會",
-          "published_at": "2026-09-24T17:15:41+08:00",
-          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "400de255a3ea5ff4114c9208",
-          "code": "1229",
-          "title": "代重要子公司福龍有限公司公告董事會決議\r\n分派現金股利基準日",
-          "published_at": "2026-09-21T17:32:20+08:00",
-          "first_seen_at": "2026-09-22T08:58:58.235416+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "964c2f601c97cd1b89249c74",
-          "code": "1229",
-          "title": "代重要子公司福龍有限公司公告董事會決議\r\n分派現金股利",
-          "published_at": "2026-09-21T17:32:06+08:00",
-          "first_seen_at": "2026-09-22T08:58:58.235416+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "e8461d177c143b419e0e75a8",
-          "code": "1229",
-          "title": "代重要子公司聯華製粉食品(股)公司公告董事會決議\r\n召開115年第一次股東臨時會相關事宜",
-          "published_at": "2026-09-21T16:42:47+08:00",
-          "first_seen_at": "2026-09-22T08:58:58.235416+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        }
-      ]
-    },
-    {
       "code": "2542",
       "name": "興富發",
       "original_score": 34.55188679245283,
@@ -16199,11 +16146,11 @@
       ]
     },
     {
-      "code": "2887",
-      "name": "台新新光金",
-      "original_score": 34.17767295597485,
+      "code": "1229",
+      "name": "聯華",
+      "original_score": 34.01729559748428,
       "message_score": 50.0,
-      "score": 35.75990566037736,
+      "score": 35.615566037735846,
       "evidence_status": "未知／未達門檻",
       "contributions": [
         {
@@ -16225,10 +16172,10 @@
       ],
       "events": [
         {
-          "id": "09ee5ee24503de0b23c8dd0b",
-          "code": "2887",
-          "title": "本公司代子公司台新期貨公告董事會代行股東臨時會\r\n重要決議事項",
-          "published_at": "2026-09-24T14:48:17+08:00",
+          "id": "030906fabfdc5f19d40ea937",
+          "code": "1229",
+          "title": "本公司受邀參加凱基證券舉辦之線上法人說明會",
+          "published_at": "2026-09-24T17:15:41+08:00",
           "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
           "source": "證交所・公司重大訊息",
           "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
@@ -16238,11 +16185,11 @@
           "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
         },
         {
-          "id": "4486bf0628b1d5c2e11fd2b1",
-          "code": "2887",
-          "title": "公告本公司庚種特別股一發行滿七年股息率重設",
-          "published_at": "2026-09-23T16:43:10+08:00",
-          "first_seen_at": "2026-09-24T08:39:06.911066+08:00",
+          "id": "400de255a3ea5ff4114c9208",
+          "code": "1229",
+          "title": "代重要子公司福龍有限公司公告董事會決議\r\n分派現金股利基準日",
+          "published_at": "2026-09-21T17:32:20+08:00",
+          "first_seen_at": "2026-09-22T08:58:58.235416+08:00",
           "source": "證交所・公司重大訊息",
           "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
           "official": true,
@@ -16251,11 +16198,11 @@
           "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
         },
         {
-          "id": "76144532134076e56f9c500a",
-          "code": "2887",
-          "title": "本公司代子公司台新銀行公告授信資產之轉讓",
-          "published_at": "2026-09-22T17:07:52+08:00",
-          "first_seen_at": "2026-09-23T08:47:14.557621+08:00",
+          "id": "964c2f601c97cd1b89249c74",
+          "code": "1229",
+          "title": "代重要子公司福龍有限公司公告董事會決議\r\n分派現金股利",
+          "published_at": "2026-09-21T17:32:06+08:00",
+          "first_seen_at": "2026-09-22T08:58:58.235416+08:00",
           "source": "證交所・公司重大訊息",
           "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
           "official": true,
@@ -16264,76 +16211,11 @@
           "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
         },
         {
-          "id": "062409a3e33331895a0f98ff",
-          "code": "2887",
-          "title": "本公司代子公司台新銀行公告捐贈台新育樂股份有限公司案",
-          "published_at": "2026-09-17T17:41:23+08:00",
-          "first_seen_at": "2026-09-18T08:32:35.377850+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "e05d014fa483a1234885d665",
-          "code": "2887",
-          "title": "本公司代子公司新光人壽公告受金管會裁罰案之說明",
-          "published_at": "2026-09-16T17:54:19+08:00",
-          "first_seen_at": "2026-09-17T08:44:23.506673+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "295ae6dbdafed886331c54ee",
-          "code": "2887",
-          "title": "本公司代子公司台新投信公告向新光人壽取得使用權資產",
-          "published_at": "2026-09-15T16:24:52+08:00",
-          "first_seen_at": "2026-09-16T08:35:57.247494+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "5f5c21186663bcc40e4997dc",
-          "code": "2887",
-          "title": "本公司代子公司元富投顧公告金融監督管理委員會核准\r\n台新投顧與元富投顧合併案",
-          "published_at": "2026-09-14T18:50:14+08:00",
-          "first_seen_at": "2026-09-15T08:45:42.818043+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "7a88e0651e73a728a1867b37",
-          "code": "2887",
-          "title": "本公司代子公司台新投顧公告金融監督管理委員會核准\r\n台新投顧與元富投顧合併案",
-          "published_at": "2026-09-14T18:49:50+08:00",
-          "first_seen_at": "2026-09-15T08:45:42.818043+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "1062724f50af9187338b77fc",
-          "code": "2887",
-          "title": "公告本公司暨主要子公司115年8月份合併自結業績資料",
-          "published_at": "2026-09-14T17:30:12+08:00",
-          "first_seen_at": "2026-09-15T08:45:42.818043+08:00",
+          "id": "e8461d177c143b419e0e75a8",
+          "code": "1229",
+          "title": "代重要子公司聯華製粉食品(股)公司公告董事會決議\r\n召開115年第一次股東臨時會相關事宜",
+          "published_at": "2026-09-21T16:42:47+08:00",
+          "first_seen_at": "2026-09-22T08:58:58.235416+08:00",
           "source": "證交所・公司重大訊息",
           "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
           "official": true,
@@ -16573,6 +16455,151 @@
         }
       ],
       "events": []
+    },
+    {
+      "code": "2887",
+      "name": "台新新光金",
+      "original_score": 32.17767295597485,
+      "message_score": 50.0,
+      "score": 33.959905660377366,
+      "evidence_status": "未知／未達門檻",
+      "contributions": [
+        {
+          "category": "訂單",
+          "points": 0.0
+        },
+        {
+          "category": "新聞話題",
+          "points": 0.0
+        },
+        {
+          "category": "龍頭地位",
+          "points": 0.0
+        },
+        {
+          "category": "專利技術",
+          "points": 0.0
+        }
+      ],
+      "events": [
+        {
+          "id": "09ee5ee24503de0b23c8dd0b",
+          "code": "2887",
+          "title": "本公司代子公司台新期貨公告董事會代行股東臨時會\r\n重要決議事項",
+          "published_at": "2026-09-24T14:48:17+08:00",
+          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "4486bf0628b1d5c2e11fd2b1",
+          "code": "2887",
+          "title": "公告本公司庚種特別股一發行滿七年股息率重設",
+          "published_at": "2026-09-23T16:43:10+08:00",
+          "first_seen_at": "2026-09-24T08:39:06.911066+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "76144532134076e56f9c500a",
+          "code": "2887",
+          "title": "本公司代子公司台新銀行公告授信資產之轉讓",
+          "published_at": "2026-09-22T17:07:52+08:00",
+          "first_seen_at": "2026-09-23T08:47:14.557621+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "062409a3e33331895a0f98ff",
+          "code": "2887",
+          "title": "本公司代子公司台新銀行公告捐贈台新育樂股份有限公司案",
+          "published_at": "2026-09-17T17:41:23+08:00",
+          "first_seen_at": "2026-09-18T08:32:35.377850+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "e05d014fa483a1234885d665",
+          "code": "2887",
+          "title": "本公司代子公司新光人壽公告受金管會裁罰案之說明",
+          "published_at": "2026-09-16T17:54:19+08:00",
+          "first_seen_at": "2026-09-17T08:44:23.506673+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "295ae6dbdafed886331c54ee",
+          "code": "2887",
+          "title": "本公司代子公司台新投信公告向新光人壽取得使用權資產",
+          "published_at": "2026-09-15T16:24:52+08:00",
+          "first_seen_at": "2026-09-16T08:35:57.247494+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "5f5c21186663bcc40e4997dc",
+          "code": "2887",
+          "title": "本公司代子公司元富投顧公告金融監督管理委員會核准\r\n台新投顧與元富投顧合併案",
+          "published_at": "2026-09-14T18:50:14+08:00",
+          "first_seen_at": "2026-09-15T08:45:42.818043+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "7a88e0651e73a728a1867b37",
+          "code": "2887",
+          "title": "本公司代子公司台新投顧公告金融監督管理委員會核准\r\n台新投顧與元富投顧合併案",
+          "published_at": "2026-09-14T18:49:50+08:00",
+          "first_seen_at": "2026-09-15T08:45:42.818043+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "1062724f50af9187338b77fc",
+          "code": "2887",
+          "title": "公告本公司暨主要子公司115年8月份合併自結業績資料",
+          "published_at": "2026-09-14T17:30:12+08:00",
+          "first_seen_at": "2026-09-15T08:45:42.818043+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        }
+      ]
     },
     {
       "code": "1409",

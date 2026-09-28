@@ -1,5 +1,31 @@
 [
   {
+    "id": "1fad32e1082486420e50bc41",
+    "code": "2357",
+    "title": "華碩微星亮相非洲動漫展　台灣電競品牌搶攻南非市場",
+    "published_at": "2026-09-27T19:22:36+08:00",
+    "first_seen_at": "2026-09-28T08:58:23.658196+08:00",
+    "source": "中央通訊社・產經",
+    "url": "https://www.cna.com.tw/news/afe/202609270174.aspx",
+    "official": false,
+    "category": "待查證",
+    "direction": 0,
+    "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+  },
+  {
+    "id": "a4958f4b0700260c683fd126",
+    "code": "1301",
+    "title": "台塑石化28日起汽柴油價格不調整",
+    "published_at": "2026-09-27T14:12:42+08:00",
+    "first_seen_at": "2026-09-28T08:58:23.658196+08:00",
+    "source": "中央通訊社・產經",
+    "url": "https://www.cna.com.tw/news/ahel/202609270095.aspx",
+    "official": false,
+    "category": "待查證",
+    "direction": 0,
+    "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+  },
+  {
     "id": "7cd11a7a48b57dc10c9dd4f8",
     "code": "2330",
     "title": "台積電赴美投資核准達440億美元　經部：預期持續送件審查",
