@@ -1,7 +1,7 @@
 {
   "rules_version": "international-1",
   "market_date": "2026-09-24",
-  "as_of": "2026-09-28T08:58:26.439450+08:00",
+  "as_of": "2026-09-28T22:31:44.930379+08:00",
   "source_status": "正常",
   "ranking": [
     {
@@ -2401,47 +2401,6 @@
       "events": []
     },
     {
-      "code": "2618",
-      "name": "長榮航",
-      "original_score": 52.94025157232704,
-      "event_score": 46.67643160070314,
-      "event_adjustment": -0.33235683992968623,
-      "weighted_score": 52.31386957516465,
-      "company_evidence": {
-        "factor": "fuel",
-        "name": "長榮航",
-        "url": "https://www.evaair.com/en-global/images/investor-conference-2024q2-en_tcm33-92897.pdf",
-        "evidence": "公司簡報第 7 頁列示燃油均價、耗用量、燃油成本及避險覆蓋。僅支持成本關聯，不代表目前避險比例。",
-        "risk": "歷史簡報只支持業務關聯；須再核對最新避險、需求與航空燃油價格。"
-      },
-      "events": [
-        {
-          "event_id": "48e44adff6ec80060d6e8777",
-          "title": "葉門叛軍射彈攻擊沙烏地　國際油價上漲約3%",
-          "url": "https://www.cna.com.tw/news/afe/202609250011.aspx",
-          "published_at": "2026-09-25T04:00:47+08:00",
-          "points": -11.917039986244943,
-          "inference": "成本提高／運價下降的條件式偏空推論"
-        },
-        {
-          "event_id": "d2e2cfdfffd9d888bbc72b71",
-          "title": "國際油價走高　布倫特原油回升至100美元以上",
-          "url": "https://www.cna.com.tw/news/afe/202609240016.aspx",
-          "published_at": "2026-09-24T04:57:40+08:00",
-          "points": -9.545284090602928,
-          "inference": "成本提高／運價下降的條件式偏空推論"
-        },
-        {
-          "event_id": "e7b1b71c809239ec9174571f",
-          "title": "川普稱美伊會談油價應聲下跌　亞股走勢不一",
-          "url": "https://www.cna.com.tw/news/afe/202609230288.aspx",
-          "published_at": "2026-09-23T18:02:59+08:00",
-          "points": 8.59347158694808,
-          "inference": "成本降低／運價上升的條件式偏多推論"
-        }
-      ]
-    },
-    {
       "code": "2340",
       "name": "台亞",
       "original_score": 52.5,
@@ -2642,6 +2601,71 @@
       "events": []
     },
     {
+      "code": "2618",
+      "name": "長榮航",
+      "original_score": 52.94025157232704,
+      "event_score": 33.918767046799545,
+      "event_adjustment": -1.6081232953200457,
+      "weighted_score": 51.03810311977429,
+      "company_evidence": {
+        "factor": "fuel",
+        "name": "長榮航",
+        "url": "https://www.evaair.com/en-global/images/investor-conference-2024q2-en_tcm33-92897.pdf",
+        "evidence": "公司簡報第 7 頁列示燃油均價、耗用量、燃油成本及避險覆蓋。僅支持成本關聯，不代表目前避險比例。",
+        "risk": "歷史簡報只支持業務關聯；須再核對最新避險、需求與航空燃油價格。"
+      },
+      "events": [
+        {
+          "event_id": "d3792d05b65348210e072110",
+          "title": "川普拒絕伊朗停火提議　亞股收盤互有漲跌油價攀升",
+          "url": "https://www.cna.com.tw/news/afe/202609280158.aspx",
+          "published_at": "2026-09-28T16:38:45+08:00",
+          "points": -23.623380036713765,
+          "inference": "成本提高／運價下降的條件式偏空推論"
+        },
+        {
+          "event_id": "d3b2acdd58f907df6ec5225d",
+          "title": "原油價格上漲等因素牽連　印度股市暴跌",
+          "url": "https://www.cna.com.tw/news/aopl/202609280147.aspx",
+          "published_at": "2026-09-28T16:19:21+08:00",
+          "points": -23.54996082245838,
+          "inference": "成本提高／運價下降的條件式偏空推論"
+        },
+        {
+          "event_id": "4fca748af241da3f0f115706",
+          "title": "油價和債券殖利率攀升　日股收黑",
+          "url": "https://www.cna.com.tw/news/afe/202609280126.aspx",
+          "published_at": "2026-09-28T15:13:37+08:00",
+          "points": -23.30288552415558,
+          "inference": "成本提高／運價下降的條件式偏空推論"
+        },
+        {
+          "event_id": "48e44adff6ec80060d6e8777",
+          "title": "葉門叛軍射彈攻擊沙烏地　國際油價上漲約3%",
+          "url": "https://www.cna.com.tw/news/afe/202609250011.aspx",
+          "published_at": "2026-09-25T04:00:47+08:00",
+          "points": -10.45911043830997,
+          "inference": "成本提高／運價下降的條件式偏空推論"
+        },
+        {
+          "event_id": "d2e2cfdfffd9d888bbc72b71",
+          "title": "國際油價走高　布倫特原油回升至100美元以上",
+          "url": "https://www.cna.com.tw/news/afe/202609240016.aspx",
+          "published_at": "2026-09-24T04:57:40+08:00",
+          "points": -8.37751493524335,
+          "inference": "成本提高／運價下降的條件式偏空推論"
+        },
+        {
+          "event_id": "e7b1b71c809239ec9174571f",
+          "title": "川普稱美伊會談油價應聲下跌　亞股走勢不一",
+          "url": "https://www.cna.com.tw/news/afe/202609230288.aspx",
+          "published_at": "2026-09-23T18:02:59+08:00",
+          "points": 7.542147083513311,
+          "inference": "成本降低／運價上升的條件式偏多推論"
+        }
+      ]
+    },
+    {
       "code": "3045",
       "name": "台灣大",
       "original_score": 50.833333333333336,
@@ -2690,47 +2714,6 @@
       "weighted_score": 50.45990566037735,
       "company_evidence": null,
       "events": []
-    },
-    {
-      "code": "2610",
-      "name": "華航",
-      "original_score": 50.78616352201258,
-      "event_score": 46.67643160070314,
-      "event_adjustment": -0.33235683992968623,
-      "weighted_score": 50.37519032988163,
-      "company_evidence": {
-        "factor": "fuel",
-        "name": "華航",
-        "url": "https://calec.china-airlines.com/csr/en/management_risk.html",
-        "evidence": "公司風險管理說明將燃油列為主要成本及國際經濟敏感風險。",
-        "risk": "原油非航空燃油；需求、匯率、避險及票價轉嫁可能抵銷成本效果。"
-      },
-      "events": [
-        {
-          "event_id": "48e44adff6ec80060d6e8777",
-          "title": "葉門叛軍射彈攻擊沙烏地　國際油價上漲約3%",
-          "url": "https://www.cna.com.tw/news/afe/202609250011.aspx",
-          "published_at": "2026-09-25T04:00:47+08:00",
-          "points": -11.917039986244943,
-          "inference": "成本提高／運價下降的條件式偏空推論"
-        },
-        {
-          "event_id": "d2e2cfdfffd9d888bbc72b71",
-          "title": "國際油價走高　布倫特原油回升至100美元以上",
-          "url": "https://www.cna.com.tw/news/afe/202609240016.aspx",
-          "published_at": "2026-09-24T04:57:40+08:00",
-          "points": -9.545284090602928,
-          "inference": "成本提高／運價下降的條件式偏空推論"
-        },
-        {
-          "event_id": "e7b1b71c809239ec9174571f",
-          "title": "川普稱美伊會談油價應聲下跌　亞股走勢不一",
-          "url": "https://www.cna.com.tw/news/afe/202609230288.aspx",
-          "published_at": "2026-09-23T18:02:59+08:00",
-          "points": 8.59347158694808,
-          "inference": "成本降低／運價上升的條件式偏多推論"
-        }
-      ]
     },
     {
       "code": "4722",
@@ -2871,6 +2854,71 @@
       "weighted_score": 49.28537735849057,
       "company_evidence": null,
       "events": []
+    },
+    {
+      "code": "2610",
+      "name": "華航",
+      "original_score": 50.78616352201258,
+      "event_score": 33.918767046799545,
+      "event_adjustment": -1.6081232953200457,
+      "weighted_score": 49.09942387449127,
+      "company_evidence": {
+        "factor": "fuel",
+        "name": "華航",
+        "url": "https://calec.china-airlines.com/csr/en/management_risk.html",
+        "evidence": "公司風險管理說明將燃油列為主要成本及國際經濟敏感風險。",
+        "risk": "原油非航空燃油；需求、匯率、避險及票價轉嫁可能抵銷成本效果。"
+      },
+      "events": [
+        {
+          "event_id": "d3792d05b65348210e072110",
+          "title": "川普拒絕伊朗停火提議　亞股收盤互有漲跌油價攀升",
+          "url": "https://www.cna.com.tw/news/afe/202609280158.aspx",
+          "published_at": "2026-09-28T16:38:45+08:00",
+          "points": -23.623380036713765,
+          "inference": "成本提高／運價下降的條件式偏空推論"
+        },
+        {
+          "event_id": "d3b2acdd58f907df6ec5225d",
+          "title": "原油價格上漲等因素牽連　印度股市暴跌",
+          "url": "https://www.cna.com.tw/news/aopl/202609280147.aspx",
+          "published_at": "2026-09-28T16:19:21+08:00",
+          "points": -23.54996082245838,
+          "inference": "成本提高／運價下降的條件式偏空推論"
+        },
+        {
+          "event_id": "4fca748af241da3f0f115706",
+          "title": "油價和債券殖利率攀升　日股收黑",
+          "url": "https://www.cna.com.tw/news/afe/202609280126.aspx",
+          "published_at": "2026-09-28T15:13:37+08:00",
+          "points": -23.30288552415558,
+          "inference": "成本提高／運價下降的條件式偏空推論"
+        },
+        {
+          "event_id": "48e44adff6ec80060d6e8777",
+          "title": "葉門叛軍射彈攻擊沙烏地　國際油價上漲約3%",
+          "url": "https://www.cna.com.tw/news/afe/202609250011.aspx",
+          "published_at": "2026-09-25T04:00:47+08:00",
+          "points": -10.45911043830997,
+          "inference": "成本提高／運價下降的條件式偏空推論"
+        },
+        {
+          "event_id": "d2e2cfdfffd9d888bbc72b71",
+          "title": "國際油價走高　布倫特原油回升至100美元以上",
+          "url": "https://www.cna.com.tw/news/afe/202609240016.aspx",
+          "published_at": "2026-09-24T04:57:40+08:00",
+          "points": -8.37751493524335,
+          "inference": "成本提高／運價下降的條件式偏空推論"
+        },
+        {
+          "event_id": "e7b1b71c809239ec9174571f",
+          "title": "川普稱美伊會談油價應聲下跌　亞股走勢不一",
+          "url": "https://www.cna.com.tw/news/afe/202609230288.aspx",
+          "published_at": "2026-09-23T18:02:59+08:00",
+          "points": 7.542147083513311,
+          "inference": "成本降低／運價上升的條件式偏多推論"
+        }
+      ]
     },
     {
       "code": "2867",

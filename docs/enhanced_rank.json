@@ -10,7 +10,7 @@
     "us": 0.1
   },
   "market_date": "2026-09-24",
-  "as_of": "2026-09-28T08:58:29.749232+08:00",
+  "as_of": "2026-09-28T22:31:48.060621+08:00",
   "complete": true,
   "problems": [],
   "coverage": {
@@ -2959,34 +2959,6 @@
       "missing": []
     },
     {
-      "code": "2618",
-      "name": "長榮航",
-      "enhanced_score": 61.92146182352221,
-      "scores": {
-        "technical": 35.57008139989768,
-        "institutional": 98.812351543943,
-        "fundamental": 49.3954747638162,
-        "risk": 100.0,
-        "domestic": 50.0,
-        "international": 46.67643160070314,
-        "us": 60.53554631960788
-      },
-      "details": {
-        "relative_market_5d": -0.3115842915695777,
-        "relative_industry_5d": 0.35040722164318416,
-        "volume_breakout_20d": false,
-        "institutional_intensity_5d": 1.946106494009392,
-        "financial_period": "115Q2",
-        "eps": 2.24,
-        "eps_yoy": null,
-        "operating_margin": 13.250862156747868,
-        "margin_change_1d": 0.7879056482986257,
-        "lending_change_1d": -0.8741162930892776,
-        "daytrade_value_ratio": 23.366314657425953
-      },
-      "missing": []
-    },
-    {
       "code": "6415",
       "name": "矽力*-KY",
       "enhanced_score": 61.552037258707244,
@@ -3095,6 +3067,34 @@
         "margin_change_1d": -0.9671179883945835,
         "lending_change_1d": 0.0,
         "daytrade_value_ratio": 5.737455071850863
+      },
+      "missing": []
+    },
+    {
+      "code": "2618",
+      "name": "長榮航",
+      "enhanced_score": 61.28357859582703,
+      "scores": {
+        "technical": 35.57008139989768,
+        "institutional": 98.812351543943,
+        "fundamental": 49.3954747638162,
+        "risk": 100.0,
+        "domestic": 50.0,
+        "international": 33.918767046799545,
+        "us": 60.53554631960788
+      },
+      "details": {
+        "relative_market_5d": -0.3115842915695777,
+        "relative_industry_5d": 0.35040722164318416,
+        "volume_breakout_20d": false,
+        "institutional_intensity_5d": 1.946106494009392,
+        "financial_period": "115Q2",
+        "eps": 2.24,
+        "eps_yoy": null,
+        "operating_margin": 13.250862156747868,
+        "margin_change_1d": 0.7879056482986257,
+        "lending_change_1d": -0.8741162930892776,
+        "daytrade_value_ratio": 23.366314657425953
       },
       "missing": []
     },
@@ -3659,34 +3659,6 @@
       "missing": []
     },
     {
-      "code": "2610",
-      "name": "華航",
-      "enhanced_score": 59.76551529381742,
-      "scores": {
-        "technical": 34.61822169059011,
-        "institutional": 98.57482185273159,
-        "fundamental": 40.04309644313814,
-        "risk": 100.0,
-        "domestic": 50.0,
-        "international": 46.67643160070314,
-        "us": 60.53554631960788
-      },
-      "details": {
-        "relative_market_5d": -0.4383784730605633,
-        "relative_industry_5d": 0.22361304015219852,
-        "volume_breakout_20d": false,
-        "institutional_intensity_5d": 1.6838928290180677,
-        "financial_period": "115Q2",
-        "eps": 1.08,
-        "eps_yoy": null,
-        "operating_margin": 7.533228069290517,
-        "margin_change_1d": 1.1016841838672908,
-        "lending_change_1d": 0.5812427344658255,
-        "daytrade_value_ratio": 29.396755341265905
-      },
-      "missing": []
-    },
-    {
       "code": "6209",
       "name": "今國光",
       "enhanced_score": 59.752608604913235,
@@ -3851,6 +3823,34 @@
         "margin_change_1d": 1.9034971226206343,
         "lending_change_1d": -9.044392200248929,
         "daytrade_value_ratio": 11.184409162957415
+      },
+      "missing": []
+    },
+    {
+      "code": "2610",
+      "name": "華航",
+      "enhanced_score": 59.12763206612224,
+      "scores": {
+        "technical": 34.61822169059011,
+        "institutional": 98.57482185273159,
+        "fundamental": 40.04309644313814,
+        "risk": 100.0,
+        "domestic": 50.0,
+        "international": 33.918767046799545,
+        "us": 60.53554631960788
+      },
+      "details": {
+        "relative_market_5d": -0.4383784730605633,
+        "relative_industry_5d": 0.22361304015219852,
+        "volume_breakout_20d": false,
+        "institutional_intensity_5d": 1.6838928290180677,
+        "financial_period": "115Q2",
+        "eps": 1.08,
+        "eps_yoy": null,
+        "operating_margin": 7.533228069290517,
+        "margin_change_1d": 1.1016841838672908,
+        "lending_change_1d": 0.5812427344658255,
+        "daytrade_value_ratio": 29.396755341265905
       },
       "missing": []
     },
