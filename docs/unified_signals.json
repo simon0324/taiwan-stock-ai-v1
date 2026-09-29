@@ -1575,7 +1575,12 @@
             "net_return_pct": 18.561592253899946
           },
           "5": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-18",
+            "exit_date": "2026-09-29",
+            "entry_price": 7150.0,
+            "exit_price": 7925.0,
+            "net_return_pct": 10.20656266810113
           }
         }
       },
@@ -1600,7 +1605,12 @@
             "net_return_pct": 0.14197205708982366
           },
           "5": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-18",
+            "exit_date": "2026-09-29",
+            "entry_price": 205.5,
+            "exit_price": 207.5,
+            "net_return_pct": 0.3842777234304061
           }
         }
       },
@@ -1625,7 +1635,12 @@
             "net_return_pct": 4.031803542673107
           },
           "5": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-18",
+            "exit_date": "2026-09-29",
+            "entry_price": 690.0,
+            "exit_price": 730.0,
+            "net_return_pct": 5.186191626409017
           }
         }
       },
@@ -1650,7 +1665,12 @@
             "net_return_pct": 2.0241576859901445
           },
           "5": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-18",
+            "exit_date": "2026-09-29",
+            "entry_price": 114.5,
+            "exit_price": 115.0,
+            "net_return_pct": -0.15023436561035214
           }
         }
       },
@@ -1675,7 +1695,12 @@
             "net_return_pct": 11.932035127911417
           },
           "5": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-18",
+            "exit_date": "2026-09-29",
+            "entry_price": 342.0,
+            "exit_price": 378.0,
+            "net_return_pct": 9.894294728803683
           }
         }
       }
@@ -1702,7 +1727,12 @@
             "net_return_pct": 18.561592253899946
           },
           "5": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-18",
+            "exit_date": "2026-09-29",
+            "entry_price": 7150.0,
+            "exit_price": 7925.0,
+            "net_return_pct": 10.20656266810113
           }
         }
       },
@@ -1727,7 +1757,12 @@
             "net_return_pct": 0.14197205708982366
           },
           "5": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-18",
+            "exit_date": "2026-09-29",
+            "entry_price": 205.5,
+            "exit_price": 207.5,
+            "net_return_pct": 0.3842777234304061
           }
         }
       },
@@ -1752,7 +1787,12 @@
             "net_return_pct": 4.031803542673107
           },
           "5": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-18",
+            "exit_date": "2026-09-29",
+            "entry_price": 690.0,
+            "exit_price": 730.0,
+            "net_return_pct": 5.186191626409017
           }
         }
       },
@@ -1777,7 +1817,12 @@
             "net_return_pct": 2.0241576859901445
           },
           "5": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-18",
+            "exit_date": "2026-09-29",
+            "entry_price": 114.5,
+            "exit_price": 115.0,
+            "net_return_pct": -0.15023436561035214
           }
         }
       },
@@ -1802,7 +1847,12 @@
             "net_return_pct": 11.932035127911417
           },
           "5": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-18",
+            "exit_date": "2026-09-29",
+            "entry_price": 342.0,
+            "exit_price": 378.0,
+            "net_return_pct": 9.894294728803683
           }
         }
       }
@@ -1827,7 +1877,12 @@
             "net_return_pct": 4.929097900977408
           },
           "4": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-21",
+            "exit_date": "2026-09-29",
+            "entry_price": 632.0,
+            "exit_price": 654.0,
+            "net_return_pct": 2.8811488543502644
           },
           "5": {
             "status": "waiting"
@@ -1847,7 +1902,12 @@
             "net_return_pct": 11.312692560230314
           },
           "4": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-21",
+            "exit_date": "2026-09-29",
+            "entry_price": 7615.0,
+            "exit_price": 7925.0,
+            "net_return_pct": 3.4678519117127125
           },
           "5": {
             "status": "waiting"
@@ -1867,7 +1927,12 @@
             "net_return_pct": 2.4716791979949875
           },
           "4": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-21",
+            "exit_date": "2026-09-29",
+            "entry_price": 114.0,
+            "exit_price": 115.0,
+            "net_return_pct": 0.2887218045112782
           },
           "5": {
             "status": "waiting"
@@ -1887,7 +1952,12 @@
             "net_return_pct": 4.99748768967943
           },
           "4": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-21",
+            "exit_date": "2026-09-29",
+            "entry_price": 535.0,
+            "exit_price": 544.0,
+            "net_return_pct": 1.0893377549994976
           },
           "5": {
             "status": "waiting"
@@ -1907,7 +1977,12 @@
             "net_return_pct": -6.060416666666667
           },
           "4": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-21",
+            "exit_date": "2026-09-29",
+            "entry_price": 6000.0,
+            "exit_price": 5585.0,
+            "net_return_pct": -7.470833333333333
           },
           "5": {
             "status": "waiting"
@@ -1929,7 +2004,12 @@
             "net_return_pct": 4.929097900977408
           },
           "4": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-21",
+            "exit_date": "2026-09-29",
+            "entry_price": 632.0,
+            "exit_price": 654.0,
+            "net_return_pct": 2.8811488543502644
           },
           "5": {
             "status": "waiting"
@@ -1949,7 +2029,12 @@
             "net_return_pct": 11.312692560230314
           },
           "4": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-21",
+            "exit_date": "2026-09-29",
+            "entry_price": 7615.0,
+            "exit_price": 7925.0,
+            "net_return_pct": 3.4678519117127125
           },
           "5": {
             "status": "waiting"
@@ -1969,7 +2054,12 @@
             "net_return_pct": 4.99748768967943
           },
           "4": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-21",
+            "exit_date": "2026-09-29",
+            "entry_price": 535.0,
+            "exit_price": 544.0,
+            "net_return_pct": 1.0893377549994976
           },
           "5": {
             "status": "waiting"
@@ -1989,7 +2079,12 @@
             "net_return_pct": -6.060416666666667
           },
           "4": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-21",
+            "exit_date": "2026-09-29",
+            "entry_price": 6000.0,
+            "exit_price": 5585.0,
+            "net_return_pct": -7.470833333333333
           },
           "5": {
             "status": "waiting"
@@ -2009,7 +2104,12 @@
             "net_return_pct": -2.318188438185827
           },
           "4": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-21",
+            "exit_date": "2026-09-29",
+            "entry_price": 344.5,
+            "exit_price": 336.5,
+            "net_return_pct": -2.8977355477322835
           },
           "5": {
             "status": "waiting"
@@ -2029,7 +2129,12 @@
         "name": "創意",
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-22",
+            "exit_date": "2026-09-29",
+            "entry_price": 8375.0,
+            "exit_price": 7925.0,
+            "net_return_pct": -5.934328358208956
           },
           "4": {
             "status": "waiting"
@@ -2044,7 +2149,12 @@
         "name": "統一證",
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-22",
+            "exit_date": "2026-09-29",
+            "entry_price": 56.9,
+            "exit_price": 55.5,
+            "net_return_pct": -3.03459028121511
           },
           "4": {
             "status": "waiting"
@@ -2059,7 +2169,12 @@
         "name": "洋基工程",
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-22",
+            "exit_date": "2026-09-29",
+            "entry_price": 635.0,
+            "exit_price": 654.0,
+            "net_return_pct": 2.3943026230001503
           },
           "4": {
             "status": "waiting"
@@ -2074,7 +2189,12 @@
         "name": "致茂",
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-22",
+            "exit_date": "2026-09-29",
+            "entry_price": 2440.0,
+            "exit_price": 2185.0,
+            "net_return_pct": -10.989754098360656
           },
           "4": {
             "status": "waiting"
@@ -2089,7 +2209,12 @@
         "name": "文曄",
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-22",
+            "exit_date": "2026-09-29",
+            "entry_price": 205.0,
+            "exit_price": 207.5,
+            "net_return_pct": 0.6295387389192166
           },
           "4": {
             "status": "waiting"
@@ -2106,7 +2231,12 @@
         "name": "創意",
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-22",
+            "exit_date": "2026-09-29",
+            "entry_price": 8375.0,
+            "exit_price": 7925.0,
+            "net_return_pct": -5.934328358208956
           },
           "4": {
             "status": "waiting"
@@ -2121,7 +2251,12 @@
         "name": "統一證",
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-22",
+            "exit_date": "2026-09-29",
+            "entry_price": 56.9,
+            "exit_price": 55.5,
+            "net_return_pct": -3.03459028121511
           },
           "4": {
             "status": "waiting"
@@ -2136,7 +2271,12 @@
         "name": "洋基工程",
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-22",
+            "exit_date": "2026-09-29",
+            "entry_price": 635.0,
+            "exit_price": 654.0,
+            "net_return_pct": 2.3943026230001503
           },
           "4": {
             "status": "waiting"
@@ -2151,7 +2291,12 @@
         "name": "致茂",
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-22",
+            "exit_date": "2026-09-29",
+            "entry_price": 2440.0,
+            "exit_price": 2185.0,
+            "net_return_pct": -10.989754098360656
           },
           "4": {
             "status": "waiting"
@@ -2166,7 +2311,12 @@
         "name": "文曄",
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-22",
+            "exit_date": "2026-09-29",
+            "entry_price": 205.0,
+            "exit_price": 207.5,
+            "net_return_pct": 0.6295387389192166
           },
           "4": {
             "status": "waiting"
@@ -2498,5 +2648,54 @@
       }
     ],
     "tracking_status": "tracking"
+  },
+  {
+    "rules_version": "unified-1",
+    "market_date": "2026-09-29",
+    "observed_at": "2026-09-29T21:22:33.416905+08:00",
+    "original": [
+      {
+        "code": "3653",
+        "name": "健策"
+      },
+      {
+        "code": "6933",
+        "name": "AMAX-KY"
+      },
+      {
+        "code": "6691",
+        "name": "洋基工程"
+      },
+      {
+        "code": "8996",
+        "name": "高力"
+      },
+      {
+        "code": "2404",
+        "name": "漢唐"
+      }
+    ],
+    "unified": [
+      {
+        "code": "3653",
+        "name": "健策"
+      },
+      {
+        "code": "6933",
+        "name": "AMAX-KY"
+      },
+      {
+        "code": "6691",
+        "name": "洋基工程"
+      },
+      {
+        "code": "8996",
+        "name": "高力"
+      },
+      {
+        "code": "2404",
+        "name": "漢唐"
+      }
+    ]
   }
 ]
