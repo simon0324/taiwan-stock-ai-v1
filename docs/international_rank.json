@@ -1,7 +1,7 @@
 {
   "rules_version": "international-1",
   "market_date": "2026-09-24",
-  "as_of": "2026-09-28T22:31:44.930379+08:00",
+  "as_of": "2026-09-29T10:08:20.314923+08:00",
   "source_status": "正常",
   "ranking": [
     {
@@ -1195,6 +1195,16 @@
       "events": []
     },
     {
+      "code": "2885",
+      "name": "元大金",
+      "original_score": 64.8993710691824,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 63.40943396226415,
+      "company_evidence": null,
+      "events": []
+    },
+    {
       "code": "3010",
       "name": "華立",
       "original_score": 64.87421383647798,
@@ -1345,16 +1355,6 @@
       "events": []
     },
     {
-      "code": "2885",
-      "name": "元大金",
-      "original_score": 63.89937106918239,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 62.509433962264154,
-      "company_evidence": null,
-      "events": []
-    },
-    {
       "code": "6415",
       "name": "矽力*-KY",
       "original_score": 63.86006289308176,
@@ -1431,6 +1431,16 @@
       "event_score": 50,
       "event_adjustment": 0.0,
       "weighted_score": 61.92924528301887,
+      "company_evidence": null,
+      "events": []
+    },
+    {
+      "code": "1795",
+      "name": "美時",
+      "original_score": 62.833333333333336,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 61.550000000000004,
       "company_evidence": null,
       "events": []
     },
@@ -1631,16 +1641,6 @@
       "event_score": 50,
       "event_adjustment": 0.0,
       "weighted_score": 60.08254716981133,
-      "company_evidence": null,
-      "events": []
-    },
-    {
-      "code": "1795",
-      "name": "美時",
-      "original_score": 60.833333333333336,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 59.75,
       "company_evidence": null,
       "events": []
     },
@@ -1965,6 +1965,16 @@
       "events": []
     },
     {
+      "code": "4927",
+      "name": "泰鼎-KY",
+      "original_score": 56.9748427672956,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 56.27735849056604,
+      "company_evidence": null,
+      "events": []
+    },
+    {
       "code": "8103",
       "name": "瀚荃",
       "original_score": 56.95754716981131,
@@ -2081,16 +2091,6 @@
       "event_score": 50,
       "event_adjustment": 0.0,
       "weighted_score": 55.44103773584906,
-      "company_evidence": null,
-      "events": []
-    },
-    {
-      "code": "4927",
-      "name": "泰鼎-KY",
-      "original_score": 55.9748427672956,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 55.37735849056604,
       "company_evidence": null,
       "events": []
     },
@@ -2531,6 +2531,16 @@
       "events": []
     },
     {
+      "code": "2881",
+      "name": "富邦金",
+      "original_score": 51.58490566037735,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 51.42641509433962,
+      "company_evidence": null,
+      "events": []
+    },
+    {
       "code": "2401",
       "name": "凌陽",
       "original_score": 51.5251572327044,
@@ -2549,6 +2559,71 @@
       "weighted_score": 51.25235849056603,
       "company_evidence": null,
       "events": []
+    },
+    {
+      "code": "2618",
+      "name": "長榮航",
+      "original_score": 52.94025157232704,
+      "event_score": 35.61933494288685,
+      "event_adjustment": -1.4380665057113153,
+      "weighted_score": 51.20815990938303,
+      "company_evidence": {
+        "factor": "fuel",
+        "name": "長榮航",
+        "url": "https://www.evaair.com/en-global/images/investor-conference-2024q2-en_tcm33-92897.pdf",
+        "evidence": "公司簡報第 7 頁列示燃油均價、耗用量、燃油成本及避險覆蓋。僅支持成本關聯，不代表目前避險比例。",
+        "risk": "歷史簡報只支持業務關聯；須再核對最新避險、需求與航空燃油價格。"
+      },
+      "events": [
+        {
+          "event_id": "d3792d05b65348210e072110",
+          "title": "川普拒絕伊朗停火提議　亞股收盤互有漲跌油價攀升",
+          "url": "https://www.cna.com.tw/news/afe/202609280158.aspx",
+          "published_at": "2026-09-28T16:38:45+08:00",
+          "points": -21.125240633819917,
+          "inference": "成本提高／運價下降的條件式偏空推論"
+        },
+        {
+          "event_id": "d3b2acdd58f907df6ec5225d",
+          "title": "原油價格上漲等因素牽連　印度股市暴跌",
+          "url": "https://www.cna.com.tw/news/aopl/202609280147.aspx",
+          "published_at": "2026-09-28T16:19:21+08:00",
+          "points": -21.059585398799335,
+          "inference": "成本提高／運價下降的條件式偏空推論"
+        },
+        {
+          "event_id": "4fca748af241da3f0f115706",
+          "title": "油價和債券殖利率攀升　日股收黑",
+          "url": "https://www.cna.com.tw/news/afe/202609280126.aspx",
+          "published_at": "2026-09-28T15:13:37+08:00",
+          "points": -20.838637967770936,
+          "inference": "成本提高／運價下降的條件式偏空推論"
+        },
+        {
+          "event_id": "48e44adff6ec80060d6e8777",
+          "title": "葉門叛軍射彈攻擊沙烏地　國際油價上漲約3%",
+          "url": "https://www.cna.com.tw/news/afe/202609250011.aspx",
+          "published_at": "2026-09-25T04:00:47+08:00",
+          "points": -9.353074135945375,
+          "inference": "成本提高／運價下降的條件式偏空推論"
+        },
+        {
+          "event_id": "d2e2cfdfffd9d888bbc72b71",
+          "title": "國際油價走高　布倫特原油回升至100美元以上",
+          "url": "https://www.cna.com.tw/news/afe/202609240016.aspx",
+          "published_at": "2026-09-24T04:57:40+08:00",
+          "points": -7.491604446332024,
+          "inference": "成本提高／運價下降的條件式偏空推論"
+        },
+        {
+          "event_id": "e7b1b71c809239ec9174571f",
+          "title": "川普稱美伊會談油價應聲下跌　亞股走勢不一",
+          "url": "https://www.cna.com.tw/news/afe/202609230288.aspx",
+          "published_at": "2026-09-23T18:02:59+08:00",
+          "points": 6.744575576706764,
+          "inference": "成本降低／運價上升的條件式偏多推論"
+        }
+      ]
     },
     {
       "code": "1513",
@@ -2599,71 +2674,6 @@
       "weighted_score": 51.089622641509436,
       "company_evidence": null,
       "events": []
-    },
-    {
-      "code": "2618",
-      "name": "長榮航",
-      "original_score": 52.94025157232704,
-      "event_score": 33.918767046799545,
-      "event_adjustment": -1.6081232953200457,
-      "weighted_score": 51.03810311977429,
-      "company_evidence": {
-        "factor": "fuel",
-        "name": "長榮航",
-        "url": "https://www.evaair.com/en-global/images/investor-conference-2024q2-en_tcm33-92897.pdf",
-        "evidence": "公司簡報第 7 頁列示燃油均價、耗用量、燃油成本及避險覆蓋。僅支持成本關聯，不代表目前避險比例。",
-        "risk": "歷史簡報只支持業務關聯；須再核對最新避險、需求與航空燃油價格。"
-      },
-      "events": [
-        {
-          "event_id": "d3792d05b65348210e072110",
-          "title": "川普拒絕伊朗停火提議　亞股收盤互有漲跌油價攀升",
-          "url": "https://www.cna.com.tw/news/afe/202609280158.aspx",
-          "published_at": "2026-09-28T16:38:45+08:00",
-          "points": -23.623380036713765,
-          "inference": "成本提高／運價下降的條件式偏空推論"
-        },
-        {
-          "event_id": "d3b2acdd58f907df6ec5225d",
-          "title": "原油價格上漲等因素牽連　印度股市暴跌",
-          "url": "https://www.cna.com.tw/news/aopl/202609280147.aspx",
-          "published_at": "2026-09-28T16:19:21+08:00",
-          "points": -23.54996082245838,
-          "inference": "成本提高／運價下降的條件式偏空推論"
-        },
-        {
-          "event_id": "4fca748af241da3f0f115706",
-          "title": "油價和債券殖利率攀升　日股收黑",
-          "url": "https://www.cna.com.tw/news/afe/202609280126.aspx",
-          "published_at": "2026-09-28T15:13:37+08:00",
-          "points": -23.30288552415558,
-          "inference": "成本提高／運價下降的條件式偏空推論"
-        },
-        {
-          "event_id": "48e44adff6ec80060d6e8777",
-          "title": "葉門叛軍射彈攻擊沙烏地　國際油價上漲約3%",
-          "url": "https://www.cna.com.tw/news/afe/202609250011.aspx",
-          "published_at": "2026-09-25T04:00:47+08:00",
-          "points": -10.45911043830997,
-          "inference": "成本提高／運價下降的條件式偏空推論"
-        },
-        {
-          "event_id": "d2e2cfdfffd9d888bbc72b71",
-          "title": "國際油價走高　布倫特原油回升至100美元以上",
-          "url": "https://www.cna.com.tw/news/afe/202609240016.aspx",
-          "published_at": "2026-09-24T04:57:40+08:00",
-          "points": -8.37751493524335,
-          "inference": "成本提高／運價下降的條件式偏空推論"
-        },
-        {
-          "event_id": "e7b1b71c809239ec9174571f",
-          "title": "川普稱美伊會談油價應聲下跌　亞股走勢不一",
-          "url": "https://www.cna.com.tw/news/afe/202609230288.aspx",
-          "published_at": "2026-09-23T18:02:59+08:00",
-          "points": 7.542147083513311,
-          "inference": "成本降低／運價上升的條件式偏多推論"
-        }
-      ]
     },
     {
       "code": "3045",
@@ -2859,9 +2869,9 @@
       "code": "2610",
       "name": "華航",
       "original_score": 50.78616352201258,
-      "event_score": 33.918767046799545,
-      "event_adjustment": -1.6081232953200457,
-      "weighted_score": 49.09942387449127,
+      "event_score": 35.61933494288685,
+      "event_adjustment": -1.4380665057113153,
+      "weighted_score": 49.26948066410001,
       "company_evidence": {
         "factor": "fuel",
         "name": "華航",
@@ -2875,7 +2885,7 @@
           "title": "川普拒絕伊朗停火提議　亞股收盤互有漲跌油價攀升",
           "url": "https://www.cna.com.tw/news/afe/202609280158.aspx",
           "published_at": "2026-09-28T16:38:45+08:00",
-          "points": -23.623380036713765,
+          "points": -21.125240633819917,
           "inference": "成本提高／運價下降的條件式偏空推論"
         },
         {
@@ -2883,7 +2893,7 @@
           "title": "原油價格上漲等因素牽連　印度股市暴跌",
           "url": "https://www.cna.com.tw/news/aopl/202609280147.aspx",
           "published_at": "2026-09-28T16:19:21+08:00",
-          "points": -23.54996082245838,
+          "points": -21.059585398799335,
           "inference": "成本提高／運價下降的條件式偏空推論"
         },
         {
@@ -2891,7 +2901,7 @@
           "title": "油價和債券殖利率攀升　日股收黑",
           "url": "https://www.cna.com.tw/news/afe/202609280126.aspx",
           "published_at": "2026-09-28T15:13:37+08:00",
-          "points": -23.30288552415558,
+          "points": -20.838637967770936,
           "inference": "成本提高／運價下降的條件式偏空推論"
         },
         {
@@ -2899,7 +2909,7 @@
           "title": "葉門叛軍射彈攻擊沙烏地　國際油價上漲約3%",
           "url": "https://www.cna.com.tw/news/afe/202609250011.aspx",
           "published_at": "2026-09-25T04:00:47+08:00",
-          "points": -10.45911043830997,
+          "points": -9.353074135945375,
           "inference": "成本提高／運價下降的條件式偏空推論"
         },
         {
@@ -2907,7 +2917,7 @@
           "title": "國際油價走高　布倫特原油回升至100美元以上",
           "url": "https://www.cna.com.tw/news/afe/202609240016.aspx",
           "published_at": "2026-09-24T04:57:40+08:00",
-          "points": -8.37751493524335,
+          "points": -7.491604446332024,
           "inference": "成本提高／運價下降的條件式偏空推論"
         },
         {
@@ -2915,7 +2925,7 @@
           "title": "川普稱美伊會談油價應聲下跌　亞股走勢不一",
           "url": "https://www.cna.com.tw/news/afe/202609230288.aspx",
           "published_at": "2026-09-23T18:02:59+08:00",
-          "points": 7.542147083513311,
+          "points": 6.744575576706764,
           "inference": "成本降低／運價上升的條件式偏多推論"
         }
       ]
@@ -2977,16 +2987,6 @@
       "event_score": 50,
       "event_adjustment": 0.0,
       "weighted_score": 48.761792452830186,
-      "company_evidence": null,
-      "events": []
-    },
-    {
-      "code": "2881",
-      "name": "富邦金",
-      "original_score": 48.58490566037735,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 48.726415094339615,
       "company_evidence": null,
       "events": []
     },
@@ -3611,6 +3611,16 @@
       "events": []
     },
     {
+      "code": "6451",
+      "name": "訊芯-KY",
+      "original_score": 43.13207547169811,
+      "event_score": 50,
+      "event_adjustment": 0.0,
+      "weighted_score": 43.8188679245283,
+      "company_evidence": null,
+      "events": []
+    },
+    {
       "code": "1301",
       "name": "台塑",
       "original_score": 43.12106918238993,
@@ -3817,16 +3827,6 @@
       "event_score": 50,
       "event_adjustment": 0.0,
       "weighted_score": 42.10377358490566,
-      "company_evidence": null,
-      "events": []
-    },
-    {
-      "code": "6451",
-      "name": "訊芯-KY",
-      "original_score": 41.13207547169811,
-      "event_score": 50,
-      "event_adjustment": 0.0,
-      "weighted_score": 42.0188679245283,
       "company_evidence": null,
       "events": []
     },

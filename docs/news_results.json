@@ -1,7 +1,7 @@
 {
   "rules_version": "events-1",
   "market_date": "2026-09-24",
-  "as_of": "2026-09-28T22:31:42.478474+08:00",
+  "as_of": "2026-09-29T10:08:15.121385+08:00",
   "sources": [
     {
       "source": "證交所・公司重大訊息",
@@ -1936,6 +1936,19 @@
       ],
       "events": [
         {
+          "id": "105ac7d199b548c2f333574c",
+          "code": "2330",
+          "title": "台股開低拚守穩48000點　台積電撐盤漲15元",
+          "published_at": "2026-09-29T09:18:25+08:00",
+          "first_seen_at": "2026-09-29T10:08:15.121385+08:00",
+          "source": "中央通訊社・產經",
+          "url": "https://www.cna.com.tw/news/afe/202609290030.aspx",
+          "official": false,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
           "id": "2e0e68545f80f261367a6f97",
           "code": "2330",
           "title": "國發會攜手台積電等14家企業　赴矽谷攬才深化台美交流",
@@ -2008,32 +2021,6 @@
           "first_seen_at": "2026-09-15T20:10:44.456414+08:00",
           "source": "中央通訊社・產經",
           "url": "https://www.cna.com.tw/news/afe/202609150242.aspx",
-          "official": false,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "823b504bdea6beeb12653630",
-          "code": "2330",
-          "title": "費半挫近6%、台積電ADR跌3.52%　台股估震盪",
-          "published_at": "2026-09-15T08:17:09+08:00",
-          "first_seen_at": "2026-09-15T08:45:42.818043+08:00",
-          "source": "中央通訊社・產經",
-          "url": "https://www.cna.com.tw/news/afe/202609150021.aspx",
-          "official": false,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "1d63b0b667832cf6f476f8b1",
-          "code": "2330",
-          "title": "台積電德國廠封頂儀式　擇吉日、滿鏟土融入台灣習俗",
-          "published_at": "2026-09-15T07:44:58+08:00",
-          "first_seen_at": "2026-09-15T08:45:42.818043+08:00",
-          "source": "中央通訊社・產經",
-          "url": "https://www.cna.com.tw/news/afe/202609150017.aspx",
           "official": false,
           "category": "待查證",
           "direction": 0,
@@ -2502,19 +2489,6 @@
           "title": "本公司代子公司中達電子(江蘇)有限公司公告向關係人取得機器設備",
           "published_at": "2026-09-17T18:20:32+08:00",
           "first_seen_at": "2026-09-18T08:32:35.377850+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "84fd769e4b2cfb626c9b40e6",
-          "code": "2308",
-          "title": "代子公司DEISG公告董事會決議發行以所持有之Delta\r\nElectronics (Thailand) Public Company Limited股份作為交換\r\n標的之海外可交換公司債（下稱「本次可交換債」）",
-          "published_at": "2026-09-15T06:41:17+08:00",
-          "first_seen_at": "2026-09-16T08:35:57.247494+08:00",
           "source": "證交所・公司重大訊息",
           "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
           "official": true,
@@ -5005,6 +4979,138 @@
       ]
     },
     {
+      "code": "2885",
+      "name": "元大金",
+      "original_score": 64.8993710691824,
+      "message_score": 50.0,
+      "score": 63.40943396226415,
+      "evidence_status": "未知／未達門檻",
+      "contributions": [
+        {
+          "category": "訂單",
+          "points": 0.0
+        },
+        {
+          "category": "新聞話題",
+          "points": 0.0
+        },
+        {
+          "category": "龍頭地位",
+          "points": 0.0
+        },
+        {
+          "category": "專利技術",
+          "points": 0.0
+        }
+      ],
+      "events": [
+        {
+          "id": "bf6c3b7f44a4e3bfe7517989",
+          "code": "2885",
+          "title": "元大金控代子公司元大證券(韓國)公告受韓國金融委員會裁罰",
+          "published_at": "2026-09-28T16:03:39+08:00",
+          "first_seen_at": "2026-09-29T10:08:15.121385+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "d417ee78f53ff1479d709ec7",
+          "code": "2885",
+          "title": "元大金控代子公司元大銀行公告董事會決議通過臺中崇德\r\n大樓依「都市危險及老舊建築物加速重建條例」辦理危老重建。",
+          "published_at": "2026-09-24T16:27:49+08:00",
+          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "f4951849bf77f9f78edb0bce",
+          "code": "2885",
+          "title": "元大金控代子公司元大商業銀行公告董事會決議，申請\r\n115年度第二次無擔保主順位金融債券循環發行額度\r\n新臺幣壹佰億元整",
+          "published_at": "2026-09-24T16:08:55+08:00",
+          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "464925befa4f14c3fe8dc588",
+          "code": "2885",
+          "title": "元大金控代子公司元大證券公告董事會通過對關係人\r\n捐贈事宜",
+          "published_at": "2026-09-24T15:11:06+08:00",
+          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "545094fa486f27a01b839a24",
+          "code": "2885",
+          "title": "元大金控代子公司元大證券\r\n公告新任薪資報酬委員會成員",
+          "published_at": "2026-09-24T15:06:33+08:00",
+          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "4f8a05bcf385293f255d2d23",
+          "code": "2885",
+          "title": "元大金控代子公司元大人壽公告董事會代行股東臨時會\r\n重要決議事項(通過修正取得或處分資產處理程序部分內容)",
+          "published_at": "2026-09-22T14:00:10+08:00",
+          "first_seen_at": "2026-09-23T08:47:14.557621+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "160119af759bbaa41bd486b4",
+          "code": "2885",
+          "title": "元大金控公告向元大銀行原租賃取得使用權資產範圍調整",
+          "published_at": "2026-09-21T18:17:41+08:00",
+          "first_seen_at": "2026-09-22T08:58:58.235416+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "5879788e64253003dd093380",
+          "code": "2885",
+          "title": "公告本公司擬於民國115年9月18日受邀參加第一金證券舉行之線上投資人會議",
+          "published_at": "2026-09-15T15:08:11+08:00",
+          "first_seen_at": "2026-09-16T08:35:57.247494+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "含推測、否認或澄清語句，僅列入觀察"
+        }
+      ]
+    },
+    {
       "code": "3010",
       "name": "華立",
       "original_score": 64.87421383647798,
@@ -5519,125 +5625,6 @@
       ]
     },
     {
-      "code": "2885",
-      "name": "元大金",
-      "original_score": 63.89937106918239,
-      "message_score": 50.0,
-      "score": 62.509433962264154,
-      "evidence_status": "未知／未達門檻",
-      "contributions": [
-        {
-          "category": "訂單",
-          "points": 0.0
-        },
-        {
-          "category": "新聞話題",
-          "points": 0.0
-        },
-        {
-          "category": "龍頭地位",
-          "points": 0.0
-        },
-        {
-          "category": "專利技術",
-          "points": 0.0
-        }
-      ],
-      "events": [
-        {
-          "id": "d417ee78f53ff1479d709ec7",
-          "code": "2885",
-          "title": "元大金控代子公司元大銀行公告董事會決議通過臺中崇德\r\n大樓依「都市危險及老舊建築物加速重建條例」辦理危老重建。",
-          "published_at": "2026-09-24T16:27:49+08:00",
-          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "f4951849bf77f9f78edb0bce",
-          "code": "2885",
-          "title": "元大金控代子公司元大商業銀行公告董事會決議，申請\r\n115年度第二次無擔保主順位金融債券循環發行額度\r\n新臺幣壹佰億元整",
-          "published_at": "2026-09-24T16:08:55+08:00",
-          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "464925befa4f14c3fe8dc588",
-          "code": "2885",
-          "title": "元大金控代子公司元大證券公告董事會通過對關係人\r\n捐贈事宜",
-          "published_at": "2026-09-24T15:11:06+08:00",
-          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "545094fa486f27a01b839a24",
-          "code": "2885",
-          "title": "元大金控代子公司元大證券\r\n公告新任薪資報酬委員會成員",
-          "published_at": "2026-09-24T15:06:33+08:00",
-          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "4f8a05bcf385293f255d2d23",
-          "code": "2885",
-          "title": "元大金控代子公司元大人壽公告董事會代行股東臨時會\r\n重要決議事項(通過修正取得或處分資產處理程序部分內容)",
-          "published_at": "2026-09-22T14:00:10+08:00",
-          "first_seen_at": "2026-09-23T08:47:14.557621+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "160119af759bbaa41bd486b4",
-          "code": "2885",
-          "title": "元大金控公告向元大銀行原租賃取得使用權資產範圍調整",
-          "published_at": "2026-09-21T18:17:41+08:00",
-          "first_seen_at": "2026-09-22T08:58:58.235416+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "5879788e64253003dd093380",
-          "code": "2885",
-          "title": "公告本公司擬於民國115年9月18日受邀參加第一金證券舉行之線上投資人會議",
-          "published_at": "2026-09-15T15:08:11+08:00",
-          "first_seen_at": "2026-09-16T08:35:57.247494+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "含推測、否認或澄清語句，僅列入觀察"
-        }
-      ]
-    },
-    {
       "code": "6415",
       "name": "矽力*-KY",
       "original_score": 63.86006289308176,
@@ -5920,6 +5907,177 @@
         }
       ],
       "events": []
+    },
+    {
+      "code": "1795",
+      "name": "美時",
+      "original_score": 62.833333333333336,
+      "message_score": 50.0,
+      "score": 61.550000000000004,
+      "evidence_status": "未知／未達門檻",
+      "contributions": [
+        {
+          "category": "訂單",
+          "points": 0.0
+        },
+        {
+          "category": "新聞話題",
+          "points": 0.0
+        },
+        {
+          "category": "龍頭地位",
+          "points": 0.0
+        },
+        {
+          "category": "專利技術",
+          "points": 0.0
+        }
+      ],
+      "events": [
+        {
+          "id": "a170985b2bfa90b6c008f76d",
+          "code": "1795",
+          "title": "本公司對美國子公司Alvogen Pharma US Inc.資金貸與案",
+          "published_at": "2026-09-28T20:18:11+08:00",
+          "first_seen_at": "2026-09-29T10:08:15.121385+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "278aad050b082d048736a6e2",
+          "code": "1795",
+          "title": "公告本公司董事會決議庫藏股註銷暨訂定減資基準日",
+          "published_at": "2026-09-28T20:17:40+08:00",
+          "first_seen_at": "2026-09-29T10:08:15.121385+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "d35042a36cde2cd4feaf5d23",
+          "code": "1795",
+          "title": "代子公司Lotus International Pte. Ltd.\r\n公告對本公司資金貸與案",
+          "published_at": "2026-09-22T17:59:11+08:00",
+          "first_seen_at": "2026-09-23T08:47:14.557621+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "f7cfd731624335b7d5dac9a3",
+          "code": "1795",
+          "title": "代重要子公司Alvogen Korea Co., Ltd.公告董事當選名單",
+          "published_at": "2026-09-16T21:56:40+08:00",
+          "first_seen_at": "2026-09-17T08:44:23.506673+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "f59bce20c35641edf40ba997",
+          "code": "1795",
+          "title": "公告本公司因新加坡子公司減資退還股款取得應收債權案",
+          "published_at": "2026-09-16T21:56:27+08:00",
+          "first_seen_at": "2026-09-17T08:44:23.506673+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "58e5782436228adfb3754dc0",
+          "code": "1795",
+          "title": "代重要子公司Lotus International Pte. Ltd.\r\n公告減資事宜",
+          "published_at": "2026-09-16T21:56:11+08:00",
+          "first_seen_at": "2026-09-17T08:44:23.506673+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "cab9cadc6a340538ae9aba12",
+          "code": "1795",
+          "title": "代重要子公司Lotus International Pte. Ltd.公告2026年\r\n股東臨時會重要決議事項",
+          "published_at": "2026-09-16T21:55:48+08:00",
+          "first_seen_at": "2026-09-17T08:44:23.506673+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "9802f7e4ab73870f86aae74f",
+          "code": "1795",
+          "title": "代重要子公司Lotus International Pte. Ltd.\r\n公告召開2026年股東臨時會",
+          "published_at": "2026-09-16T21:55:36+08:00",
+          "first_seen_at": "2026-09-17T08:44:23.506673+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "b3ede5de7baebf0ec24aca24",
+          "code": "1795",
+          "title": "代重要子公司Alvogen Korea Co., Ltd.公告2026年\r\n股東臨時會重要決議事項",
+          "published_at": "2026-09-16T21:52:18+08:00",
+          "first_seen_at": "2026-09-17T08:44:23.506673+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "cd016c57a9e26e30898ca618",
+          "code": "1795",
+          "title": "代重要子公司Alvogen Korea Holdings Ltd.\r\n公告召開2026年股東臨時會",
+          "published_at": "2026-09-15T17:32:43+08:00",
+          "first_seen_at": "2026-09-16T08:35:57.247494+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "3a66f1b4b6505acb759c25fe",
+          "code": "1795",
+          "title": "代子公司Alvogen Korea Holdings Ltd.\r\n公告增資其子公司",
+          "published_at": "2026-09-15T17:32:19+08:00",
+          "first_seen_at": "2026-09-16T08:35:57.247494+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        }
+      ]
     },
     {
       "code": "2615",
@@ -6628,151 +6786,6 @@
           "code": "6239",
           "title": "更正及補充115年8月7日公告本公司與Broadcom於新加坡共同設立\r\n面板級先進封裝業務製造之合資公司",
           "published_at": "2026-09-15T18:05:23+08:00",
-          "first_seen_at": "2026-09-16T08:35:57.247494+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        }
-      ]
-    },
-    {
-      "code": "1795",
-      "name": "美時",
-      "original_score": 60.833333333333336,
-      "message_score": 50.0,
-      "score": 59.75,
-      "evidence_status": "未知／未達門檻",
-      "contributions": [
-        {
-          "category": "訂單",
-          "points": 0.0
-        },
-        {
-          "category": "新聞話題",
-          "points": 0.0
-        },
-        {
-          "category": "龍頭地位",
-          "points": 0.0
-        },
-        {
-          "category": "專利技術",
-          "points": 0.0
-        }
-      ],
-      "events": [
-        {
-          "id": "d35042a36cde2cd4feaf5d23",
-          "code": "1795",
-          "title": "代子公司Lotus International Pte. Ltd.\r\n公告對本公司資金貸與案",
-          "published_at": "2026-09-22T17:59:11+08:00",
-          "first_seen_at": "2026-09-23T08:47:14.557621+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "f7cfd731624335b7d5dac9a3",
-          "code": "1795",
-          "title": "代重要子公司Alvogen Korea Co., Ltd.公告董事當選名單",
-          "published_at": "2026-09-16T21:56:40+08:00",
-          "first_seen_at": "2026-09-17T08:44:23.506673+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "f59bce20c35641edf40ba997",
-          "code": "1795",
-          "title": "公告本公司因新加坡子公司減資退還股款取得應收債權案",
-          "published_at": "2026-09-16T21:56:27+08:00",
-          "first_seen_at": "2026-09-17T08:44:23.506673+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "58e5782436228adfb3754dc0",
-          "code": "1795",
-          "title": "代重要子公司Lotus International Pte. Ltd.\r\n公告減資事宜",
-          "published_at": "2026-09-16T21:56:11+08:00",
-          "first_seen_at": "2026-09-17T08:44:23.506673+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "cab9cadc6a340538ae9aba12",
-          "code": "1795",
-          "title": "代重要子公司Lotus International Pte. Ltd.公告2026年\r\n股東臨時會重要決議事項",
-          "published_at": "2026-09-16T21:55:48+08:00",
-          "first_seen_at": "2026-09-17T08:44:23.506673+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "9802f7e4ab73870f86aae74f",
-          "code": "1795",
-          "title": "代重要子公司Lotus International Pte. Ltd.\r\n公告召開2026年股東臨時會",
-          "published_at": "2026-09-16T21:55:36+08:00",
-          "first_seen_at": "2026-09-17T08:44:23.506673+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "b3ede5de7baebf0ec24aca24",
-          "code": "1795",
-          "title": "代重要子公司Alvogen Korea Co., Ltd.公告2026年\r\n股東臨時會重要決議事項",
-          "published_at": "2026-09-16T21:52:18+08:00",
-          "first_seen_at": "2026-09-17T08:44:23.506673+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "cd016c57a9e26e30898ca618",
-          "code": "1795",
-          "title": "代重要子公司Alvogen Korea Holdings Ltd.\r\n公告召開2026年股東臨時會",
-          "published_at": "2026-09-15T17:32:43+08:00",
-          "first_seen_at": "2026-09-16T08:35:57.247494+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "3a66f1b4b6505acb759c25fe",
-          "code": "1795",
-          "title": "代子公司Alvogen Korea Holdings Ltd.\r\n公告增資其子公司",
-          "published_at": "2026-09-15T17:32:19+08:00",
           "first_seen_at": "2026-09-16T08:35:57.247494+08:00",
           "source": "證交所・公司重大訊息",
           "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
@@ -7786,6 +7799,60 @@
       "events": []
     },
     {
+      "code": "4927",
+      "name": "泰鼎-KY",
+      "original_score": 56.9748427672956,
+      "message_score": 50.0,
+      "score": 56.27735849056604,
+      "evidence_status": "未知／未達門檻",
+      "contributions": [
+        {
+          "category": "訂單",
+          "points": 0.0
+        },
+        {
+          "category": "新聞話題",
+          "points": 0.0
+        },
+        {
+          "category": "龍頭地位",
+          "points": 0.0
+        },
+        {
+          "category": "專利技術",
+          "points": 0.0
+        }
+      ],
+      "events": [
+        {
+          "id": "597db28bb3d04441e280c101",
+          "code": "4927",
+          "title": "代重要子公司Apex Circuit (Thailand) Co., Ltd.\r\n公告營運未受泰國曼谷及部分地區淹水影響",
+          "published_at": "2026-09-28T22:41:06+08:00",
+          "first_seen_at": "2026-09-29T10:08:15.121385+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "cd26a089c9dd21947eda4788",
+          "code": "4927",
+          "title": "代重要子公司Apex Circuit (Thailand) Co., Ltd.\r\n公告資金貸與他人超限改善計畫",
+          "published_at": "2026-09-15T18:20:59+08:00",
+          "first_seen_at": "2026-09-16T08:35:57.247494+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        }
+      ]
+    },
+    {
       "code": "8103",
       "name": "瀚荃",
       "original_score": 56.95754716981131,
@@ -8254,47 +8321,6 @@
         }
       ],
       "events": []
-    },
-    {
-      "code": "4927",
-      "name": "泰鼎-KY",
-      "original_score": 55.9748427672956,
-      "message_score": 50.0,
-      "score": 55.37735849056604,
-      "evidence_status": "未知／未達門檻",
-      "contributions": [
-        {
-          "category": "訂單",
-          "points": 0.0
-        },
-        {
-          "category": "新聞話題",
-          "points": 0.0
-        },
-        {
-          "category": "龍頭地位",
-          "points": 0.0
-        },
-        {
-          "category": "專利技術",
-          "points": 0.0
-        }
-      ],
-      "events": [
-        {
-          "id": "cd26a089c9dd21947eda4788",
-          "code": "4927",
-          "title": "代重要子公司Apex Circuit (Thailand) Co., Ltd.\r\n公告資金貸與他人超限改善計畫",
-          "published_at": "2026-09-15T18:20:59+08:00",
-          "first_seen_at": "2026-09-16T08:35:57.247494+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        }
-      ]
     },
     {
       "code": "5269",
@@ -9827,6 +9853,177 @@
       ]
     },
     {
+      "code": "2881",
+      "name": "富邦金",
+      "original_score": 51.58490566037735,
+      "message_score": 50.0,
+      "score": 51.42641509433962,
+      "evidence_status": "未知／未達門檻",
+      "contributions": [
+        {
+          "category": "訂單",
+          "points": 0.0
+        },
+        {
+          "category": "新聞話題",
+          "points": 0.0
+        },
+        {
+          "category": "龍頭地位",
+          "points": 0.0
+        },
+        {
+          "category": "專利技術",
+          "points": 0.0
+        }
+      ],
+      "events": [
+        {
+          "id": "c0a8b1b8f0a63a4351f2f746",
+          "code": "2881",
+          "title": "富邦金控代日盛嘉富證券國際有限公司公告\r\n股東常會重要決議事項",
+          "published_at": "2026-09-28T14:19:44+08:00",
+          "first_seen_at": "2026-09-29T10:08:15.121385+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "36655da1a23c7853b38317ad",
+          "code": "2881",
+          "title": "富邦金控代富邦證券(香港)有限公司公告股東常會\r\n重要決議事項",
+          "published_at": "2026-09-28T14:19:25+08:00",
+          "first_seen_at": "2026-09-29T10:08:15.121385+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "742141ff35dc33475ac89a46",
+          "code": "2881",
+          "title": "富邦金控代富邦證券(香港)有限公司公告董事派任情形",
+          "published_at": "2026-09-28T14:18:37+08:00",
+          "first_seen_at": "2026-09-29T10:08:15.121385+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "823478e818029c599bf633d2",
+          "code": "2881",
+          "title": "富邦金控代子公司台北富邦銀行公告關係人捐贈案",
+          "published_at": "2026-09-24T17:05:02+08:00",
+          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "b2df1f661a9bb45767904d1e",
+          "code": "2881",
+          "title": "富邦金控代子公司富邦銀行(香港)有限公司公告取得資產基礎證券\r\n(補充115/9/21公告)",
+          "published_at": "2026-09-22T19:37:08+08:00",
+          "first_seen_at": "2026-09-23T08:47:14.557621+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "1601dfeafa9061008fafe827",
+          "code": "2881",
+          "title": "富邦金控代子公司富邦銀行(香港)有限公司公告取得資產基礎證券",
+          "published_at": "2026-09-21T17:59:55+08:00",
+          "first_seen_at": "2026-09-22T08:58:58.235416+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "406345988221e65dc6494df1",
+          "code": "2881",
+          "title": "公告本公司參加BofA Securities 2026 Asia Pacific Conference",
+          "published_at": "2026-09-21T17:13:52+08:00",
+          "first_seen_at": "2026-09-22T08:58:58.235416+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "2879f035f8a1afd8fcd9004f",
+          "code": "2881",
+          "title": "富邦金控代越南富邦產物保險責任有限公司\r\n公告內部稽核主管異動",
+          "published_at": "2026-09-16T15:39:48+08:00",
+          "first_seen_at": "2026-09-17T08:44:23.506673+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "25547913c92652f7b2ab8d69",
+          "code": "2881",
+          "title": "富邦金控代越南富邦產物保險責任有限公司\r\n公告財務主管異動",
+          "published_at": "2026-09-16T15:38:00+08:00",
+          "first_seen_at": "2026-09-17T08:44:23.506673+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "89eceb2a8c890eb18ca2477c",
+          "code": "2881",
+          "title": "富邦金控代子公司富邦證券公告取得「富邦人壽保險股份有限公司」之使用權資產",
+          "published_at": "2026-09-15T16:05:18+08:00",
+          "first_seen_at": "2026-09-16T08:35:57.247494+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "728b672dac62c131a23fa86c",
+          "code": "2881",
+          "title": "公告本公司暨主要子公司115年8月合併自結損益",
+          "published_at": "2026-09-15T15:30:26+08:00",
+          "first_seen_at": "2026-09-16T08:35:57.247494+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        }
+      ]
+    },
+    {
       "code": "2401",
       "name": "凌陽",
       "original_score": 51.5251572327044,
@@ -10885,138 +11082,6 @@
           "title": "公告本公司董事會決議通過收購歐洲水泥建材事業股權事宜",
           "published_at": "2026-09-23T06:31:17+08:00",
           "first_seen_at": "2026-09-24T08:39:06.911066+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        }
-      ]
-    },
-    {
-      "code": "2881",
-      "name": "富邦金",
-      "original_score": 48.58490566037735,
-      "message_score": 50.0,
-      "score": 48.726415094339615,
-      "evidence_status": "未知／未達門檻",
-      "contributions": [
-        {
-          "category": "訂單",
-          "points": 0.0
-        },
-        {
-          "category": "新聞話題",
-          "points": 0.0
-        },
-        {
-          "category": "龍頭地位",
-          "points": 0.0
-        },
-        {
-          "category": "專利技術",
-          "points": 0.0
-        }
-      ],
-      "events": [
-        {
-          "id": "823478e818029c599bf633d2",
-          "code": "2881",
-          "title": "富邦金控代子公司台北富邦銀行公告關係人捐贈案",
-          "published_at": "2026-09-24T17:05:02+08:00",
-          "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "b2df1f661a9bb45767904d1e",
-          "code": "2881",
-          "title": "富邦金控代子公司富邦銀行(香港)有限公司公告取得資產基礎證券\r\n(補充115/9/21公告)",
-          "published_at": "2026-09-22T19:37:08+08:00",
-          "first_seen_at": "2026-09-23T08:47:14.557621+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "1601dfeafa9061008fafe827",
-          "code": "2881",
-          "title": "富邦金控代子公司富邦銀行(香港)有限公司公告取得資產基礎證券",
-          "published_at": "2026-09-21T17:59:55+08:00",
-          "first_seen_at": "2026-09-22T08:58:58.235416+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "406345988221e65dc6494df1",
-          "code": "2881",
-          "title": "公告本公司參加BofA Securities 2026 Asia Pacific Conference",
-          "published_at": "2026-09-21T17:13:52+08:00",
-          "first_seen_at": "2026-09-22T08:58:58.235416+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "2879f035f8a1afd8fcd9004f",
-          "code": "2881",
-          "title": "富邦金控代越南富邦產物保險責任有限公司\r\n公告內部稽核主管異動",
-          "published_at": "2026-09-16T15:39:48+08:00",
-          "first_seen_at": "2026-09-17T08:44:23.506673+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "25547913c92652f7b2ab8d69",
-          "code": "2881",
-          "title": "富邦金控代越南富邦產物保險責任有限公司\r\n公告財務主管異動",
-          "published_at": "2026-09-16T15:38:00+08:00",
-          "first_seen_at": "2026-09-17T08:44:23.506673+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "89eceb2a8c890eb18ca2477c",
-          "code": "2881",
-          "title": "富邦金控代子公司富邦證券公告取得「富邦人壽保險股份有限公司」之使用權資產",
-          "published_at": "2026-09-15T16:05:18+08:00",
-          "first_seen_at": "2026-09-16T08:35:57.247494+08:00",
-          "source": "證交所・公司重大訊息",
-          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-          "official": true,
-          "category": "待查證",
-          "direction": 0,
-          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-        },
-        {
-          "id": "728b672dac62c131a23fa86c",
-          "code": "2881",
-          "title": "公告本公司暨主要子公司115年8月合併自結損益",
-          "published_at": "2026-09-15T15:30:26+08:00",
-          "first_seen_at": "2026-09-16T08:35:57.247494+08:00",
           "source": "證交所・公司重大訊息",
           "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
           "official": true,
@@ -13150,6 +13215,60 @@
       "events": []
     },
     {
+      "code": "6451",
+      "name": "訊芯-KY",
+      "original_score": 43.13207547169811,
+      "message_score": 50.0,
+      "score": 43.8188679245283,
+      "evidence_status": "未知／未達門檻",
+      "contributions": [
+        {
+          "category": "訂單",
+          "points": 0.0
+        },
+        {
+          "category": "新聞話題",
+          "points": 0.0
+        },
+        {
+          "category": "龍頭地位",
+          "points": 0.0
+        },
+        {
+          "category": "專利技術",
+          "points": 0.0
+        }
+      ],
+      "events": [
+        {
+          "id": "bb7a6912fb4ddf9e851f0295",
+          "code": "6451",
+          "title": "代重要子公司訊芸科技(香港)有限公司\r\n公告董事會本次決議不發放股利",
+          "published_at": "2026-09-28T16:32:06+08:00",
+          "first_seen_at": "2026-09-29T10:08:15.121385+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "279e2dfb6468e9b9b2c56945",
+          "code": "6451",
+          "title": "代重要子公司訊芯科技(香港)有限公司\r\n公告董事會本次決議不發放股利",
+          "published_at": "2026-09-28T16:31:39+08:00",
+          "first_seen_at": "2026-09-29T10:08:15.121385+08:00",
+          "source": "證交所・公司重大訊息",
+          "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+          "official": true,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        }
+      ]
+    },
+    {
       "code": "1301",
       "name": "台塑",
       "original_score": 43.12106918238993,
@@ -14042,33 +14161,6 @@
       "original_score": 41.22641509433962,
       "message_score": 50.0,
       "score": 42.10377358490566,
-      "evidence_status": "未知／未達門檻",
-      "contributions": [
-        {
-          "category": "訂單",
-          "points": 0.0
-        },
-        {
-          "category": "新聞話題",
-          "points": 0.0
-        },
-        {
-          "category": "龍頭地位",
-          "points": 0.0
-        },
-        {
-          "category": "專利技術",
-          "points": 0.0
-        }
-      ],
-      "events": []
-    },
-    {
-      "code": "6451",
-      "name": "訊芯-KY",
-      "original_score": 41.13207547169811,
-      "message_score": 50.0,
-      "score": 42.0188679245283,
       "evidence_status": "未知／未達門檻",
       "contributions": [
         {

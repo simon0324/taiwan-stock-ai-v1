@@ -1,6 +1,6 @@
 {
   "rules_version": "global-rules-1",
-  "as_of": "2026-09-28T22:31:44.277170+08:00",
+  "as_of": "2026-09-29T10:08:19.881918+08:00",
   "sources": [
     {
       "source": "中央通訊社・國際",
@@ -14,6 +14,90 @@
     }
   ],
   "events": [
+    {
+      "id": "0482e1b017cee0fd4790c0df",
+      "title": "油價居高通膨難解　美債殖利率盤中逼近24年新高",
+      "url": "https://www.cna.com.tw/news/aopl/202609290018.aspx",
+      "source": "中央通訊社・國際",
+      "published_at": "2026-09-29T08:30:59+08:00",
+      "first_seen_at": "2026-09-29T10:08:19.881918+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "能源供應",
+          "industry": "能源、石化、航空與運輸",
+          "possible_benefit": "若能源售價上升且成本可控，部分上游企業可能受益。",
+          "possible_risk": "若燃料成本提高，未避險的用能企業可能承壓。",
+          "verify_next": "核對價格方向、持續性、庫存、避險與成本轉嫁，油價下跌時可能相反。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
+    {
+      "id": "c8e2654a5477530c25f09724",
+      "title": "美國與伊朗談判未能緩解供應疑慮　國際油價小漲",
+      "url": "https://www.cna.com.tw/news/afe/202609290010.aspx",
+      "source": "中央通訊社・產經",
+      "published_at": "2026-09-29T05:08:36+08:00",
+      "first_seen_at": "2026-09-29T10:08:19.881918+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "能源供應",
+          "industry": "能源、石化、航空與運輸",
+          "possible_benefit": "若能源售價上升且成本可控，部分上游企業可能受益。",
+          "possible_risk": "若燃料成本提高，未避險的用能企業可能承壓。",
+          "verify_next": "核對價格方向、持續性、庫存、避險與成本轉嫁，油價下跌時可能相反。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
+    {
+      "id": "632048e56d5b47eb2d9c8bf1",
+      "title": "美期中選舉前油價飆漲　川普：認真考慮禁柴油出口",
+      "url": "https://www.cna.com.tw/news/aopl/202609280245.aspx",
+      "source": "中央通訊社・國際",
+      "published_at": "2026-09-28T23:33:05+08:00",
+      "first_seen_at": "2026-09-29T10:08:19.881918+08:00",
+      "certainty": "推測／待確認",
+      "channels": [
+        {
+          "category": "能源供應",
+          "industry": "能源、石化、航空與運輸",
+          "possible_benefit": "若能源售價上升且成本可控，部分上游企業可能受益。",
+          "possible_risk": "若燃料成本提高，未避險的用能企業可能承壓。",
+          "verify_next": "核對價格方向、持續性、庫存、避險與成本轉嫁，油價下跌時可能相反。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
+    {
+      "id": "e0eef79c9bb6fdcedcb908bd",
+      "title": "川普拒伊朗和平方案致油價飆漲　美股開低",
+      "url": "https://www.cna.com.tw/news/afe/202609280234.aspx",
+      "source": "中央通訊社・產經",
+      "published_at": "2026-09-28T22:02:38+08:00",
+      "first_seen_at": "2026-09-29T10:08:19.881918+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "能源供應",
+          "industry": "能源、石化、航空與運輸",
+          "possible_benefit": "若能源售價上升且成本可控，部分上游企業可能受益。",
+          "possible_risk": "若燃料成本提高，未避險的用能企業可能承壓。",
+          "verify_next": "核對價格方向、持續性、庫存、避險與成本轉嫁，油價下跌時可能相反。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
     {
       "id": "24b63de28d57294df4e97ec0",
       "title": "中國降美農產品關稅排除黃豆  分析：保留交涉籌碼",
@@ -617,76 +701,6 @@
           "possible_benefit": "若供給受限推升運價，部分運輸商可能受益。",
           "possible_risk": "繞航、保險、交期與燃料成本也可能增加。",
           "verify_next": "核對事件是否已發生、航線曝險與實際成本，不把衝突直接當買進訊號。"
-        }
-      ],
-      "beneficiary_stocks": [],
-      "adversely_affected_stocks": [],
-      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
-    },
-    {
-      "id": "1b3eec4c14fa0fcfdb223f2f",
-      "title": "國際油價重跌　美股收漲那斯達克指數創歷史新高",
-      "url": "https://www.cna.com.tw/news/afe/202609220012.aspx",
-      "source": "中央通訊社・產經",
-      "published_at": "2026-09-22T05:50:43+08:00",
-      "first_seen_at": "2026-09-22T08:59:05.944248+08:00",
-      "certainty": "媒體標題報導；未獨立查證",
-      "channels": [
-        {
-          "category": "能源供應",
-          "industry": "能源、石化、航空與運輸",
-          "possible_benefit": "若能源售價上升且成本可控，部分上游企業可能受益。",
-          "possible_risk": "若燃料成本提高，未避險的用能企業可能承壓。",
-          "verify_next": "核對價格方向、持續性、庫存、避險與成本轉嫁，油價下跌時可能相反。"
-        }
-      ],
-      "beneficiary_stocks": [],
-      "adversely_affected_stocks": [],
-      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
-    },
-    {
-      "id": "1fa0e00b82ecb956a7cfed28",
-      "title": "沙烏地透過荷莫茲海峽提高出口　國際油價重挫",
-      "url": "https://www.cna.com.tw/news/afe/202609220009.aspx",
-      "source": "中央通訊社・產經",
-      "published_at": "2026-09-22T05:07:36+08:00",
-      "first_seen_at": "2026-09-22T08:59:05.944248+08:00",
-      "certainty": "媒體標題報導；未獨立查證",
-      "channels": [
-        {
-          "category": "能源供應",
-          "industry": "能源、石化、航空與運輸",
-          "possible_benefit": "若能源售價上升且成本可控，部分上游企業可能受益。",
-          "possible_risk": "若燃料成本提高，未避險的用能企業可能承壓。",
-          "verify_next": "核對價格方向、持續性、庫存、避險與成本轉嫁，油價下跌時可能相反。"
-        },
-        {
-          "category": "衝突／航運",
-          "industry": "航運、物流、能源與出口產業",
-          "possible_benefit": "若供給受限推升運價，部分運輸商可能受益。",
-          "possible_risk": "繞航、保險、交期與燃料成本也可能增加。",
-          "verify_next": "核對事件是否已發生、航線曝險與實際成本，不把衝突直接當買進訊號。"
-        }
-      ],
-      "beneficiary_stocks": [],
-      "adversely_affected_stocks": [],
-      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
-    },
-    {
-      "id": "81fce70cd4c535217e75a460",
-      "title": "貝森特：美將延長對中關稅休兵　討論設AI對話機制",
-      "url": "https://www.cna.com.tw/news/aopl/202609220005.aspx",
-      "source": "中央通訊社・國際",
-      "published_at": "2026-09-22T03:32:26+08:00",
-      "first_seen_at": "2026-09-22T08:59:05.944248+08:00",
-      "certainty": "媒體標題報導；未獨立查證",
-      "channels": [
-        {
-          "category": "關稅／貿易",
-          "industry": "出口製造、電子、機械",
-          "possible_benefit": "若關稅下降或訂單轉移，部分出口商可能受益。",
-          "possible_risk": "若成本提高且無法轉嫁，利潤可能承壓。",
-          "verify_next": "核對原產地、稅率、生效日與企業產地；不能將降稅與加稅視為同方向。"
         }
       ],
       "beneficiary_stocks": [],
