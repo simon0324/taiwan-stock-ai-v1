@@ -1,6 +1,6 @@
 {
   "rules_version": "global-rules-1",
-  "as_of": "2026-09-30T09:25:35.423712+08:00",
+  "as_of": "2026-09-30T21:03:24.154143+08:00",
   "sources": [
     {
       "source": "中央通訊社・國際",
@@ -14,6 +14,48 @@
     }
   ],
   "events": [
+    {
+      "id": "e5c1ef078be28abd1813a349",
+      "title": "油價回落、市場關注美關鍵通膨數據　亞股多收漲",
+      "url": "https://www.cna.com.tw/news/afe/202609300283.aspx",
+      "source": "中央通訊社・產經",
+      "published_at": "2026-09-30T18:05:30+08:00",
+      "first_seen_at": "2026-09-30T21:03:24.154143+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "能源供應",
+          "industry": "能源、石化、航空與運輸",
+          "possible_benefit": "若能源售價上升且成本可控，部分上游企業可能受益。",
+          "possible_risk": "若燃料成本提高，未避險的用能企業可能承壓。",
+          "verify_next": "核對價格方向、持續性、庫存、避險與成本轉嫁，油價下跌時可能相反。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
+    {
+      "id": "3fa0f3526bac33dd0b9d0a01",
+      "title": "中油10月民生與工業天然氣價凍漲　電業漲9.68%",
+      "url": "https://www.cna.com.tw/news/afe/202609300207.aspx",
+      "source": "中央通訊社・產經",
+      "published_at": "2026-09-30T16:15:49+08:00",
+      "first_seen_at": "2026-09-30T21:03:24.154143+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "能源供應",
+          "industry": "能源、石化、航空與運輸",
+          "possible_benefit": "若能源售價上升且成本可控，部分上游企業可能受益。",
+          "possible_risk": "若燃料成本提高，未避險的用能企業可能承壓。",
+          "verify_next": "核對價格方向、持續性、庫存、避險與成本轉嫁，油價下跌時可能相反。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
     {
       "id": "5692da664e912f265b96346d",
       "title": "油價回落公債殖利率攀升　美股3大指數收低費半漲逾1%",
@@ -750,27 +792,6 @@
       "published_at": "2026-09-24T00:30:08+08:00",
       "first_seen_at": "2026-09-24T08:39:09.955311+08:00",
       "certainty": "推測／待確認",
-      "channels": [
-        {
-          "category": "能源供應",
-          "industry": "能源、石化、航空與運輸",
-          "possible_benefit": "若能源售價上升且成本可控，部分上游企業可能受益。",
-          "possible_risk": "若燃料成本提高，未避險的用能企業可能承壓。",
-          "verify_next": "核對價格方向、持續性、庫存、避險與成本轉嫁，油價下跌時可能相反。"
-        }
-      ],
-      "beneficiary_stocks": [],
-      "adversely_affected_stocks": [],
-      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
-    },
-    {
-      "id": "e7b1b71c809239ec9174571f",
-      "title": "川普稱美伊會談油價應聲下跌　亞股走勢不一",
-      "url": "https://www.cna.com.tw/news/afe/202609230288.aspx",
-      "source": "中央通訊社・產經",
-      "published_at": "2026-09-23T18:02:59+08:00",
-      "first_seen_at": "2026-09-23T20:15:23.951155+08:00",
-      "certainty": "媒體標題報導；未獨立查證",
       "channels": [
         {
           "category": "能源供應",

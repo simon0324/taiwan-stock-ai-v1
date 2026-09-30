@@ -4544,5 +4544,362 @@
         "events": []
       }
     ]
+  },
+  {
+    "market_date": "2026-09-30",
+    "observed_at": "2026-09-30T21:03:19.689604+08:00",
+    "rules_version": "events-1",
+    "sources": [
+      {
+        "source": "證交所・公司重大訊息",
+        "status": "ok",
+        "invalid_rows": 0
+      },
+      {
+        "source": "中央通訊社・產經",
+        "status": "ok",
+        "invalid_rows": 0
+      },
+      {
+        "source": "中央通訊社・科技",
+        "status": "ok",
+        "invalid_rows": 0
+      }
+    ],
+    "original": [
+      {
+        "code": "6691",
+        "name": "洋基工程",
+        "price": 719.0,
+        "avg_value": 425890574.55,
+        "revenue": 213.69818881487726,
+        "eps": 17.46,
+        "foreign": 0,
+        "momentum": 13.765822784810133,
+        "volume_ratio": 4.302875122174971,
+        "trend": 100.0,
+        "atr": 22.928571428571427,
+        "atr_pct": 3.1889529107887933,
+        "news": 1,
+        "stable": 92.59952606635072,
+        "growth": 92.1611374407583,
+        "strong": 92.57582938388626,
+        "overall": 92.44549763033176,
+        "entry_low": 715.405,
+        "entry_high": 722.5949999999999,
+        "fixed_stop": 683.05,
+        "fixed_target": 776.5200000000001,
+        "dynamic_stop": 684.6071428571429,
+        "dynamic_target": 787.7857142857142,
+        "risk_flags": [
+          "爆量"
+        ]
+      },
+      {
+        "code": "3653",
+        "name": "健策",
+        "price": 6800.0,
+        "avg_value": 7340180756.1,
+        "revenue": 90.90319995881177,
+        "eps": 25.33,
+        "foreign": 0,
+        "momentum": 17.443868739205538,
+        "volume_ratio": 1.2135917242360945,
+        "trend": 100.0,
+        "atr": 379.64285714285717,
+        "atr_pct": 5.582983193277311,
+        "news": 1,
+        "stable": 87.75355450236968,
+        "growth": 90.09952606635072,
+        "strong": 85.85781990521328,
+        "overall": 87.90363349131123,
+        "entry_low": 6766.0,
+        "entry_high": 6833.999999999999,
+        "fixed_stop": 6460.0,
+        "fixed_target": 7344.000000000001,
+        "dynamic_stop": 6230.535714285714,
+        "dynamic_target": 7938.9285714285725,
+        "risk_flags": [
+          "波動偏高",
+          "短線漲幅偏大"
+        ]
+      },
+      {
+        "code": "2404",
+        "name": "漢唐",
+        "price": 1290.0,
+        "avg_value": 2117258698.75,
+        "revenue": 59.050412994601615,
+        "eps": 36.23,
+        "foreign": 0,
+        "momentum": 14.15929203539823,
+        "volume_ratio": 2.1698235141092015,
+        "trend": 100.0,
+        "atr": 60.214285714285715,
+        "atr_pct": 4.667774086378738,
+        "news": 0,
+        "stable": 87.22748815165878,
+        "growth": 86.74170616113744,
+        "strong": 87.52369668246445,
+        "overall": 87.16429699842023,
+        "entry_low": 1283.55,
+        "entry_high": 1296.4499999999998,
+        "fixed_stop": 1225.5,
+        "fixed_target": 1393.2,
+        "dynamic_stop": 1199.6785714285713,
+        "dynamic_target": 1470.6428571428573,
+        "risk_flags": [
+          "波動偏高"
+        ]
+      },
+      {
+        "code": "6196",
+        "name": "帆宣",
+        "price": 585.0,
+        "avg_value": 929644142.75,
+        "revenue": 83.88589994276812,
+        "eps": 13.26,
+        "foreign": 0,
+        "momentum": 9.345794392523366,
+        "volume_ratio": 1.9498369985292956,
+        "trend": 100.0,
+        "atr": 23.428571428571427,
+        "atr_pct": 4.004884004884005,
+        "news": 0,
+        "stable": 87.08530805687204,
+        "growth": 86.58767772511848,
+        "strong": 86.13744075829385,
+        "overall": 86.60347551342812,
+        "entry_low": 582.075,
+        "entry_high": 587.925,
+        "fixed_stop": 555.75,
+        "fixed_target": 631.8000000000001,
+        "dynamic_stop": 549.8571428571429,
+        "dynamic_target": 655.2857142857142,
+        "risk_flags": [
+          "一般"
+        ]
+      },
+      {
+        "code": "6933",
+        "name": "AMAX-KY",
+        "price": 371.0,
+        "avg_value": 634702460.55,
+        "revenue": 191.25977642237152,
+        "eps": 6.43,
+        "foreign": 0,
+        "momentum": 16.850393700787404,
+        "volume_ratio": 1.4524103013578589,
+        "trend": 100.0,
+        "atr": 27.642857142857142,
+        "atr_pct": 7.4509048902579895,
+        "news": 0,
+        "stable": 85.46208530805687,
+        "growth": 87.42890995260663,
+        "strong": 85.92417061611374,
+        "overall": 86.27172195892574,
+        "entry_low": 369.145,
+        "entry_high": 372.85499999999996,
+        "fixed_stop": 352.45,
+        "fixed_target": 400.68,
+        "dynamic_stop": 333.90000000000003,
+        "dynamic_target": 445.19999999999993,
+        "risk_flags": [
+          "波動偏高",
+          "短線漲幅偏大"
+        ]
+      }
+    ],
+    "message": [
+      {
+        "code": "6691",
+        "name": "洋基工程",
+        "original_score": 92.44549763033176,
+        "message_score": 50.0,
+        "score": 88.20094786729858,
+        "evidence_status": "未知／未達門檻",
+        "contributions": [
+          {
+            "category": "訂單",
+            "points": 0.0
+          },
+          {
+            "category": "新聞話題",
+            "points": 0.0
+          },
+          {
+            "category": "龍頭地位",
+            "points": 0.0
+          },
+          {
+            "category": "專利技術",
+            "points": 0.0
+          }
+        ],
+        "events": [
+          {
+            "id": "76b1af1b04e0f68e2c91aacd",
+            "code": "6691",
+            "title": "澄清115年9月25日經濟日報報導",
+            "published_at": "2026-09-29T10:49:07+08:00",
+            "first_seen_at": "2026-09-30T09:25:00.215253+08:00",
+            "source": "證交所・公司重大訊息",
+            "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+            "official": true,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "含推測、否認或澄清語句，僅列入觀察"
+          },
+          {
+            "id": "8581dbb3e1da335d4a7d825b",
+            "code": "6691",
+            "title": "洋基工程：搶下美光台南工程　在手訂單逾553億元",
+            "published_at": "2026-09-24T19:21:47+08:00",
+            "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
+            "source": "中央通訊社・產經",
+            "url": "https://www.cna.com.tw/news/afe/202609240321.aspx",
+            "official": false,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+          },
+          {
+            "id": "ff338c727ca3762cc815fdc8",
+            "code": "6691",
+            "title": "公告本公司受邀參加富邦綜合證券舉辦之法人說明會",
+            "published_at": "2026-09-17T15:19:09+08:00",
+            "first_seen_at": "2026-09-18T08:32:35.377850+08:00",
+            "source": "證交所・公司重大訊息",
+            "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+            "official": true,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+          }
+        ]
+      },
+      {
+        "code": "3653",
+        "name": "健策",
+        "original_score": 87.90363349131123,
+        "message_score": 50.0,
+        "score": 84.1132701421801,
+        "evidence_status": "未知／未達門檻",
+        "contributions": [
+          {
+            "category": "訂單",
+            "points": 0.0
+          },
+          {
+            "category": "新聞話題",
+            "points": 0.0
+          },
+          {
+            "category": "龍頭地位",
+            "points": 0.0
+          },
+          {
+            "category": "專利技術",
+            "points": 0.0
+          }
+        ],
+        "events": [
+          {
+            "id": "272cff0ac64c1da9d05787d3",
+            "code": "3653",
+            "title": "因本公司有價證券於集中交易市場達公布\r\n注意交易資訊標準，故公布相關財務業務等\r\n重大訊息，以利投資人區別瞭解。",
+            "published_at": "2026-09-29T15:57:43+08:00",
+            "first_seen_at": "2026-09-30T09:25:00.215253+08:00",
+            "source": "證交所・公司重大訊息",
+            "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+            "official": true,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+          }
+        ]
+      },
+      {
+        "code": "2404",
+        "name": "漢唐",
+        "original_score": 87.16429699842023,
+        "message_score": 50.0,
+        "score": 83.4478672985782,
+        "evidence_status": "未知／未達門檻",
+        "contributions": [
+          {
+            "category": "訂單",
+            "points": 0.0
+          },
+          {
+            "category": "新聞話題",
+            "points": 0.0
+          },
+          {
+            "category": "龍頭地位",
+            "points": 0.0
+          },
+          {
+            "category": "專利技術",
+            "points": 0.0
+          }
+        ],
+        "events": []
+      },
+      {
+        "code": "6196",
+        "name": "帆宣",
+        "original_score": 86.60347551342812,
+        "message_score": 50.0,
+        "score": 82.94312796208531,
+        "evidence_status": "未知／未達門檻",
+        "contributions": [
+          {
+            "category": "訂單",
+            "points": 0.0
+          },
+          {
+            "category": "新聞話題",
+            "points": 0.0
+          },
+          {
+            "category": "龍頭地位",
+            "points": 0.0
+          },
+          {
+            "category": "專利技術",
+            "points": 0.0
+          }
+        ],
+        "events": []
+      },
+      {
+        "code": "6933",
+        "name": "AMAX-KY",
+        "original_score": 86.27172195892574,
+        "message_score": 50.0,
+        "score": 82.64454976303317,
+        "evidence_status": "未知／未達門檻",
+        "contributions": [
+          {
+            "category": "訂單",
+            "points": 0.0
+          },
+          {
+            "category": "新聞話題",
+            "points": 0.0
+          },
+          {
+            "category": "龍頭地位",
+            "points": 0.0
+          },
+          {
+            "category": "專利技術",
+            "points": 0.0
+          }
+        ],
+        "events": []
+      }
+    ]
   }
 ]
