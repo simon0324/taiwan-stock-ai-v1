@@ -4901,5 +4901,364 @@
         "events": []
       }
     ]
+  },
+  {
+    "market_date": "2026-10-01",
+    "observed_at": "2026-10-01T21:57:57.311858+08:00",
+    "rules_version": "events-1",
+    "sources": [
+      {
+        "source": "證交所・公司重大訊息",
+        "status": "ok",
+        "invalid_rows": 0
+      },
+      {
+        "source": "中央通訊社・產經",
+        "status": "ok",
+        "invalid_rows": 0
+      },
+      {
+        "source": "中央通訊社・科技",
+        "status": "ok",
+        "invalid_rows": 0
+      }
+    ],
+    "original": [
+      {
+        "code": "6691",
+        "name": "洋基工程",
+        "price": 733.0,
+        "avg_value": 473953522.55,
+        "revenue": 213.69818881487726,
+        "eps": 17.46,
+        "foreign": 0,
+        "momentum": 15.43307086614174,
+        "volume_ratio": 2.7060654662919963,
+        "trend": 100.0,
+        "atr": 24.142857142857142,
+        "atr_pct": 3.293704930812707,
+        "news": 0,
+        "stable": 91.18483412322274,
+        "growth": 91.18483412322274,
+        "strong": 91.01895734597157,
+        "overall": 91.12954186413901,
+        "entry_low": 729.335,
+        "entry_high": 736.665,
+        "fixed_stop": 696.35,
+        "fixed_target": 791.6400000000001,
+        "dynamic_stop": 696.7857142857143,
+        "dynamic_target": 805.4285714285713,
+        "risk_flags": [
+          "短線漲幅偏大"
+        ]
+      },
+      {
+        "code": "3167",
+        "name": "大量",
+        "price": 975.0,
+        "avg_value": 4837925710.1,
+        "revenue": 152.9786603130761,
+        "eps": 9.26,
+        "foreign": 0,
+        "momentum": 12.847222222222232,
+        "volume_ratio": 1.7721096713208497,
+        "trend": 100.0,
+        "atr": 53.5,
+        "atr_pct": 5.487179487179487,
+        "news": 0,
+        "stable": 88.3175355450237,
+        "growth": 88.88625592417061,
+        "strong": 88.03317535545024,
+        "overall": 88.4123222748815,
+        "entry_low": 970.125,
+        "entry_high": 979.8749999999999,
+        "fixed_stop": 926.25,
+        "fixed_target": 1053.0,
+        "dynamic_stop": 894.75,
+        "dynamic_target": 1135.5,
+        "risk_flags": [
+          "波動偏高"
+        ]
+      },
+      {
+        "code": "6933",
+        "name": "AMAX-KY",
+        "price": 394.5,
+        "avg_value": 643310504.05,
+        "revenue": 191.25977642237152,
+        "eps": 6.43,
+        "foreign": 0,
+        "momentum": 23.861852433281005,
+        "volume_ratio": 1.9068766159998163,
+        "trend": 100.0,
+        "atr": 28.178571428571427,
+        "atr_pct": 7.142857142857142,
+        "news": 0,
+        "stable": 86.54028436018957,
+        "growth": 87.59478672985782,
+        "strong": 88.63744075829385,
+        "overall": 87.59083728278041,
+        "entry_low": 392.5275,
+        "entry_high": 396.47249999999997,
+        "fixed_stop": 374.775,
+        "fixed_target": 426.06,
+        "dynamic_stop": 355.05,
+        "dynamic_target": 473.4,
+        "risk_flags": [
+          "波動偏高",
+          "短線漲幅偏大"
+        ]
+      },
+      {
+        "code": "7822",
+        "name": "倍利科",
+        "price": 1000.0,
+        "avg_value": 164310386.35,
+        "revenue": 74.62048704884945,
+        "eps": 10.12,
+        "foreign": 0,
+        "momentum": 15.606936416184979,
+        "volume_ratio": 1.8008129770306514,
+        "trend": 100.0,
+        "atr": 36.857142857142854,
+        "atr_pct": 3.685714285714285,
+        "news": 1,
+        "stable": 86.31990521327015,
+        "growth": 86.43838862559241,
+        "strong": 87.65876777251185,
+        "overall": 86.80568720379146,
+        "entry_low": 995.0,
+        "entry_high": 1004.9999999999999,
+        "fixed_stop": 950.0,
+        "fixed_target": 1080.0,
+        "dynamic_stop": 944.7142857142858,
+        "dynamic_target": 1110.5714285714284,
+        "risk_flags": [
+          "短線漲幅偏大"
+        ]
+      },
+      {
+        "code": "6672",
+        "name": "騰輝電子-KY",
+        "price": 405.5,
+        "avg_value": 2218871817.4,
+        "revenue": 133.2447678339368,
+        "eps": 4.75,
+        "foreign": 0,
+        "momentum": 34.27152317880795,
+        "volume_ratio": 3.2205080775568735,
+        "trend": 100.0,
+        "atr": 19.285714285714285,
+        "atr_pct": 4.756033116082438,
+        "news": 0,
+        "stable": 84.94075829383885,
+        "growth": 85.07109004739337,
+        "strong": 89.70379146919431,
+        "overall": 86.57187993680884,
+        "entry_low": 403.4725,
+        "entry_high": 407.5275,
+        "fixed_stop": 385.22499999999997,
+        "fixed_target": 437.94000000000005,
+        "dynamic_stop": 376.57142857142856,
+        "dynamic_target": 463.3571428571429,
+        "risk_flags": [
+          "波動偏高",
+          "短線漲幅偏大",
+          "爆量"
+        ]
+      }
+    ],
+    "message": [
+      {
+        "code": "6691",
+        "name": "洋基工程",
+        "original_score": 91.12954186413901,
+        "message_score": 50.0,
+        "score": 87.01658767772511,
+        "evidence_status": "未知／未達門檻",
+        "contributions": [
+          {
+            "category": "訂單",
+            "points": 0.0
+          },
+          {
+            "category": "新聞話題",
+            "points": 0.0
+          },
+          {
+            "category": "龍頭地位",
+            "points": 0.0
+          },
+          {
+            "category": "專利技術",
+            "points": 0.0
+          }
+        ],
+        "events": [
+          {
+            "id": "76b1af1b04e0f68e2c91aacd",
+            "code": "6691",
+            "title": "澄清115年9月25日經濟日報報導",
+            "published_at": "2026-09-29T10:49:07+08:00",
+            "first_seen_at": "2026-09-30T09:25:00.215253+08:00",
+            "source": "證交所・公司重大訊息",
+            "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+            "official": true,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "含推測、否認或澄清語句，僅列入觀察"
+          },
+          {
+            "id": "8581dbb3e1da335d4a7d825b",
+            "code": "6691",
+            "title": "洋基工程：搶下美光台南工程　在手訂單逾553億元",
+            "published_at": "2026-09-24T19:21:47+08:00",
+            "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
+            "source": "中央通訊社・產經",
+            "url": "https://www.cna.com.tw/news/afe/202609240321.aspx",
+            "official": false,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+          }
+        ]
+      },
+      {
+        "code": "3167",
+        "name": "大量",
+        "original_score": 88.4123222748815,
+        "message_score": 50.0,
+        "score": 84.57109004739335,
+        "evidence_status": "未知／未達門檻",
+        "contributions": [
+          {
+            "category": "訂單",
+            "points": 0.0
+          },
+          {
+            "category": "新聞話題",
+            "points": 0.0
+          },
+          {
+            "category": "龍頭地位",
+            "points": 0.0
+          },
+          {
+            "category": "專利技術",
+            "points": 0.0
+          }
+        ],
+        "events": [
+          {
+            "id": "48325677982f9d33eb39f07f",
+            "code": "3167",
+            "title": "代重要子公司南京大量數控科技有限公司公告盈餘分配",
+            "published_at": "2026-09-21T15:16:09+08:00",
+            "first_seen_at": "2026-09-22T08:58:58.235416+08:00",
+            "source": "證交所・公司重大訊息",
+            "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+            "official": true,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+          }
+        ]
+      },
+      {
+        "code": "6933",
+        "name": "AMAX-KY",
+        "original_score": 87.59083728278041,
+        "message_score": 50.0,
+        "score": 83.83175355450237,
+        "evidence_status": "未知／未達門檻",
+        "contributions": [
+          {
+            "category": "訂單",
+            "points": 0.0
+          },
+          {
+            "category": "新聞話題",
+            "points": 0.0
+          },
+          {
+            "category": "龍頭地位",
+            "points": 0.0
+          },
+          {
+            "category": "專利技術",
+            "points": 0.0
+          }
+        ],
+        "events": []
+      },
+      {
+        "code": "7822",
+        "name": "倍利科",
+        "original_score": 86.80568720379146,
+        "message_score": 50.0,
+        "score": 83.12511848341232,
+        "evidence_status": "未知／未達門檻",
+        "contributions": [
+          {
+            "category": "訂單",
+            "points": 0.0
+          },
+          {
+            "category": "新聞話題",
+            "points": 0.0
+          },
+          {
+            "category": "龍頭地位",
+            "points": 0.0
+          },
+          {
+            "category": "專利技術",
+            "points": 0.0
+          }
+        ],
+        "events": [
+          {
+            "id": "2d6f629b5140dcba9216f129",
+            "code": "7822",
+            "title": "公告本公司會計主管異動",
+            "published_at": "2026-09-30T16:15:51+08:00",
+            "first_seen_at": "2026-10-01T09:29:39.179188+08:00",
+            "source": "證交所・公司重大訊息",
+            "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+            "official": true,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+          }
+        ]
+      },
+      {
+        "code": "6672",
+        "name": "騰輝電子-KY",
+        "original_score": 86.57187993680884,
+        "message_score": 50.0,
+        "score": 82.91469194312796,
+        "evidence_status": "未知／未達門檻",
+        "contributions": [
+          {
+            "category": "訂單",
+            "points": 0.0
+          },
+          {
+            "category": "新聞話題",
+            "points": 0.0
+          },
+          {
+            "category": "龍頭地位",
+            "points": 0.0
+          },
+          {
+            "category": "專利技術",
+            "points": 0.0
+          }
+        ],
+        "events": []
+      }
+    ]
   }
 ]
