@@ -1726,27 +1726,82 @@
       {
         "code": "6515",
         "name": "穎崴",
-        "predicted_up_probability": 57.69466666666666
+        "predicted_up_probability": 57.69466666666666,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "6669",
         "name": "緯穎",
-        "predicted_up_probability": 55.83733333333333
+        "predicted_up_probability": 55.83733333333333,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "3450",
         "name": "聯鈞",
-        "predicted_up_probability": 55.83733333333333
+        "predicted_up_probability": 55.83733333333333,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "7750",
         "name": "新代",
-        "predicted_up_probability": 55.572
+        "predicted_up_probability": 55.572,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "2885",
         "name": "元大金",
-        "predicted_up_probability": 53.184
+        "predicted_up_probability": 53.184,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       }
     ]
   }

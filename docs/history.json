@@ -896,7 +896,7 @@
     "name": "洋基工程",
     "entry_price": 719.0,
     "latest_price": 719.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-09-30"
@@ -907,7 +907,7 @@
     "name": "健策",
     "entry_price": 6800.0,
     "latest_price": 6800.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-09-30"
@@ -918,7 +918,7 @@
     "name": "漢唐",
     "entry_price": 1290.0,
     "latest_price": 1290.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-09-30"
@@ -929,7 +929,7 @@
     "name": "帆宣",
     "entry_price": 585.0,
     "latest_price": 585.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-09-30"
@@ -940,7 +940,7 @@
     "name": "AMAX-KY",
     "entry_price": 371.0,
     "latest_price": 371.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-09-30"
