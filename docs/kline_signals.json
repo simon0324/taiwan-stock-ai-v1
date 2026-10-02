@@ -1888,27 +1888,82 @@
       {
         "code": "7750",
         "name": "新代",
-        "predicted_up_probability": 54.19
+        "predicted_up_probability": 54.19,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "6213",
         "name": "聯茂",
-        "predicted_up_probability": 53.63133333333333
+        "predicted_up_probability": 53.63133333333333,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "2006",
         "name": "東和鋼鐵",
-        "predicted_up_probability": 53.352
+        "predicted_up_probability": 53.352,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "2360",
         "name": "致茂",
-        "predicted_up_probability": 52.514
+        "predicted_up_probability": 52.514,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "1590",
         "name": "亞德客-KY",
-        "predicted_up_probability": 52.23466666666667
+        "predicted_up_probability": 52.23466666666667,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       }
     ]
   }

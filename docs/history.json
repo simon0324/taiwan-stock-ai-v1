@@ -951,7 +951,7 @@
     "name": "洋基工程",
     "entry_price": 733.0,
     "latest_price": 733.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-10-01"
@@ -962,7 +962,7 @@
     "name": "大量",
     "entry_price": 975.0,
     "latest_price": 975.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-10-01"
@@ -973,7 +973,7 @@
     "name": "AMAX-KY",
     "entry_price": 394.5,
     "latest_price": 394.5,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-10-01"
@@ -984,7 +984,7 @@
     "name": "倍利科",
     "entry_price": 1000.0,
     "latest_price": 1000.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-10-01"
@@ -995,7 +995,7 @@
     "name": "騰輝電子-KY",
     "entry_price": 405.5,
     "latest_price": 405.5,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-10-01"
