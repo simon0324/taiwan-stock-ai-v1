@@ -1006,7 +1006,7 @@
     "name": "洋基工程",
     "entry_price": 741.0,
     "latest_price": 741.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-10-02"
@@ -1028,7 +1028,7 @@
     "name": "騰輝電子-KY",
     "entry_price": 439.0,
     "latest_price": 439.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-10-02"
@@ -1039,7 +1039,7 @@
     "name": "帆宣",
     "entry_price": 618.0,
     "latest_price": 618.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-10-02"
@@ -1050,7 +1050,7 @@
     "name": "技嘉",
     "entry_price": 373.5,
     "latest_price": 373.5,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-10-02"

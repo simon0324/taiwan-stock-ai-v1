@@ -2025,27 +2025,82 @@
       {
         "code": "7769",
         "name": "鴻勁",
-        "predicted_up_probability": 58.8
+        "predicted_up_probability": 58.8,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "6515",
         "name": "穎崴",
-        "predicted_up_probability": 57.04
+        "predicted_up_probability": 57.04,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "3017",
         "name": "奇鋐",
-        "predicted_up_probability": 52.93333333333334
+        "predicted_up_probability": 52.93333333333334,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "1709",
         "name": "和益",
-        "predicted_up_probability": 52.64
+        "predicted_up_probability": 52.64,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "8046",
         "name": "南電",
-        "predicted_up_probability": 52.64
+        "predicted_up_probability": 52.64,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       }
     ]
   }

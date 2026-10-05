@@ -1,5 +1,57 @@
 [
   {
+    "id": "eca0072baa1086f805f40c37",
+    "code": "2891",
+    "title": "代子公司The Tokyo Star Bank, Limited公告董事辭世",
+    "published_at": "2026-10-04T18:04:41+08:00",
+    "first_seen_at": "2026-10-05T09:06:54.989591+08:00",
+    "source": "證交所・公司重大訊息",
+    "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+    "official": true,
+    "category": "待查證",
+    "direction": 0,
+    "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+  },
+  {
+    "id": "cd57d025706eb265e569e9d2",
+    "code": "1301",
+    "title": "台塑石化：5日起汽柴油不漲價",
+    "published_at": "2026-10-04T14:05:32+08:00",
+    "first_seen_at": "2026-10-05T09:06:54.989591+08:00",
+    "source": "中央通訊社・產經",
+    "url": "https://www.cna.com.tw/news/afe/202610040091.aspx",
+    "official": false,
+    "category": "待查證",
+    "direction": 0,
+    "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+  },
+  {
+    "id": "bb3e9654dd9ab14c04f96d8d",
+    "code": "2330",
+    "title": "傳台積電評估與Terafab合作　馬斯克證實討論中",
+    "published_at": "2026-10-03T19:30:42+08:00",
+    "first_seen_at": "2026-10-05T09:06:54.989591+08:00",
+    "source": "中央通訊社・產經",
+    "url": "https://www.cna.com.tw/news/aopl/202610030173.aspx",
+    "official": false,
+    "category": "待查證",
+    "direction": 0,
+    "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+  },
+  {
+    "id": "afed80fd909bbfa95c1f05a6",
+    "code": "2207",
+    "title": "和泰車：第4季車市穩健　估今年新車市場維持43萬輛",
+    "published_at": "2026-10-03T18:05:06+08:00",
+    "first_seen_at": "2026-10-05T09:06:54.989591+08:00",
+    "source": "中央通訊社・產經",
+    "url": "https://www.cna.com.tw/news/afe/202610030157.aspx",
+    "official": false,
+    "category": "待查證",
+    "direction": 0,
+    "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+  },
+  {
     "id": "f9b8d0d8834a421e2c719f7a",
     "code": "2301",
     "title": "光寶科88億投資高雄廠　收購電動車充電軟體商AmpUp",
@@ -5328,44 +5380,5 @@
     "category": "待查證",
     "direction": 0,
     "reason": "含推測、否認或澄清語句，僅列入觀察"
-  },
-  {
-    "id": "5f9f8fd66bb12c8f61acd444",
-    "code": "2498",
-    "title": "代重要子公司High Tech Computer Asia Pacific Pte.\r\nLtd.公告董事異動",
-    "published_at": "2026-09-21T06:30:17+08:00",
-    "first_seen_at": "2026-09-22T08:58:58.235416+08:00",
-    "source": "證交所・公司重大訊息",
-    "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-    "official": true,
-    "category": "待查證",
-    "direction": 0,
-    "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-  },
-  {
-    "id": "c85f3e9be4fc0780c7de2185",
-    "code": "1301",
-    "title": "台塑石化：21日油價不調整",
-    "published_at": "2026-09-20T14:06:16+08:00",
-    "first_seen_at": "2026-09-21T08:20:51.472036+08:00",
-    "source": "中央通訊社・產經",
-    "url": "https://www.cna.com.tw/news/afe/202609200096.aspx",
-    "official": false,
-    "category": "待查證",
-    "direction": 0,
-    "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-  },
-  {
-    "id": "1ada970d7d6de22c4ae5f09f",
-    "code": "6669",
-    "title": "緯穎洪麗寗：電力、散熱與高速互連成AI硬體發展3大課題",
-    "published_at": "2026-09-19T16:28:28+08:00",
-    "first_seen_at": "2026-09-21T08:20:51.472036+08:00",
-    "source": "中央通訊社・產經",
-    "url": "https://www.cna.com.tw/news/afe/202609190153.aspx",
-    "official": false,
-    "category": "待查證",
-    "direction": 0,
-    "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
   }
 ]
