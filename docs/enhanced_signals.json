@@ -627,7 +627,12 @@
         "name": "健策",
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-30",
+            "exit_date": "2026-10-05",
+            "entry_price": 6800.0,
+            "exit_price": 7205.0,
+            "net_return_pct": 5.343487394957983
           },
           "4": {
             "status": "waiting"
@@ -642,7 +647,12 @@
         "name": "AMAX-KY",
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-30",
+            "exit_date": "2026-10-05",
+            "entry_price": 371.0,
+            "exit_price": 384.0,
+            "net_return_pct": 2.9038367117906994
           },
           "4": {
             "status": "waiting"
@@ -657,7 +667,12 @@
         "name": "洋基工程",
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-30",
+            "exit_date": "2026-10-05",
+            "entry_price": 719.0,
+            "exit_price": 794.0,
+            "net_return_pct": 9.800245913204733
           },
           "4": {
             "status": "waiting"
@@ -672,7 +687,12 @@
         "name": "高力",
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-30",
+            "exit_date": "2026-10-05",
+            "entry_price": 1605.0,
+            "exit_price": 1595.0,
+            "net_return_pct": -1.2059089538739824
           },
           "4": {
             "status": "waiting"
@@ -687,7 +707,12 @@
         "name": "漢唐",
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-30",
+            "exit_date": "2026-10-05",
+            "entry_price": 1290.0,
+            "exit_price": 1310.0,
+            "net_return_pct": 0.957414678344911
           },
           "4": {
             "status": "waiting"
@@ -704,7 +729,12 @@
         "name": "兆聯實業",
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-30",
+            "exit_date": "2026-10-05",
+            "entry_price": 775.0,
+            "exit_price": 814.0,
+            "net_return_pct": 4.425403225806451
           },
           "4": {
             "status": "waiting"
@@ -719,7 +749,12 @@
         "name": "飛捷",
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-30",
+            "exit_date": "2026-10-05",
+            "entry_price": 139.5,
+            "exit_price": 137.5,
+            "net_return_pct": -2.012181367020077
           },
           "4": {
             "status": "waiting"
@@ -734,7 +769,12 @@
         "name": "研華",
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-30",
+            "exit_date": "2026-10-05",
+            "entry_price": 726.0,
+            "exit_price": 740.0,
+            "net_return_pct": 1.3351832860791055
           },
           "4": {
             "status": "waiting"
@@ -749,7 +789,12 @@
         "name": "凌華",
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-30",
+            "exit_date": "2026-10-05",
+            "entry_price": 133.0,
+            "exit_price": 129.5,
+            "net_return_pct": -3.204010025062656
           },
           "4": {
             "status": "waiting"
@@ -764,7 +809,12 @@
         "name": "聯茂",
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-30",
+            "exit_date": "2026-10-05",
+            "entry_price": 623.0,
+            "exit_price": 751.0,
+            "net_return_pct": 19.870585874799357
           },
           "4": {
             "status": "waiting"
@@ -1250,6 +1300,55 @@
             "status": "waiting"
           }
         }
+      }
+    ]
+  },
+  {
+    "rules_version": "enhanced-1",
+    "market_date": "2026-10-05",
+    "observed_at": "2026-10-05T23:19:44.810719+08:00",
+    "unified": [
+      {
+        "code": "6691",
+        "name": "洋基工程"
+      },
+      {
+        "code": "6196",
+        "name": "帆宣"
+      },
+      {
+        "code": "2376",
+        "name": "技嘉"
+      },
+      {
+        "code": "6672",
+        "name": "騰輝電子-KY"
+      },
+      {
+        "code": "6531",
+        "name": "愛普*"
+      }
+    ],
+    "enhanced": [
+      {
+        "code": "6691",
+        "name": "洋基工程"
+      },
+      {
+        "code": "6944",
+        "name": "兆聯實業"
+      },
+      {
+        "code": "8021",
+        "name": "尖點"
+      },
+      {
+        "code": "6196",
+        "name": "帆宣"
+      },
+      {
+        "code": "6658",
+        "name": "聯策"
       }
     ]
   }

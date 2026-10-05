@@ -1595,7 +1595,12 @@
             "net_return_pct": 9.496684749849308
           },
           "5": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-24",
+            "exit_date": "2026-10-05",
+            "entry_price": 1185.0,
+            "exit_price": 1325.0,
+            "net_return_pct": 11.176411492867189
           }
         }
       },
@@ -1620,7 +1625,12 @@
             "net_return_pct": 1.4094581796933245
           },
           "5": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-24",
+            "exit_date": "2026-10-05",
+            "entry_price": 699.0,
+            "exit_price": 742.0,
+            "net_return_pct": 5.540107598379979
           }
         }
       },
@@ -1645,7 +1655,12 @@
             "net_return_pct": -5.546874217427453
           },
           "5": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-24",
+            "exit_date": "2026-10-05",
+            "entry_price": 311.0,
+            "exit_price": 294.0,
+            "net_return_pct": -6.026184251384841
           }
         }
       },
@@ -1670,7 +1685,12 @@
             "net_return_pct": 2.0760812923397602
           },
           "5": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-24",
+            "exit_date": "2026-10-05",
+            "entry_price": 5050.0,
+            "exit_price": 5700.0,
+            "net_return_pct": 12.229286086503386
           }
         }
       },
@@ -1695,7 +1715,12 @@
             "net_return_pct": 3.925607318107469
           },
           "5": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-24",
+            "exit_date": "2026-10-05",
+            "entry_price": 971.0,
+            "exit_price": 1040.0,
+            "net_return_pct": 6.490175884978091
           }
         }
       }
@@ -1711,7 +1736,12 @@
         "name": "欣興",
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-30",
+            "exit_date": "2026-10-05",
+            "entry_price": 1175.0,
+            "exit_price": 1325.0,
+            "net_return_pct": 12.123606889564337
           },
           "4": {
             "status": "waiting"
@@ -1726,7 +1756,12 @@
         "name": "京元電子",
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-30",
+            "exit_date": "2026-10-05",
+            "entry_price": 294.5,
+            "exit_price": 294.0,
+            "net_return_pct": -0.7537399021390186
           },
           "4": {
             "status": "waiting"
@@ -1741,7 +1776,12 @@
         "name": "日月光投控",
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-30",
+            "exit_date": "2026-10-05",
+            "entry_price": 703.0,
+            "exit_price": 742.0,
+            "net_return_pct": 4.938593152084627
           },
           "4": {
             "status": "waiting"
@@ -1756,7 +1796,12 @@
         "name": "辛耘",
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-30",
+            "exit_date": "2026-10-05",
+            "entry_price": 707.0,
+            "exit_price": 744.0,
+            "net_return_pct": 4.625477745342923
           },
           "4": {
             "status": "waiting"
@@ -1771,7 +1816,12 @@
         "name": "中砂",
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-09-30",
+            "exit_date": "2026-10-05",
+            "entry_price": 963.0,
+            "exit_price": 1040.0,
+            "net_return_pct": 7.375817883031384
           },
           "4": {
             "status": "waiting"
@@ -2026,6 +2076,33 @@
             "status": "waiting"
           }
         }
+      }
+    ]
+  },
+  {
+    "rules_version": "beneficiary-1",
+    "market_date": "2026-10-05",
+    "observed_at": "2026-10-05T23:20:45.295497+08:00",
+    "picks": [
+      {
+        "code": "3037",
+        "name": "欣興"
+      },
+      {
+        "code": "3711",
+        "name": "日月光投控"
+      },
+      {
+        "code": "3583",
+        "name": "辛耘"
+      },
+      {
+        "code": "2383",
+        "name": "台光電"
+      },
+      {
+        "code": "1560",
+        "name": "中砂"
       }
     ]
   }
