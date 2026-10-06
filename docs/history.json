@@ -389,8 +389,8 @@
     "code": "3443",
     "name": "創意",
     "entry_price": 6225.0,
-    "latest_price": 8385.0,
-    "return_pct": 34.6987951807229,
+    "latest_price": 8600.0,
+    "return_pct": 38.152610441767074,
     "age": 5,
     "status": "已完成",
     "last_update": "2026-10-05"
@@ -400,8 +400,8 @@
     "code": "3443",
     "name": "創意",
     "entry_price": 6120.0,
-    "latest_price": 8385.0,
-    "return_pct": 37.00980392156863,
+    "latest_price": 8600.0,
+    "return_pct": 40.522875816993455,
     "age": 5,
     "status": "已完成",
     "last_update": "2026-10-05"
@@ -433,8 +433,8 @@
     "code": "3443",
     "name": "創意",
     "entry_price": 6400.0,
-    "latest_price": 8385.0,
-    "return_pct": 31.015624999999993,
+    "latest_price": 8600.0,
+    "return_pct": 34.375,
     "age": 5,
     "status": "已完成",
     "last_update": "2026-10-05"
@@ -466,8 +466,8 @@
     "code": "3443",
     "name": "創意",
     "entry_price": 6035.0,
-    "latest_price": 8385.0,
-    "return_pct": 38.93951946975973,
+    "latest_price": 8600.0,
+    "return_pct": 42.50207125103562,
     "age": 5,
     "status": "已完成",
     "last_update": "2026-10-05"
@@ -532,8 +532,8 @@
     "code": "3443",
     "name": "創意",
     "entry_price": 6500.0,
-    "latest_price": 8385.0,
-    "return_pct": 29.000000000000004,
+    "latest_price": 8600.0,
+    "return_pct": 32.30769230769231,
     "age": 5,
     "status": "已完成",
     "last_update": "2026-10-05"
@@ -576,8 +576,8 @@
     "code": "3443",
     "name": "創意",
     "entry_price": 7150.0,
-    "latest_price": 8385.0,
-    "return_pct": 17.272727272727263,
+    "latest_price": 8600.0,
+    "return_pct": 20.27972027972027,
     "age": 5,
     "status": "已完成",
     "last_update": "2026-10-05"
@@ -620,8 +620,8 @@
     "code": "3443",
     "name": "創意",
     "entry_price": 7615.0,
-    "latest_price": 8385.0,
-    "return_pct": 10.111621799080762,
+    "latest_price": 8600.0,
+    "return_pct": 12.934996717005909,
     "age": 5,
     "status": "已完成",
     "last_update": "2026-10-05"
@@ -730,8 +730,8 @@
     "code": "3443",
     "name": "創意",
     "entry_price": 8385.0,
-    "latest_price": 8385.0,
-    "return_pct": 0.0,
+    "latest_price": 8600.0,
+    "return_pct": 2.564102564102555,
     "age": 5,
     "status": "已完成",
     "last_update": "2026-10-05"
@@ -1061,7 +1061,7 @@
     "name": "洋基工程",
     "entry_price": 794.0,
     "latest_price": 794.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-10-05"
@@ -1072,7 +1072,7 @@
     "name": "帆宣",
     "entry_price": 679.0,
     "latest_price": 679.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-10-05"
@@ -1083,7 +1083,7 @@
     "name": "技嘉",
     "entry_price": 388.5,
     "latest_price": 388.5,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-10-05"
@@ -1105,7 +1105,7 @@
     "name": "愛普*",
     "entry_price": 1055.0,
     "latest_price": 1055.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-10-05"

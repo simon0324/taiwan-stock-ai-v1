@@ -2162,27 +2162,82 @@
       {
         "code": "1709",
         "name": "和益",
-        "predicted_up_probability": 55.839333333333336
+        "predicted_up_probability": 55.839333333333336,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "8046",
         "name": "南電",
-        "predicted_up_probability": 53.07333333333333
+        "predicted_up_probability": 53.07333333333333,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "3717",
         "name": "聯嘉投控",
-        "predicted_up_probability": 52.766
+        "predicted_up_probability": 52.766,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "3515",
         "name": "華擎",
-        "predicted_up_probability": 52.458666666666666
+        "predicted_up_probability": 52.458666666666666,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "1303",
         "name": "南亞",
-        "predicted_up_probability": 51.844
+        "predicted_up_probability": 51.844,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       }
     ]
   }

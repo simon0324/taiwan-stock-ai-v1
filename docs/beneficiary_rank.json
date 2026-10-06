@@ -1,7 +1,7 @@
 {
   "rules_version": "beneficiary-1",
   "market_date": "2026-10-05",
-  "as_of": "2026-10-05T23:20:45.295497+08:00",
+  "as_of": "2026-10-06T10:33:53.287325+08:00",
   "ranking": [
     {
       "code": "3037",
@@ -15,7 +15,7 @@
       "source": "https://investoredu.twse.com.tw/FileSystem/FileUpload/101afb1f-e736-40f2-a62a-95864b34b35f.pdf",
       "components": {
         "evidence": 80,
-        "quality": 81.88235294117646,
+        "quality": 81.60377358490567,
         "pullback": 55.0,
         "reversal": 100.0,
         "foreign": null
@@ -23,7 +23,7 @@
       "drawdown_20d_pct": 0.0,
       "revenue_yoy_pct": 56.25723917867715,
       "eps": 11.7,
-      "observation_score": 80.80065359477123,
+      "observation_score": 80.72327044025157,
       "foreign_data_available": false
     },
     {
@@ -38,7 +38,7 @@
       "source": "https://ase.aseglobal.com/VIPack/",
       "components": {
         "evidence": 85,
-        "quality": 75.64705882352942,
+        "quality": 75.35377358490567,
         "pullback": 55.0,
         "reversal": 100.0,
         "foreign": null
@@ -46,7 +46,7 @@
       "drawdown_20d_pct": 0.0,
       "revenue_yoy_pct": 45.65918579706578,
       "eps": 8.04,
-      "observation_score": 80.73529411764706,
+      "observation_score": 80.65382599580713,
       "foreign_data_available": false
     },
     {
@@ -60,7 +60,7 @@
       "source": "https://www.twse.com.tw/staticFiles/news/event/ff808081786812360178c8ed241a0132.pdf",
       "components": {
         "evidence": 75,
-        "quality": 60.588235294117645,
+        "quality": 60.259433962264154,
         "pullback": 55.0,
         "reversal": 100.0,
         "foreign": null
@@ -68,7 +68,7 @@
       "drawdown_20d_pct": 0.0,
       "revenue_yoy_pct": 18.057239217229007,
       "eps": 9.16,
-      "observation_score": 73.21895424836602,
+      "observation_score": 73.12762054507337,
       "foreign_data_available": false
     },
     {
@@ -82,7 +82,7 @@
       "source": "https://www.emctw.com/",
       "components": {
         "evidence": 65,
-        "quality": 95.41176470588235,
+        "quality": 95.51886792452831,
         "pullback": 55.0,
         "reversal": 66.66666666666666,
         "foreign": null
@@ -90,7 +90,7 @@
       "drawdown_20d_pct": 0.0,
       "revenue_yoy_pct": 129.84671742960728,
       "eps": 42.46,
-      "observation_score": 72.15141612200436,
+      "observation_score": 72.18116701607268,
       "foreign_data_available": false
     },
     {
@@ -104,7 +104,7 @@
       "source": "https://www.kinik.com.tw/",
       "components": {
         "evidence": 65,
-        "quality": 64.8235294117647,
+        "quality": 64.50471698113208,
         "pullback": 55.0,
         "reversal": 100.0,
         "foreign": null
@@ -112,7 +112,7 @@
       "drawdown_20d_pct": 0.0,
       "revenue_yoy_pct": 30.37794617921122,
       "eps": 6.44,
-      "observation_score": 71.06209150326796,
+      "observation_score": 70.97353249475891,
       "foreign_data_available": false
     },
     {
@@ -127,7 +127,7 @@
       "source": "https://www.kyec.com.tw/Upfiles/EDUp/files/%E8%82%A1%E6%9D%B1%E6%9C%83/20250527%E8%AD%B0%E4%BA%8B%E9%8C%84%28%E8%8B%B1%E6%96%87AGM%29.pdf",
       "components": {
         "evidence": 90,
-        "quality": 58.470588235294116,
+        "quality": 58.25471698113208,
         "pullback": 100.0,
         "reversal": 33.33333333333333,
         "foreign": null
@@ -135,7 +135,7 @@
       "drawdown_20d_pct": -7.2555205047318605,
       "revenue_yoy_pct": 31.577957840545338,
       "eps": 3.91,
-      "observation_score": 70.31590413943354,
+      "observation_score": 70.25593990216632,
       "foreign_data_available": false
     },
     {
@@ -149,7 +149,7 @@
       "source": "https://www.pti.com.tw/",
       "components": {
         "evidence": 60,
-        "quality": 59.17647058823529,
+        "quality": 58.84433962264151,
         "pullback": 55.0,
         "reversal": 100.0,
         "foreign": null
@@ -157,7 +157,7 @@
       "drawdown_20d_pct": -3.409090909090906,
       "revenue_yoy_pct": 24.459768182447533,
       "eps": 5.5,
-      "observation_score": 67.82679738562092,
+      "observation_score": 67.73453878406708,
       "foreign_data_available": false
     }
   ],
