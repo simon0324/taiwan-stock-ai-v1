@@ -4,22 +4,22 @@
     "code": "7711",
     "name": "永擎",
     "entry_price": 575.0,
-    "latest_price": 634.0,
-    "return_pct": 10.26086956521739,
+    "latest_price": 620.0,
+    "return_pct": 7.826086956521738,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-01",
     "code": "6933",
     "name": "AMAX-KY",
     "entry_price": 314.5,
-    "latest_price": 384.0,
-    "return_pct": 22.098569157392678,
+    "latest_price": 374.5,
+    "return_pct": 19.0779014308426,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-01",
@@ -30,183 +30,183 @@
     "return_pct": 22.625000000000007,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-01",
     "code": "3006",
     "name": "晶豪科",
     "entry_price": 278.5,
-    "latest_price": 282.0,
-    "return_pct": 1.2567324955116588,
+    "latest_price": 273.5,
+    "return_pct": -1.795332136445238,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-01",
     "code": "6531",
     "name": "愛普*",
     "entry_price": 958.0,
-    "latest_price": 1055.0,
-    "return_pct": 10.125260960334037,
+    "latest_price": 1045.0,
+    "return_pct": 9.081419624217112,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-02",
     "code": "7711",
     "name": "永擎",
     "entry_price": 610.0,
-    "latest_price": 634.0,
-    "return_pct": 3.934426229508192,
+    "latest_price": 620.0,
+    "return_pct": 1.6393442622950838,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-02",
     "code": "6515",
     "name": "穎崴",
     "entry_price": 7050.0,
-    "latest_price": 6205.0,
-    "return_pct": -11.98581560283688,
+    "latest_price": 6130.0,
+    "return_pct": -13.049645390070918,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-02",
     "code": "3006",
     "name": "晶豪科",
     "entry_price": 281.5,
-    "latest_price": 282.0,
-    "return_pct": 0.1776198934280604,
+    "latest_price": 273.5,
+    "return_pct": -2.841918294849022,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-02",
     "code": "3661",
     "name": "世芯-KY",
     "entry_price": 4200.0,
-    "latest_price": 3950.0,
-    "return_pct": -5.952380952380953,
+    "latest_price": 4180.0,
+    "return_pct": -0.4761904761904745,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-02",
     "code": "4967",
     "name": "十銓",
     "entry_price": 278.0,
-    "latest_price": 269.5,
-    "return_pct": -3.0575539568345356,
+    "latest_price": 267.0,
+    "return_pct": -3.9568345323740983,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-03",
     "code": "7711",
     "name": "永擎",
     "entry_price": 575.0,
-    "latest_price": 634.0,
-    "return_pct": 10.26086956521739,
+    "latest_price": 620.0,
+    "return_pct": 7.826086956521738,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-03",
     "code": "6515",
     "name": "穎崴",
     "entry_price": 7000.0,
-    "latest_price": 6205.0,
-    "return_pct": -11.357142857142854,
+    "latest_price": 6130.0,
+    "return_pct": -12.428571428571434,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-03",
     "code": "6442",
     "name": "光聖",
     "entry_price": 1770.0,
-    "latest_price": 1705.0,
-    "return_pct": -3.672316384180796,
+    "latest_price": 1650.0,
+    "return_pct": -6.779661016949157,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-03",
     "code": "3006",
     "name": "晶豪科",
     "entry_price": 277.0,
-    "latest_price": 282.0,
-    "return_pct": 1.8050541516245522,
+    "latest_price": 273.5,
+    "return_pct": -1.2635379061371799,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-03",
     "code": "6196",
     "name": "帆宣",
     "entry_price": 500.0,
-    "latest_price": 679.0,
-    "return_pct": 35.80000000000001,
+    "latest_price": 663.0,
+    "return_pct": 32.60000000000001,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-04",
     "code": "7711",
     "name": "永擎",
     "entry_price": 632.0,
-    "latest_price": 634.0,
-    "return_pct": 0.31645569620253333,
+    "latest_price": 620.0,
+    "return_pct": -1.898734177215189,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-04",
     "code": "2382",
     "name": "廣達",
     "entry_price": 345.0,
-    "latest_price": 331.0,
-    "return_pct": -4.057971014492756,
+    "latest_price": 333.5,
+    "return_pct": -3.3333333333333326,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-04",
     "code": "3661",
     "name": "世芯-KY",
     "entry_price": 4220.0,
-    "latest_price": 3950.0,
-    "return_pct": -6.398104265402848,
+    "latest_price": 4180.0,
+    "return_pct": -0.9478672985781977,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-04",
     "code": "6515",
     "name": "穎崴",
     "entry_price": 7075.0,
-    "latest_price": 6205.0,
-    "return_pct": -12.296819787985868,
+    "latest_price": 6130.0,
+    "return_pct": -13.356890459363957,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-04",
@@ -217,29 +217,29 @@
     "return_pct": 22.166874221668742,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-07",
     "code": "7711",
     "name": "永擎",
     "entry_price": 660.0,
-    "latest_price": 634.0,
-    "return_pct": -3.9393939393939426,
+    "latest_price": 620.0,
+    "return_pct": -6.060606060606055,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-07",
     "code": "3006",
     "name": "晶豪科",
     "entry_price": 297.0,
-    "latest_price": 282.0,
-    "return_pct": -5.05050505050505,
+    "latest_price": 273.5,
+    "return_pct": -7.912457912457915,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-07",
@@ -250,51 +250,51 @@
     "return_pct": 21.7741935483871,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-07",
     "code": "2330",
     "name": "台積電",
     "entry_price": 2460.0,
-    "latest_price": 2575.0,
-    "return_pct": 4.674796747967469,
+    "latest_price": 2585.0,
+    "return_pct": 5.081300813008127,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-07",
     "code": "6515",
     "name": "穎崴",
     "entry_price": 7000.0,
-    "latest_price": 6205.0,
-    "return_pct": -11.357142857142854,
+    "latest_price": 6130.0,
+    "return_pct": -12.428571428571434,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-08",
     "code": "3006",
     "name": "晶豪科",
     "entry_price": 298.5,
-    "latest_price": 282.0,
-    "return_pct": -5.527638190954775,
+    "latest_price": 273.5,
+    "return_pct": -8.375209380234505,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-08",
     "code": "6515",
     "name": "穎崴",
     "entry_price": 7700.0,
-    "latest_price": 6205.0,
-    "return_pct": -19.41558441558442,
+    "latest_price": 6130.0,
+    "return_pct": -20.38961038961039,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-08",
@@ -305,51 +305,51 @@
     "return_pct": 4.584221748400852,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-09",
     "code": "7610",
     "name": "聯友金屬-創",
     "entry_price": 2030.0,
-    "latest_price": 1800.0,
-    "return_pct": -11.33004926108374,
+    "latest_price": 1790.0,
+    "return_pct": -11.822660098522164,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-09",
     "code": "3006",
     "name": "晶豪科",
     "entry_price": 306.5,
-    "latest_price": 282.0,
-    "return_pct": -7.993474714518756,
+    "latest_price": 273.5,
+    "return_pct": -10.76672104404568,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-09",
     "code": "6515",
     "name": "穎崴",
     "entry_price": 7280.0,
-    "latest_price": 6205.0,
-    "return_pct": -14.76648351648352,
+    "latest_price": 6130.0,
+    "return_pct": -15.796703296703296,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-09",
     "code": "6196",
     "name": "帆宣",
     "entry_price": 534.0,
-    "latest_price": 679.0,
-    "return_pct": 27.15355805243447,
+    "latest_price": 663.0,
+    "return_pct": 24.157303370786522,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-09",
@@ -360,117 +360,117 @@
     "return_pct": 9.000000000000007,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-10",
     "code": "7610",
     "name": "聯友金屬-創",
     "entry_price": 2035.0,
-    "latest_price": 1800.0,
-    "return_pct": -11.54791154791155,
+    "latest_price": 1790.0,
+    "return_pct": -12.039312039312044,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-10",
     "code": "3006",
     "name": "晶豪科",
     "entry_price": 312.0,
-    "latest_price": 282.0,
-    "return_pct": -9.615384615384615,
+    "latest_price": 273.5,
+    "return_pct": -12.339743589743591,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-10",
     "code": "3443",
     "name": "創意",
     "entry_price": 6225.0,
-    "latest_price": 8600.0,
-    "return_pct": 38.152610441767074,
+    "latest_price": 8375.0,
+    "return_pct": 34.53815261044178,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-11",
     "code": "3443",
     "name": "創意",
     "entry_price": 6120.0,
-    "latest_price": 8600.0,
-    "return_pct": 40.522875816993455,
+    "latest_price": 8375.0,
+    "return_pct": 36.84640522875817,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-11",
     "code": "6531",
     "name": "愛普*",
     "entry_price": 988.0,
-    "latest_price": 1055.0,
-    "return_pct": 6.781376518218618,
+    "latest_price": 1045.0,
+    "return_pct": 5.769230769230771,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-11",
     "code": "3006",
     "name": "晶豪科",
     "entry_price": 290.5,
-    "latest_price": 282.0,
-    "return_pct": -2.9259896729776247,
+    "latest_price": 273.5,
+    "return_pct": -5.851979345955249,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-14",
     "code": "3443",
     "name": "創意",
     "entry_price": 6400.0,
-    "latest_price": 8600.0,
-    "return_pct": 34.375,
+    "latest_price": 8375.0,
+    "return_pct": 30.859375,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-14",
     "code": "2855",
     "name": "統一證",
     "entry_price": 52.9,
-    "latest_price": 58.2,
-    "return_pct": 10.018903591682427,
+    "latest_price": 58.5,
+    "return_pct": 10.586011342155022,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-14",
     "code": "3044",
     "name": "健鼎",
     "entry_price": 510.0,
-    "latest_price": 557.0,
-    "return_pct": 9.215686274509792,
+    "latest_price": 579.0,
+    "return_pct": 13.529411764705879,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-15",
     "code": "3443",
     "name": "創意",
     "entry_price": 6035.0,
-    "latest_price": 8600.0,
-    "return_pct": 42.50207125103562,
+    "latest_price": 8375.0,
+    "return_pct": 38.77381938690969,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-15",
@@ -481,18 +481,18 @@
     "return_pct": -0.7894736842105288,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-15",
     "code": "6416",
     "name": "瑞祺電通",
     "entry_price": 118.0,
-    "latest_price": 119.5,
-    "return_pct": 1.2711864406779627,
+    "latest_price": 122.0,
+    "return_pct": 3.3898305084745672,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-16",
@@ -503,18 +503,18 @@
     "return_pct": 48.35526315789473,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-16",
     "code": "3044",
     "name": "健鼎",
     "entry_price": 504.0,
-    "latest_price": 557.0,
-    "return_pct": 10.515873015873023,
+    "latest_price": 579.0,
+    "return_pct": 14.880952380952372,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-16",
@@ -525,62 +525,62 @@
     "return_pct": -1.308900523560208,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-17",
     "code": "3443",
     "name": "創意",
     "entry_price": 6500.0,
-    "latest_price": 8600.0,
-    "return_pct": 32.30769230769231,
+    "latest_price": 8375.0,
+    "return_pct": 28.846153846153854,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-17",
     "code": "3036",
     "name": "文曄",
     "entry_price": 204.0,
-    "latest_price": 213.5,
-    "return_pct": 4.656862745098045,
+    "latest_price": 215.0,
+    "return_pct": 5.392156862745101,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-17",
     "code": "2395",
     "name": "研華",
     "entry_price": 686.0,
-    "latest_price": 740.0,
-    "return_pct": 7.871720116618075,
+    "latest_price": 738.0,
+    "return_pct": 7.580174927113692,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-18",
     "code": "6691",
     "name": "洋基工程",
     "entry_price": 650.0,
-    "latest_price": 794.0,
-    "return_pct": 22.153846153846146,
+    "latest_price": 787.0,
+    "return_pct": 21.07692307692308,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-18",
     "code": "3443",
     "name": "創意",
     "entry_price": 7150.0,
-    "latest_price": 8600.0,
-    "return_pct": 20.27972027972027,
+    "latest_price": 8375.0,
+    "return_pct": 17.132867132867126,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-18",
@@ -591,95 +591,95 @@
     "return_pct": 3.9301310043668103,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-18",
     "code": "6196",
     "name": "帆宣",
     "entry_price": 540.0,
-    "latest_price": 679.0,
-    "return_pct": 25.74074074074073,
+    "latest_price": 663.0,
+    "return_pct": 22.777777777777786,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-18",
     "code": "7769",
     "name": "鴻勁",
     "entry_price": 6540.0,
-    "latest_price": 5815.0,
-    "return_pct": -11.085626911314982,
+    "latest_price": 5905.0,
+    "return_pct": -9.709480122324155,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-21",
     "code": "3443",
     "name": "創意",
     "entry_price": 7615.0,
-    "latest_price": 8600.0,
-    "return_pct": 12.934996717005909,
+    "latest_price": 8375.0,
+    "return_pct": 9.980302035456345,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-21",
     "code": "2855",
     "name": "統一證",
     "entry_price": 57.3,
-    "latest_price": 58.2,
-    "return_pct": 1.5706806282722585,
+    "latest_price": 58.5,
+    "return_pct": 2.0942408376963373,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-21",
     "code": "6691",
     "name": "洋基工程",
     "entry_price": 632.0,
-    "latest_price": 794.0,
-    "return_pct": 25.632911392405067,
+    "latest_price": 787.0,
+    "return_pct": 24.5253164556962,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-21",
     "code": "2360",
     "name": "致茂",
     "entry_price": 2375.0,
-    "latest_price": 2325.0,
-    "return_pct": -2.1052631578947323,
+    "latest_price": 2350.0,
+    "return_pct": -1.0526315789473717,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-21",
     "code": "3036",
     "name": "文曄",
     "entry_price": 206.5,
-    "latest_price": 213.5,
-    "return_pct": 3.3898305084745672,
+    "latest_price": 215.0,
+    "return_pct": 4.1162227602905554,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-22",
     "code": "2360",
     "name": "致茂",
     "entry_price": 2440.0,
-    "latest_price": 2325.0,
-    "return_pct": -4.713114754098358,
+    "latest_price": 2350.0,
+    "return_pct": -3.688524590163933,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-22",
@@ -690,73 +690,73 @@
     "return_pct": -8.761329305135956,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-22",
     "code": "2855",
     "name": "統一證",
     "entry_price": 56.9,
-    "latest_price": 58.2,
-    "return_pct": 2.2847100175747093,
+    "latest_price": 58.5,
+    "return_pct": 2.811950790861162,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-22",
     "code": "3044",
     "name": "健鼎",
     "entry_price": 539.0,
-    "latest_price": 557.0,
-    "return_pct": 3.3395176252319025,
+    "latest_price": 579.0,
+    "return_pct": 7.421150278293132,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-22",
     "code": "6691",
     "name": "洋基工程",
     "entry_price": 635.0,
-    "latest_price": 794.0,
-    "return_pct": 25.039370078740152,
+    "latest_price": 787.0,
+    "return_pct": 23.93700787401576,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-23",
     "code": "3443",
     "name": "創意",
     "entry_price": 8385.0,
-    "latest_price": 8600.0,
-    "return_pct": 2.564102564102555,
+    "latest_price": 8375.0,
+    "return_pct": -0.11926058437686793,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-23",
     "code": "2360",
     "name": "致茂",
     "entry_price": 2325.0,
-    "latest_price": 2325.0,
-    "return_pct": 0.0,
+    "latest_price": 2350.0,
+    "return_pct": 1.0752688172043001,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-23",
     "code": "2404",
     "name": "漢唐",
     "entry_price": 1250.0,
-    "latest_price": 1310.0,
-    "return_pct": 4.800000000000004,
+    "latest_price": 1335.0,
+    "return_pct": 6.800000000000006,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-23",
@@ -767,7 +767,7 @@
     "return_pct": -1.9480519480519431,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-23",
@@ -778,29 +778,29 @@
     "return_pct": 10.224719101123592,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-24",
     "code": "3653",
     "name": "健策",
     "entry_price": 6920.0,
-    "latest_price": 7205.0,
-    "return_pct": 4.118497109826591,
+    "latest_price": 7080.0,
+    "return_pct": 2.3121387283236983,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-24",
     "code": "6691",
     "name": "洋基工程",
     "entry_price": 667.0,
-    "latest_price": 794.0,
-    "return_pct": 19.040479760119933,
+    "latest_price": 787.0,
+    "return_pct": 17.991004497751128,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-24",
@@ -811,62 +811,62 @@
     "return_pct": 3.3719704952581697,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-24",
     "code": "6933",
     "name": "AMAX-KY",
     "entry_price": 385.0,
-    "latest_price": 384.0,
-    "return_pct": -0.2597402597402598,
+    "latest_price": 374.5,
+    "return_pct": -2.7272727272727226,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-24",
     "code": "2404",
     "name": "漢唐",
     "entry_price": 1285.0,
-    "latest_price": 1310.0,
-    "return_pct": 1.9455252918287869,
+    "latest_price": 1335.0,
+    "return_pct": 3.891050583657596,
     "age": 5,
     "status": "已完成",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-29",
     "code": "3653",
     "name": "健策",
     "entry_price": 6895.0,
-    "latest_price": 7205.0,
-    "return_pct": 4.4960116026105945,
-    "age": 4,
-    "status": "追蹤中",
-    "last_update": "2026-10-05"
+    "latest_price": 7080.0,
+    "return_pct": 2.6831036983321344,
+    "age": 5,
+    "status": "已完成",
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-29",
     "code": "6933",
     "name": "AMAX-KY",
     "entry_price": 378.0,
-    "latest_price": 384.0,
-    "return_pct": 1.5873015873015817,
-    "age": 4,
-    "status": "追蹤中",
-    "last_update": "2026-10-05"
+    "latest_price": 374.5,
+    "return_pct": -0.92592592592593,
+    "age": 5,
+    "status": "已完成",
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-29",
     "code": "6691",
     "name": "洋基工程",
     "entry_price": 654.0,
-    "latest_price": 794.0,
-    "return_pct": 21.406727828746174,
-    "age": 4,
-    "status": "追蹤中",
-    "last_update": "2026-10-05"
+    "latest_price": 787.0,
+    "return_pct": 20.336391437308876,
+    "age": 5,
+    "status": "已完成",
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-29",
@@ -875,86 +875,86 @@
     "entry_price": 1585.0,
     "latest_price": 1510.0,
     "return_pct": -4.731861198738175,
-    "age": 4,
-    "status": "追蹤中",
-    "last_update": "2026-10-05"
+    "age": 5,
+    "status": "已完成",
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-29",
     "code": "2404",
     "name": "漢唐",
     "entry_price": 1220.0,
-    "latest_price": 1310.0,
-    "return_pct": 7.377049180327866,
-    "age": 4,
-    "status": "追蹤中",
-    "last_update": "2026-10-05"
+    "latest_price": 1335.0,
+    "return_pct": 9.426229508196716,
+    "age": 5,
+    "status": "已完成",
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-30",
     "code": "6691",
     "name": "洋基工程",
     "entry_price": 719.0,
-    "latest_price": 794.0,
-    "return_pct": 10.43115438108484,
-    "age": 3,
+    "latest_price": 787.0,
+    "return_pct": 9.457579972183595,
+    "age": 4,
     "status": "追蹤中",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-30",
     "code": "3653",
     "name": "健策",
     "entry_price": 6800.0,
-    "latest_price": 7205.0,
-    "return_pct": 5.9558823529411775,
-    "age": 3,
+    "latest_price": 7080.0,
+    "return_pct": 4.117647058823537,
+    "age": 4,
     "status": "追蹤中",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-30",
     "code": "2404",
     "name": "漢唐",
     "entry_price": 1290.0,
-    "latest_price": 1310.0,
-    "return_pct": 1.5503875968992276,
-    "age": 3,
+    "latest_price": 1335.0,
+    "return_pct": 3.488372093023262,
+    "age": 4,
     "status": "追蹤中",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-30",
     "code": "6196",
     "name": "帆宣",
     "entry_price": 585.0,
-    "latest_price": 679.0,
-    "return_pct": 16.06837606837608,
-    "age": 3,
+    "latest_price": 663.0,
+    "return_pct": 13.33333333333333,
+    "age": 4,
     "status": "追蹤中",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-09-30",
     "code": "6933",
     "name": "AMAX-KY",
     "entry_price": 371.0,
-    "latest_price": 384.0,
-    "return_pct": 3.5040431266846417,
-    "age": 3,
+    "latest_price": 374.5,
+    "return_pct": 0.9433962264151052,
+    "age": 4,
     "status": "追蹤中",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-10-01",
     "code": "6691",
     "name": "洋基工程",
     "entry_price": 733.0,
-    "latest_price": 794.0,
-    "return_pct": 8.321964529331517,
-    "age": 2,
+    "latest_price": 787.0,
+    "return_pct": 7.366984993178716,
+    "age": 3,
     "status": "追蹤中",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-10-01",
@@ -963,31 +963,31 @@
     "entry_price": 975.0,
     "latest_price": 981.0,
     "return_pct": 0.6153846153846176,
-    "age": 2,
+    "age": 3,
     "status": "追蹤中",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-10-01",
     "code": "6933",
     "name": "AMAX-KY",
     "entry_price": 394.5,
-    "latest_price": 384.0,
-    "return_pct": -2.6615969581749055,
-    "age": 2,
+    "latest_price": 374.5,
+    "return_pct": -5.069708491761727,
+    "age": 3,
     "status": "追蹤中",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-10-01",
     "code": "7822",
     "name": "倍利科",
     "entry_price": 1000.0,
-    "latest_price": 990.0,
-    "return_pct": -1.0000000000000009,
-    "age": 2,
+    "latest_price": 976.0,
+    "return_pct": -2.400000000000002,
+    "age": 3,
     "status": "追蹤中",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-10-01",
@@ -996,20 +996,20 @@
     "entry_price": 405.5,
     "latest_price": 451.0,
     "return_pct": 11.220715166461147,
-    "age": 2,
+    "age": 3,
     "status": "追蹤中",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-10-02",
     "code": "6691",
     "name": "洋基工程",
     "entry_price": 741.0,
-    "latest_price": 794.0,
-    "return_pct": 7.1524966261808265,
-    "age": 1,
+    "latest_price": 787.0,
+    "return_pct": 6.207827260458831,
+    "age": 2,
     "status": "追蹤中",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-10-02",
@@ -1018,9 +1018,9 @@
     "entry_price": 981.0,
     "latest_price": 981.0,
     "return_pct": 0,
-    "age": 1,
+    "age": 2,
     "status": "追蹤中",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-10-02",
@@ -1029,64 +1029,64 @@
     "entry_price": 439.0,
     "latest_price": 451.0,
     "return_pct": 2.733485193621865,
-    "age": 1,
+    "age": 2,
     "status": "追蹤中",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-10-02",
     "code": "6196",
     "name": "帆宣",
     "entry_price": 618.0,
-    "latest_price": 679.0,
-    "return_pct": 9.870550161812307,
-    "age": 1,
+    "latest_price": 663.0,
+    "return_pct": 7.281553398058249,
+    "age": 2,
     "status": "追蹤中",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-10-02",
     "code": "2376",
     "name": "技嘉",
     "entry_price": 373.5,
-    "latest_price": 388.5,
-    "return_pct": 4.016064257028118,
-    "age": 1,
+    "latest_price": 380.0,
+    "return_pct": 1.7402945113788482,
+    "age": 2,
     "status": "追蹤中",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-10-05",
     "code": "6691",
     "name": "洋基工程",
     "entry_price": 794.0,
-    "latest_price": 794.0,
-    "return_pct": 0.0,
-    "age": 0,
+    "latest_price": 787.0,
+    "return_pct": -0.8816120906801062,
+    "age": 1,
     "status": "追蹤中",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-10-05",
     "code": "6196",
     "name": "帆宣",
     "entry_price": 679.0,
-    "latest_price": 679.0,
-    "return_pct": 0.0,
-    "age": 0,
+    "latest_price": 663.0,
+    "return_pct": -2.356406480117823,
+    "age": 1,
     "status": "追蹤中",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-10-05",
     "code": "2376",
     "name": "技嘉",
     "entry_price": 388.5,
-    "latest_price": 388.5,
-    "return_pct": 0.0,
-    "age": 0,
+    "latest_price": 380.0,
+    "return_pct": -2.187902187902191,
+    "age": 1,
     "status": "追蹤中",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-10-05",
@@ -1095,19 +1095,74 @@
     "entry_price": 451.0,
     "latest_price": 451.0,
     "return_pct": 0,
-    "age": 0,
+    "age": 1,
     "status": "追蹤中",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
   },
   {
     "date": "2026-10-05",
     "code": "6531",
     "name": "愛普*",
     "entry_price": 1055.0,
-    "latest_price": 1055.0,
-    "return_pct": 0.0,
+    "latest_price": 1045.0,
+    "return_pct": -0.9478672985781977,
+    "age": 1,
+    "status": "追蹤中",
+    "last_update": "2026-10-06"
+  },
+  {
+    "date": "2026-10-06",
+    "code": "3661",
+    "name": "世芯-KY",
+    "entry_price": 4180.0,
+    "latest_price": 4180.0,
+    "return_pct": 0,
     "age": 0,
     "status": "追蹤中",
-    "last_update": "2026-10-05"
+    "last_update": "2026-10-06"
+  },
+  {
+    "date": "2026-10-06",
+    "code": "2059",
+    "name": "川湖",
+    "entry_price": 13100.0,
+    "latest_price": 13100.0,
+    "return_pct": 0,
+    "age": 0,
+    "status": "追蹤中",
+    "last_update": "2026-10-06"
+  },
+  {
+    "date": "2026-10-06",
+    "code": "6691",
+    "name": "洋基工程",
+    "entry_price": 787.0,
+    "latest_price": 787.0,
+    "return_pct": 0,
+    "age": 0,
+    "status": "追蹤中",
+    "last_update": "2026-10-06"
+  },
+  {
+    "date": "2026-10-06",
+    "code": "6196",
+    "name": "帆宣",
+    "entry_price": 663.0,
+    "latest_price": 663.0,
+    "return_pct": 0,
+    "age": 0,
+    "status": "追蹤中",
+    "last_update": "2026-10-06"
+  },
+  {
+    "date": "2026-10-06",
+    "code": "2368",
+    "name": "金像電",
+    "entry_price": 1260.0,
+    "latest_price": 1260.0,
+    "return_pct": 0,
+    "age": 0,
+    "status": "追蹤中",
+    "last_update": "2026-10-06"
   }
 ]

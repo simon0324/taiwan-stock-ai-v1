@@ -5932,5 +5932,426 @@
         "events": []
       }
     ]
+  },
+  {
+    "market_date": "2026-10-06",
+    "observed_at": "2026-10-06T21:39:32.213635+08:00",
+    "rules_version": "events-1",
+    "sources": [
+      {
+        "source": "證交所・公司重大訊息",
+        "status": "ok",
+        "invalid_rows": 0
+      },
+      {
+        "source": "中央通訊社・產經",
+        "status": "ok",
+        "invalid_rows": 0
+      },
+      {
+        "source": "中央通訊社・科技",
+        "status": "ok",
+        "invalid_rows": 0
+      }
+    ],
+    "original": [
+      {
+        "code": "3661",
+        "name": "世芯-KY",
+        "price": 4180.0,
+        "avg_value": 9556306347.4,
+        "revenue": 273.61017160561573,
+        "eps": 37.57,
+        "foreign": 0,
+        "momentum": 13.432835820895516,
+        "volume_ratio": 1.7141740359188937,
+        "trend": 100.0,
+        "atr": 171.78571428571428,
+        "atr_pct": 4.109706083390294,
+        "news": 0,
+        "stable": 91.69030732860519,
+        "growth": 92.68321513002364,
+        "strong": 88.97163120567376,
+        "overall": 91.1150512214342,
+        "entry_low": 4159.1,
+        "entry_high": 4200.9,
+        "fixed_stop": 3971.0,
+        "fixed_target": 4514.400000000001,
+        "dynamic_stop": 3922.3214285714284,
+        "dynamic_target": 4695.357142857143,
+        "risk_flags": [
+          "一般"
+        ]
+      },
+      {
+        "code": "2059",
+        "name": "川湖",
+        "price": 13100.0,
+        "avg_value": 5849255578.75,
+        "revenue": 344.4151275890319,
+        "eps": 110.96,
+        "foreign": 0,
+        "momentum": 8.130416838629806,
+        "volume_ratio": 1.6706771303517476,
+        "trend": 100.0,
+        "atr": 623.2142857142857,
+        "atr_pct": 4.757360959651036,
+        "news": 0,
+        "stable": 92.6241134751773,
+        "growth": 92.60047281323877,
+        "strong": 87.00945626477541,
+        "overall": 90.74468085106382,
+        "entry_low": 13034.5,
+        "entry_high": 13165.499999999998,
+        "fixed_stop": 12445.0,
+        "fixed_target": 14148.000000000002,
+        "dynamic_stop": 12165.178571428572,
+        "dynamic_target": 14969.642857142855,
+        "risk_flags": [
+          "波動偏高"
+        ]
+      },
+      {
+        "code": "6691",
+        "name": "洋基工程",
+        "price": 787.0,
+        "avg_value": 586087135.2,
+        "revenue": 213.69818881487726,
+        "eps": 17.46,
+        "foreign": 0,
+        "momentum": 20.336391437308876,
+        "volume_ratio": 1.4081753231426328,
+        "trend": 100.0,
+        "atr": 28.5,
+        "atr_pct": 3.6213468869123253,
+        "news": 0,
+        "stable": 89.37352245862884,
+        "growth": 91.40661938534278,
+        "strong": 87.81323877068559,
+        "overall": 89.53112687155242,
+        "entry_low": 783.0649999999999,
+        "entry_high": 790.935,
+        "fixed_stop": 747.65,
+        "fixed_target": 849.96,
+        "dynamic_stop": 744.25,
+        "dynamic_target": 872.5,
+        "risk_flags": [
+          "短線漲幅偏大"
+        ]
+      },
+      {
+        "code": "6196",
+        "name": "帆宣",
+        "price": 663.0,
+        "avg_value": 1055476134.5,
+        "revenue": 83.88589994276812,
+        "eps": 13.26,
+        "foreign": 0,
+        "momentum": 21.875,
+        "volume_ratio": 2.0847337860863777,
+        "trend": 100.0,
+        "atr": 25.642857142857142,
+        "atr_pct": 3.867700926524456,
+        "news": 0,
+        "stable": 87.28132387706856,
+        "growth": 87.5531914893617,
+        "strong": 88.62884160756502,
+        "overall": 87.82111899133174,
+        "entry_low": 659.685,
+        "entry_high": 666.3149999999999,
+        "fixed_stop": 629.85,
+        "fixed_target": 716.0400000000001,
+        "dynamic_stop": 624.5357142857143,
+        "dynamic_target": 739.9285714285713,
+        "risk_flags": [
+          "短線漲幅偏大"
+        ]
+      },
+      {
+        "code": "2368",
+        "name": "金像電",
+        "price": 1260.0,
+        "avg_value": 10300763005.3,
+        "revenue": 76.38825024031777,
+        "eps": 16.17,
+        "foreign": 0,
+        "momentum": 12.5,
+        "volume_ratio": 2.6628761428533747,
+        "trend": 100.0,
+        "atr": 72.0,
+        "atr_pct": 5.714285714285714,
+        "news": 0,
+        "stable": 87.30496453900709,
+        "growth": 86.37115839243499,
+        "strong": 87.70685579196217,
+        "overall": 87.12765957446807,
+        "entry_low": 1253.7,
+        "entry_high": 1266.3,
+        "fixed_stop": 1197.0,
+        "fixed_target": 1360.8000000000002,
+        "dynamic_stop": 1152.0,
+        "dynamic_target": 1476.0,
+        "risk_flags": [
+          "波動偏高"
+        ]
+      }
+    ],
+    "message": [
+      {
+        "code": "3661",
+        "name": "世芯-KY",
+        "original_score": 91.1150512214342,
+        "message_score": 50.0,
+        "score": 87.00354609929079,
+        "evidence_status": "未知／未達門檻",
+        "contributions": [
+          {
+            "category": "訂單",
+            "points": 0.0
+          },
+          {
+            "category": "新聞話題",
+            "points": 0.0
+          },
+          {
+            "category": "龍頭地位",
+            "points": 0.0
+          },
+          {
+            "category": "專利技術",
+            "points": 0.0
+          }
+        ],
+        "events": []
+      },
+      {
+        "code": "2059",
+        "name": "川湖",
+        "original_score": 90.74468085106382,
+        "message_score": 50.0,
+        "score": 86.67021276595744,
+        "evidence_status": "未知／未達門檻",
+        "contributions": [
+          {
+            "category": "訂單",
+            "points": 0.0
+          },
+          {
+            "category": "新聞話題",
+            "points": 0.0
+          },
+          {
+            "category": "龍頭地位",
+            "points": 0.0
+          },
+          {
+            "category": "專利技術",
+            "points": 0.0
+          }
+        ],
+        "events": [
+          {
+            "id": "5484f11ae67beaeb47d38a5f",
+            "code": "2059",
+            "title": "川湖9月營收44.6億元月減3成　終止連6月創高",
+            "published_at": "2026-10-06T16:24:22+08:00",
+            "first_seen_at": "2026-10-06T21:39:32.213635+08:00",
+            "source": "中央通訊社・產經",
+            "url": "https://www.cna.com.tw/news/afe/202610060202.aspx",
+            "official": false,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+          }
+        ]
+      },
+      {
+        "code": "6691",
+        "name": "洋基工程",
+        "original_score": 89.53112687155242,
+        "message_score": 50.0,
+        "score": 85.57801418439718,
+        "evidence_status": "未知／未達門檻",
+        "contributions": [
+          {
+            "category": "訂單",
+            "points": 0.0
+          },
+          {
+            "category": "新聞話題",
+            "points": 0.0
+          },
+          {
+            "category": "龍頭地位",
+            "points": 0.0
+          },
+          {
+            "category": "專利技術",
+            "points": 0.0
+          }
+        ],
+        "events": [
+          {
+            "id": "76b1af1b04e0f68e2c91aacd",
+            "code": "6691",
+            "title": "澄清115年9月25日經濟日報報導",
+            "published_at": "2026-09-29T10:49:07+08:00",
+            "first_seen_at": "2026-09-30T09:25:00.215253+08:00",
+            "source": "證交所・公司重大訊息",
+            "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+            "official": true,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "含推測、否認或澄清語句，僅列入觀察"
+          },
+          {
+            "id": "8581dbb3e1da335d4a7d825b",
+            "code": "6691",
+            "title": "洋基工程：搶下美光台南工程　在手訂單逾553億元",
+            "published_at": "2026-09-24T19:21:47+08:00",
+            "first_seen_at": "2026-09-25T08:39:13.628762+08:00",
+            "source": "中央通訊社・產經",
+            "url": "https://www.cna.com.tw/news/afe/202609240321.aspx",
+            "official": false,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+          }
+        ]
+      },
+      {
+        "code": "6196",
+        "name": "帆宣",
+        "original_score": 87.82111899133174,
+        "message_score": 50.0,
+        "score": 84.03900709219857,
+        "evidence_status": "未知／未達門檻",
+        "contributions": [
+          {
+            "category": "訂單",
+            "points": 0.0
+          },
+          {
+            "category": "新聞話題",
+            "points": 0.0
+          },
+          {
+            "category": "龍頭地位",
+            "points": 0.0
+          },
+          {
+            "category": "專利技術",
+            "points": 0.0
+          }
+        ],
+        "events": []
+      },
+      {
+        "code": "2368",
+        "name": "金像電",
+        "original_score": 87.12765957446807,
+        "message_score": 50.0,
+        "score": 83.41489361702126,
+        "evidence_status": "未知／未達門檻",
+        "contributions": [
+          {
+            "category": "訂單",
+            "points": 0.0
+          },
+          {
+            "category": "新聞話題",
+            "points": 0.0
+          },
+          {
+            "category": "龍頭地位",
+            "points": 0.0
+          },
+          {
+            "category": "專利技術",
+            "points": 0.0
+          }
+        ],
+        "events": [
+          {
+            "id": "4de34cb8c306423edf4d8ec0",
+            "code": "2368",
+            "title": "公告本公司115年第一次私募普通股收足股款暨增資基準日",
+            "published_at": "2026-09-30T17:02:56+08:00",
+            "first_seen_at": "2026-10-01T09:29:39.179188+08:00",
+            "source": "證交所・公司重大訊息",
+            "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+            "official": true,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+          },
+          {
+            "id": "05f6112f49a3fb23799d0b73",
+            "code": "2368",
+            "title": "澄清媒體報導",
+            "published_at": "2026-09-30T10:33:31+08:00",
+            "first_seen_at": "2026-10-01T09:29:39.179188+08:00",
+            "source": "證交所・公司重大訊息",
+            "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+            "official": true,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "含推測、否認或澄清語句，僅列入觀察"
+          },
+          {
+            "id": "c8e4523ea89e93d9dd719bd1",
+            "code": "2368",
+            "title": "亞馬遜首度參與金像電私募　斥資近16億",
+            "published_at": "2026-09-29T19:18:20+08:00",
+            "first_seen_at": "2026-09-29T21:22:28.159075+08:00",
+            "source": "中央通訊社・產經",
+            "url": "https://www.cna.com.tw/news/afe/202609290305.aspx",
+            "official": false,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+          },
+          {
+            "id": "89b02819f20f65dc60f33193",
+            "code": "2368",
+            "title": "本公司依公開發行公司資金貸與及背書保證處理準則\r\n第二十五條第一項第四款規定公告",
+            "published_at": "2026-09-29T15:25:16+08:00",
+            "first_seen_at": "2026-09-30T09:25:00.215253+08:00",
+            "source": "證交所・公司重大訊息",
+            "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+            "official": true,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+          },
+          {
+            "id": "0dcec52bfc6d88bd767f3443",
+            "code": "2368",
+            "title": "本公司董事會核准土地及資本支出預算案",
+            "published_at": "2026-09-29T15:24:57+08:00",
+            "first_seen_at": "2026-09-30T09:25:00.215253+08:00",
+            "source": "證交所・公司重大訊息",
+            "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+            "official": true,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+          },
+          {
+            "id": "2fed984b4ddae6ae9a5dfd61",
+            "code": "2368",
+            "title": "公告本公司董事會決議115年第1次私募普通股定價及應募人資訊",
+            "published_at": "2026-09-29T15:24:40+08:00",
+            "first_seen_at": "2026-09-30T09:25:00.215253+08:00",
+            "source": "證交所・公司重大訊息",
+            "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+            "official": true,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+          }
+        ]
+      }
+    ]
   }
 ]
