@@ -1116,7 +1116,7 @@
     "name": "世芯-KY",
     "entry_price": 4180.0,
     "latest_price": 4180.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-10-06"
@@ -1127,7 +1127,7 @@
     "name": "川湖",
     "entry_price": 13100.0,
     "latest_price": 13100.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-10-06"
@@ -1138,7 +1138,7 @@
     "name": "洋基工程",
     "entry_price": 787.0,
     "latest_price": 787.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-10-06"
@@ -1149,7 +1149,7 @@
     "name": "帆宣",
     "entry_price": 663.0,
     "latest_price": 663.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-10-06"
@@ -1160,7 +1160,7 @@
     "name": "金像電",
     "entry_price": 1260.0,
     "latest_price": 1260.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-10-06"

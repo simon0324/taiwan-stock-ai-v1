@@ -2299,27 +2299,82 @@
       {
         "code": "6196",
         "name": "帆宣",
-        "predicted_up_probability": 54.17733333333334
+        "predicted_up_probability": 54.17733333333334,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "6213",
         "name": "聯茂",
-        "predicted_up_probability": 53.856
+        "predicted_up_probability": 53.856,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "2305",
         "name": "全友",
-        "predicted_up_probability": 53.534666666666666
+        "predicted_up_probability": 53.534666666666666,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "7788",
         "name": "松川精密",
-        "predicted_up_probability": 52.892
+        "predicted_up_probability": 52.892,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "8046",
         "name": "南電",
-        "predicted_up_probability": 52.57066666666667
+        "predicted_up_probability": 52.57066666666667,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       }
     ]
   }
