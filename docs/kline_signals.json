@@ -2461,27 +2461,82 @@
       {
         "code": "3563",
         "name": "牧德",
-        "predicted_up_probability": 54.35933333333333
+        "predicted_up_probability": 54.35933333333333,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "4958",
         "name": "臻鼎-KY",
-        "predicted_up_probability": 54.024
+        "predicted_up_probability": 54.024,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "6491",
         "name": "晶碩",
-        "predicted_up_probability": 53.018
+        "predicted_up_probability": 53.018,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "4576",
         "name": "大銀微系統",
-        "predicted_up_probability": 52.012
+        "predicted_up_probability": 52.012,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "8422",
         "name": "可寧衛*",
-        "predicted_up_probability": 52.012
+        "predicted_up_probability": 52.012,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       }
     ]
   }
