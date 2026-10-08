@@ -6697,5 +6697,363 @@
         "events": []
       }
     ]
+  },
+  {
+    "market_date": "2026-10-08",
+    "observed_at": "2026-10-08T22:06:21.365547+08:00",
+    "rules_version": "events-1",
+    "sources": [
+      {
+        "source": "證交所・公司重大訊息",
+        "status": "ok",
+        "invalid_rows": 0
+      },
+      {
+        "source": "中央通訊社・產經",
+        "status": "ok",
+        "invalid_rows": 0
+      },
+      {
+        "source": "中央通訊社・科技",
+        "status": "ok",
+        "invalid_rows": 0
+      }
+    ],
+    "original": [
+      {
+        "code": "3661",
+        "name": "世芯-KY",
+        "price": 4345.0,
+        "avg_value": 10387511871.4,
+        "revenue": 273.61017160561573,
+        "eps": 37.57,
+        "foreign": 0,
+        "momentum": 15.4050464807437,
+        "volume_ratio": 2.0535103058443087,
+        "trend": 100.0,
+        "atr": 181.78571428571428,
+        "atr_pct": 4.183790892651651,
+        "news": 0,
+        "stable": 92.51789976133652,
+        "growth": 93.04295942720763,
+        "strong": 91.39618138424821,
+        "overall": 92.31901352426412,
+        "entry_low": 4323.275,
+        "entry_high": 4366.724999999999,
+        "fixed_stop": 4127.75,
+        "fixed_target": 4692.6,
+        "dynamic_stop": 4072.3214285714284,
+        "dynamic_target": 4890.357142857143,
+        "risk_flags": [
+          "短線漲幅偏大"
+        ]
+      },
+      {
+        "code": "6442",
+        "name": "光聖",
+        "price": 1785.0,
+        "avg_value": 3789062251.5,
+        "revenue": 152.24399939889415,
+        "eps": 19.07,
+        "foreign": 0,
+        "momentum": 20.608108108108112,
+        "volume_ratio": 1.7154724991458747,
+        "trend": 100.0,
+        "atr": 86.78571428571429,
+        "atr_pct": 4.861944777911164,
+        "news": 0,
+        "stable": 90.09546539379475,
+        "growth": 91.12171837708831,
+        "strong": 89.96420047732698,
+        "overall": 90.39379474940336,
+        "entry_low": 1776.075,
+        "entry_high": 1793.9249999999997,
+        "fixed_stop": 1695.75,
+        "fixed_target": 1927.8000000000002,
+        "dynamic_stop": 1654.8214285714284,
+        "dynamic_target": 2045.3571428571431,
+        "risk_flags": [
+          "波動偏高",
+          "短線漲幅偏大"
+        ]
+      },
+      {
+        "code": "2408",
+        "name": "南亞科",
+        "price": 532.0,
+        "avg_value": 22051025879.95,
+        "revenue": 560.8541425724004,
+        "eps": 23.38,
+        "foreign": 0,
+        "momentum": 2.5048169556840083,
+        "volume_ratio": 1.5544583077727412,
+        "trend": 100.0,
+        "atr": 20.357142857142858,
+        "atr_pct": 3.826530612244898,
+        "news": 0,
+        "stable": 91.42004773269689,
+        "growth": 89.74940334128878,
+        "strong": 84.26014319809069,
+        "overall": 88.47653142402545,
+        "entry_low": 529.34,
+        "entry_high": 534.66,
+        "fixed_stop": 505.4,
+        "fixed_target": 574.5600000000001,
+        "dynamic_stop": 501.4642857142857,
+        "dynamic_target": 593.0714285714286,
+        "risk_flags": [
+          "一般"
+        ]
+      },
+      {
+        "code": "2383",
+        "name": "台光電",
+        "price": 6000.0,
+        "avg_value": 12137934767.5,
+        "revenue": 129.84671742960728,
+        "eps": 42.46,
+        "foreign": 0,
+        "momentum": 20.603015075376874,
+        "volume_ratio": 0.9085744919744231,
+        "trend": 100.0,
+        "atr": 286.7857142857143,
+        "atr_pct": 4.779761904761905,
+        "news": 0,
+        "stable": 88.22195704057279,
+        "growth": 92.18377088305489,
+        "strong": 84.30787589498806,
+        "overall": 88.23786793953859,
+        "entry_low": 5970.0,
+        "entry_high": 6029.999999999999,
+        "fixed_stop": 5700.0,
+        "fixed_target": 6480.0,
+        "dynamic_stop": 5569.821428571428,
+        "dynamic_target": 6860.357142857143,
+        "risk_flags": [
+          "波動偏高",
+          "短線漲幅偏大"
+        ]
+      },
+      {
+        "code": "6691",
+        "name": "洋基工程",
+        "price": 789.0,
+        "avg_value": 621289108.05,
+        "revenue": 213.69818881487726,
+        "eps": 17.46,
+        "foreign": 0,
+        "momentum": 7.639836289222379,
+        "volume_ratio": 1.1098459236863167,
+        "trend": 100.0,
+        "atr": 29.071428571428573,
+        "atr_pct": 3.6845917074053958,
+        "news": 0,
+        "stable": 88.86634844868735,
+        "growth": 90.34606205250597,
+        "strong": 84.78520286396181,
+        "overall": 87.99920445505171,
+        "entry_low": 785.055,
+        "entry_high": 792.9449999999999,
+        "fixed_stop": 749.55,
+        "fixed_target": 852.12,
+        "dynamic_stop": 745.3928571428571,
+        "dynamic_target": 876.2142857142858,
+        "risk_flags": [
+          "一般"
+        ]
+      }
+    ],
+    "message": [
+      {
+        "code": "3661",
+        "name": "世芯-KY",
+        "original_score": 92.31901352426412,
+        "message_score": 50.0,
+        "score": 88.08711217183772,
+        "evidence_status": "未知／未達門檻",
+        "contributions": [
+          {
+            "category": "訂單",
+            "points": 0.0
+          },
+          {
+            "category": "新聞話題",
+            "points": 0.0
+          },
+          {
+            "category": "龍頭地位",
+            "points": 0.0
+          },
+          {
+            "category": "專利技術",
+            "points": 0.0
+          }
+        ],
+        "events": []
+      },
+      {
+        "code": "6442",
+        "name": "光聖",
+        "original_score": 90.39379474940336,
+        "message_score": 50.0,
+        "score": 86.35441527446302,
+        "evidence_status": "未知／未達門檻",
+        "contributions": [
+          {
+            "category": "訂單",
+            "points": 0.0
+          },
+          {
+            "category": "新聞話題",
+            "points": 0.0
+          },
+          {
+            "category": "龍頭地位",
+            "points": 0.0
+          },
+          {
+            "category": "專利技術",
+            "points": 0.0
+          }
+        ],
+        "events": []
+      },
+      {
+        "code": "2408",
+        "name": "南亞科",
+        "original_score": 88.47653142402545,
+        "message_score": 50.0,
+        "score": 84.6288782816229,
+        "evidence_status": "未知／未達門檻",
+        "contributions": [
+          {
+            "category": "訂單",
+            "points": 0.0
+          },
+          {
+            "category": "新聞話題",
+            "points": 0.0
+          },
+          {
+            "category": "龍頭地位",
+            "points": 0.0
+          },
+          {
+            "category": "專利技術",
+            "points": 0.0
+          }
+        ],
+        "events": [
+          {
+            "id": "e3fecd1acc6e853ac3e553e1",
+            "code": "2408",
+            "title": "科學園區審議會通過13件投資案　南亞科將進駐南科屏東園區",
+            "published_at": "2026-10-01T16:44:56+08:00",
+            "first_seen_at": "2026-10-01T21:57:57.311858+08:00",
+            "source": "中央通訊社・產經",
+            "url": "https://www.cna.com.tw/news/afe/202610010250.aspx",
+            "official": false,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+          },
+          {
+            "id": "109ffa1ac79120c4e5907e7b",
+            "code": "2408",
+            "title": "公告本公司取得廠務設備及工程",
+            "published_at": "2026-09-30T17:59:17+08:00",
+            "first_seen_at": "2026-10-01T09:29:39.179188+08:00",
+            "source": "證交所・公司重大訊息",
+            "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+            "official": true,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+          }
+        ]
+      },
+      {
+        "code": "2383",
+        "name": "台光電",
+        "original_score": 88.23786793953859,
+        "message_score": 50.0,
+        "score": 84.41408114558473,
+        "evidence_status": "未知／未達門檻",
+        "contributions": [
+          {
+            "category": "訂單",
+            "points": 0.0
+          },
+          {
+            "category": "新聞話題",
+            "points": 0.0
+          },
+          {
+            "category": "龍頭地位",
+            "points": 0.0
+          },
+          {
+            "category": "專利技術",
+            "points": 0.0
+          }
+        ],
+        "events": [
+          {
+            "id": "cb466d6631ceed489e1cb0bf",
+            "code": "2383",
+            "title": "公告本公司115年第三季財務報告董事會預計召開日期為\r\n115年10月28日",
+            "published_at": "2026-09-29T15:52:02+08:00",
+            "first_seen_at": "2026-09-30T09:25:00.215253+08:00",
+            "source": "證交所・公司重大訊息",
+            "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+            "official": true,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "含推測、否認或澄清語句，僅列入觀察"
+          }
+        ]
+      },
+      {
+        "code": "6691",
+        "name": "洋基工程",
+        "original_score": 87.99920445505171,
+        "message_score": 50.0,
+        "score": 84.19928400954655,
+        "evidence_status": "未知／未達門檻",
+        "contributions": [
+          {
+            "category": "訂單",
+            "points": 0.0
+          },
+          {
+            "category": "新聞話題",
+            "points": 0.0
+          },
+          {
+            "category": "龍頭地位",
+            "points": 0.0
+          },
+          {
+            "category": "專利技術",
+            "points": 0.0
+          }
+        ],
+        "events": [
+          {
+            "id": "76b1af1b04e0f68e2c91aacd",
+            "code": "6691",
+            "title": "澄清115年9月25日經濟日報報導",
+            "published_at": "2026-09-29T10:49:07+08:00",
+            "first_seen_at": "2026-09-30T09:25:00.215253+08:00",
+            "source": "證交所・公司重大訊息",
+            "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+            "official": true,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "含推測、否認或澄清語句，僅列入觀察"
+          }
+        ]
+      }
+    ]
   }
 ]

@@ -1,19 +1,19 @@
 {
-  "market_date": "2026-10-07",
+  "market_date": "2026-10-08",
   "rules_version": 2,
   "legacy_count": 20,
   "summary": {
     "revenue_only": {
-      "completed": 88,
-      "win_rate": 57.95454545454546,
-      "average_return": 2.1246408495254623,
-      "signals": 21
+      "completed": 91,
+      "win_rate": 58.24175824175825,
+      "average_return": 2.1556591534713694,
+      "signals": 22
     },
     "with_eps": {
-      "completed": 86,
-      "win_rate": 43.02325581395349,
-      "average_return": 0.12286193383160299,
-      "signals": 21
+      "completed": 88,
+      "win_rate": 42.04545454545455,
+      "average_return": 0.0502085669164067,
+      "signals": 22
     }
   },
   "records": [
@@ -3060,12 +3060,16 @@
       "code": "2030",
       "name": "彰源",
       "score": 93.47156398104265,
-      "status": "active",
-      "last_processed_date": "2026-10-07",
+      "status": "completed",
+      "last_processed_date": "2026-10-08",
       "entry_date": "2026-10-01",
       "entry_price": 37.65,
       "shares": 2656,
-      "held_days": 4
+      "held_days": 5,
+      "exit_date": "2026-10-08",
+      "exit_price": 35.7675,
+      "reason": "stop",
+      "return_pct": -5.5620089921438725
     },
     {
       "signal_date": "2026-09-30",
@@ -3092,12 +3096,16 @@
       "code": "2404",
       "name": "漢唐",
       "score": 91.80094786729858,
-      "status": "active",
-      "last_processed_date": "2026-10-07",
+      "status": "completed",
+      "last_processed_date": "2026-10-08",
       "entry_date": "2026-10-01",
       "entry_price": 1305.0,
       "shares": 76,
-      "held_days": 4
+      "held_days": 5,
+      "exit_date": "2026-10-08",
+      "exit_price": 1305.0,
+      "reason": "five_day_close",
+      "return_pct": -0.5847953216374269
     },
     {
       "signal_date": "2026-09-30",
@@ -3179,11 +3187,11 @@
       "name": "洋基工程",
       "score": 96.31516587677726,
       "status": "active",
-      "last_processed_date": "2026-10-07",
+      "last_processed_date": "2026-10-08",
       "entry_date": "2026-10-02",
       "entry_price": 741.0,
       "shares": 134,
-      "held_days": 3
+      "held_days": 4
     },
     {
       "signal_date": "2026-10-01",
@@ -3211,11 +3219,11 @@
       "name": "AMAX-KY",
       "score": 96.14928909952607,
       "status": "active",
-      "last_processed_date": "2026-10-07",
+      "last_processed_date": "2026-10-08",
       "entry_date": "2026-10-02",
       "entry_price": 379.0,
       "shares": 263,
-      "held_days": 3
+      "held_days": 4
     },
     {
       "signal_date": "2026-10-01",
@@ -3243,11 +3251,11 @@
       "name": "洋基工程",
       "score": 95.34597156398105,
       "status": "active",
-      "last_processed_date": "2026-10-07",
+      "last_processed_date": "2026-10-08",
       "entry_date": "2026-10-02",
       "entry_price": 741.0,
       "shares": 134,
-      "held_days": 3
+      "held_days": 4
     },
     {
       "signal_date": "2026-10-01",
@@ -3275,11 +3283,11 @@
       "name": "AMAX-KY",
       "score": 92.13270142180096,
       "status": "active",
-      "last_processed_date": "2026-10-07",
+      "last_processed_date": "2026-10-08",
       "entry_date": "2026-10-02",
       "entry_price": 379.0,
       "shares": 263,
-      "held_days": 3
+      "held_days": 4
     },
     {
       "signal_date": "2026-10-01",
@@ -3361,11 +3369,11 @@
       "name": "洋基工程",
       "score": 94.53791469194313,
       "status": "active",
-      "last_processed_date": "2026-10-07",
+      "last_processed_date": "2026-10-08",
       "entry_date": "2026-10-05",
       "entry_price": 794.0,
       "shares": 125,
-      "held_days": 2
+      "held_days": 3
     },
     {
       "signal_date": "2026-10-02",
@@ -3374,12 +3382,16 @@
       "code": "6834",
       "name": "天二科技",
       "score": 93.80331753554502,
-      "status": "active",
-      "last_processed_date": "2026-10-07",
+      "status": "completed",
+      "last_processed_date": "2026-10-08",
       "entry_date": "2026-10-05",
       "entry_price": 125.5,
       "shares": 796,
-      "held_days": 2
+      "held_days": 3,
+      "exit_date": "2026-10-08",
+      "exit_price": 135.54000000000002,
+      "reason": "target",
+      "return_pct": 7.37936695429339
     },
     {
       "signal_date": "2026-10-02",
@@ -3407,11 +3419,11 @@
       "name": "洋基工程",
       "score": 93.92417061611374,
       "status": "active",
-      "last_processed_date": "2026-10-07",
+      "last_processed_date": "2026-10-08",
       "entry_date": "2026-10-05",
       "entry_price": 794.0,
       "shares": 125,
-      "held_days": 2
+      "held_days": 3
     },
     {
       "signal_date": "2026-10-02",
@@ -3439,11 +3451,11 @@
       "name": "大量",
       "score": 89.24170616113744,
       "status": "active",
-      "last_processed_date": "2026-10-07",
+      "last_processed_date": "2026-10-08",
       "entry_date": "2026-10-05",
       "entry_price": 996.0,
       "shares": 100,
-      "held_days": 2
+      "held_days": 3
     },
     {
       "signal_date": "2026-10-02",
@@ -3453,11 +3465,11 @@
       "name": "帆宣",
       "score": 88.31279620853081,
       "status": "active",
-      "last_processed_date": "2026-10-07",
+      "last_processed_date": "2026-10-08",
       "entry_date": "2026-10-05",
       "entry_price": 679.0,
       "shares": 147,
-      "held_days": 2
+      "held_days": 3
     },
     {
       "signal_date": "2026-10-02",
@@ -3503,11 +3515,11 @@
       "name": "洋基工程",
       "score": 96.34117647058824,
       "status": "active",
-      "last_processed_date": "2026-10-07",
+      "last_processed_date": "2026-10-08",
       "entry_date": "2026-10-06",
       "entry_price": 787.0,
       "shares": 127,
-      "held_days": 1
+      "held_days": 2
     },
     {
       "signal_date": "2026-10-05",
@@ -3552,12 +3564,16 @@
       "code": "6658",
       "name": "聯策",
       "score": 93.29411764705881,
-      "status": "active",
-      "last_processed_date": "2026-10-07",
+      "status": "completed",
+      "last_processed_date": "2026-10-08",
       "entry_date": "2026-10-06",
       "entry_price": 203.0,
       "shares": 492,
-      "held_days": 1
+      "held_days": 2,
+      "exit_date": "2026-10-08",
+      "exit_price": 219.24,
+      "reason": "target",
+      "return_pct": 7.379230245504427
     },
     {
       "signal_date": "2026-10-05",
@@ -3567,11 +3583,11 @@
       "name": "洋基工程",
       "score": 95.42588235294119,
       "status": "active",
-      "last_processed_date": "2026-10-07",
+      "last_processed_date": "2026-10-08",
       "entry_date": "2026-10-06",
       "entry_price": 787.0,
       "shares": 127,
-      "held_days": 1
+      "held_days": 2
     },
     {
       "signal_date": "2026-10-05",
@@ -3581,11 +3597,11 @@
       "name": "帆宣",
       "score": 91.91529411764705,
       "status": "active",
-      "last_processed_date": "2026-10-07",
+      "last_processed_date": "2026-10-08",
       "entry_date": "2026-10-06",
       "entry_price": 663.0,
       "shares": 150,
-      "held_days": 1
+      "held_days": 2
     },
     {
       "signal_date": "2026-10-05",
@@ -3631,11 +3647,11 @@
       "name": "欣興",
       "score": 87.44470588235293,
       "status": "active",
-      "last_processed_date": "2026-10-07",
+      "last_processed_date": "2026-10-08",
       "entry_date": "2026-10-06",
       "entry_price": 1310.0,
       "shares": 76,
-      "held_days": 1
+      "held_days": 2
     },
     {
       "signal_date": "2026-10-06",
@@ -3645,11 +3661,11 @@
       "name": "榮科",
       "score": 95.09456264775415,
       "status": "active",
-      "last_processed_date": "2026-10-07",
+      "last_processed_date": "2026-10-08",
       "entry_date": "2026-10-07",
       "entry_price": 73.7,
       "shares": 1356,
-      "held_days": 0
+      "held_days": 1
     },
     {
       "signal_date": "2026-10-06",
@@ -3659,11 +3675,11 @@
       "name": "聯茂",
       "score": 94.79905437352247,
       "status": "active",
-      "last_processed_date": "2026-10-07",
+      "last_processed_date": "2026-10-08",
       "entry_date": "2026-10-07",
       "entry_price": 796.0,
       "shares": 125,
-      "held_days": 0
+      "held_days": 1
     },
     {
       "signal_date": "2026-10-06",
@@ -3673,11 +3689,11 @@
       "name": "和益",
       "score": 94.72813238770686,
       "status": "active",
-      "last_processed_date": "2026-10-07",
+      "last_processed_date": "2026-10-08",
       "entry_date": "2026-10-07",
       "entry_price": 60.2,
       "shares": 1661,
-      "held_days": 0
+      "held_days": 1
     },
     {
       "signal_date": "2026-10-06",
@@ -3687,11 +3703,11 @@
       "name": "閎暉",
       "score": 94.64539007092198,
       "status": "active",
-      "last_processed_date": "2026-10-07",
+      "last_processed_date": "2026-10-08",
       "entry_date": "2026-10-07",
       "entry_price": 47.35,
       "shares": 2111,
-      "held_days": 0
+      "held_days": 1
     },
     {
       "signal_date": "2026-10-06",
@@ -3701,11 +3717,11 @@
       "name": "世芯-KY",
       "score": 94.23167848699764,
       "status": "active",
-      "last_processed_date": "2026-10-07",
+      "last_processed_date": "2026-10-08",
       "entry_date": "2026-10-07",
       "entry_price": 4190.0,
       "shares": 23,
-      "held_days": 0
+      "held_days": 1
     },
     {
       "signal_date": "2026-10-06",
@@ -3715,11 +3731,11 @@
       "name": "世芯-KY",
       "score": 94.72340425531915,
       "status": "active",
-      "last_processed_date": "2026-10-07",
+      "last_processed_date": "2026-10-08",
       "entry_date": "2026-10-07",
       "entry_price": 4190.0,
       "shares": 23,
-      "held_days": 0
+      "held_days": 1
     },
     {
       "signal_date": "2026-10-06",
@@ -3729,11 +3745,11 @@
       "name": "洋基工程",
       "score": 93.68321513002364,
       "status": "active",
-      "last_processed_date": "2026-10-07",
+      "last_processed_date": "2026-10-08",
       "entry_date": "2026-10-07",
       "entry_price": 776.0,
       "shares": 128,
-      "held_days": 0
+      "held_days": 1
     },
     {
       "signal_date": "2026-10-06",
@@ -3743,11 +3759,11 @@
       "name": "帆宣",
       "score": 92.7470449172577,
       "status": "active",
-      "last_processed_date": "2026-10-07",
+      "last_processed_date": "2026-10-08",
       "entry_date": "2026-10-07",
       "entry_price": 670.0,
       "shares": 149,
-      "held_days": 0
+      "held_days": 1
     },
     {
       "signal_date": "2026-10-06",
@@ -3756,12 +3772,16 @@
       "code": "2059",
       "name": "川湖",
       "score": 92.71867612293144,
-      "status": "active",
-      "last_processed_date": "2026-10-07",
+      "status": "completed",
+      "last_processed_date": "2026-10-08",
       "entry_date": "2026-10-07",
       "entry_price": 11790.0,
       "shares": 8,
-      "held_days": 0
+      "held_days": 1,
+      "exit_date": "2026-10-08",
+      "exit_price": 11200.5,
+      "reason": "stop",
+      "return_pct": -5.562977099236641
     },
     {
       "signal_date": "2026-10-06",
@@ -3771,11 +3791,11 @@
       "name": "金像電",
       "score": 91.21513002364065,
       "status": "active",
-      "last_processed_date": "2026-10-07",
+      "last_processed_date": "2026-10-08",
       "entry_date": "2026-10-07",
       "entry_price": 1245.0,
       "shares": 80,
-      "held_days": 0
+      "held_days": 1
     },
     {
       "signal_date": "2026-10-07",
@@ -3784,7 +3804,12 @@
       "code": "6152",
       "name": "百一",
       "score": 97.83687943262412,
-      "status": "waiting_entry"
+      "status": "active",
+      "last_processed_date": "2026-10-08",
+      "entry_date": "2026-10-08",
+      "entry_price": 21.0,
+      "shares": 4761,
+      "held_days": 0
     },
     {
       "signal_date": "2026-10-07",
@@ -3793,7 +3818,12 @@
       "code": "4989",
       "name": "榮科",
       "score": 95.74468085106382,
-      "status": "waiting_entry"
+      "status": "active",
+      "last_processed_date": "2026-10-08",
+      "entry_date": "2026-10-08",
+      "entry_price": 73.2,
+      "shares": 1366,
+      "held_days": 0
     },
     {
       "signal_date": "2026-10-07",
@@ -3802,7 +3832,12 @@
       "code": "6834",
       "name": "天二科技",
       "score": 94.86997635933805,
-      "status": "waiting_entry"
+      "status": "active",
+      "last_processed_date": "2026-10-08",
+      "entry_date": "2026-10-08",
+      "entry_price": 132.0,
+      "shares": 757,
+      "held_days": 0
     },
     {
       "signal_date": "2026-10-07",
@@ -3811,7 +3846,12 @@
       "code": "2466",
       "name": "冠西電",
       "score": 93.93617021276596,
-      "status": "waiting_entry"
+      "status": "active",
+      "last_processed_date": "2026-10-08",
+      "entry_date": "2026-10-08",
+      "entry_price": 198.5,
+      "shares": 503,
+      "held_days": 0
     },
     {
       "signal_date": "2026-10-07",
@@ -3820,7 +3860,12 @@
       "code": "2383",
       "name": "台光電",
       "score": 93.69976359338061,
-      "status": "waiting_entry"
+      "status": "active",
+      "last_processed_date": "2026-10-08",
+      "entry_date": "2026-10-08",
+      "entry_price": 6000.0,
+      "shares": 16,
+      "held_days": 0
     },
     {
       "signal_date": "2026-10-07",
@@ -3829,7 +3874,12 @@
       "code": "2383",
       "name": "台光電",
       "score": 94.4869976359338,
-      "status": "waiting_entry"
+      "status": "active",
+      "last_processed_date": "2026-10-08",
+      "entry_date": "2026-10-08",
+      "entry_price": 6000.0,
+      "shares": 16,
+      "held_days": 0
     },
     {
       "signal_date": "2026-10-07",
@@ -3838,7 +3888,12 @@
       "code": "3661",
       "name": "世芯-KY",
       "score": 93.7304964539007,
-      "status": "waiting_entry"
+      "status": "active",
+      "last_processed_date": "2026-10-08",
+      "entry_date": "2026-10-08",
+      "entry_price": 4345.0,
+      "shares": 23,
+      "held_days": 0
     },
     {
       "signal_date": "2026-10-07",
@@ -3847,7 +3902,12 @@
       "code": "2345",
       "name": "智邦",
       "score": 89.13475177304964,
-      "status": "waiting_entry"
+      "status": "active",
+      "last_processed_date": "2026-10-08",
+      "entry_date": "2026-10-08",
+      "entry_price": 2070.0,
+      "shares": 48,
+      "held_days": 0
     },
     {
       "signal_date": "2026-10-07",
@@ -3856,7 +3916,12 @@
       "code": "2327",
       "name": "國巨*",
       "score": 88.9645390070922,
-      "status": "waiting_entry"
+      "status": "active",
+      "last_processed_date": "2026-10-08",
+      "entry_date": "2026-10-08",
+      "entry_price": 635.0,
+      "shares": 157,
+      "held_days": 0
     },
     {
       "signal_date": "2026-10-07",
@@ -3865,6 +3930,101 @@
       "code": "6944",
       "name": "兆聯實業",
       "score": 88.5579196217494,
+      "status": "active",
+      "last_processed_date": "2026-10-08",
+      "entry_date": "2026-10-08",
+      "entry_price": 860.0,
+      "shares": 116,
+      "held_days": 0
+    },
+    {
+      "signal_date": "2026-10-08",
+      "variant": "revenue_only",
+      "rank": 1,
+      "code": "6152",
+      "name": "百一",
+      "score": 97.60143198090692,
+      "status": "waiting_entry"
+    },
+    {
+      "signal_date": "2026-10-08",
+      "variant": "revenue_only",
+      "rank": 2,
+      "code": "3661",
+      "name": "世芯-KY",
+      "score": 96.6109785202864,
+      "status": "waiting_entry"
+    },
+    {
+      "signal_date": "2026-10-08",
+      "variant": "revenue_only",
+      "rank": 3,
+      "code": "6658",
+      "name": "聯策",
+      "score": 96.12171837708831,
+      "status": "waiting_entry"
+    },
+    {
+      "signal_date": "2026-10-08",
+      "variant": "revenue_only",
+      "rank": 4,
+      "code": "4989",
+      "name": "榮科",
+      "score": 95.88305489260144,
+      "status": "waiting_entry"
+    },
+    {
+      "signal_date": "2026-10-08",
+      "variant": "revenue_only",
+      "rank": 5,
+      "code": "6442",
+      "name": "光聖",
+      "score": 95.73985680190931,
+      "status": "waiting_entry"
+    },
+    {
+      "signal_date": "2026-10-08",
+      "variant": "with_eps",
+      "rank": 1,
+      "code": "3661",
+      "name": "世芯-KY",
+      "score": 96.62052505966587,
+      "status": "waiting_entry"
+    },
+    {
+      "signal_date": "2026-10-08",
+      "variant": "with_eps",
+      "rank": 2,
+      "code": "6442",
+      "name": "光聖",
+      "score": 95.01670644391409,
+      "status": "waiting_entry"
+    },
+    {
+      "signal_date": "2026-10-08",
+      "variant": "with_eps",
+      "rank": 3,
+      "code": "2383",
+      "name": "台光電",
+      "score": 92.25775656324582,
+      "status": "waiting_entry"
+    },
+    {
+      "signal_date": "2026-10-08",
+      "variant": "with_eps",
+      "rank": 4,
+      "code": "6691",
+      "name": "洋基工程",
+      "score": 90.61575178997614,
+      "status": "waiting_entry"
+    },
+    {
+      "signal_date": "2026-10-08",
+      "variant": "with_eps",
+      "rank": 5,
+      "code": "2368",
+      "name": "金像電",
+      "score": 90.37708830548927,
       "status": "waiting_entry"
     }
   ]
