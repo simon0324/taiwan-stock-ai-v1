@@ -1,7 +1,7 @@
 {
   "rules_version": "events-1",
   "market_date": "2026-10-08",
-  "as_of": "2026-10-09T10:21:58.383679+08:00",
+  "as_of": "2026-10-09T21:50:43.975766+08:00",
   "sources": [
     {
       "source": "證交所・公司重大訊息",
@@ -1702,6 +1702,32 @@
         }
       ],
       "events": [
+        {
+          "id": "da08f605c9888849b8696ca9",
+          "code": "2330",
+          "title": "法人：台積電法說會15日登場　有助支撐台股高檔整理",
+          "published_at": "2026-10-09T14:40:57+08:00",
+          "first_seen_at": "2026-10-09T21:50:43.975766+08:00",
+          "source": "中央通訊社・產經",
+          "url": "https://www.cna.com.tw/news/afe/202610090133.aspx",
+          "official": false,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
+        {
+          "id": "07718920640e859dd6a4f3fe",
+          "code": "2330",
+          "title": "赴德州設廠、結盟馬斯克？台積電15日法說聚焦營運擴產",
+          "published_at": "2026-10-09T11:44:14+08:00",
+          "first_seen_at": "2026-10-09T21:50:43.975766+08:00",
+          "source": "中央通訊社・產經",
+          "url": "https://www.cna.com.tw/news/afe/202610090086.aspx",
+          "official": false,
+          "category": "待查證",
+          "direction": 0,
+          "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+        },
         {
           "id": "2c34c032682d763088adf52f",
           "code": "2330",

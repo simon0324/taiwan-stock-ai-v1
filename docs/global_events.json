@@ -1,6 +1,6 @@
 {
   "rules_version": "global-rules-1",
-  "as_of": "2026-10-09T10:22:02.475246+08:00",
+  "as_of": "2026-10-09T21:51:01.420893+08:00",
   "sources": [
     {
       "source": "中央通訊社・國際",
@@ -14,6 +14,27 @@
     }
   ],
   "events": [
+    {
+      "id": "410bb52b1d38c4ceff703219",
+      "title": "川普排除選前攻擊伊朗　亞股多收紅油價回落",
+      "url": "https://www.cna.com.tw/news/afe/202610090172.aspx",
+      "source": "中央通訊社・產經",
+      "published_at": "2026-10-09T16:40:21+08:00",
+      "first_seen_at": "2026-10-09T21:51:01.420893+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "能源供應",
+          "industry": "能源、石化、航空與運輸",
+          "possible_benefit": "若能源售價上升且成本可控，部分上游企業可能受益。",
+          "possible_risk": "若燃料成本提高，未避險的用能企業可能承壓。",
+          "verify_next": "核對價格方向、持續性、庫存、避險與成本轉嫁，油價下跌時可能相反。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
     {
       "id": "98fca74e32c06a7bf2892850",
       "title": "中東緊張及颶風影響　國際油價大漲",

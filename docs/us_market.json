@@ -1,6 +1,6 @@
 {
   "rules_version": "us-overnight-1",
-  "as_of": "2026-10-09T10:22:05.099482+08:00",
+  "as_of": "2026-10-09T21:51:03.978416+08:00",
   "market_date": "2026-10-08",
   "us_market_date": "2026-10-08",
   "source_status": "正常",
@@ -27,9 +27,9 @@
     "sox": {
       "symbol": "^SOX",
       "date": "2026-10-08",
-      "close": 12623.71484375,
-      "return_1d": -3.386120116851321,
-      "return_5d": -1.6001649095798598,
+      "close": 12623.7099609375,
+      "return_1d": -3.386157486790853,
+      "return_5d": -1.6002029703211518,
       "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5ESOX?range=10d&interval=1d",
       "name": "費城半導體"
     },

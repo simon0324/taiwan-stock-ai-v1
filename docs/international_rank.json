@@ -1,7 +1,7 @@
 {
   "rules_version": "international-1",
   "market_date": "2026-10-08",
-  "as_of": "2026-10-09T10:22:03.078976+08:00",
+  "as_of": "2026-10-09T21:51:02.092914+08:00",
   "source_status": "正常",
   "ranking": [
     {
@@ -3161,6 +3161,63 @@
       "events": []
     },
     {
+      "code": "2618",
+      "name": "長榮航",
+      "original_score": 47.08432776451869,
+      "event_score": 52.59149880583193,
+      "event_adjustment": 0.2591498805831929,
+      "weighted_score": 47.63504486865002,
+      "company_evidence": {
+        "factor": "fuel",
+        "name": "長榮航",
+        "url": "https://www.evaair.com/en-global/images/investor-conference-2024q2-en_tcm33-92897.pdf",
+        "evidence": "公司簡報第 7 頁列示燃油均價、耗用量、燃油成本及避險覆蓋。僅支持成本關聯，不代表目前避險比例。",
+        "risk": "歷史簡報只支持業務關聯；須再核對最新避險、需求與航空燃油價格。"
+      },
+      "events": [
+        {
+          "event_id": "410bb52b1d38c4ceff703219",
+          "title": "川普排除選前攻擊伊朗　亞股多收紅油價回落",
+          "url": "https://www.cna.com.tw/news/afe/202610090172.aspx",
+          "published_at": "2026-10-09T16:40:21+08:00",
+          "points": 23.784312075067177,
+          "inference": "成本降低／運價上升的條件式偏多推論"
+        },
+        {
+          "event_id": "98fca74e32c06a7bf2892850",
+          "title": "中東緊張及颶風影響　國際油價大漲",
+          "url": "https://www.cna.com.tw/news/afe/202610090008.aspx",
+          "published_at": "2026-10-09T04:41:21+08:00",
+          "points": -21.19281326923525,
+          "inference": "成本提高／運價下降的條件式偏空推論"
+        },
+        {
+          "event_id": "d5aa9b1b04259c204692c234",
+          "title": "中東局勢升溫　歐股收跌油價走高",
+          "url": "https://www.cna.com.tw/news/afe/202610080003.aspx",
+          "published_at": "2026-10-08T00:21:45+08:00",
+          "points": -16.13450354421968,
+          "inference": "成本提高／運價下降的條件式偏空推論"
+        },
+        {
+          "event_id": "6fae8e525fe1f981d142d564",
+          "title": "荷莫茲海峽局勢升溫　油價上漲亞股多收跌",
+          "url": "https://www.cna.com.tw/news/afe/202610070282.aspx",
+          "published_at": "2026-10-07T18:04:29+08:00",
+          "points": -15.186810816457694,
+          "inference": "成本提高／運價下降的條件式偏空推論"
+        },
+        {
+          "event_id": "fb2f5b27af36248cd9cf80f8",
+          "title": "國際油價回落　歐洲股市多收漲",
+          "url": "https://www.cna.com.tw/news/afe/202610060003.aspx",
+          "published_at": "2026-10-06T01:20:01+08:00",
+          "points": 10.25956935175261,
+          "inference": "成本降低／運價上升的條件式偏多推論"
+        }
+      ]
+    },
+    {
       "code": "4576",
       "name": "大銀微系統",
       "original_score": 47.319013524264115,
@@ -3321,55 +3378,6 @@
       "events": []
     },
     {
-      "code": "2618",
-      "name": "長榮航",
-      "original_score": 47.08432776451869,
-      "event_score": 37.78877062737097,
-      "event_adjustment": -1.221122937262903,
-      "weighted_score": 46.15477205080392,
-      "company_evidence": {
-        "factor": "fuel",
-        "name": "長榮航",
-        "url": "https://www.evaair.com/en-global/images/investor-conference-2024q2-en_tcm33-92897.pdf",
-        "evidence": "公司簡報第 7 頁列示燃油均價、耗用量、燃油成本及避險覆蓋。僅支持成本關聯，不代表目前避險比例。",
-        "risk": "歷史簡報只支持業務關聯；須再核對最新避險、需求與航空燃油價格。"
-      },
-      "events": [
-        {
-          "event_id": "98fca74e32c06a7bf2892850",
-          "title": "中東緊張及颶風影響　國際油價大漲",
-          "url": "https://www.cna.com.tw/news/afe/202610090008.aspx",
-          "published_at": "2026-10-09T04:41:21+08:00",
-          "points": -23.67003844742848,
-          "inference": "成本提高／運價下降的條件式偏空推論"
-        },
-        {
-          "event_id": "d5aa9b1b04259c204692c234",
-          "title": "中東局勢升溫　歐股收跌油價走高",
-          "url": "https://www.cna.com.tw/news/afe/202610080003.aspx",
-          "published_at": "2026-10-08T00:21:45+08:00",
-          "points": -18.020463558570867,
-          "inference": "成本提高／運價下降的條件式偏空推論"
-        },
-        {
-          "event_id": "6fae8e525fe1f981d142d564",
-          "title": "荷莫茲海峽局勢升溫　油價上漲亞股多收跌",
-          "url": "https://www.cna.com.tw/news/afe/202610070282.aspx",
-          "published_at": "2026-10-07T18:04:29+08:00",
-          "points": -16.961995151498265,
-          "inference": "成本提高／運價下降的條件式偏空推論"
-        },
-        {
-          "event_id": "fb2f5b27af36248cd9cf80f8",
-          "title": "國際油價回落　歐洲股市多收漲",
-          "url": "https://www.cna.com.tw/news/afe/202610060003.aspx",
-          "published_at": "2026-10-06T01:20:01+08:00",
-          "points": 11.458809074799452,
-          "inference": "成本降低／運價上升的條件式偏多推論"
-        }
-      ]
-    },
-    {
       "code": "2105",
       "name": "正新",
       "original_score": 45.68019093078758,
@@ -3408,6 +3416,63 @@
       "weighted_score": 45.80429594272076,
       "company_evidence": null,
       "events": []
+    },
+    {
+      "code": "2610",
+      "name": "華航",
+      "original_score": 44.89657915672236,
+      "event_score": 52.59149880583193,
+      "event_adjustment": 0.2591498805831929,
+      "weighted_score": 45.66607112163332,
+      "company_evidence": {
+        "factor": "fuel",
+        "name": "華航",
+        "url": "https://calec.china-airlines.com/csr/en/management_risk.html",
+        "evidence": "公司風險管理說明將燃油列為主要成本及國際經濟敏感風險。",
+        "risk": "原油非航空燃油；需求、匯率、避險及票價轉嫁可能抵銷成本效果。"
+      },
+      "events": [
+        {
+          "event_id": "410bb52b1d38c4ceff703219",
+          "title": "川普排除選前攻擊伊朗　亞股多收紅油價回落",
+          "url": "https://www.cna.com.tw/news/afe/202610090172.aspx",
+          "published_at": "2026-10-09T16:40:21+08:00",
+          "points": 23.784312075067177,
+          "inference": "成本降低／運價上升的條件式偏多推論"
+        },
+        {
+          "event_id": "98fca74e32c06a7bf2892850",
+          "title": "中東緊張及颶風影響　國際油價大漲",
+          "url": "https://www.cna.com.tw/news/afe/202610090008.aspx",
+          "published_at": "2026-10-09T04:41:21+08:00",
+          "points": -21.19281326923525,
+          "inference": "成本提高／運價下降的條件式偏空推論"
+        },
+        {
+          "event_id": "d5aa9b1b04259c204692c234",
+          "title": "中東局勢升溫　歐股收跌油價走高",
+          "url": "https://www.cna.com.tw/news/afe/202610080003.aspx",
+          "published_at": "2026-10-08T00:21:45+08:00",
+          "points": -16.13450354421968,
+          "inference": "成本提高／運價下降的條件式偏空推論"
+        },
+        {
+          "event_id": "6fae8e525fe1f981d142d564",
+          "title": "荷莫茲海峽局勢升溫　油價上漲亞股多收跌",
+          "url": "https://www.cna.com.tw/news/afe/202610070282.aspx",
+          "published_at": "2026-10-07T18:04:29+08:00",
+          "points": -15.186810816457694,
+          "inference": "成本提高／運價下降的條件式偏空推論"
+        },
+        {
+          "event_id": "fb2f5b27af36248cd9cf80f8",
+          "title": "國際油價回落　歐洲股市多收漲",
+          "url": "https://www.cna.com.tw/news/afe/202610060003.aspx",
+          "published_at": "2026-10-06T01:20:01+08:00",
+          "points": 10.25956935175261,
+          "inference": "成本降低／運價上升的條件式偏多推論"
+        }
+      ]
     },
     {
       "code": "2356",
@@ -3488,55 +3553,6 @@
       "weighted_score": 44.6673031026253,
       "company_evidence": null,
       "events": []
-    },
-    {
-      "code": "2610",
-      "name": "華航",
-      "original_score": 44.89657915672236,
-      "event_score": 37.78877062737097,
-      "event_adjustment": -1.221122937262903,
-      "weighted_score": 44.18579830378722,
-      "company_evidence": {
-        "factor": "fuel",
-        "name": "華航",
-        "url": "https://calec.china-airlines.com/csr/en/management_risk.html",
-        "evidence": "公司風險管理說明將燃油列為主要成本及國際經濟敏感風險。",
-        "risk": "原油非航空燃油；需求、匯率、避險及票價轉嫁可能抵銷成本效果。"
-      },
-      "events": [
-        {
-          "event_id": "98fca74e32c06a7bf2892850",
-          "title": "中東緊張及颶風影響　國際油價大漲",
-          "url": "https://www.cna.com.tw/news/afe/202610090008.aspx",
-          "published_at": "2026-10-09T04:41:21+08:00",
-          "points": -23.67003844742848,
-          "inference": "成本提高／運價下降的條件式偏空推論"
-        },
-        {
-          "event_id": "d5aa9b1b04259c204692c234",
-          "title": "中東局勢升溫　歐股收跌油價走高",
-          "url": "https://www.cna.com.tw/news/afe/202610080003.aspx",
-          "published_at": "2026-10-08T00:21:45+08:00",
-          "points": -18.020463558570867,
-          "inference": "成本提高／運價下降的條件式偏空推論"
-        },
-        {
-          "event_id": "6fae8e525fe1f981d142d564",
-          "title": "荷莫茲海峽局勢升溫　油價上漲亞股多收跌",
-          "url": "https://www.cna.com.tw/news/afe/202610070282.aspx",
-          "published_at": "2026-10-07T18:04:29+08:00",
-          "points": -16.961995151498265,
-          "inference": "成本提高／運價下降的條件式偏空推論"
-        },
-        {
-          "event_id": "fb2f5b27af36248cd9cf80f8",
-          "title": "國際油價回落　歐洲股市多收漲",
-          "url": "https://www.cna.com.tw/news/afe/202610060003.aspx",
-          "published_at": "2026-10-06T01:20:01+08:00",
-          "points": 11.458809074799452,
-          "inference": "成本降低／運價上升的條件式偏多推論"
-        }
-      ]
     },
     {
       "code": "3229",

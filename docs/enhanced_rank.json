@@ -10,7 +10,7 @@
     "us": 0.1
   },
   "market_date": "2026-10-08",
-  "as_of": "2026-10-09T10:22:07.832257+08:00",
+  "as_of": "2026-10-09T21:51:07.362856+08:00",
   "complete": true,
   "problems": [],
   "coverage": {
@@ -8167,6 +8167,34 @@
       "missing": []
     },
     {
+      "code": "2618",
+      "name": "長榮航",
+      "enhanced_score": 44.06152943383662,
+      "scores": {
+        "technical": 24.48903615481459,
+        "institutional": 32.7710843373494,
+        "fundamental": 49.80044191839905,
+        "risk": 100.0,
+        "domestic": 50.0,
+        "international": 52.59149880583193,
+        "us": 37.953902036916865
+      },
+      "details": {
+        "relative_market_5d": -1.8957345971564066,
+        "relative_industry_5d": -1.577866668635819,
+        "volume_breakout_20d": false,
+        "institutional_intensity_5d": -0.2288074375614606,
+        "financial_period": "115Q2",
+        "eps": 2.24,
+        "eps_yoy": null,
+        "operating_margin": 13.250862156747868,
+        "margin_change_1d": -0.2117221791892554,
+        "lending_change_1d": -0.12298879622609782,
+        "daytrade_value_ratio": 8.533708394276857
+      },
+      "missing": []
+    },
+    {
       "code": "2486",
       "name": "一詮",
       "enhanced_score": 43.970045073439344,
@@ -8359,34 +8387,6 @@
         "margin_change_1d": -1.8663303909205564,
         "lending_change_1d": -1.3432308236125845,
         "daytrade_value_ratio": 6.058857821478803
-      },
-      "missing": []
-    },
-    {
-      "code": "2618",
-      "name": "長榮航",
-      "enhanced_score": 43.321393024913576,
-      "scores": {
-        "technical": 24.48903615481459,
-        "institutional": 32.7710843373494,
-        "fundamental": 49.80044191839905,
-        "risk": 100.0,
-        "domestic": 50.0,
-        "international": 37.78877062737097,
-        "us": 37.953902036916865
-      },
-      "details": {
-        "relative_market_5d": -1.8957345971564066,
-        "relative_industry_5d": -1.577866668635819,
-        "volume_breakout_20d": false,
-        "institutional_intensity_5d": -0.2288074375614606,
-        "financial_period": "115Q2",
-        "eps": 2.24,
-        "eps_yoy": null,
-        "operating_margin": 13.250862156747868,
-        "margin_change_1d": -0.2117221791892554,
-        "lending_change_1d": -0.12298879622609782,
-        "daytrade_value_ratio": 8.533708394276857
       },
       "missing": []
     },
@@ -8783,6 +8783,34 @@
       "missing": []
     },
     {
+      "code": "2610",
+      "name": "華航",
+      "enhanced_score": 41.49585476812004,
+      "scores": {
+        "technical": 29.78322365626279,
+        "institutional": 21.927710843373493,
+        "fundamental": 41.1977077069818,
+        "risk": 100.0,
+        "domestic": 50.0,
+        "international": 52.59149880583193,
+        "us": 37.953902036916865
+      },
+      "details": {
+        "relative_market_5d": -0.7389162561576512,
+        "relative_industry_5d": -0.42104832763706357,
+        "volume_breakout_20d": false,
+        "institutional_intensity_5d": -0.4298974489207125,
+        "financial_period": "115Q2",
+        "eps": 1.08,
+        "eps_yoy": null,
+        "operating_margin": 7.533228069290517,
+        "margin_change_1d": -0.4398604580615806,
+        "lending_change_1d": 0.2121105532994383,
+        "daytrade_value_ratio": 7.101374716439175
+      },
+      "missing": []
+    },
+    {
       "code": "2382",
       "name": "廣達",
       "enhanced_score": 41.48135136285373,
@@ -9059,34 +9087,6 @@
         "margin_change_1d": 6.8576584705617005,
         "lending_change_1d": -5.333998005982055,
         "daytrade_value_ratio": 31.556230083803133
-      },
-      "missing": []
-    },
-    {
-      "code": "2610",
-      "name": "華航",
-      "enhanced_score": 40.755718359197,
-      "scores": {
-        "technical": 29.78322365626279,
-        "institutional": 21.927710843373493,
-        "fundamental": 41.1977077069818,
-        "risk": 100.0,
-        "domestic": 50.0,
-        "international": 37.78877062737097,
-        "us": 37.953902036916865
-      },
-      "details": {
-        "relative_market_5d": -0.7389162561576512,
-        "relative_industry_5d": -0.42104832763706357,
-        "volume_breakout_20d": false,
-        "institutional_intensity_5d": -0.4298974489207125,
-        "financial_period": "115Q2",
-        "eps": 1.08,
-        "eps_yoy": null,
-        "operating_margin": 7.533228069290517,
-        "margin_change_1d": -0.4398604580615806,
-        "lending_change_1d": 0.2121105532994383,
-        "daytrade_value_ratio": 7.101374716439175
       },
       "missing": []
     },
