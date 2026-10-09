@@ -1,6 +1,6 @@
 {
   "rules_version": "global-rules-1",
-  "as_of": "2026-10-08T22:06:32.904948+08:00",
+  "as_of": "2026-10-09T10:22:02.475246+08:00",
   "sources": [
     {
       "source": "中央通訊社・國際",
@@ -14,6 +14,27 @@
     }
   ],
   "events": [
+    {
+      "id": "98fca74e32c06a7bf2892850",
+      "title": "中東緊張及颶風影響　國際油價大漲",
+      "url": "https://www.cna.com.tw/news/afe/202610090008.aspx",
+      "source": "中央通訊社・產經",
+      "published_at": "2026-10-09T04:41:21+08:00",
+      "first_seen_at": "2026-10-09T10:22:02.475246+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "能源供應",
+          "industry": "能源、石化、航空與運輸",
+          "possible_benefit": "若能源售價上升且成本可控，部分上游企業可能受益。",
+          "possible_risk": "若燃料成本提高，未避險的用能企業可能承壓。",
+          "verify_next": "核對價格方向、持續性、庫存、避險與成本轉嫁，油價下跌時可能相反。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
     {
       "id": "d9298b6089efd15da83d1ca1",
       "title": "國際油價升、美債殖利率徘徊高點　華爾街股市開低",
@@ -490,48 +511,6 @@
       "source": "中央通訊社・產經",
       "published_at": "2026-10-03T17:19:19+08:00",
       "first_seen_at": "2026-10-05T09:06:57.948220+08:00",
-      "certainty": "媒體標題報導；未獨立查證",
-      "channels": [
-        {
-          "category": "能源供應",
-          "industry": "能源、石化、航空與運輸",
-          "possible_benefit": "若能源售價上升且成本可控，部分上游企業可能受益。",
-          "possible_risk": "若燃料成本提高，未避險的用能企業可能承壓。",
-          "verify_next": "核對價格方向、持續性、庫存、避險與成本轉嫁，油價下跌時可能相反。"
-        }
-      ],
-      "beneficiary_stocks": [],
-      "adversely_affected_stocks": [],
-      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
-    },
-    {
-      "id": "078e758881617c2496ec8a8b",
-      "title": "美國30年期房貸利率大增至7.28%　創接近3年新高",
-      "url": "https://www.cna.com.tw/news/aopl/202610020015.aspx",
-      "source": "中央通訊社・國際",
-      "published_at": "2026-10-02T06:28:38+08:00",
-      "first_seen_at": "2026-10-02T09:48:22.078197+08:00",
-      "certainty": "媒體標題報導；未獨立查證",
-      "channels": [
-        {
-          "category": "利率政策",
-          "industry": "金融、負債敏感與出口產業",
-          "possible_benefit": "若融資成本下降，負債敏感企業可能改善。",
-          "possible_risk": "若利差收窄或匯率不利，部分企業可能承壓。",
-          "verify_next": "核對實際決議與預期、幣別及企業負債結構。"
-        }
-      ],
-      "beneficiary_stocks": [],
-      "adversely_affected_stocks": [],
-      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
-    },
-    {
-      "id": "a0daee2a378059f318f08dba",
-      "title": "傳中國暫停出口燃料、美增派部隊赴中東　油價大漲",
-      "url": "https://www.cna.com.tw/news/afe/202610020008.aspx",
-      "source": "中央通訊社・產經",
-      "published_at": "2026-10-02T04:23:21+08:00",
-      "first_seen_at": "2026-10-02T09:48:22.078197+08:00",
       "certainty": "媒體標題報導；未獨立查證",
       "channels": [
         {

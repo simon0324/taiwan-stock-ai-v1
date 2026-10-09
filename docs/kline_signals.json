@@ -2623,27 +2623,82 @@
       {
         "code": "2363",
         "name": "矽統",
-        "predicted_up_probability": 58.384
+        "predicted_up_probability": 58.384,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "2465",
         "name": "麗臺",
-        "predicted_up_probability": 54.89066666666667
+        "predicted_up_probability": 54.89066666666667,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "2383",
         "name": "台光電",
-        "predicted_up_probability": 54.541333333333334
+        "predicted_up_probability": 54.541333333333334,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "2368",
         "name": "金像電",
-        "predicted_up_probability": 53.842666666666666
+        "predicted_up_probability": 53.842666666666666,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "1303",
         "name": "南亞",
-        "predicted_up_probability": 53.842666666666666
+        "predicted_up_probability": 53.842666666666666,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       }
     ]
   }
