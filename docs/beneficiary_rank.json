@@ -1,7 +1,7 @@
 {
   "rules_version": "beneficiary-1",
   "market_date": "2026-10-12",
-  "as_of": "2026-10-13T00:12:44.582808+08:00",
+  "as_of": "2026-10-13T11:20:34.121344+08:00",
   "ranking": [
     {
       "code": "2449",
@@ -15,7 +15,7 @@
       "source": "https://www.kyec.com.tw/Upfiles/EDUp/files/%E8%82%A1%E6%9D%B1%E6%9C%83/20250527%E8%AD%B0%E4%BA%8B%E9%8C%84%28%E8%8B%B1%E6%96%87AGM%29.pdf",
       "components": {
         "evidence": 90,
-        "quality": 59.810874704491724,
+        "quality": 59.74178403755869,
         "pullback": 100.0,
         "reversal": 100.0,
         "foreign": null
@@ -23,7 +23,7 @@
       "drawdown_20d_pct": -5.3627760252365935,
       "revenue_yoy_pct": 24.459970702814534,
       "eps": 3.91,
-      "observation_score": 85.50302075124769,
+      "observation_score": 85.48382889932185,
       "foreign_data_available": false
     },
     {
@@ -38,7 +38,7 @@
       "source": "https://investoredu.twse.com.tw/FileSystem/FileUpload/101afb1f-e736-40f2-a62a-95864b34b35f.pdf",
       "components": {
         "evidence": 80,
-        "quality": 86.05200945626478,
+        "quality": 85.91549295774647,
         "pullback": 100.0,
         "reversal": 66.66666666666666,
         "foreign": null
@@ -46,7 +46,7 @@
       "drawdown_20d_pct": -5.283018867924527,
       "revenue_yoy_pct": 64.66643811385126,
       "eps": 11.7,
-      "observation_score": 82.05148410822169,
+      "observation_score": 82.01356285863328,
       "foreign_data_available": false
     },
     {
@@ -60,7 +60,7 @@
       "source": "https://www.emctw.com/",
       "components": {
         "evidence": 65,
-        "quality": 96.92671394799055,
+        "quality": 96.83098591549296,
         "pullback": 55.0,
         "reversal": 100.0,
         "foreign": null
@@ -68,7 +68,7 @@
       "drawdown_20d_pct": 0.0,
       "revenue_yoy_pct": 168.87284393304373,
       "eps": 42.46,
-      "observation_score": 79.9796427633307,
+      "observation_score": 79.9530516431925,
       "foreign_data_available": false
     },
     {
@@ -83,7 +83,7 @@
       "source": "https://ase.aseglobal.com/VIPack/",
       "components": {
         "evidence": 85,
-        "quality": 56.6193853427896,
+        "quality": 56.455399061032864,
         "pullback": 55.0,
         "reversal": 100.0,
         "foreign": null
@@ -91,7 +91,7 @@
       "drawdown_20d_pct": 0.0,
       "revenue_yoy_pct": 0,
       "eps": 8.04,
-      "observation_score": 75.449829261886,
+      "observation_score": 75.40427751695357,
       "foreign_data_available": false
     },
     {
@@ -105,7 +105,7 @@
       "source": "https://www.twse.com.tw/staticFiles/news/event/ff808081786812360178c8ed241a0132.pdf",
       "components": {
         "evidence": 75,
-        "quality": 58.86524822695036,
+        "quality": 58.80281690140845,
         "pullback": 55.0,
         "reversal": 100.0,
         "foreign": null
@@ -113,7 +113,7 @@
       "drawdown_20d_pct": -0.9186351706036766,
       "revenue_yoy_pct": 2.787523211252025,
       "eps": 9.16,
-      "observation_score": 72.74034672970843,
+      "observation_score": 72.72300469483568,
       "foreign_data_available": false
     },
     {
@@ -127,7 +127,7 @@
       "source": "https://www.kinik.com.tw/",
       "components": {
         "evidence": 65,
-        "quality": 69.97635933806147,
+        "quality": 69.71830985915493,
         "pullback": 55.0,
         "reversal": 66.66666666666666,
         "foreign": null
@@ -135,7 +135,7 @@
       "drawdown_20d_pct": -3.8461538461538436,
       "revenue_yoy_pct": 30.07667141537867,
       "eps": 6.44,
-      "observation_score": 65.0860257420541,
+      "observation_score": 65.01434533124673,
       "foreign_data_available": false
     },
     {
@@ -149,7 +149,7 @@
       "source": "https://www.pti.com.tw/",
       "components": {
         "evidence": 60,
-        "quality": 66.43026004728132,
+        "quality": 66.19718309859155,
         "pullback": 55.0,
         "reversal": 66.66666666666666,
         "foreign": null
@@ -157,7 +157,7 @@
       "drawdown_20d_pct": -1.9323671497584516,
       "revenue_yoy_pct": 26.963788857940216,
       "eps": 5.5,
-      "observation_score": 62.43433149461517,
+      "observation_score": 62.36958789775691,
       "foreign_data_available": false
     }
   ],
