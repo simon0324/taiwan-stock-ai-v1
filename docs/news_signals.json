@@ -7055,5 +7055,361 @@
         ]
       }
     ]
+  },
+  {
+    "market_date": "2026-10-13",
+    "observed_at": "2026-10-13T22:39:28.619892+08:00",
+    "rules_version": "events-1",
+    "sources": [
+      {
+        "source": "證交所・公司重大訊息",
+        "status": "ok",
+        "invalid_rows": 0
+      },
+      {
+        "source": "中央通訊社・產經",
+        "status": "ok",
+        "invalid_rows": 0
+      },
+      {
+        "source": "中央通訊社・科技",
+        "status": "ok",
+        "invalid_rows": 0
+      }
+    ],
+    "original": [
+      {
+        "code": "8996",
+        "name": "高力",
+        "price": 1715.0,
+        "avg_value": 5070599657.75,
+        "revenue": 153.7797417150323,
+        "eps": 8.69,
+        "foreign": 0,
+        "momentum": 7.523510971786829,
+        "volume_ratio": 2.3532106694249895,
+        "trend": 100.0,
+        "atr": 116.42857142857143,
+        "atr_pct": 6.788837984173261,
+        "news": 0,
+        "stable": 88.78472222222221,
+        "growth": 88.62268518518518,
+        "strong": 89.00462962962963,
+        "overall": 88.804012345679,
+        "entry_low": 1706.425,
+        "entry_high": 1723.5749999999998,
+        "fixed_stop": 1629.25,
+        "fixed_target": 1852.2,
+        "dynamic_stop": 1543.5,
+        "dynamic_target": 2058.0,
+        "risk_flags": [
+          "波動偏高"
+        ]
+      },
+      {
+        "code": "2603",
+        "name": "長榮",
+        "price": 264.0,
+        "avg_value": 2902045577.95,
+        "revenue": 63.74746109181468,
+        "eps": 11.24,
+        "foreign": 0,
+        "momentum": 12.579957356076754,
+        "volume_ratio": 5.513042895178007,
+        "trend": 100.0,
+        "atr": 7.0,
+        "atr_pct": 2.6515151515151514,
+        "news": 0,
+        "stable": 87.55787037037037,
+        "growth": 86.65509259259258,
+        "strong": 90.25462962962963,
+        "overall": 88.15586419753085,
+        "entry_low": 262.68,
+        "entry_high": 265.32,
+        "fixed_stop": 250.79999999999998,
+        "fixed_target": 285.12,
+        "dynamic_stop": 253.5,
+        "dynamic_target": 285.0,
+        "risk_flags": [
+          "爆量"
+        ]
+      },
+      {
+        "code": "2480",
+        "name": "敦陽科",
+        "price": 192.5,
+        "avg_value": 80001695.95,
+        "revenue": 50.45285710544276,
+        "eps": 4.91,
+        "foreign": 0,
+        "momentum": 15.615615615615619,
+        "volume_ratio": 6.760960734358032,
+        "trend": 100.0,
+        "atr": 5.142857142857143,
+        "atr_pct": 2.6716141001855287,
+        "news": 0,
+        "stable": 82.17592592592592,
+        "growth": 81.04166666666666,
+        "strong": 88.33333333333334,
+        "overall": 83.8503086419753,
+        "entry_low": 191.5375,
+        "entry_high": 193.46249999999998,
+        "fixed_stop": 182.875,
+        "fixed_target": 207.9,
+        "dynamic_stop": 184.78571428571428,
+        "dynamic_target": 207.92857142857144,
+        "risk_flags": [
+          "短線漲幅偏大",
+          "爆量"
+        ]
+      },
+      {
+        "code": "3416",
+        "name": "融程電",
+        "price": 183.0,
+        "avg_value": 62527116.55,
+        "revenue": 95.90539119217506,
+        "eps": 4.28,
+        "foreign": 0,
+        "momentum": 8.605341246290799,
+        "volume_ratio": 1.731626244325831,
+        "trend": 100.0,
+        "atr": 5.178571428571429,
+        "atr_pct": 2.8298204527712723,
+        "news": 0,
+        "stable": 82.3263888888889,
+        "growth": 83.00925925925925,
+        "strong": 85.08101851851852,
+        "overall": 83.47222222222223,
+        "entry_low": 182.085,
+        "entry_high": 183.915,
+        "fixed_stop": 173.85,
+        "fixed_target": 197.64000000000001,
+        "dynamic_stop": 175.23214285714286,
+        "dynamic_target": 198.53571428571428,
+        "risk_flags": [
+          "一般"
+        ]
+      },
+      {
+        "code": "2347",
+        "name": "聯強",
+        "price": 100.5,
+        "avg_value": 322050887.5,
+        "revenue": 158.6674544463884,
+        "eps": 4.12,
+        "foreign": 0,
+        "momentum": 3.6082474226804218,
+        "volume_ratio": 1.6723640359475798,
+        "trend": 100.0,
+        "atr": 2.6357142857142852,
+        "atr_pct": 2.622601279317697,
+        "news": 0,
+        "stable": 83.20601851851852,
+        "growth": 83.06712962962963,
+        "strong": 82.96296296296296,
+        "overall": 83.07870370370371,
+        "entry_low": 99.9975,
+        "entry_high": 101.00249999999998,
+        "fixed_stop": 95.475,
+        "fixed_target": 108.54,
+        "dynamic_stop": 96.54642857142858,
+        "dynamic_target": 108.40714285714284,
+        "risk_flags": [
+          "一般"
+        ]
+      }
+    ],
+    "message": [
+      {
+        "code": "8996",
+        "name": "高力",
+        "original_score": 88.804012345679,
+        "message_score": 50.0,
+        "score": 84.9236111111111,
+        "evidence_status": "未知／未達門檻",
+        "contributions": [
+          {
+            "category": "訂單",
+            "points": 0.0
+          },
+          {
+            "category": "新聞話題",
+            "points": 0.0
+          },
+          {
+            "category": "龍頭地位",
+            "points": 0.0
+          },
+          {
+            "category": "專利技術",
+            "points": 0.0
+          }
+        ],
+        "events": [
+          {
+            "id": "b08d114f78e0a4938eb2f9bd",
+            "code": "8996",
+            "title": "公告本公司發行國內第六次無擔保轉換公司債之轉換價格及溢價率",
+            "published_at": "2026-10-01T13:49:57+08:00",
+            "first_seen_at": "2026-10-02T09:48:13.103524+08:00",
+            "source": "證交所・公司重大訊息",
+            "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+            "official": true,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+          },
+          {
+            "id": "91f4ee40cb3c178f7c29c3c5",
+            "code": "8996",
+            "title": "公告本公司發行國內第五次無擔保轉換公司債之轉換價格及溢價率",
+            "published_at": "2026-10-01T13:47:42+08:00",
+            "first_seen_at": "2026-10-02T09:48:13.103524+08:00",
+            "source": "證交所・公司重大訊息",
+            "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+            "official": true,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+          },
+          {
+            "id": "04f73c89551042ce54b3713f",
+            "code": "8996",
+            "title": "係因有價證券於集中交易市場達公布注意交易資訊標準，故\r\n公布基本資料及相關財務業務等重大訊息，以利投資人區別瞭解。",
+            "published_at": "2026-09-30T15:02:29+08:00",
+            "first_seen_at": "2026-10-01T09:29:39.179188+08:00",
+            "source": "證交所・公司重大訊息",
+            "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+            "official": true,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+          }
+        ]
+      },
+      {
+        "code": "2603",
+        "name": "長榮",
+        "original_score": 88.15586419753085,
+        "message_score": 50.0,
+        "score": 84.34027777777776,
+        "evidence_status": "未知／未達門檻",
+        "contributions": [
+          {
+            "category": "訂單",
+            "points": 0.0
+          },
+          {
+            "category": "新聞話題",
+            "points": 0.0
+          },
+          {
+            "category": "龍頭地位",
+            "points": 0.0
+          },
+          {
+            "category": "專利技術",
+            "points": 0.0
+          }
+        ],
+        "events": [
+          {
+            "id": "8c8f9426748f4c21cd3cd5a1",
+            "code": "2603",
+            "title": "公告本公司受邀參加永豐金證券舉辦之法人說明會",
+            "published_at": "2026-10-05T17:07:47+08:00",
+            "first_seen_at": "2026-10-06T10:29:25.682094+08:00",
+            "source": "證交所・公司重大訊息",
+            "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+            "official": true,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+          }
+        ]
+      },
+      {
+        "code": "2480",
+        "name": "敦陽科",
+        "original_score": 83.8503086419753,
+        "message_score": 50.0,
+        "score": 80.46527777777777,
+        "evidence_status": "未知／未達門檻",
+        "contributions": [
+          {
+            "category": "訂單",
+            "points": 0.0
+          },
+          {
+            "category": "新聞話題",
+            "points": 0.0
+          },
+          {
+            "category": "龍頭地位",
+            "points": 0.0
+          },
+          {
+            "category": "專利技術",
+            "points": 0.0
+          }
+        ],
+        "events": []
+      },
+      {
+        "code": "3416",
+        "name": "融程電",
+        "original_score": 83.47222222222223,
+        "message_score": 50.0,
+        "score": 80.12500000000001,
+        "evidence_status": "未知／未達門檻",
+        "contributions": [
+          {
+            "category": "訂單",
+            "points": 0.0
+          },
+          {
+            "category": "新聞話題",
+            "points": 0.0
+          },
+          {
+            "category": "龍頭地位",
+            "points": 0.0
+          },
+          {
+            "category": "專利技術",
+            "points": 0.0
+          }
+        ],
+        "events": []
+      },
+      {
+        "code": "2347",
+        "name": "聯強",
+        "original_score": 83.07870370370371,
+        "message_score": 50.0,
+        "score": 79.77083333333334,
+        "evidence_status": "未知／未達門檻",
+        "contributions": [
+          {
+            "category": "訂單",
+            "points": 0.0
+          },
+          {
+            "category": "新聞話題",
+            "points": 0.0
+          },
+          {
+            "category": "龍頭地位",
+            "points": 0.0
+          },
+          {
+            "category": "專利技術",
+            "points": 0.0
+          }
+        ],
+        "events": []
+      }
+    ]
   }
 ]
