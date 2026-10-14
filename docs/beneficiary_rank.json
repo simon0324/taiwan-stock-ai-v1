@@ -1,80 +1,12 @@
 {
   "rules_version": "beneficiary-1",
-  "market_date": "2026-10-13",
-  "as_of": "2026-10-14T09:30:07.405525+08:00",
+  "market_date": "2026-10-14",
+  "as_of": "2026-10-14T20:29:03.648723+08:00",
   "ranking": [
-    {
-      "code": "3037",
-      "name": "欣興",
-      "price": 1180.0,
-      "themes": [
-        "台積電先進封裝",
-        "聯發科AI／ASIC"
-      ],
-      "relationship": "AI晶片與高階封裝所需ABF載板",
-      "source": "https://investoredu.twse.com.tw/FileSystem/FileUpload/101afb1f-e736-40f2-a62a-95864b34b35f.pdf",
-      "components": {
-        "evidence": 80,
-        "quality": 84.67741935483872,
-        "pullback": 100.0,
-        "reversal": 66.66666666666666,
-        "foreign": null
-      },
-      "drawdown_20d_pct": -10.943396226415093,
-      "revenue_yoy_pct": 64.66643811385126,
-      "eps": 11.7,
-      "observation_score": 81.66965352449223,
-      "foreign_data_available": false
-    },
-    {
-      "code": "2383",
-      "name": "台光電",
-      "price": 5545.0,
-      "themes": [
-        "AI/HPC需求擴散"
-      ],
-      "relationship": "高速運算用高階銅箔基板",
-      "source": "https://www.emctw.com/",
-      "components": {
-        "evidence": 65,
-        "quality": 96.6589861751152,
-        "pullback": 100.0,
-        "reversal": 66.66666666666666,
-        "foreign": null
-      },
-      "drawdown_20d_pct": -9.837398373983742,
-      "revenue_yoy_pct": 168.87284393304373,
-      "eps": 42.46,
-      "observation_score": 79.9978665301246,
-      "foreign_data_available": false
-    },
-    {
-      "code": "2449",
-      "name": "京元電子",
-      "price": 305.0,
-      "themes": [
-        "台積電先進製程",
-        "聯發科AI／ASIC"
-      ],
-      "relationship": "AI/HPC與先進製程晶片測試",
-      "source": "https://www.kyec.com.tw/Upfiles/EDUp/files/%E8%82%A1%E6%9D%B1%E6%9C%83/20250527%E8%AD%B0%E4%BA%8B%E9%8C%84%28%E8%8B%B1%E6%96%87AGM%29.pdf",
-      "components": {
-        "evidence": 90,
-        "quality": 56.45161290322581,
-        "pullback": 55.0,
-        "reversal": 100.0,
-        "foreign": null
-      },
-      "drawdown_20d_pct": -3.785488958990535,
-      "revenue_yoy_pct": 24.459970702814534,
-      "eps": 3.91,
-      "observation_score": 77.06989247311827,
-      "foreign_data_available": false
-    },
     {
       "code": "3711",
       "name": "日月光投控",
-      "price": 740.0,
+      "price": 747.0,
       "themes": [
         "台積電先進封裝",
         "聯發科AI／ASIC"
@@ -83,43 +15,89 @@
       "source": "https://ase.aseglobal.com/VIPack/",
       "components": {
         "evidence": 85,
-        "quality": 77.64976958525347,
+        "quality": 77.67653758542141,
         "pullback": 55.0,
-        "reversal": 66.66666666666666,
+        "reversal": 100.0,
         "foreign": null
       },
-      "drawdown_20d_pct": -2.887139107611547,
+      "drawdown_20d_pct": -1.9685039370078705,
       "revenue_yoy_pct": 45.52228936841058,
       "eps": 8.04,
-      "observation_score": 73.884195255163,
+      "observation_score": 81.29903821817263,
       "foreign_data_available": false
     },
     {
-      "code": "1560",
-      "name": "中砂",
-      "price": 950.0,
+      "code": "2383",
+      "name": "台光電",
+      "price": 5520.0,
       "themes": [
-        "台積電先進製程"
+        "AI/HPC需求擴散"
       ],
-      "relationship": "晶圓製程耗材與再生晶圓",
-      "source": "https://www.kinik.com.tw/",
+      "relationship": "高速運算用高階銅箔基板",
+      "source": "https://www.emctw.com/",
       "components": {
         "evidence": 65,
-        "quality": 66.82027649769586,
+        "quality": 96.69703872437358,
         "pullback": 100.0,
         "reversal": 66.66666666666666,
         "foreign": null
       },
-      "drawdown_20d_pct": -8.653846153846157,
-      "revenue_yoy_pct": 30.07667141537867,
-      "eps": 6.44,
-      "observation_score": 71.70933606417478,
+      "drawdown_20d_pct": -10.243902439024389,
+      "revenue_yoy_pct": 168.87284393304373,
+      "eps": 42.46,
+      "observation_score": 80.00843668269637,
+      "foreign_data_available": false
+    },
+    {
+      "code": "2449",
+      "name": "京元電子",
+      "price": 296.5,
+      "themes": [
+        "台積電先進製程",
+        "聯發科AI／ASIC"
+      ],
+      "relationship": "AI/HPC與先進製程晶片測試",
+      "source": "https://www.kyec.com.tw/Upfiles/EDUp/files/%E8%82%A1%E6%9D%B1%E6%9C%83/20250527%E8%AD%B0%E4%BA%8B%E9%8C%84%28%E8%8B%B1%E6%96%87AGM%29.pdf",
+      "components": {
+        "evidence": 90,
+        "quality": 56.71981776765376,
+        "pullback": 100.0,
+        "reversal": 66.66666666666666,
+        "foreign": null
+      },
+      "drawdown_20d_pct": -6.466876971608837,
+      "revenue_yoy_pct": 24.459970702814534,
+      "eps": 3.91,
+      "observation_score": 77.23698641694085,
+      "foreign_data_available": false
+    },
+    {
+      "code": "3037",
+      "name": "欣興",
+      "price": 1185.0,
+      "themes": [
+        "台積電先進封裝",
+        "聯發科AI／ASIC"
+      ],
+      "relationship": "AI晶片與高階封裝所需ABF載板",
+      "source": "https://investoredu.twse.com.tw/FileSystem/FileUpload/101afb1f-e736-40f2-a62a-95864b34b35f.pdf",
+      "components": {
+        "evidence": 80,
+        "quality": 84.85193621867882,
+        "pullback": 100.0,
+        "reversal": 33.33333333333333,
+        "foreign": null
+      },
+      "drawdown_20d_pct": -10.566037735849054,
+      "revenue_yoy_pct": 64.66643811385126,
+      "eps": 11.7,
+      "observation_score": 74.31072302370708,
       "foreign_data_available": false
     },
     {
       "code": "3583",
       "name": "辛耘",
-      "price": 710.0,
+      "price": 711.0,
       "themes": [
         "台積電擴產"
       ],
@@ -127,21 +105,43 @@
       "source": "https://www.twse.com.tw/staticFiles/news/event/ff808081786812360178c8ed241a0132.pdf",
       "components": {
         "evidence": 75,
-        "quality": 52.64976958525346,
+        "quality": 52.84738041002278,
         "pullback": 100.0,
         "reversal": 66.66666666666666,
         "foreign": null
       },
-      "drawdown_20d_pct": -6.824146981627299,
+      "drawdown_20d_pct": -6.69291338582677,
       "revenue_yoy_pct": 2.787523211252025,
       "eps": 9.16,
-      "observation_score": 71.10641747738522,
+      "observation_score": 71.16130937315447,
+      "foreign_data_available": false
+    },
+    {
+      "code": "1560",
+      "name": "中砂",
+      "price": 948.0,
+      "themes": [
+        "台積電先進製程"
+      ],
+      "relationship": "晶圓製程耗材與再生晶圓",
+      "source": "https://www.kinik.com.tw/",
+      "components": {
+        "evidence": 65,
+        "quality": 67.08428246013668,
+        "pullback": 100.0,
+        "reversal": 33.33333333333333,
+        "foreign": null
+      },
+      "drawdown_20d_pct": -8.846153846153848,
+      "revenue_yoy_pct": 30.07667141537867,
+      "eps": 6.44,
+      "observation_score": 64.37526364633426,
       "foreign_data_available": false
     },
     {
       "code": "6239",
       "name": "力成",
-      "price": 296.0,
+      "price": 298.5,
       "themes": [
         "AI/HPC需求擴散"
       ],
@@ -149,15 +149,15 @@
       "source": "https://www.pti.com.tw/",
       "components": {
         "evidence": 60,
-        "quality": 63.133640552995395,
+        "quality": 63.43963553530752,
         "pullback": 55.0,
         "reversal": 66.66666666666666,
         "foreign": null
       },
-      "drawdown_20d_pct": -4.669887278582929,
+      "drawdown_20d_pct": -3.864734299516903,
       "revenue_yoy_pct": 26.963788857940216,
       "eps": 5.5,
-      "observation_score": 61.518603857313536,
+      "observation_score": 61.603602463511336,
       "foreign_data_available": false
     }
   ],

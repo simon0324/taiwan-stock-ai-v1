@@ -7411,5 +7411,404 @@
         "events": []
       }
     ]
+  },
+  {
+    "market_date": "2026-10-14",
+    "observed_at": "2026-10-14T20:27:19.046884+08:00",
+    "rules_version": "events-1",
+    "sources": [
+      {
+        "source": "證交所・公司重大訊息",
+        "status": "ok",
+        "invalid_rows": 0
+      },
+      {
+        "source": "中央通訊社・產經",
+        "status": "ok",
+        "invalid_rows": 0
+      },
+      {
+        "source": "中央通訊社・科技",
+        "status": "ok",
+        "invalid_rows": 0
+      }
+    ],
+    "original": [
+      {
+        "code": "2603",
+        "name": "長榮",
+        "price": 263.0,
+        "avg_value": 3067670346.2,
+        "revenue": 63.74746109181468,
+        "eps": 11.24,
+        "foreign": 0,
+        "momentum": 11.205073995771663,
+        "volume_ratio": 1.7375411095271878,
+        "trend": 100.0,
+        "atr": 7.107142857142857,
+        "atr_pct": 2.7023356871265616,
+        "news": 0,
+        "stable": 85.21640091116173,
+        "growth": 85.74031890660592,
+        "strong": 85.91116173120729,
+        "overall": 85.62262718299165,
+        "entry_low": 261.685,
+        "entry_high": 264.315,
+        "fixed_stop": 249.85,
+        "fixed_target": 284.04,
+        "dynamic_stop": 252.33928571428572,
+        "dynamic_target": 284.32142857142856,
+        "risk_flags": [
+          "一般"
+        ]
+      },
+      {
+        "code": "6505",
+        "name": "台塑化",
+        "price": 119.5,
+        "avg_value": 3570814478.5,
+        "revenue": 65.59234118196173,
+        "eps": 4.32,
+        "foreign": 0,
+        "momentum": 17.733990147783253,
+        "volume_ratio": 4.82962481440493,
+        "trend": 100.0,
+        "atr": 6.685714285714285,
+        "atr_pct": 5.5947399880454265,
+        "news": 0,
+        "stable": 82.03872437357631,
+        "growth": 81.18451025056947,
+        "strong": 88.24601366742598,
+        "overall": 83.82308276385726,
+        "entry_low": 118.9025,
+        "entry_high": 120.09749999999998,
+        "fixed_stop": 113.52499999999999,
+        "fixed_target": 129.06,
+        "dynamic_stop": 109.47142857142858,
+        "dynamic_target": 139.55714285714285,
+        "risk_flags": [
+          "波動偏高",
+          "短線漲幅偏大",
+          "爆量"
+        ]
+      },
+      {
+        "code": "2347",
+        "name": "聯強",
+        "price": 102.5,
+        "avg_value": 338493784.75,
+        "revenue": 158.6674544463884,
+        "eps": 4.12,
+        "foreign": 0,
+        "momentum": 6.993736951983309,
+        "volume_ratio": 1.6233411919389755,
+        "trend": 100.0,
+        "atr": 2.6785714285714275,
+        "atr_pct": 2.613240418118466,
+        "news": 0,
+        "stable": 83.14350797266516,
+        "growth": 83.69020501138952,
+        "strong": 83.95216400911163,
+        "overall": 83.59529233105543,
+        "entry_low": 101.9875,
+        "entry_high": 103.01249999999999,
+        "fixed_stop": 97.375,
+        "fixed_target": 110.7,
+        "dynamic_stop": 98.48214285714286,
+        "dynamic_target": 110.53571428571428,
+        "risk_flags": [
+          "一般"
+        ]
+      },
+      {
+        "code": "3044",
+        "name": "健鼎",
+        "price": 603.0,
+        "avg_value": 1613021348.6,
+        "revenue": 53.500059681732026,
+        "eps": 13.02,
+        "foreign": 0,
+        "momentum": 4.145077720207246,
+        "volume_ratio": 1.8451423935481075,
+        "trend": 100.0,
+        "atr": 19.857142857142858,
+        "atr_pct": 3.293058516939114,
+        "news": 0,
+        "stable": 84.92027334851936,
+        "growth": 83.05239179954442,
+        "strong": 82.65375854214123,
+        "overall": 83.54214123006834,
+        "entry_low": 599.985,
+        "entry_high": 606.015,
+        "fixed_stop": 572.85,
+        "fixed_target": 651.24,
+        "dynamic_stop": 573.2142857142857,
+        "dynamic_target": 662.5714285714287,
+        "risk_flags": [
+          "一般"
+        ]
+      },
+      {
+        "code": "1303",
+        "name": "南亞",
+        "price": 349.0,
+        "avg_value": 22504462241.6,
+        "revenue": 55.25857165202359,
+        "eps": 5.17,
+        "foreign": 0,
+        "momentum": 19.11262798634812,
+        "volume_ratio": 2.6748748339662707,
+        "trend": 100.0,
+        "atr": 18.857142857142858,
+        "atr_pct": 5.403192795742939,
+        "news": 0,
+        "stable": 81.71981776765377,
+        "growth": 81.35535307517084,
+        "strong": 86.95899772209567,
+        "overall": 83.34472285497343,
+        "entry_low": 347.255,
+        "entry_high": 350.74499999999995,
+        "fixed_stop": 331.55,
+        "fixed_target": 376.92,
+        "dynamic_stop": 320.7142857142857,
+        "dynamic_target": 405.57142857142856,
+        "risk_flags": [
+          "波動偏高",
+          "短線漲幅偏大"
+        ]
+      }
+    ],
+    "message": [
+      {
+        "code": "2603",
+        "name": "長榮",
+        "original_score": 85.62262718299165,
+        "message_score": 50.0,
+        "score": 82.06036446469248,
+        "evidence_status": "未知／未達門檻",
+        "contributions": [
+          {
+            "category": "訂單",
+            "points": 0.0
+          },
+          {
+            "category": "新聞話題",
+            "points": 0.0
+          },
+          {
+            "category": "龍頭地位",
+            "points": 0.0
+          },
+          {
+            "category": "專利技術",
+            "points": 0.0
+          }
+        ],
+        "events": [
+          {
+            "id": "8c8f9426748f4c21cd3cd5a1",
+            "code": "2603",
+            "title": "公告本公司受邀參加永豐金證券舉辦之法人說明會",
+            "published_at": "2026-10-05T17:07:47+08:00",
+            "first_seen_at": "2026-10-06T10:29:25.682094+08:00",
+            "source": "證交所・公司重大訊息",
+            "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+            "official": true,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+          }
+        ]
+      },
+      {
+        "code": "6505",
+        "name": "台塑化",
+        "original_score": 83.82308276385726,
+        "message_score": 50.0,
+        "score": 80.44077448747153,
+        "evidence_status": "未知／未達門檻",
+        "contributions": [
+          {
+            "category": "訂單",
+            "points": 0.0
+          },
+          {
+            "category": "新聞話題",
+            "points": 0.0
+          },
+          {
+            "category": "龍頭地位",
+            "points": 0.0
+          },
+          {
+            "category": "專利技術",
+            "points": 0.0
+          }
+        ],
+        "events": [
+          {
+            "id": "d4077d38f990eb160f7232c7",
+            "code": "6505",
+            "title": "公告本公司2026年第3季自結合併損益",
+            "published_at": "2026-10-12T13:31:19+08:00",
+            "first_seen_at": "2026-10-13T11:16:32.690293+08:00",
+            "source": "證交所・公司重大訊息",
+            "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+            "official": true,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+          },
+          {
+            "id": "e14ac55d19aa94d83c2b194d",
+            "code": "6505",
+            "title": "公告本公司2026年9月合併營業額",
+            "published_at": "2026-10-12T13:30:39+08:00",
+            "first_seen_at": "2026-10-13T11:16:32.690293+08:00",
+            "source": "證交所・公司重大訊息",
+            "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+            "official": true,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+          }
+        ]
+      },
+      {
+        "code": "2347",
+        "name": "聯強",
+        "original_score": 83.59529233105543,
+        "message_score": 50.0,
+        "score": 80.23576309794989,
+        "evidence_status": "未知／未達門檻",
+        "contributions": [
+          {
+            "category": "訂單",
+            "points": 0.0
+          },
+          {
+            "category": "新聞話題",
+            "points": 0.0
+          },
+          {
+            "category": "龍頭地位",
+            "points": 0.0
+          },
+          {
+            "category": "專利技術",
+            "points": 0.0
+          }
+        ],
+        "events": []
+      },
+      {
+        "code": "3044",
+        "name": "健鼎",
+        "original_score": 83.54214123006834,
+        "message_score": 50.0,
+        "score": 80.18792710706151,
+        "evidence_status": "未知／未達門檻",
+        "contributions": [
+          {
+            "category": "訂單",
+            "points": 0.0
+          },
+          {
+            "category": "新聞話題",
+            "points": 0.0
+          },
+          {
+            "category": "龍頭地位",
+            "points": 0.0
+          },
+          {
+            "category": "專利技術",
+            "points": 0.0
+          }
+        ],
+        "events": [
+          {
+            "id": "a85c45458c6c01621616d1e5",
+            "code": "3044",
+            "title": "代本公司之子公司J & J Holding Co., Ltd.公告\r\n其新增資金貸與金額達新台幣一千萬以上且達本\r\n公司最近期財務報表淨值百分之二以上。",
+            "published_at": "2026-10-08T14:42:13+08:00",
+            "first_seen_at": "2026-10-09T10:21:58.383679+08:00",
+            "source": "證交所・公司重大訊息",
+            "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+            "official": true,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+          }
+        ]
+      },
+      {
+        "code": "1303",
+        "name": "南亞",
+        "original_score": 83.34472285497343,
+        "message_score": 50.0,
+        "score": 80.01025056947609,
+        "evidence_status": "未知／未達門檻",
+        "contributions": [
+          {
+            "category": "訂單",
+            "points": 0.0
+          },
+          {
+            "category": "新聞話題",
+            "points": 0.0
+          },
+          {
+            "category": "龍頭地位",
+            "points": 0.0
+          },
+          {
+            "category": "專利技術",
+            "points": 0.0
+          }
+        ],
+        "events": [
+          {
+            "id": "4f9b8ff2777a6a4492305458",
+            "code": "1303",
+            "title": "本公司受邀參加摩根大通舉辦之法人說明會",
+            "published_at": "2026-10-12T15:30:11+08:00",
+            "first_seen_at": "2026-10-13T11:16:32.690293+08:00",
+            "source": "證交所・公司重大訊息",
+            "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+            "official": true,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+          },
+          {
+            "id": "1b5e851c07bae099ef5e19b9",
+            "code": "1303",
+            "title": "公告本公司2026年第3季自結合併損益",
+            "published_at": "2026-10-12T13:30:56+08:00",
+            "first_seen_at": "2026-10-13T11:16:32.690293+08:00",
+            "source": "證交所・公司重大訊息",
+            "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+            "official": true,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+          },
+          {
+            "id": "e89d350983746438ccef4a7a",
+            "code": "1303",
+            "title": "公告本公司2026年9月合併營業額",
+            "published_at": "2026-10-12T13:30:43+08:00",
+            "first_seen_at": "2026-10-13T11:16:32.690293+08:00",
+            "source": "證交所・公司重大訊息",
+            "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+            "official": true,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+          }
+        ]
+      }
+    ]
   }
 ]
