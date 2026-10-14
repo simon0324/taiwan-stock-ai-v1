@@ -5136,46 +5136,157 @@
     "original": [
       {
         "code": "8996",
-        "name": "高力"
+        "name": "高力",
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "2603",
-        "name": "長榮"
+        "name": "長榮",
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "2480",
-        "name": "敦陽科"
+        "name": "敦陽科",
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "3416",
-        "name": "融程電"
+        "name": "融程電",
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "2347",
-        "name": "聯強"
+        "name": "聯強",
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       }
     ],
     "unified": [
       {
         "code": "8996",
-        "name": "高力"
+        "name": "高力",
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "2603",
-        "name": "長榮"
+        "name": "長榮",
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "2480",
-        "name": "敦陽科"
+        "name": "敦陽科",
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "3416",
-        "name": "融程電"
+        "name": "融程電",
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "2347",
-        "name": "聯強"
+        "name": "聯強",
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       }
-    ]
+    ],
+    "tracking_status": "tracking"
   }
 ]

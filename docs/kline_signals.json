@@ -2860,27 +2860,82 @@
       {
         "code": "2059",
         "name": "川湖",
-        "predicted_up_probability": 73.04933333333334
+        "predicted_up_probability": 73.04933333333334,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "7610",
         "name": "聯友金屬-創",
-        "predicted_up_probability": 57.81333333333333
+        "predicted_up_probability": 57.81333333333333,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "6166",
         "name": "凌華",
-        "predicted_up_probability": 57.81333333333333
+        "predicted_up_probability": 57.81333333333333,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "7822",
         "name": "倍利科",
-        "predicted_up_probability": 56.25066666666667
+        "predicted_up_probability": 56.25066666666667,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "3450",
         "name": "聯鈞",
-        "predicted_up_probability": 55.07866666666666
+        "predicted_up_probability": 55.07866666666666,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       }
     ]
   }
