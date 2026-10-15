@@ -1,19 +1,19 @@
 {
-  "market_date": "2026-10-14",
+  "market_date": "2026-10-15",
   "rules_version": 2,
   "legacy_count": 20,
   "summary": {
     "revenue_only": {
-      "completed": 111,
-      "win_rate": 53.153153153153156,
-      "average_return": 1.336615749663201,
-      "signals": 25
+      "completed": 118,
+      "win_rate": 50.0,
+      "average_return": 0.9273653419766626,
+      "signals": 26
     },
     "with_eps": {
-      "completed": 108,
-      "win_rate": 37.03703703703704,
-      "average_return": -0.7612345302251584,
-      "signals": 25
+      "completed": 115,
+      "win_rate": 34.78260869565217,
+      "average_return": -1.0535085691246295,
+      "signals": 26
     }
   },
   "records": [
@@ -4014,12 +4014,16 @@
       "code": "2345",
       "name": "智邦",
       "score": 89.13475177304964,
-      "status": "active",
-      "last_processed_date": "2026-10-14",
+      "status": "completed",
+      "last_processed_date": "2026-10-15",
       "entry_date": "2026-10-08",
       "entry_price": 2070.0,
       "shares": 48,
-      "held_days": 3
+      "held_days": 4,
+      "exit_date": "2026-10-15",
+      "exit_price": 1966.5,
+      "reason": "stop",
+      "return_pct": -5.563607085346216
     },
     {
       "signal_date": "2026-10-07",
@@ -4118,12 +4122,16 @@
       "code": "4989",
       "name": "榮科",
       "score": 95.88305489260144,
-      "status": "active",
-      "last_processed_date": "2026-10-14",
+      "status": "completed",
+      "last_processed_date": "2026-10-15",
       "entry_date": "2026-10-12",
       "entry_price": 71.1,
       "shares": 1406,
-      "held_days": 2
+      "held_days": 3,
+      "exit_date": "2026-10-15",
+      "exit_price": 67.54499999999999,
+      "reason": "stop",
+      "return_pct": -5.562187770715421
     },
     {
       "signal_date": "2026-10-08",
@@ -4204,12 +4212,16 @@
       "code": "6691",
       "name": "洋基工程",
       "score": 90.61575178997614,
-      "status": "active",
-      "last_processed_date": "2026-10-14",
+      "status": "completed",
+      "last_processed_date": "2026-10-15",
       "entry_date": "2026-10-12",
       "entry_price": 747.0,
       "shares": 133,
-      "held_days": 2
+      "held_days": 3,
+      "exit_date": "2026-10-15",
+      "exit_price": 709.65,
+      "reason": "stop",
+      "return_pct": -5.562651608942037
     },
     {
       "signal_date": "2026-10-08",
@@ -4236,12 +4248,16 @@
       "code": "6152",
       "name": "百一",
       "score": 96.31205673758865,
-      "status": "active",
-      "last_processed_date": "2026-10-14",
+      "status": "completed",
+      "last_processed_date": "2026-10-15",
       "entry_date": "2026-10-13",
       "entry_price": 18.95,
       "shares": 5277,
-      "held_days": 1
+      "held_days": 2,
+      "exit_date": "2026-10-15",
+      "exit_price": 18.002499999999998,
+      "reason": "stop",
+      "return_pct": -5.56200477704061
     },
     {
       "signal_date": "2026-10-12",
@@ -4251,11 +4267,11 @@
       "name": "泰鼎-KY",
       "score": 95.63829787234043,
       "status": "active",
-      "last_processed_date": "2026-10-14",
+      "last_processed_date": "2026-10-15",
       "entry_date": "2026-10-13",
       "entry_price": 57.0,
       "shares": 1754,
-      "held_days": 1
+      "held_days": 2
     },
     {
       "signal_date": "2026-10-12",
@@ -4282,12 +4298,16 @@
       "code": "4938",
       "name": "和碩",
       "score": 94.83451536643027,
-      "status": "active",
-      "last_processed_date": "2026-10-14",
+      "status": "completed",
+      "last_processed_date": "2026-10-15",
       "entry_date": "2026-10-13",
       "entry_price": 102.5,
       "shares": 975,
-      "held_days": 1
+      "held_days": 2,
+      "exit_date": "2026-10-15",
+      "exit_price": 97.375,
+      "reason": "stop",
+      "return_pct": -5.562351469668543
     },
     {
       "signal_date": "2026-10-12",
@@ -4314,12 +4334,16 @@
       "code": "2383",
       "name": "台光電",
       "score": 93.83451536643027,
-      "status": "active",
-      "last_processed_date": "2026-10-14",
+      "status": "completed",
+      "last_processed_date": "2026-10-15",
       "entry_date": "2026-10-13",
       "entry_price": 5545.0,
       "shares": 18,
-      "held_days": 1
+      "held_days": 2,
+      "exit_date": "2026-10-15",
+      "exit_price": 5267.75,
+      "reason": "stop",
+      "return_pct": -5.562067929065224
     },
     {
       "signal_date": "2026-10-12",
@@ -4328,12 +4352,16 @@
       "code": "2467",
       "name": "志聖",
       "score": 89.7872340425532,
-      "status": "active",
-      "last_processed_date": "2026-10-14",
+      "status": "completed",
+      "last_processed_date": "2026-10-15",
       "entry_date": "2026-10-13",
       "entry_price": 556.0,
       "shares": 179,
-      "held_days": 1
+      "held_days": 2,
+      "exit_date": "2026-10-15",
+      "exit_price": 528.1999999999999,
+      "reason": "stop",
+      "return_pct": -5.563683131706937
     },
     {
       "signal_date": "2026-10-12",
@@ -4342,12 +4370,16 @@
       "code": "2345",
       "name": "智邦",
       "score": 89.26713947990544,
-      "status": "active",
-      "last_processed_date": "2026-10-14",
+      "status": "completed",
+      "last_processed_date": "2026-10-15",
       "entry_date": "2026-10-13",
       "entry_price": 2040.0,
       "shares": 49,
-      "held_days": 1
+      "held_days": 2,
+      "exit_date": "2026-10-15",
+      "exit_price": 1938.0,
+      "reason": "stop",
+      "return_pct": -5.562224889955982
     },
     {
       "signal_date": "2026-10-12",
@@ -4357,11 +4389,11 @@
       "name": "啟碁",
       "score": 88.548463356974,
       "status": "active",
-      "last_processed_date": "2026-10-14",
+      "last_processed_date": "2026-10-15",
       "entry_date": "2026-10-13",
       "entry_price": 246.5,
       "shares": 405,
-      "held_days": 1
+      "held_days": 2
     },
     {
       "signal_date": "2026-10-12",
@@ -4370,12 +4402,16 @@
       "code": "2360",
       "name": "致茂",
       "score": 88.01891252955083,
-      "status": "active",
-      "last_processed_date": "2026-10-14",
+      "status": "completed",
+      "last_processed_date": "2026-10-15",
       "entry_date": "2026-10-13",
       "entry_price": 2200.0,
       "shares": 45,
-      "held_days": 1
+      "held_days": 2,
+      "exit_date": "2026-10-15",
+      "exit_price": 2090.0,
+      "reason": "stop",
+      "return_pct": -5.562626262626263
     },
     {
       "signal_date": "2026-10-13",
@@ -4384,12 +4420,16 @@
       "code": "2305",
       "name": "全友",
       "score": 98.09027777777779,
-      "status": "active",
-      "last_processed_date": "2026-10-14",
+      "status": "completed",
+      "last_processed_date": "2026-10-15",
       "entry_date": "2026-10-14",
       "entry_price": 63.6,
       "shares": 1572,
-      "held_days": 0
+      "held_days": 1,
+      "exit_date": "2026-10-15",
+      "exit_price": 60.42,
+      "reason": "stop",
+      "return_pct": -5.5621169203194185
     },
     {
       "signal_date": "2026-10-13",
@@ -4398,12 +4438,16 @@
       "code": "1312",
       "name": "國喬",
       "score": 97.41898148148148,
-      "status": "active",
-      "last_processed_date": "2026-10-14",
+      "status": "completed",
+      "last_processed_date": "2026-10-15",
       "entry_date": "2026-10-14",
       "entry_price": 18.9,
       "shares": 5291,
-      "held_days": 0
+      "held_days": 1,
+      "exit_date": "2026-10-15",
+      "exit_price": 17.955,
+      "reason": "stop",
+      "return_pct": -5.562000562000572
     },
     {
       "signal_date": "2026-10-13",
@@ -4412,12 +4456,16 @@
       "code": "6834",
       "name": "天二科技",
       "score": 97.19907407407408,
-      "status": "active",
-      "last_processed_date": "2026-10-14",
+      "status": "completed",
+      "last_processed_date": "2026-10-15",
       "entry_date": "2026-10-14",
       "entry_price": 162.5,
       "shares": 615,
-      "held_days": 0
+      "held_days": 1,
+      "exit_date": "2026-10-15",
+      "exit_price": 154.375,
+      "reason": "stop",
+      "return_pct": -5.562351469668543
     },
     {
       "signal_date": "2026-10-13",
@@ -4426,12 +4474,16 @@
       "code": "3311",
       "name": "閎暉",
       "score": 96.6550925925926,
-      "status": "active",
-      "last_processed_date": "2026-10-14",
+      "status": "completed",
+      "last_processed_date": "2026-10-15",
       "entry_date": "2026-10-14",
       "entry_price": 56.0,
       "shares": 1785,
-      "held_days": 0
+      "held_days": 1,
+      "exit_date": "2026-10-15",
+      "exit_price": 53.199999999999996,
+      "reason": "stop",
+      "return_pct": -5.5622248899559965
     },
     {
       "signal_date": "2026-10-13",
@@ -4441,11 +4493,11 @@
       "name": "和碩",
       "score": 96.45833333333334,
       "status": "active",
-      "last_processed_date": "2026-10-14",
+      "last_processed_date": "2026-10-15",
       "entry_date": "2026-10-14",
       "entry_price": 100.0,
       "shares": 1000,
-      "held_days": 0
+      "held_days": 1
     },
     {
       "signal_date": "2026-10-13",
@@ -4455,11 +4507,11 @@
       "name": "長榮",
       "score": 93.18518518518518,
       "status": "active",
-      "last_processed_date": "2026-10-14",
+      "last_processed_date": "2026-10-15",
       "entry_date": "2026-10-14",
       "entry_price": 263.0,
       "shares": 380,
-      "held_days": 0
+      "held_days": 1
     },
     {
       "signal_date": "2026-10-13",
@@ -4468,12 +4520,16 @@
       "code": "8996",
       "name": "高力",
       "score": 92.53703703703704,
-      "status": "active",
-      "last_processed_date": "2026-10-14",
+      "status": "completed",
+      "last_processed_date": "2026-10-15",
       "entry_date": "2026-10-14",
       "entry_price": 1685.0,
       "shares": 59,
-      "held_days": 0
+      "held_days": 1,
+      "exit_date": "2026-10-15",
+      "exit_price": 1600.75,
+      "reason": "stop",
+      "return_pct": -5.56329527737263
     },
     {
       "signal_date": "2026-10-13",
@@ -4483,11 +4539,11 @@
       "name": "敦陽科",
       "score": 89.31481481481482,
       "status": "active",
-      "last_processed_date": "2026-10-14",
+      "last_processed_date": "2026-10-15",
       "entry_date": "2026-10-14",
       "entry_price": 190.0,
       "shares": 526,
-      "held_days": 0
+      "held_days": 1
     },
     {
       "signal_date": "2026-10-13",
@@ -4497,11 +4553,11 @@
       "name": "融程電",
       "score": 87.39814814814815,
       "status": "active",
-      "last_processed_date": "2026-10-14",
+      "last_processed_date": "2026-10-15",
       "entry_date": "2026-10-14",
       "entry_price": 180.5,
       "shares": 554,
-      "held_days": 0
+      "held_days": 1
     },
     {
       "signal_date": "2026-10-13",
@@ -4511,11 +4567,11 @@
       "name": "和碩",
       "score": 86.70370370370372,
       "status": "active",
-      "last_processed_date": "2026-10-14",
+      "last_processed_date": "2026-10-15",
       "entry_date": "2026-10-14",
       "entry_price": 100.0,
       "shares": 1000,
-      "held_days": 0
+      "held_days": 1
     },
     {
       "signal_date": "2026-10-14",
@@ -4524,7 +4580,12 @@
       "code": "3311",
       "name": "閎暉",
       "score": 98.56492027334852,
-      "status": "waiting_entry"
+      "status": "active",
+      "last_processed_date": "2026-10-15",
+      "entry_date": "2026-10-15",
+      "entry_price": 50.7,
+      "shares": 1972,
+      "held_days": 0
     },
     {
       "signal_date": "2026-10-14",
@@ -4533,7 +4594,12 @@
       "code": "6834",
       "name": "天二科技",
       "score": 97.99544419134395,
-      "status": "waiting_entry"
+      "status": "active",
+      "last_processed_date": "2026-10-15",
+      "entry_date": "2026-10-15",
+      "entry_price": 146.5,
+      "shares": 682,
+      "held_days": 0
     },
     {
       "signal_date": "2026-10-14",
@@ -4542,7 +4608,12 @@
       "code": "1312",
       "name": "國喬",
       "score": 97.34624145785877,
-      "status": "waiting_entry"
+      "status": "active",
+      "last_processed_date": "2026-10-15",
+      "entry_date": "2026-10-15",
+      "entry_price": 17.05,
+      "shares": 5865,
+      "held_days": 0
     },
     {
       "signal_date": "2026-10-14",
@@ -4551,7 +4622,12 @@
       "code": "4977",
       "name": "眾達-KY",
       "score": 95.3644646924829,
-      "status": "waiting_entry"
+      "status": "active",
+      "last_processed_date": "2026-10-15",
+      "entry_date": "2026-10-15",
+      "entry_price": 188.0,
+      "shares": 531,
+      "held_days": 0
     },
     {
       "signal_date": "2026-10-14",
@@ -4560,7 +4636,12 @@
       "code": "6505",
       "name": "台塑化",
       "score": 94.76082004555808,
-      "status": "waiting_entry"
+      "status": "active",
+      "last_processed_date": "2026-10-15",
+      "entry_date": "2026-10-15",
+      "entry_price": 111.5,
+      "shares": 896,
+      "held_days": 0
     },
     {
       "signal_date": "2026-10-14",
@@ -4569,7 +4650,12 @@
       "code": "2603",
       "name": "長榮",
       "score": 90.06833712984054,
-      "status": "waiting_entry"
+      "status": "active",
+      "last_processed_date": "2026-10-15",
+      "entry_date": "2026-10-15",
+      "entry_price": 257.0,
+      "shares": 389,
+      "held_days": 0
     },
     {
       "signal_date": "2026-10-14",
@@ -4578,7 +4664,12 @@
       "code": "6505",
       "name": "台塑化",
       "score": 89.1116173120729,
-      "status": "waiting_entry"
+      "status": "active",
+      "last_processed_date": "2026-10-15",
+      "entry_date": "2026-10-15",
+      "entry_price": 111.5,
+      "shares": 896,
+      "held_days": 0
     },
     {
       "signal_date": "2026-10-14",
@@ -4587,7 +4678,12 @@
       "code": "1303",
       "name": "南亞",
       "score": 88.75626423690206,
-      "status": "waiting_entry"
+      "status": "active",
+      "last_processed_date": "2026-10-15",
+      "entry_date": "2026-10-15",
+      "entry_price": 314.5,
+      "shares": 317,
+      "held_days": 0
     },
     {
       "signal_date": "2026-10-14",
@@ -4596,7 +4692,12 @@
       "code": "2480",
       "name": "敦陽科",
       "score": 87.30751708428247,
-      "status": "waiting_entry"
+      "status": "active",
+      "last_processed_date": "2026-10-15",
+      "entry_date": "2026-10-15",
+      "entry_price": 190.0,
+      "shares": 526,
+      "held_days": 0
     },
     {
       "signal_date": "2026-10-14",
@@ -4605,6 +4706,101 @@
       "code": "2347",
       "name": "聯強",
       "score": 86.44191343963554,
+      "status": "active",
+      "last_processed_date": "2026-10-15",
+      "entry_date": "2026-10-15",
+      "entry_price": 102.5,
+      "shares": 975,
+      "held_days": 0
+    },
+    {
+      "signal_date": "2026-10-15",
+      "variant": "revenue_only",
+      "rank": 1,
+      "code": "4977",
+      "name": "眾達-KY",
+      "score": 96.55480984340045,
+      "status": "waiting_entry"
+    },
+    {
+      "signal_date": "2026-10-15",
+      "variant": "revenue_only",
+      "rank": 2,
+      "code": "1312",
+      "name": "國喬",
+      "score": 96.18568232662193,
+      "status": "waiting_entry"
+    },
+    {
+      "signal_date": "2026-10-15",
+      "variant": "revenue_only",
+      "rank": 3,
+      "code": "6933",
+      "name": "AMAX-KY",
+      "score": 95.8724832214765,
+      "status": "waiting_entry"
+    },
+    {
+      "signal_date": "2026-10-15",
+      "variant": "revenue_only",
+      "rank": 4,
+      "code": "4938",
+      "name": "和碩",
+      "score": 92.81879194630872,
+      "status": "waiting_entry"
+    },
+    {
+      "signal_date": "2026-10-15",
+      "variant": "revenue_only",
+      "rank": 5,
+      "code": "2355",
+      "name": "敬鵬",
+      "score": 92.71812080536913,
+      "status": "waiting_entry"
+    },
+    {
+      "signal_date": "2026-10-15",
+      "variant": "with_eps",
+      "rank": 1,
+      "code": "6933",
+      "name": "AMAX-KY",
+      "score": 91.95525727069351,
+      "status": "waiting_entry"
+    },
+    {
+      "signal_date": "2026-10-15",
+      "variant": "with_eps",
+      "rank": 2,
+      "code": "2603",
+      "name": "長榮",
+      "score": 87.84787472035794,
+      "status": "waiting_entry"
+    },
+    {
+      "signal_date": "2026-10-15",
+      "variant": "with_eps",
+      "rank": 3,
+      "code": "2480",
+      "name": "敦陽科",
+      "score": 87.19463087248323,
+      "status": "waiting_entry"
+    },
+    {
+      "signal_date": "2026-10-15",
+      "variant": "with_eps",
+      "rank": 4,
+      "code": "2347",
+      "name": "聯強",
+      "score": 86.79194630872483,
+      "status": "waiting_entry"
+    },
+    {
+      "signal_date": "2026-10-15",
+      "variant": "with_eps",
+      "rank": 5,
+      "code": "3010",
+      "name": "華立",
+      "score": 85.14541387024609,
       "status": "waiting_entry"
     }
   ]

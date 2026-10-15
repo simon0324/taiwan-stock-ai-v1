@@ -7810,5 +7810,335 @@
         ]
       }
     ]
+  },
+  {
+    "market_date": "2026-10-15",
+    "observed_at": "2026-10-15T20:11:04.005437+08:00",
+    "rules_version": "events-1",
+    "sources": [
+      {
+        "source": "證交所・公司重大訊息",
+        "status": "ok",
+        "invalid_rows": 0
+      },
+      {
+        "source": "中央通訊社・產經",
+        "status": "ok",
+        "invalid_rows": 0
+      },
+      {
+        "source": "中央通訊社・科技",
+        "status": "ok",
+        "invalid_rows": 0
+      }
+    ],
+    "original": [
+      {
+        "code": "6933",
+        "name": "AMAX-KY",
+        "price": 410.5,
+        "avg_value": 903044943.15,
+        "revenue": 228.85934642088725,
+        "eps": 6.43,
+        "foreign": 0,
+        "momentum": 6.485084306095978,
+        "volume_ratio": 2.358443229382254,
+        "trend": 100.0,
+        "atr": 26.928571428571427,
+        "atr_pct": 6.559944318775013,
+        "news": 0,
+        "stable": 87.48322147651008,
+        "growth": 87.57270693512304,
+        "strong": 89.00447427293065,
+        "overall": 88.02013422818793,
+        "entry_low": 408.4475,
+        "entry_high": 412.55249999999995,
+        "fixed_stop": 389.97499999999997,
+        "fixed_target": 443.34000000000003,
+        "dynamic_stop": 370.1071428571429,
+        "dynamic_target": 491.2857142857142,
+        "risk_flags": [
+          "波動偏高"
+        ]
+      },
+      {
+        "code": "2603",
+        "name": "長榮",
+        "price": 257.0,
+        "avg_value": 3111387070.55,
+        "revenue": 63.74746109181468,
+        "eps": 11.24,
+        "foreign": 0,
+        "momentum": 10.537634408602159,
+        "volume_ratio": 1.2571458643069342,
+        "trend": 100.0,
+        "atr": 7.464285714285714,
+        "atr_pct": 2.904391328515842,
+        "news": 0,
+        "stable": 82.72930648769574,
+        "growth": 86.09619686800895,
+        "strong": 81.54362416107384,
+        "overall": 83.45637583892618,
+        "entry_low": 255.715,
+        "entry_high": 258.28499999999997,
+        "fixed_stop": 244.14999999999998,
+        "fixed_target": 277.56,
+        "dynamic_stop": 245.80357142857142,
+        "dynamic_target": 279.39285714285717,
+        "risk_flags": [
+          "一般"
+        ]
+      },
+      {
+        "code": "2347",
+        "name": "聯強",
+        "price": 102.5,
+        "avg_value": 357202432.0,
+        "revenue": 158.6674544463884,
+        "eps": 4.12,
+        "foreign": 0,
+        "momentum": 5.8884297520661155,
+        "volume_ratio": 1.5388278627397476,
+        "trend": 100.0,
+        "atr": 2.8214285714285703,
+        "atr_pct": 2.752613240418117,
+        "news": 0,
+        "stable": 82.31543624161074,
+        "growth": 84.26174496644296,
+        "strong": 83.41163310961969,
+        "overall": 83.3296047725578,
+        "entry_low": 101.9875,
+        "entry_high": 103.01249999999999,
+        "fixed_stop": 97.375,
+        "fixed_target": 110.7,
+        "dynamic_stop": 98.26785714285714,
+        "dynamic_target": 110.96428571428572,
+        "risk_flags": [
+          "一般"
+        ]
+      },
+      {
+        "code": "6446",
+        "name": "藥華藥",
+        "price": 1205.0,
+        "avg_value": 3018549873.0,
+        "revenue": 99.97586958649728,
+        "eps": 11.35,
+        "foreign": 0,
+        "momentum": 0.0,
+        "volume_ratio": 1.3352599392350673,
+        "trend": 100.0,
+        "atr": 43.92857142857143,
+        "atr_pct": 3.6455245998814467,
+        "news": 0,
+        "stable": 85.78299776286353,
+        "growth": 85.63758389261746,
+        "strong": 77.18120805369128,
+        "overall": 82.86726323639076,
+        "entry_low": 1198.975,
+        "entry_high": 1211.0249999999999,
+        "fixed_stop": 1144.75,
+        "fixed_target": 1301.4,
+        "dynamic_stop": 1139.107142857143,
+        "dynamic_target": 1336.7857142857142,
+        "risk_flags": [
+          "一般"
+        ]
+      },
+      {
+        "code": "6415",
+        "name": "矽力*-KY",
+        "price": 466.5,
+        "avg_value": 1318280919.1,
+        "revenue": 50.70369959160158,
+        "eps": 6.03,
+        "foreign": 0,
+        "momentum": 2.190580503833517,
+        "volume_ratio": 4.749534097993758,
+        "trend": 100.0,
+        "atr": 22.285714285714285,
+        "atr_pct": 4.777216352779053,
+        "news": 0,
+        "stable": 82.81879194630872,
+        "growth": 79.41834451901566,
+        "strong": 83.94854586129755,
+        "overall": 82.06189410887397,
+        "entry_low": 464.1675,
+        "entry_high": 468.8324999999999,
+        "fixed_stop": 443.17499999999995,
+        "fixed_target": 503.82000000000005,
+        "dynamic_stop": 433.07142857142856,
+        "dynamic_target": 533.3571428571429,
+        "risk_flags": [
+          "波動偏高",
+          "爆量"
+        ]
+      }
+    ],
+    "message": [
+      {
+        "code": "6933",
+        "name": "AMAX-KY",
+        "original_score": 88.02013422818793,
+        "message_score": 50.0,
+        "score": 84.21812080536914,
+        "evidence_status": "未知／未達門檻",
+        "contributions": [
+          {
+            "category": "訂單",
+            "points": 0.0
+          },
+          {
+            "category": "新聞話題",
+            "points": 0.0
+          },
+          {
+            "category": "龍頭地位",
+            "points": 0.0
+          },
+          {
+            "category": "專利技術",
+            "points": 0.0
+          }
+        ],
+        "events": []
+      },
+      {
+        "code": "2603",
+        "name": "長榮",
+        "original_score": 83.45637583892618,
+        "message_score": 50.0,
+        "score": 80.11073825503357,
+        "evidence_status": "未知／未達門檻",
+        "contributions": [
+          {
+            "category": "訂單",
+            "points": 0.0
+          },
+          {
+            "category": "新聞話題",
+            "points": 0.0
+          },
+          {
+            "category": "龍頭地位",
+            "points": 0.0
+          },
+          {
+            "category": "專利技術",
+            "points": 0.0
+          }
+        ],
+        "events": [
+          {
+            "id": "8c8f9426748f4c21cd3cd5a1",
+            "code": "2603",
+            "title": "公告本公司受邀參加永豐金證券舉辦之法人說明會",
+            "published_at": "2026-10-05T17:07:47+08:00",
+            "first_seen_at": "2026-10-06T10:29:25.682094+08:00",
+            "source": "證交所・公司重大訊息",
+            "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+            "official": true,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+          }
+        ]
+      },
+      {
+        "code": "2347",
+        "name": "聯強",
+        "original_score": 83.3296047725578,
+        "message_score": 50.0,
+        "score": 79.99664429530202,
+        "evidence_status": "未知／未達門檻",
+        "contributions": [
+          {
+            "category": "訂單",
+            "points": 0.0
+          },
+          {
+            "category": "新聞話題",
+            "points": 0.0
+          },
+          {
+            "category": "龍頭地位",
+            "points": 0.0
+          },
+          {
+            "category": "專利技術",
+            "points": 0.0
+          }
+        ],
+        "events": []
+      },
+      {
+        "code": "6446",
+        "name": "藥華藥",
+        "original_score": 82.86726323639076,
+        "message_score": 50.0,
+        "score": 79.58053691275168,
+        "evidence_status": "未知／未達門檻",
+        "contributions": [
+          {
+            "category": "訂單",
+            "points": 0.0
+          },
+          {
+            "category": "新聞話題",
+            "points": 0.0
+          },
+          {
+            "category": "龍頭地位",
+            "points": 0.0
+          },
+          {
+            "category": "專利技術",
+            "points": 0.0
+          }
+        ],
+        "events": [
+          {
+            "id": "5af681c09b465c634907065f",
+            "code": "6446",
+            "title": "本公司代子公司PharmaEssentia Singapore Pte. Ltd.公告\r\n向新加坡衛生科學局申請新藥BESREMi新增適應症，新增適應\r\n症為原發性血小板過多症（ET）",
+            "published_at": "2026-10-12T21:01:10+08:00",
+            "first_seen_at": "2026-10-13T11:16:32.690293+08:00",
+            "source": "證交所・公司重大訊息",
+            "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+            "official": true,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+          }
+        ]
+      },
+      {
+        "code": "6415",
+        "name": "矽力*-KY",
+        "original_score": 82.06189410887397,
+        "message_score": 50.0,
+        "score": 78.85570469798658,
+        "evidence_status": "未知／未達門檻",
+        "contributions": [
+          {
+            "category": "訂單",
+            "points": 0.0
+          },
+          {
+            "category": "新聞話題",
+            "points": 0.0
+          },
+          {
+            "category": "龍頭地位",
+            "points": 0.0
+          },
+          {
+            "category": "專利技術",
+            "points": 0.0
+          }
+        ],
+        "events": []
+      }
+    ]
   }
 ]
