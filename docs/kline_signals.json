@@ -3022,27 +3022,82 @@
       {
         "code": "2059",
         "name": "川湖",
-        "predicted_up_probability": 70.638
+        "predicted_up_probability": 70.638,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "7788",
         "name": "松川精密",
-        "predicted_up_probability": 56.474666666666664
+        "predicted_up_probability": 56.474666666666664,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "8112",
         "name": "至上",
-        "predicted_up_probability": 56.474666666666664
+        "predicted_up_probability": 56.474666666666664,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "3661",
         "name": "世芯-KY",
-        "predicted_up_probability": 55.260666666666665
+        "predicted_up_probability": 55.260666666666665,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "7610",
         "name": "聯友金屬-創",
-        "predicted_up_probability": 55.260666666666665
+        "predicted_up_probability": 55.260666666666665,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       }
     ]
   }
