@@ -1,6 +1,6 @@
 {
   "rules_version": "global-rules-1",
-  "as_of": "2026-10-16T08:33:13.119479+08:00",
+  "as_of": "2026-10-16T19:57:55.275990+08:00",
   "sources": [
     {
       "source": "中央通訊社・國際",
@@ -14,6 +14,48 @@
     }
   ],
   "events": [
+    {
+      "id": "3633d2430ef88ddd28236e3c",
+      "title": "Fed主席華許表態後　10月維持利率不變預期升溫",
+      "url": "https://www.cna.com.tw/news/aopl/202610160265.aspx",
+      "source": "中央通訊社・國際",
+      "published_at": "2026-10-16T17:53:04+08:00",
+      "first_seen_at": "2026-10-16T19:57:55.275990+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "利率政策",
+          "industry": "金融、負債敏感與出口產業",
+          "possible_benefit": "若融資成本下降，負債敏感企業可能改善。",
+          "possible_risk": "若利差收窄或匯率不利，部分企業可能承壓。",
+          "verify_next": "核對實際決議與預期、幣別及企業負債結構。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
+    {
+      "id": "11bc1c44afaf7d49100ca006",
+      "title": "美伊戰爭衝擊硫磺供應　肥料短缺恐危及亞非糧食安全",
+      "url": "https://www.cna.com.tw/news/aopl/202610160106.aspx",
+      "source": "中央通訊社・國際",
+      "published_at": "2026-10-16T12:20:19+08:00",
+      "first_seen_at": "2026-10-16T19:57:55.275990+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "衝突／航運",
+          "industry": "航運、物流、能源與出口產業",
+          "possible_benefit": "若供給受限推升運價，部分運輸商可能受益。",
+          "possible_risk": "繞航、保險、交期與燃料成本也可能增加。",
+          "verify_next": "核對事件是否已發生、航線曝險與實際成本，不把衝突直接當買進訊號。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
     {
       "id": "03abf3e1dcb33dbf5396a49c",
       "title": "美考慮對全球「影子艦隊」放寬制裁　布倫特原油價格持穩",
@@ -490,27 +532,6 @@
       "source": "中央通訊社・產經",
       "published_at": "2026-10-11T09:21:49+08:00",
       "first_seen_at": "2026-10-12T09:38:23.726365+08:00",
-      "certainty": "媒體標題報導；未獨立查證",
-      "channels": [
-        {
-          "category": "能源供應",
-          "industry": "能源、石化、航空與運輸",
-          "possible_benefit": "若能源售價上升且成本可控，部分上游企業可能受益。",
-          "possible_risk": "若燃料成本提高，未避險的用能企業可能承壓。",
-          "verify_next": "核對價格方向、持續性、庫存、避險與成本轉嫁，油價下跌時可能相反。"
-        }
-      ],
-      "beneficiary_stocks": [],
-      "adversely_affected_stocks": [],
-      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
-    },
-    {
-      "id": "410bb52b1d38c4ceff703219",
-      "title": "川普排除選前攻擊伊朗　亞股多收紅油價回落",
-      "url": "https://www.cna.com.tw/news/afe/202610090172.aspx",
-      "source": "中央通訊社・產經",
-      "published_at": "2026-10-09T16:40:21+08:00",
-      "first_seen_at": "2026-10-09T21:51:01.420893+08:00",
       "certainty": "媒體標題報導；未獨立查證",
       "channels": [
         {
