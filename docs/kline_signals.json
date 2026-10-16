@@ -3184,27 +3184,82 @@
       {
         "code": "2059",
         "name": "川湖",
-        "predicted_up_probability": 72.608
+        "predicted_up_probability": 72.608,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "7610",
         "name": "聯友金屬-創",
-        "predicted_up_probability": 71.352
+        "predicted_up_probability": 71.352,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "7822",
         "name": "倍利科",
-        "predicted_up_probability": 68.42133333333334
+        "predicted_up_probability": 68.42133333333334,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "2308",
         "name": "台達電",
-        "predicted_up_probability": 68.00266666666667
+        "predicted_up_probability": 68.00266666666667,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "7769",
         "name": "鴻勁",
-        "predicted_up_probability": 65.072
+        "predicted_up_probability": 65.072,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       }
     ]
   }

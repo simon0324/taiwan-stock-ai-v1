@@ -1446,7 +1446,7 @@
     "name": "AMAX-KY",
     "entry_price": 410.5,
     "latest_price": 410.5,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-10-15"
@@ -1457,7 +1457,7 @@
     "name": "長榮",
     "entry_price": 257.0,
     "latest_price": 257.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-10-15"
@@ -1468,7 +1468,7 @@
     "name": "聯強",
     "entry_price": 102.5,
     "latest_price": 102.5,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-10-15"
@@ -1479,7 +1479,7 @@
     "name": "藥華藥",
     "entry_price": 1205.0,
     "latest_price": 1205.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-10-15"
@@ -1490,7 +1490,7 @@
     "name": "矽力*-KY",
     "entry_price": 466.5,
     "latest_price": 466.5,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-10-15"

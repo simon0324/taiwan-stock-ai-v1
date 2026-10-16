@@ -1,6 +1,6 @@
 {
   "rules_version": "global-rules-1",
-  "as_of": "2026-10-15T20:11:11.534482+08:00",
+  "as_of": "2026-10-16T08:33:13.119479+08:00",
   "sources": [
     {
       "source": "中央通訊社・國際",
@@ -14,6 +14,48 @@
     }
   ],
   "events": [
+    {
+      "id": "03abf3e1dcb33dbf5396a49c",
+      "title": "美考慮對全球「影子艦隊」放寬制裁　布倫特原油價格持穩",
+      "url": "https://www.cna.com.tw/news/afe/202610160007.aspx",
+      "source": "中央通訊社・產經",
+      "published_at": "2026-10-16T04:37:41+08:00",
+      "first_seen_at": "2026-10-16T08:33:13.119479+08:00",
+      "certainty": "推測／待確認",
+      "channels": [
+        {
+          "category": "能源供應",
+          "industry": "能源、石化、航空與運輸",
+          "possible_benefit": "若能源售價上升且成本可控，部分上游企業可能受益。",
+          "possible_risk": "若燃料成本提高，未避險的用能企業可能承壓。",
+          "verify_next": "核對價格方向、持續性、庫存、避險與成本轉嫁，油價下跌時可能相反。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
+    {
+      "id": "1dabd1eb782715d48b4b2ef3",
+      "title": "烏克蘭飛彈空襲俄國　稱擊損6架Su-34M戰鬥轟炸機",
+      "url": "https://www.cna.com.tw/news/aopl/202610150342.aspx",
+      "source": "中央通訊社・國際",
+      "published_at": "2026-10-15T21:13:26+08:00",
+      "first_seen_at": "2026-10-16T08:33:13.119479+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "衝突／航運",
+          "industry": "航運、物流、能源與出口產業",
+          "possible_benefit": "若供給受限推升運價，部分運輸商可能受益。",
+          "possible_risk": "繞航、保險、交期與燃料成本也可能增加。",
+          "verify_next": "核對事件是否已發生、航線曝險與實際成本，不把衝突直接當買進訊號。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
     {
       "id": "b279497337baaeef7b841e28",
       "title": "烏克蘭中部遭俄軍大規模無人機空襲　釀3死6傷",
@@ -469,48 +511,6 @@
       "source": "中央通訊社・產經",
       "published_at": "2026-10-09T16:40:21+08:00",
       "first_seen_at": "2026-10-09T21:51:01.420893+08:00",
-      "certainty": "媒體標題報導；未獨立查證",
-      "channels": [
-        {
-          "category": "能源供應",
-          "industry": "能源、石化、航空與運輸",
-          "possible_benefit": "若能源售價上升且成本可控，部分上游企業可能受益。",
-          "possible_risk": "若燃料成本提高，未避險的用能企業可能承壓。",
-          "verify_next": "核對價格方向、持續性、庫存、避險與成本轉嫁，油價下跌時可能相反。"
-        }
-      ],
-      "beneficiary_stocks": [],
-      "adversely_affected_stocks": [],
-      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
-    },
-    {
-      "id": "98fca74e32c06a7bf2892850",
-      "title": "中東緊張及颶風影響　國際油價大漲",
-      "url": "https://www.cna.com.tw/news/afe/202610090008.aspx",
-      "source": "中央通訊社・產經",
-      "published_at": "2026-10-09T04:41:21+08:00",
-      "first_seen_at": "2026-10-09T10:22:02.475246+08:00",
-      "certainty": "媒體標題報導；未獨立查證",
-      "channels": [
-        {
-          "category": "能源供應",
-          "industry": "能源、石化、航空與運輸",
-          "possible_benefit": "若能源售價上升且成本可控，部分上游企業可能受益。",
-          "possible_risk": "若燃料成本提高，未避險的用能企業可能承壓。",
-          "verify_next": "核對價格方向、持續性、庫存、避險與成本轉嫁，油價下跌時可能相反。"
-        }
-      ],
-      "beneficiary_stocks": [],
-      "adversely_affected_stocks": [],
-      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
-    },
-    {
-      "id": "d9298b6089efd15da83d1ca1",
-      "title": "國際油價升、美債殖利率徘徊高點　華爾街股市開低",
-      "url": "https://www.cna.com.tw/news/afe/202610080371.aspx",
-      "source": "中央通訊社・產經",
-      "published_at": "2026-10-08T21:55:12+08:00",
-      "first_seen_at": "2026-10-08T22:06:32.904948+08:00",
       "certainty": "媒體標題報導；未獨立查證",
       "channels": [
         {
