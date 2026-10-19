@@ -1,6 +1,6 @@
 {
   "rules_version": "global-rules-1",
-  "as_of": "2026-10-16T19:57:55.275990+08:00",
+  "as_of": "2026-10-19T08:18:25.012508+08:00",
   "sources": [
     {
       "source": "中央通訊社・國際",
@@ -14,6 +14,48 @@
     }
   ],
   "events": [
+    {
+      "id": "b812c1c687974bf3b4787581",
+      "title": "川普為放寬俄羅斯制裁辯護　抨擊澤倫斯基不想結束戰爭",
+      "url": "https://www.cna.com.tw/news/aopl/202610190006.aspx",
+      "source": "中央通訊社・國際",
+      "published_at": "2026-10-19T06:22:03+08:00",
+      "first_seen_at": "2026-10-19T08:18:25.012508+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "衝突／航運",
+          "industry": "航運、物流、能源與出口產業",
+          "possible_benefit": "若供給受限推升運價，部分運輸商可能受益。",
+          "possible_risk": "繞航、保險、交期與燃料成本也可能增加。",
+          "verify_next": "核對事件是否已發生、航線曝險與實際成本，不把衝突直接當買進訊號。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
+    {
+      "id": "f9800598a1d87b2c86a0693b",
+      "title": "澤倫斯基稱美國恢復情報分享　助烏克蘭防俄軍空襲",
+      "url": "https://www.cna.com.tw/news/aopl/202610180195.aspx",
+      "source": "中央通訊社・國際",
+      "published_at": "2026-10-18T23:05:36+08:00",
+      "first_seen_at": "2026-10-19T08:18:25.012508+08:00",
+      "certainty": "媒體標題報導；未獨立查證",
+      "channels": [
+        {
+          "category": "衝突／航運",
+          "industry": "航運、物流、能源與出口產業",
+          "possible_benefit": "若供給受限推升運價，部分運輸商可能受益。",
+          "possible_risk": "繞航、保險、交期與燃料成本也可能增加。",
+          "verify_next": "核對事件是否已發生、航線曝險與實際成本，不把衝突直接當買進訊號。"
+        }
+      ],
+      "beneficiary_stocks": [],
+      "adversely_affected_stocks": [],
+      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
+    },
     {
       "id": "3633d2430ef88ddd28236e3c",
       "title": "Fed主席華許表態後　10月維持利率不變預期升溫",
@@ -435,111 +477,6 @@
           "possible_benefit": "若供給受限推升運價，部分運輸商可能受益。",
           "possible_risk": "繞航、保險、交期與燃料成本也可能增加。",
           "verify_next": "核對事件是否已發生、航線曝險與實際成本，不把衝突直接當買進訊號。"
-        }
-      ],
-      "beneficiary_stocks": [],
-      "adversely_affected_stocks": [],
-      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
-    },
-    {
-      "id": "bb58ed8205d8d3a974d7ed67",
-      "title": "伊朗：美國對重開荷莫茲海峽提案所作回應有所不足",
-      "url": "https://www.cna.com.tw/news/aopl/202610120005.aspx",
-      "source": "中央通訊社・國際",
-      "published_at": "2026-10-12T03:35:08+08:00",
-      "first_seen_at": "2026-10-12T09:38:23.726365+08:00",
-      "certainty": "媒體標題報導；未獨立查證",
-      "channels": [
-        {
-          "category": "衝突／航運",
-          "industry": "航運、物流、能源與出口產業",
-          "possible_benefit": "若供給受限推升運價，部分運輸商可能受益。",
-          "possible_risk": "繞航、保險、交期與燃料成本也可能增加。",
-          "verify_next": "核對事件是否已發生、航線曝險與實際成本，不把衝突直接當買進訊號。"
-        }
-      ],
-      "beneficiary_stocks": [],
-      "adversely_affected_stocks": [],
-      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
-    },
-    {
-      "id": "5e7055f860eb5be72c726274",
-      "title": "川普貿易戰使美國製造商承壓　民主黨盼期中選舉藉此反攻",
-      "url": "https://www.cna.com.tw/news/aopl/202610110156.aspx",
-      "source": "中央通訊社・產經",
-      "published_at": "2026-10-11T17:35:39+08:00",
-      "first_seen_at": "2026-10-12T09:38:23.726365+08:00",
-      "certainty": "媒體標題報導；未獨立查證",
-      "channels": [
-        {
-          "category": "關稅／貿易",
-          "industry": "出口製造、電子、機械",
-          "possible_benefit": "若關稅下降或訂單轉移，部分出口商可能受益。",
-          "possible_risk": "若成本提高且無法轉嫁，利潤可能承壓。",
-          "verify_next": "核對原產地、稅率、生效日與企業產地；不能將降稅與加稅視為同方向。"
-        }
-      ],
-      "beneficiary_stocks": [],
-      "adversely_affected_stocks": [],
-      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
-    },
-    {
-      "id": "61e329aa109904b7769ae18d",
-      "title": "貨櫃航運美強歐弱　紅海復航中、塞港難解撐運價",
-      "url": "https://www.cna.com.tw/news/afe/202610110047.aspx",
-      "source": "中央通訊社・產經",
-      "published_at": "2026-10-11T11:02:39+08:00",
-      "first_seen_at": "2026-10-12T09:38:23.726365+08:00",
-      "certainty": "媒體標題報導；未獨立查證",
-      "channels": [
-        {
-          "category": "衝突／航運",
-          "industry": "航運、物流、能源與出口產業",
-          "possible_benefit": "若供給受限推升運價，部分運輸商可能受益。",
-          "possible_risk": "繞航、保險、交期與燃料成本也可能增加。",
-          "verify_next": "核對事件是否已發生、航線曝險與實際成本，不把衝突直接當買進訊號。"
-        }
-      ],
-      "beneficiary_stocks": [],
-      "adversely_affected_stocks": [],
-      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
-    },
-    {
-      "id": "78fbdf1706fee9efb7855874",
-      "title": "美國房貸利率破7%換屋難　改裝舊屋成另類選擇",
-      "url": "https://www.cna.com.tw/news/aopl/202610110046.aspx",
-      "source": "中央通訊社・產經",
-      "published_at": "2026-10-11T11:01:37+08:00",
-      "first_seen_at": "2026-10-12T09:38:23.726365+08:00",
-      "certainty": "媒體標題報導；未獨立查證",
-      "channels": [
-        {
-          "category": "利率政策",
-          "industry": "金融、負債敏感與出口產業",
-          "possible_benefit": "若融資成本下降，負債敏感企業可能改善。",
-          "possible_risk": "若利差收窄或匯率不利，部分企業可能承壓。",
-          "verify_next": "核對實際決議與預期、幣別及企業負債結構。"
-        }
-      ],
-      "beneficiary_stocks": [],
-      "adversely_affected_stocks": [],
-      "company_evidence_status": "未取得可核對的公司營運關聯證據，不自動推定個股受益／受損"
-    },
-    {
-      "id": "d082dc7dca38421cbde0d899",
-      "title": "颶風衝擊石油供應　美釋出最多400萬桶戰略儲油",
-      "url": "https://www.cna.com.tw/news/aopl/202610110024.aspx",
-      "source": "中央通訊社・產經",
-      "published_at": "2026-10-11T09:21:49+08:00",
-      "first_seen_at": "2026-10-12T09:38:23.726365+08:00",
-      "certainty": "媒體標題報導；未獨立查證",
-      "channels": [
-        {
-          "category": "能源供應",
-          "industry": "能源、石化、航空與運輸",
-          "possible_benefit": "若能源售價上升且成本可控，部分上游企業可能受益。",
-          "possible_risk": "若燃料成本提高，未避險的用能企業可能承壓。",
-          "verify_next": "核對價格方向、持續性、庫存、避險與成本轉嫁，油價下跌時可能相反。"
         }
       ],
       "beneficiary_stocks": [],

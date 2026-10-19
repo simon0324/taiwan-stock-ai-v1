@@ -1,5 +1,57 @@
 [
   {
+    "id": "b912c22bf4450a990b6a498c",
+    "code": "3701",
+    "title": "代子公司 PRO3C (Malaysia) Sdn. Bhd.公告與\r\nCape EMS Berhad 簽署RCPS協議",
+    "published_at": "2026-10-18T21:07:46+08:00",
+    "first_seen_at": "2026-10-19T08:18:22.824550+08:00",
+    "source": "證交所・公司重大訊息",
+    "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+    "official": true,
+    "category": "待查證",
+    "direction": 0,
+    "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+  },
+  {
+    "id": "162c29691cc3f049147356c0",
+    "code": "3701",
+    "title": "代子公司 PRO3C (Malaysia) Sdn. Bhd.\r\n公告與Cape EMS Berhad 簽署策略合作備忘錄（MOA）",
+    "published_at": "2026-10-18T21:07:23+08:00",
+    "first_seen_at": "2026-10-19T08:18:22.824550+08:00",
+    "source": "證交所・公司重大訊息",
+    "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+    "official": true,
+    "category": "待查證",
+    "direction": 0,
+    "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+  },
+  {
+    "id": "62d3f330f4d079e3f11957cc",
+    "code": "2330",
+    "title": "韓媒：三星應輝達要求　下一代HBM基礎晶粒採台積電3奈米",
+    "published_at": "2026-10-18T20:48:47+08:00",
+    "first_seen_at": "2026-10-19T08:18:22.824550+08:00",
+    "source": "中央通訊社・產經",
+    "url": "https://www.cna.com.tw/news/aopl/202610180176.aspx",
+    "official": false,
+    "category": "待查證",
+    "direction": 0,
+    "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+  },
+  {
+    "id": "c8be5d9adb84ccd4a4370bad",
+    "code": "1301",
+    "title": "台塑石化：19日起汽柴油不漲價",
+    "published_at": "2026-10-18T13:42:25+08:00",
+    "first_seen_at": "2026-10-19T08:18:22.824550+08:00",
+    "source": "中央通訊社・產經",
+    "url": "https://www.cna.com.tw/news/afe/202610180085.aspx",
+    "official": false,
+    "category": "待查證",
+    "direction": 0,
+    "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+  },
+  {
     "id": "e03c322129d33f0ec464cf44",
     "code": "2330",
     "title": "外資連8日賣超台股　今調節台積電2.2萬張",
@@ -5159,57 +5211,5 @@
     "category": "待查證",
     "direction": 0,
     "reason": "含推測、否認或澄清語句，僅列入觀察"
-  },
-  {
-    "id": "eca0072baa1086f805f40c37",
-    "code": "2891",
-    "title": "代子公司The Tokyo Star Bank, Limited公告董事辭世",
-    "published_at": "2026-10-04T18:04:41+08:00",
-    "first_seen_at": "2026-10-05T09:06:54.989591+08:00",
-    "source": "證交所・公司重大訊息",
-    "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
-    "official": true,
-    "category": "待查證",
-    "direction": 0,
-    "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-  },
-  {
-    "id": "cd57d025706eb265e569e9d2",
-    "code": "1301",
-    "title": "台塑石化：5日起汽柴油不漲價",
-    "published_at": "2026-10-04T14:05:32+08:00",
-    "first_seen_at": "2026-10-05T09:06:54.989591+08:00",
-    "source": "中央通訊社・產經",
-    "url": "https://www.cna.com.tw/news/afe/202610040091.aspx",
-    "official": false,
-    "category": "待查證",
-    "direction": 0,
-    "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-  },
-  {
-    "id": "bb3e9654dd9ab14c04f96d8d",
-    "code": "2330",
-    "title": "傳台積電評估與Terafab合作　馬斯克證實討論中",
-    "published_at": "2026-10-03T19:30:42+08:00",
-    "first_seen_at": "2026-10-05T09:06:54.989591+08:00",
-    "source": "中央通訊社・產經",
-    "url": "https://www.cna.com.tw/news/aopl/202610030173.aspx",
-    "official": false,
-    "category": "待查證",
-    "direction": 0,
-    "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
-  },
-  {
-    "id": "afed80fd909bbfa95c1f05a6",
-    "code": "2207",
-    "title": "和泰車：第4季車市穩健　估今年新車市場維持43萬輛",
-    "published_at": "2026-10-03T18:05:06+08:00",
-    "first_seen_at": "2026-10-05T09:06:54.989591+08:00",
-    "source": "中央通訊社・產經",
-    "url": "https://www.cna.com.tw/news/afe/202610030157.aspx",
-    "official": false,
-    "category": "待查證",
-    "direction": 0,
-    "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
   }
 ]

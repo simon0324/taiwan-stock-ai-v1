@@ -499,8 +499,8 @@
     "code": "6672",
     "name": "騰輝電子-KY",
     "entry_price": 304.0,
-    "latest_price": 451.0,
-    "return_pct": 48.35526315789473,
+    "latest_price": 591.0,
+    "return_pct": 94.4078947368421,
     "age": 5,
     "status": "已完成",
     "last_update": "2026-10-16"
@@ -994,8 +994,8 @@
     "code": "6672",
     "name": "騰輝電子-KY",
     "entry_price": 405.5,
-    "latest_price": 451.0,
-    "return_pct": 11.220715166461147,
+    "latest_price": 591.0,
+    "return_pct": 45.74599260172627,
     "age": 5,
     "status": "已完成",
     "last_update": "2026-10-16"
@@ -1027,8 +1027,8 @@
     "code": "6672",
     "name": "騰輝電子-KY",
     "entry_price": 439.0,
-    "latest_price": 451.0,
-    "return_pct": 2.733485193621865,
+    "latest_price": 591.0,
+    "return_pct": 34.624145785877005,
     "age": 5,
     "status": "已完成",
     "last_update": "2026-10-16"
@@ -1093,8 +1093,8 @@
     "code": "6672",
     "name": "騰輝電子-KY",
     "entry_price": 451.0,
-    "latest_price": 451.0,
-    "return_pct": 0,
+    "latest_price": 591.0,
+    "return_pct": 31.042128603104203,
     "age": 5,
     "status": "已完成",
     "last_update": "2026-10-16"
@@ -1501,7 +1501,7 @@
     "name": "藥華藥",
     "entry_price": 1245.0,
     "latest_price": 1245.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-10-16"
@@ -1512,7 +1512,7 @@
     "name": "長榮",
     "entry_price": 265.5,
     "latest_price": 265.5,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-10-16"
@@ -1523,7 +1523,7 @@
     "name": "AMAX-KY",
     "entry_price": 451.5,
     "latest_price": 451.5,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-10-16"
@@ -1534,7 +1534,7 @@
     "name": "萬海",
     "entry_price": 122.5,
     "latest_price": 122.5,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-10-16"
@@ -1545,7 +1545,7 @@
     "name": "矽力*-KY",
     "entry_price": 489.0,
     "latest_price": 489.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-10-16"

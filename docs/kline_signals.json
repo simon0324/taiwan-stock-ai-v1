@@ -3321,27 +3321,82 @@
       {
         "code": "6669",
         "name": "緯穎",
-        "predicted_up_probability": 65.576
+        "predicted_up_probability": 65.576,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "7795",
         "name": "長廣",
-        "predicted_up_probability": 64.71066666666667
+        "predicted_up_probability": 64.71066666666667,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "7788",
         "name": "松川精密",
-        "predicted_up_probability": 63.41266666666667
+        "predicted_up_probability": 63.41266666666667,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "6531",
         "name": "愛普*",
-        "predicted_up_probability": 62.547333333333334
+        "predicted_up_probability": 62.547333333333334,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "3037",
         "name": "欣興",
-        "predicted_up_probability": 60.81666666666666
+        "predicted_up_probability": 60.81666666666666,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       }
     ]
   }
