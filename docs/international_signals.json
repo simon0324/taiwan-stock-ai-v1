@@ -8809,7 +8809,12 @@
             "net_return_pct": -10.03872655031937
           },
           "4": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-10-14",
+            "exit_date": "2026-10-20",
+            "entry_price": 1685.0,
+            "exit_price": 1545.0,
+            "net_return_pct": -8.856812352260725
           },
           "5": {
             "status": "waiting"
@@ -8853,7 +8858,12 @@
             "net_return_pct": -0.9631108480391665
           },
           "4": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-10-14",
+            "exit_date": "2026-10-20",
+            "entry_price": 263.0,
+            "exit_price": 259.5,
+            "net_return_pct": -1.90966822837766
           },
           "5": {
             "status": "waiting"
@@ -8898,7 +8908,12 @@
             "net_return_pct": -5.562406015037594
           },
           "4": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-10-14",
+            "exit_date": "2026-10-20",
+            "entry_price": 190.0,
+            "exit_price": 181.5,
+            "net_return_pct": -5.039097744360902
           },
           "5": {
             "status": "waiting"
@@ -8942,7 +8957,12 @@
             "net_return_pct": -2.2391087645830097
           },
           "4": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-10-14",
+            "exit_date": "2026-10-20",
+            "entry_price": 180.5,
+            "exit_price": 179.0,
+            "net_return_pct": -1.4120911873287483
           },
           "5": {
             "status": "waiting"
@@ -8986,7 +9006,12 @@
             "net_return_pct": -2.0413682576250816
           },
           "4": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-10-14",
+            "exit_date": "2026-10-20",
+            "entry_price": 102.5,
+            "exit_price": 99.0,
+            "net_return_pct": -3.9835728952772076
           },
           "5": {
             "status": "waiting"
@@ -9014,7 +9039,12 @@
             "net_return_pct": -10.03872655031937
           },
           "4": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-10-14",
+            "exit_date": "2026-10-20",
+            "entry_price": 1685.0,
+            "exit_price": 1545.0,
+            "net_return_pct": -8.856812352260725
           },
           "5": {
             "status": "waiting"
@@ -9040,7 +9070,12 @@
             "net_return_pct": -0.9631108480391665
           },
           "4": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-10-14",
+            "exit_date": "2026-10-20",
+            "entry_price": 263.0,
+            "exit_price": 259.5,
+            "net_return_pct": -1.90966822837766
           },
           "5": {
             "status": "waiting"
@@ -9066,7 +9101,12 @@
             "net_return_pct": -5.562406015037594
           },
           "4": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-10-14",
+            "exit_date": "2026-10-20",
+            "entry_price": 190.0,
+            "exit_price": 181.5,
+            "net_return_pct": -5.039097744360902
           },
           "5": {
             "status": "waiting"
@@ -9092,7 +9132,12 @@
             "net_return_pct": -2.2391087645830097
           },
           "4": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-10-14",
+            "exit_date": "2026-10-20",
+            "entry_price": 180.5,
+            "exit_price": 179.0,
+            "net_return_pct": -1.4120911873287483
           },
           "5": {
             "status": "waiting"
@@ -9118,7 +9163,12 @@
             "net_return_pct": -2.0413682576250816
           },
           "4": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-10-14",
+            "exit_date": "2026-10-20",
+            "entry_price": 102.5,
+            "exit_price": 99.0,
+            "net_return_pct": -3.9835728952772076
           },
           "5": {
             "status": "waiting"
@@ -9162,7 +9212,12 @@
         ],
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-10-15",
+            "exit_date": "2026-10-20",
+            "entry_price": 257.0,
+            "exit_price": 259.5,
+            "net_return_pct": 0.384090817922901
           },
           "4": {
             "status": "waiting"
@@ -9203,7 +9258,12 @@
         ],
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-10-15",
+            "exit_date": "2026-10-20",
+            "entry_price": 111.5,
+            "exit_price": 106.5,
+            "net_return_pct": -5.0494776661572764
           },
           "4": {
             "status": "waiting"
@@ -9242,7 +9302,12 @@
         ],
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-10-15",
+            "exit_date": "2026-10-20",
+            "entry_price": 102.5,
+            "exit_price": 99.0,
+            "net_return_pct": -3.9835728952772076
           },
           "4": {
             "status": "waiting"
@@ -9281,7 +9346,12 @@
         ],
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-10-15",
+            "exit_date": "2026-10-20",
+            "entry_price": 586.0,
+            "exit_price": 567.0,
+            "net_return_pct": -3.8124874523188113
           },
           "4": {
             "status": "waiting"
@@ -9321,7 +9391,12 @@
         ],
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-10-15",
+            "exit_date": "2026-10-20",
+            "entry_price": 314.5,
+            "exit_price": 296.0,
+            "net_return_pct": -6.4410485824477295
           },
           "4": {
             "status": "waiting"
@@ -9344,7 +9419,12 @@
         "events": [],
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-10-15",
+            "exit_date": "2026-10-20",
+            "entry_price": 257.0,
+            "exit_price": 259.5,
+            "net_return_pct": 0.384090817922901
           },
           "4": {
             "status": "waiting"
@@ -9365,7 +9445,12 @@
         "events": [],
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-10-15",
+            "exit_date": "2026-10-20",
+            "entry_price": 111.5,
+            "exit_price": 106.5,
+            "net_return_pct": -5.0494776661572764
           },
           "4": {
             "status": "waiting"
@@ -9386,7 +9471,12 @@
         "events": [],
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-10-15",
+            "exit_date": "2026-10-20",
+            "entry_price": 102.5,
+            "exit_price": 99.0,
+            "net_return_pct": -3.9835728952772076
           },
           "4": {
             "status": "waiting"
@@ -9407,7 +9497,12 @@
         "events": [],
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-10-15",
+            "exit_date": "2026-10-20",
+            "entry_price": 586.0,
+            "exit_price": 567.0,
+            "net_return_pct": -3.8124874523188113
           },
           "4": {
             "status": "waiting"
@@ -9428,7 +9523,12 @@
         "events": [],
         "outcomes": {
           "3": {
-            "status": "waiting"
+            "status": "complete",
+            "entry_date": "2026-10-15",
+            "exit_date": "2026-10-20",
+            "entry_price": 314.5,
+            "exit_price": 296.0,
+            "net_return_pct": -6.4410485824477295
           },
           "4": {
             "status": "waiting"
@@ -10373,5 +10473,204 @@
       }
     ],
     "tracking_status": "tracking"
+  },
+  {
+    "rules_version": "international-1",
+    "market_date": "2026-10-20",
+    "observed_at": "2026-10-20T20:16:20.455716+08:00",
+    "original": [
+      {
+        "code": "4770",
+        "name": "上品",
+        "price": 285.0,
+        "avg_value": 385732766.7,
+        "revenue": 69.01865014063466,
+        "eps": 5.63,
+        "foreign": 0,
+        "momentum": 6.145251396648055,
+        "volume_ratio": 1.4550998837921643,
+        "trend": 100.0,
+        "atr": 12.142857142857142,
+        "atr_pct": 4.260651629072681,
+        "news": 0,
+        "stable": 83.37053571428572,
+        "growth": 83.11383928571429,
+        "strong": 86.99776785714286,
+        "overall": 84.49404761904762,
+        "entry_low": 283.575,
+        "entry_high": 286.42499999999995,
+        "fixed_stop": 270.75,
+        "fixed_target": 307.8,
+        "dynamic_stop": 266.7857142857143,
+        "dynamic_target": 321.42857142857144,
+        "risk_flags": [
+          "一般"
+        ]
+      },
+      {
+        "code": "6672",
+        "name": "騰輝電子-KY",
+        "price": 570.0,
+        "avg_value": 2713300663.95,
+        "revenue": 201.68440214066825,
+        "eps": 4.75,
+        "foreign": 0,
+        "momentum": 5.75139146567718,
+        "volume_ratio": 1.336811724256019,
+        "trend": 66.66666666666666,
+        "atr": 43.32142857142857,
+        "atr_pct": 7.600250626566416,
+        "news": 0,
+        "stable": 78.73511904761904,
+        "growth": 80.89285714285714,
+        "strong": 84.9702380952381,
+        "overall": 81.53273809523809,
+        "entry_low": 567.15,
+        "entry_high": 572.8499999999999,
+        "fixed_stop": 541.5,
+        "fixed_target": 615.6,
+        "dynamic_stop": 513.0,
+        "dynamic_target": 684.0,
+        "risk_flags": [
+          "波動偏高"
+        ]
+      },
+      {
+        "code": "6933",
+        "name": "AMAX-KY",
+        "price": 396.0,
+        "avg_value": 1041848717.15,
+        "revenue": 228.85934642088725,
+        "eps": 6.43,
+        "foreign": 0,
+        "momentum": 5.039787798408479,
+        "volume_ratio": 0.8924340949839984,
+        "trend": 66.66666666666666,
+        "atr": 29.642857142857142,
+        "atr_pct": 7.4855699855699855,
+        "news": 0,
+        "stable": 78.82440476190476,
+        "growth": 82.83482142857143,
+        "strong": 81.7559523809524,
+        "overall": 81.13839285714288,
+        "entry_low": 394.02,
+        "entry_high": 397.97999999999996,
+        "fixed_stop": 376.2,
+        "fixed_target": 427.68,
+        "dynamic_stop": 356.40000000000003,
+        "dynamic_target": 475.19999999999993,
+        "risk_flags": [
+          "波動偏高"
+        ]
+      },
+      {
+        "code": "3305",
+        "name": "昇貿",
+        "price": 113.5,
+        "avg_value": 194900914.75,
+        "revenue": 46.33055240912154,
+        "eps": 3.84,
+        "foreign": 0,
+        "momentum": 5.581395348837215,
+        "volume_ratio": 5.687663531091765,
+        "trend": 100.0,
+        "atr": 4.214285714285714,
+        "atr_pct": 3.7130270610446825,
+        "news": 0,
+        "stable": 78.87276785714286,
+        "growth": 77.14285714285714,
+        "strong": 86.06026785714286,
+        "overall": 80.69196428571429,
+        "entry_low": 112.9325,
+        "entry_high": 114.06749999999998,
+        "fixed_stop": 107.82499999999999,
+        "fixed_target": 122.58000000000001,
+        "dynamic_stop": 107.17857142857143,
+        "dynamic_target": 126.14285714285714,
+        "risk_flags": [
+          "爆量"
+        ]
+      },
+      {
+        "code": "4938",
+        "name": "和碩",
+        "price": 105.0,
+        "avg_value": 1588255558.6,
+        "revenue": 86.87811970952995,
+        "eps": 2.26,
+        "foreign": 0,
+        "momentum": 2.4390243902439046,
+        "volume_ratio": 1.2920627778623284,
+        "trend": 100.0,
+        "atr": 3.335714285714285,
+        "atr_pct": 3.1768707482993186,
+        "news": 0,
+        "stable": 77.54464285714285,
+        "growth": 76.68526785714286,
+        "strong": 82.35491071428571,
+        "overall": 78.86160714285715,
+        "entry_low": 104.475,
+        "entry_high": 105.52499999999999,
+        "fixed_stop": 99.75,
+        "fixed_target": 113.4,
+        "dynamic_stop": 99.99642857142857,
+        "dynamic_target": 115.00714285714287,
+        "risk_flags": [
+          "一般"
+        ]
+      }
+    ],
+    "weighted": [
+      {
+        "code": "4770",
+        "name": "上品",
+        "original_score": 84.49404761904762,
+        "event_score": 50,
+        "event_adjustment": 0.0,
+        "weighted_score": 81.04464285714286,
+        "company_evidence": null,
+        "events": []
+      },
+      {
+        "code": "6672",
+        "name": "騰輝電子-KY",
+        "original_score": 81.53273809523809,
+        "event_score": 50,
+        "event_adjustment": 0.0,
+        "weighted_score": 78.37946428571428,
+        "company_evidence": null,
+        "events": []
+      },
+      {
+        "code": "6933",
+        "name": "AMAX-KY",
+        "original_score": 81.13839285714288,
+        "event_score": 50,
+        "event_adjustment": 0.0,
+        "weighted_score": 78.02455357142858,
+        "company_evidence": null,
+        "events": []
+      },
+      {
+        "code": "3305",
+        "name": "昇貿",
+        "original_score": 80.69196428571429,
+        "event_score": 50,
+        "event_adjustment": 0.0,
+        "weighted_score": 77.62276785714286,
+        "company_evidence": null,
+        "events": []
+      },
+      {
+        "code": "4938",
+        "name": "和碩",
+        "original_score": 78.86160714285715,
+        "event_score": 50,
+        "event_adjustment": 0.0,
+        "weighted_score": 75.97544642857144,
+        "company_evidence": null,
+        "events": []
+      }
+    ]
   }
 ]

@@ -1,12 +1,12 @@
 {
   "rules_version": "beneficiary-1",
-  "market_date": "2026-10-19",
-  "as_of": "2026-10-20T09:09:40.595807+08:00",
+  "market_date": "2026-10-20",
+  "as_of": "2026-10-20T20:16:52.919957+08:00",
   "ranking": [
     {
       "code": "3711",
       "name": "日月光投控",
-      "price": 670.0,
+      "price": 660.0,
       "themes": [
         "台積電先進封裝",
         "聯發科AI／ASIC"
@@ -15,21 +15,21 @@
       "source": "https://ase.aseglobal.com/VIPack/",
       "components": {
         "evidence": 85,
-        "quality": 77.38359201773835,
+        "quality": 77.12053571428572,
         "pullback": 100.0,
         "reversal": 33.33333333333333,
         "foreign": null
       },
-      "drawdown_20d_pct": -12.073490813648291,
+      "drawdown_20d_pct": -13.38582677165354,
       "revenue_yoy_pct": 45.52228936841058,
       "eps": 8.04,
-      "observation_score": 73.90284963455696,
+      "observation_score": 73.82977843915344,
       "foreign_data_available": false
     },
     {
       "code": "3037",
       "name": "欣興",
-      "price": 1120.0,
+      "price": 1055.0,
       "themes": [
         "台積電先進封裝",
         "聯發科AI／ASIC"
@@ -38,21 +38,21 @@
       "source": "https://investoredu.twse.com.tw/FileSystem/FileUpload/101afb1f-e736-40f2-a62a-95864b34b35f.pdf",
       "components": {
         "evidence": 80,
-        "quality": 84.58980044345898,
+        "quality": 84.375,
         "pullback": 65.0,
         "reversal": 33.33333333333333,
         "foreign": null
       },
-      "drawdown_20d_pct": -15.471698113207545,
+      "drawdown_20d_pct": -20.37735849056603,
       "revenue_yoy_pct": 64.66643811385126,
       "eps": 11.7,
-      "observation_score": 68.40457419725712,
+      "observation_score": 68.3449074074074,
       "foreign_data_available": false
     },
     {
       "code": "2383",
       "name": "台光電",
-      "price": 5125.0,
+      "price": 4945.0,
       "themes": [
         "AI/HPC需求擴散"
       ],
@@ -60,65 +60,21 @@
       "source": "https://www.emctw.com/",
       "components": {
         "evidence": 65,
-        "quality": 96.78492239467849,
+        "quality": 96.76339285714286,
         "pullback": 65.0,
         "reversal": 33.33333333333333,
         "foreign": null
       },
-      "drawdown_20d_pct": -16.666666666666664,
+      "drawdown_20d_pct": -19.59349593495935,
       "revenue_yoy_pct": 168.87284393304373,
       "eps": 42.46,
-      "observation_score": 66.79210807259587,
-      "foreign_data_available": false
-    },
-    {
-      "code": "1560",
-      "name": "中砂",
-      "price": 867.0,
-      "themes": [
-        "台積電先進製程"
-      ],
-      "relationship": "晶圓製程耗材與再生晶圓",
-      "source": "https://www.kinik.com.tw/",
-      "components": {
-        "evidence": 65,
-        "quality": 66.96230598669624,
-        "pullback": 65.0,
-        "reversal": 33.33333333333333,
-        "foreign": null
-      },
-      "drawdown_20d_pct": -16.63461538461538,
-      "revenue_yoy_pct": 30.07667141537867,
-      "eps": 6.44,
-      "observation_score": 58.50804795926747,
-      "foreign_data_available": false
-    },
-    {
-      "code": "3583",
-      "name": "辛耘",
-      "price": 634.0,
-      "themes": [
-        "台積電擴產"
-      ],
-      "relationship": "半導體製程與先進封裝設備",
-      "source": "https://www.twse.com.tw/staticFiles/news/event/ff808081786812360178c8ed241a0132.pdf",
-      "components": {
-        "evidence": 75,
-        "quality": 52.328159645232816,
-        "pullback": 65.0,
-        "reversal": 33.33333333333333,
-        "foreign": null
-      },
-      "drawdown_20d_pct": -16.79790026246719,
-      "revenue_yoy_pct": 2.787523211252025,
-      "eps": 9.16,
-      "observation_score": 57.77634064219429,
+      "observation_score": 66.78612764550265,
       "foreign_data_available": false
     },
     {
       "code": "2449",
       "name": "京元電子",
-      "price": 263.5,
+      "price": 259.5,
       "themes": [
         "台積電先進製程",
         "聯發科AI／ASIC"
@@ -127,21 +83,65 @@
       "source": "https://www.kyec.com.tw/Upfiles/EDUp/files/%E8%82%A1%E6%9D%B1%E6%9C%83/20250527%E8%AD%B0%E4%BA%8B%E9%8C%84%28%E8%8B%B1%E6%96%87AGM%29.pdf",
       "components": {
         "evidence": 90,
-        "quality": 56.65188470066519,
+        "quality": 56.36160714285714,
         "pullback": 65.0,
         "reversal": 0.0,
         "foreign": null
       },
-      "drawdown_20d_pct": -16.876971608832804,
+      "drawdown_20d_pct": -18.138801261829652,
       "revenue_yoy_pct": 24.459970702814534,
       "eps": 3.91,
-      "observation_score": 56.569967972407,
+      "observation_score": 56.489335317460316,
+      "foreign_data_available": false
+    },
+    {
+      "code": "1560",
+      "name": "中砂",
+      "price": 858.0,
+      "themes": [
+        "台積電先進製程"
+      ],
+      "relationship": "晶圓製程耗材與再生晶圓",
+      "source": "https://www.kinik.com.tw/",
+      "components": {
+        "evidence": 65,
+        "quality": 66.74107142857143,
+        "pullback": 65.0,
+        "reversal": 0.0,
+        "foreign": null
+      },
+      "drawdown_20d_pct": -17.500000000000004,
+      "revenue_yoy_pct": 30.07667141537867,
+      "eps": 6.44,
+      "observation_score": 51.03918650793651,
+      "foreign_data_available": false
+    },
+    {
+      "code": "3583",
+      "name": "辛耘",
+      "price": 614.0,
+      "themes": [
+        "台積電擴產"
+      ],
+      "relationship": "半導體製程與先進封裝設備",
+      "source": "https://www.twse.com.tw/staticFiles/news/event/ff808081786812360178c8ed241a0132.pdf",
+      "components": {
+        "evidence": 75,
+        "quality": 52.232142857142854,
+        "pullback": 65.0,
+        "reversal": 0.0,
+        "foreign": null
+      },
+      "drawdown_20d_pct": -19.422572178477694,
+      "revenue_yoy_pct": 2.787523211252025,
+      "eps": 9.16,
+      "observation_score": 50.342261904761905,
       "foreign_data_available": false
     },
     {
       "code": "6239",
       "name": "力成",
-      "price": 263.0,
+      "price": 256.0,
       "themes": [
         "AI/HPC需求擴散"
       ],
@@ -149,15 +149,15 @@
       "source": "https://www.pti.com.tw/",
       "components": {
         "evidence": 60,
-        "quality": 63.525498891352555,
+        "quality": 63.28125,
         "pullback": 65.0,
-        "reversal": 33.33333333333333,
+        "reversal": 0.0,
         "foreign": null
       },
-      "drawdown_20d_pct": -15.297906602254429,
+      "drawdown_20d_pct": -17.55233494363929,
       "revenue_yoy_pct": 26.963788857940216,
       "eps": 5.5,
-      "observation_score": 55.88671265500533,
+      "observation_score": 48.41145833333333,
       "foreign_data_available": false
     }
   ],
