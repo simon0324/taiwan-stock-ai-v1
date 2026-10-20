@@ -3458,27 +3458,82 @@
       {
         "code": "7795",
         "name": "長廣",
-        "predicted_up_probability": 69.20666666666666
+        "predicted_up_probability": 69.20666666666666,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "7788",
         "name": "松川精密",
-        "predicted_up_probability": 62.50666666666667
+        "predicted_up_probability": 62.50666666666667,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "2360",
         "name": "致茂",
-        "predicted_up_probability": 62.06
+        "predicted_up_probability": 62.06,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "6442",
         "name": "光聖",
-        "predicted_up_probability": 60.27333333333333
+        "predicted_up_probability": 60.27333333333333,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "3026",
         "name": "禾伸堂",
-        "predicted_up_probability": 59.379999999999995
+        "predicted_up_probability": 59.379999999999995,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       }
     ]
   }
