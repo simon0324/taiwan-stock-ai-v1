@@ -9086,5 +9086,400 @@
         "events": []
       }
     ]
+  },
+  {
+    "market_date": "2026-10-21",
+    "observed_at": "2026-10-21T20:28:06.653200+08:00",
+    "rules_version": "events-1",
+    "sources": [
+      {
+        "source": "證交所・公司重大訊息",
+        "status": "ok",
+        "invalid_rows": 0
+      },
+      {
+        "source": "中央通訊社・產經",
+        "status": "ok",
+        "invalid_rows": 0
+      },
+      {
+        "source": "中央通訊社・科技",
+        "status": "ok",
+        "invalid_rows": 0
+      }
+    ],
+    "original": [
+      {
+        "code": "4770",
+        "name": "上品",
+        "price": 313.5,
+        "avg_value": 447567810.75,
+        "revenue": 69.01865014063466,
+        "eps": 5.63,
+        "foreign": 0,
+        "momentum": 11.964285714285715,
+        "volume_ratio": 3.958854545484089,
+        "trend": 100.0,
+        "atr": 13.571428571428571,
+        "atr_pct": 4.329004329004329,
+        "news": 0,
+        "stable": 84.20935412026726,
+        "growth": 83.35189309576839,
+        "strong": 88.8641425389755,
+        "overall": 85.47512991833706,
+        "entry_low": 311.9325,
+        "entry_high": 315.06749999999994,
+        "fixed_stop": 297.825,
+        "fixed_target": 338.58000000000004,
+        "dynamic_stop": 293.14285714285717,
+        "dynamic_target": 354.21428571428567,
+        "risk_flags": [
+          "爆量"
+        ]
+      },
+      {
+        "code": "3010",
+        "name": "華立",
+        "price": 139.0,
+        "avg_value": 103635426.65,
+        "revenue": 41.27415546027211,
+        "eps": 5.93,
+        "foreign": 0,
+        "momentum": 0.0,
+        "volume_ratio": 1.4880520781838262,
+        "trend": 100.0,
+        "atr": 3.5357142857142856,
+        "atr_pct": 2.5436793422404933,
+        "news": 3,
+        "stable": 83.12249443207126,
+        "growth": 80.10467706013362,
+        "strong": 83.3118040089087,
+        "overall": 82.17965850037119,
+        "entry_low": 138.305,
+        "entry_high": 139.695,
+        "fixed_stop": 132.04999999999998,
+        "fixed_target": 150.12,
+        "dynamic_stop": 133.69642857142858,
+        "dynamic_target": 149.60714285714283,
+        "risk_flags": [
+          "一般"
+        ]
+      },
+      {
+        "code": "3231",
+        "name": "緯創",
+        "price": 195.0,
+        "avg_value": 7785774673.6,
+        "revenue": 87.1863428539576,
+        "eps": 7.78,
+        "foreign": 0,
+        "momentum": 4.278074866310155,
+        "volume_ratio": 2.0172875895389564,
+        "trend": 66.66666666666666,
+        "atr": 7.357142857142857,
+        "atr_pct": 3.772893772893773,
+        "news": 0,
+        "stable": 79.95916852264291,
+        "growth": 80.93541202672606,
+        "strong": 85.07423904974017,
+        "overall": 81.9896065330364,
+        "entry_low": 194.025,
+        "entry_high": 195.97499999999997,
+        "fixed_stop": 185.25,
+        "fixed_target": 210.60000000000002,
+        "dynamic_stop": 183.96428571428572,
+        "dynamic_target": 217.07142857142856,
+        "risk_flags": [
+          "一般"
+        ]
+      },
+      {
+        "code": "6415",
+        "name": "矽力*-KY",
+        "price": 490.0,
+        "avg_value": 1832775232.3,
+        "revenue": 50.70369959160158,
+        "eps": 6.03,
+        "foreign": 0,
+        "momentum": 4.033970276008492,
+        "volume_ratio": 1.348027528667297,
+        "trend": 100.0,
+        "atr": 29.5,
+        "atr_pct": 6.020408163265306,
+        "news": 0,
+        "stable": 81.19153674832963,
+        "growth": 80.75723830734967,
+        "strong": 83.85300668151449,
+        "overall": 81.93392724573125,
+        "entry_low": 487.55,
+        "entry_high": 492.44999999999993,
+        "fixed_stop": 465.5,
+        "fixed_target": 529.2,
+        "dynamic_stop": 445.75,
+        "dynamic_target": 578.5,
+        "risk_flags": [
+          "波動偏高"
+        ]
+      },
+      {
+        "code": "8996",
+        "name": "高力",
+        "price": 1660.0,
+        "avg_value": 6257074561.75,
+        "revenue": 153.7797417150323,
+        "eps": 8.69,
+        "foreign": 0,
+        "momentum": -1.4836795252225476,
+        "volume_ratio": 1.6715606857136074,
+        "trend": 66.66666666666666,
+        "atr": 121.07142857142857,
+        "atr_pct": 7.2934595524956976,
+        "news": 1,
+        "stable": 83.30883444691908,
+        "growth": 81.61247216035635,
+        "strong": 80.72902746844841,
+        "overall": 81.88344469190794,
+        "entry_low": 1651.7,
+        "entry_high": 1668.2999999999997,
+        "fixed_stop": 1577.0,
+        "fixed_target": 1792.8000000000002,
+        "dynamic_stop": 1494.0,
+        "dynamic_target": 1992.0,
+        "risk_flags": [
+          "波動偏高"
+        ]
+      }
+    ],
+    "message": [
+      {
+        "code": "4770",
+        "name": "上品",
+        "original_score": 85.47512991833706,
+        "message_score": 50.0,
+        "score": 81.92761692650336,
+        "evidence_status": "未知／未達門檻",
+        "contributions": [
+          {
+            "category": "訂單",
+            "points": 0.0
+          },
+          {
+            "category": "新聞話題",
+            "points": 0.0
+          },
+          {
+            "category": "龍頭地位",
+            "points": 0.0
+          },
+          {
+            "category": "專利技術",
+            "points": 0.0
+          }
+        ],
+        "events": []
+      },
+      {
+        "code": "3010",
+        "name": "華立",
+        "original_score": 82.17965850037119,
+        "message_score": 50.0,
+        "score": 78.96169265033407,
+        "evidence_status": "未知／未達門檻",
+        "contributions": [
+          {
+            "category": "訂單",
+            "points": 0.0
+          },
+          {
+            "category": "新聞話題",
+            "points": 0.0
+          },
+          {
+            "category": "龍頭地位",
+            "points": 0.0
+          },
+          {
+            "category": "專利技術",
+            "points": 0.0
+          }
+        ],
+        "events": [
+          {
+            "id": "cc5b80bf88cfc9e7fc857f86",
+            "code": "3010",
+            "title": "代子公司華港工業物品(香港)有限公司公告\r\n董事會決議發放現金股利",
+            "published_at": "2026-10-20T16:25:25+08:00",
+            "first_seen_at": "2026-10-21T08:43:46.077490+08:00",
+            "source": "證交所・公司重大訊息",
+            "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+            "official": true,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+          },
+          {
+            "id": "ce43016ebb4abac1e69c7375",
+            "code": "3010",
+            "title": "代子公司嘉秀科技公告簡易合併案債權人通知",
+            "published_at": "2026-10-20T16:24:53+08:00",
+            "first_seen_at": "2026-10-21T08:43:46.077490+08:00",
+            "source": "證交所・公司重大訊息",
+            "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+            "official": true,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+          },
+          {
+            "id": "8a940f08cd644e675ff64cb0",
+            "code": "3010",
+            "title": "代子公司國軒科技、嘉秀科技公告簡易合併案",
+            "published_at": "2026-10-20T16:24:13+08:00",
+            "first_seen_at": "2026-10-21T08:43:46.077490+08:00",
+            "source": "證交所・公司重大訊息",
+            "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+            "official": true,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+          }
+        ]
+      },
+      {
+        "code": "3231",
+        "name": "緯創",
+        "original_score": 81.9896065330364,
+        "message_score": 50.0,
+        "score": 78.79064587973275,
+        "evidence_status": "未知／未達門檻",
+        "contributions": [
+          {
+            "category": "訂單",
+            "points": 0.0
+          },
+          {
+            "category": "新聞話題",
+            "points": 0.0
+          },
+          {
+            "category": "龍頭地位",
+            "points": 0.0
+          },
+          {
+            "category": "專利技術",
+            "points": 0.0
+          }
+        ],
+        "events": [
+          {
+            "id": "f2e34c4b572b3d60d841ff50",
+            "code": "3231",
+            "title": "公告本公司新增背書保證金額達處理準則第25條第1項\r\n第4款應公告相關事宜",
+            "published_at": "2026-10-12T16:50:24+08:00",
+            "first_seen_at": "2026-10-13T11:16:32.690293+08:00",
+            "source": "證交所・公司重大訊息",
+            "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+            "official": true,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+          },
+          {
+            "id": "3af1c7a44669aa780da3d860",
+            "code": "3231",
+            "title": "公告本公司擬取得位於台南市不動產",
+            "published_at": "2026-10-12T16:49:57+08:00",
+            "first_seen_at": "2026-10-13T11:16:32.690293+08:00",
+            "source": "證交所・公司重大訊息",
+            "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+            "official": true,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "含推測、否認或澄清語句，僅列入觀察"
+          },
+          {
+            "id": "8e2d195866dbb24cdc2cbd51",
+            "code": "3231",
+            "title": "公告本公司擬進行建築物改良及取得機器設備",
+            "published_at": "2026-10-12T16:48:34+08:00",
+            "first_seen_at": "2026-10-13T11:16:32.690293+08:00",
+            "source": "證交所・公司重大訊息",
+            "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+            "official": true,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "含推測、否認或澄清語句，僅列入觀察"
+          }
+        ]
+      },
+      {
+        "code": "6415",
+        "name": "矽力*-KY",
+        "original_score": 81.93392724573125,
+        "message_score": 50.0,
+        "score": 78.74053452115812,
+        "evidence_status": "未知／未達門檻",
+        "contributions": [
+          {
+            "category": "訂單",
+            "points": 0.0
+          },
+          {
+            "category": "新聞話題",
+            "points": 0.0
+          },
+          {
+            "category": "龍頭地位",
+            "points": 0.0
+          },
+          {
+            "category": "專利技術",
+            "points": 0.0
+          }
+        ],
+        "events": []
+      },
+      {
+        "code": "8996",
+        "name": "高力",
+        "original_score": 81.88344469190794,
+        "message_score": 50.0,
+        "score": 78.69510022271714,
+        "evidence_status": "未知／未達門檻",
+        "contributions": [
+          {
+            "category": "訂單",
+            "points": 0.0
+          },
+          {
+            "category": "新聞話題",
+            "points": 0.0
+          },
+          {
+            "category": "龍頭地位",
+            "points": 0.0
+          },
+          {
+            "category": "專利技術",
+            "points": 0.0
+          }
+        ],
+        "events": [
+          {
+            "id": "d92b98e6b39005d4cf29cca2",
+            "code": "8996",
+            "title": "公告本公司國內第六次無擔保轉換公司債收足債款",
+            "published_at": "2026-10-20T14:30:55+08:00",
+            "first_seen_at": "2026-10-21T08:43:46.077490+08:00",
+            "source": "證交所・公司重大訊息",
+            "url": "https://openapi.twse.com.tw/v1/opendata/t187ap04_L",
+            "official": true,
+            "category": "待查證",
+            "direction": 0,
+            "reason": "未達具體事件門檻；熱門話題、龍頭稱號及專利申請本身不加分"
+          }
+        ]
+      }
+    ]
   }
 ]
