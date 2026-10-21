@@ -3595,27 +3595,82 @@
       {
         "code": "2059",
         "name": "川湖",
-        "predicted_up_probability": 72.112
+        "predicted_up_probability": 72.112,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "6834",
         "name": "天二科技",
-        "predicted_up_probability": 63.82
+        "predicted_up_probability": 63.82,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "3661",
         "name": "世芯-KY",
-        "predicted_up_probability": 62.89866666666667
+        "predicted_up_probability": 62.89866666666667,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "3037",
         "name": "欣興",
-        "predicted_up_probability": 62.438
+        "predicted_up_probability": 62.438,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       },
       {
         "code": "2383",
         "name": "台光電",
-        "predicted_up_probability": 61.977333333333334
+        "predicted_up_probability": 61.977333333333334,
+        "outcomes": {
+          "3": {
+            "status": "waiting"
+          },
+          "4": {
+            "status": "waiting"
+          },
+          "5": {
+            "status": "waiting"
+          }
+        }
       }
     ]
   }

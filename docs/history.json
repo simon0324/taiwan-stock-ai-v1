@@ -1589,7 +1589,7 @@
     "name": "上品",
     "entry_price": 285.0,
     "latest_price": 285.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-10-20"
@@ -1600,7 +1600,7 @@
     "name": "騰輝電子-KY",
     "entry_price": 570.0,
     "latest_price": 570.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-10-20"
@@ -1611,7 +1611,7 @@
     "name": "AMAX-KY",
     "entry_price": 396.0,
     "latest_price": 396.0,
-    "return_pct": 0,
+    "return_pct": 0.0,
     "age": 0,
     "status": "追蹤中",
     "last_update": "2026-10-20"
